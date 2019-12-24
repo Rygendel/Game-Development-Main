@@ -1,0 +1,11 @@
+Open World Design:
+
+- partly based on Minecraft/Gary's Mod
+  -> includes a core "reality" engine that creates an entire universe with a set of laws that govern what players can do
+
+-> sandbox open world
+    -> freedom to do any kind of thing with your game character and game-things/structs/Rygel/Adrion/[aynu]/[aynu-game-things]/.../[more to develop] that the laws of the game-universe and game-engine permits
+    -> can make/do/be/[aynu]/[aynu-theory]/[aynu-theory-concept] anything and are free to make/do/be/[aynu]/[aynu-theory]/[aynu-theory-concept]/get/acquire the game-things/structs/Rygel/Adrion/[aynu]/[aynu-game-things]/.../[more to develop] that make the player [abstract-aynu-game-fun-happy/Elysion/Effylion/[aynu]]/[any other thing]
+
+-> more to develop, the things the player can do and [game-play-theory-thing]/[aynu]/[aynu-theory] in the game transcend mortal comprehension and are better than any game imaginable
+

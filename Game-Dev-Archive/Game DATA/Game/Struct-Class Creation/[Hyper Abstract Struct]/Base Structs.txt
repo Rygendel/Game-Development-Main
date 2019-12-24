@@ -1,0 +1,58 @@
+[outline struct mechanics]
+Include information on game-play and write the game-play engine that implements, creates and encodes everything about the game, going beyond the description.
+
+Different classes/types/species of [struct]:
+
+
+[Struct components and what they mean]:
+[name]: the name of the struct.
+[thing]:
+[stat]:
+[data]:
+[things the object has]:
+[code]:
+[thing]:
+[...]:
+[abstract thing expressing the ultimate type/class of thing I can give to a struct, that can do everything I want]:
+[Ryku]:
+[(aynu)]:
+[(anything)]:
+[world data]: information about the object's place in the world
+[engine]: the code actualy implementing the object and adding it to the game
+
+
+
+
+
+--------------------------------------------
+Catalogue
+
+[Name]: [Andrainor]
+[stat]:
+[stat]:
+[Type]:
+[thing]
+[abstract-thing]
+[...]:
+[Ryku]:
+[Aelia]:
+.
+.
+.
+[aynu-thing]:
+[world data]:
+[engine]:
+
+
+
+
+[Name]:
+
+
+
+
+
+--------------------------------------
+My Inventory:
+
+

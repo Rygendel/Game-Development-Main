@@ -1,0 +1,22 @@
+[Neopets-like struct Design Pad]:
+
+
+[Aynu-code] 
+
+
+[can have many kinds of stats, include compound/complex stat-data-structures (ex: icons)]
+
+[use special markup/script language to indicate dynamic values that can be developed/changed/improved/[have special-mechanics-things done-to/affect them]/[special-things]/[aynu-developed]/[special-aynu-game-mechanics-gameplay-things]/interacted-with]
+
+-----------------------------
+Sample
+-----------------------------
+
+[Type]::[Name] {
+
+    [thing]:: { data }
+
+    [thing]::[value]
+
+    [Icons]:: <determines base number of each type generated for use>  {
+                [Icon type]:: {Icon value}

@@ -1,0 +1,27 @@
+Pet-struct idea:
+ 
+Abzu - can create anything. Can create an alternate universe/game-reality with any kinds of laws, and can create anything in it, give it any sort of things/properties/[aynu-theory-things]/game-mechanics/content/.../[more to develop]. Players will be allowed to do anything and live in an immersive alternate game-world where they can do/create anything and any content allowed by their imagination and the game-mechanics/systems given by the creator.
+
+[aynu-game-data-code-thing]: Abzu can be used by players to create, [aynu-game-dev] and game-develop their own game, game-universe, game-world, game-theory-things, and anything in it including game-things, [aynu-theory-game-things], game-dev-things, game-mechanics, game-systems, game-items, structures, properties, characters, game-world-things, game-events, game-players, game-world-structures, game-plot, game-story, game-reality-things, [aynu-game-structs], ..., [more to develop], [aynu], [Iulion], [Adrion], [Rygel], [aynu-aynu-...], [pure-aynu-game-dev-things], and anything else (or pure aynu versions). Can also be used to create particular data in the game, game-accounts, game-states, and any other things needed, desired, or [aynu-theory-thing] or [aynu-theory-desired/Elysion] in the game.
+- can be used to give player accounts anything, any game-struct, item, Rygel, power, thing, [Iulion], [Adrion], [aynu-aynu-...], [aynu-game-thing], ..., [more to develop], [aynu], or anything else of value in the game.
+- can be used to modify the game state and manipulate the objects, players, accounts, items, game-structs, game-play, [things players can do to have fun/[aynu-theory-game-fun-things]/[game-things that result in [Elysion]] in the game], game-reality, game-mechanics, game-systems, ..., [more to develop], (or aynu-versions) in any way the user of Abzu desires/[aynu-theory-wants/desires/Elysion]
+ 
+
+ 
+-----------------------------------
+ 
+- also need to give all game-objects/items/things/Rygel pure aynu code/writing/data-structure components that has inherent or game-engine-derived meaning and game-meaning/aynu-game-dev-meaning, [aynu-game-dev-things], game-dev-engine-things game-world-things/value/[aynu]/[Iulion], [game-play-effects]/[aynu-theory-things]/things/.../[more to develop]
+ 
+- Game world is an open “sandbox” (physics sandbox) where players can do and create anything and can create any kind of world or reality (or game or [aynu-theory-thing]
+ 
+ 
+ 
+- Can use [aynu-theory] [pet-struct] mechanics in this open world sandbox: can use pet-struct game-dev and game-mechanics, game-world-mechanics, game-systems, and any other things or game-dev-things, …, [more to develop] (or aynu-versions) to engage in any kind of gameplay or to develop your own kind of gameplay or game, game-dev, [aynu-theory-game-dev-things], [game-dev-things], …, [more to develop], or anything else about games and game development (or aynu-theory versions) -> example: wars/plots/storyline/roleplaying/adventure/story-plot-building-roleplay involving relationships -> players develop their own story and develop it from a first person perspective using their pet-struct -> they can influence the development and evolution of their story around an open world, can build relationships with other players and together write their own story (like the roleplaying guild I was a part of in neopets) that interacts and exists and is created within the game world and that can be anything the players want to develop (using the game-sandbox and [aynu-theory] [pet-struct] mechanics
+ 
+- [aynu-theory] Pet-struct mechanics are a kind of sandbox engine that can be used to create any kind of game (or aynu-theory-game) (by pet-structs I mean the things with the working name pet-struct, but they go beyond that and include pure-aynu-theory-things)
+ 
+- Write the (pure aynu) game-dev-code to create the (aynu) game-engine that creates all of the above and implements/(aynu-creates/encodes/generates) all of the [above and anything else described in this document] in the game (everything needed to fully create the game-things and (aynu) game-dev-things described in this document and make it accessible to players to play with and [aynu-theory-gameplay-with]
+ 
+ 
+ 
+ 

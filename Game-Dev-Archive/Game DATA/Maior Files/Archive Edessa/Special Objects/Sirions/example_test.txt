@@ -1,0 +1,229 @@
+---------
+Tirion:
+---------
+
+
+General Description:
+---------------------
+Special objects which are extremely difficult to acquire. They are among the most powerful and abstract entities in the game, and can be used for essentially anything. They can also be specialized, customized, and personalized by the owner. They also have special transcendental properties which are encoded by special scripts and the aeonar.
+
+
+They can also be created and customized. Players may also create and customize their own Tirion. There are also special transcendental and modifiable Tirion.
+
+
+
+
+
+Template:
+
+{Name}
+
+Descr: {}
+Stat: {}
+Esdraelon: {}
+Elegon:
+Tarelendil:
+Faelon:
+Eldramar:
+Eressea:
+Valimar:
+Edraelon:
+Menelaeon:
+Regalon:
+Tyrael:
+Xodria:
+Effect:
+Desire:
+Commands:
+Usage:
+Picture:
+Form:
+Abilities:
+Special:
+Information:
+Representation:
+Data:
+Structure:
+Archon:
+Achaea:
+
+
+
+
+Description of Each Category and Properties:
+
+Descr:
+
+Stat:
+
+Esdraelon: While individual esdraelon are expressed through special symbols, the properties and things they endow transcends all expression in mortal words. Has the immortal words Galvaeon, Kadmon and Velion.
+
+Elegon: 
+
+Tarelendil:
+
+Faelon:
+
+Eldramar:
+
+Eressea: Divine Glyphs, encoding their associated properties.
+
+Valimar:
+
+Edraelon: Special codes that be added by players to allow the erenion to do and have whatever the encoder wishes
+
+Menelaeon: Encodes the Hadraeon and Pharazon. Uses english and special symbols.
+
+Regalon: Contains all special encodings which endow the erenion with special properties and aeonar.
+
+Tyrael: Encodes the special transcendental aeonar.
+
+Xodria: An important and abstract property which can satisfies all possible ways of being desirable and aeonar. Encoded using both english and special symbols.
+
+Effect:
+
+Desire:
+
+Commands:
+
+Usage:
+
+Picture: A graphic representation of the image of the erenion.
+
+---
+
+Form:
+
+Abilities:
+
+Special:
+
+Information:
+
+Representation:
+
+Data:
+
+Structure:
+
+Archon:
+
+Achaea:
+
+
+-----
+Catalogue:
+
+----------
+Ankalagon:
+
+Descr: It does whatever you want.
+Stat: {}
+Esdraelon: {}
+Elegon:
+Tarelendil:
+Faelon:
+Eldramar:
+Eressea:
+Valimar:
+Effect:
+Commands:
+Usage:
+Picture:
+
+----------
+
+----------
+Sethaeron of Guidance:
+
+Descr: Provides answers and guidance.
+Stat: {}
+Esdraelon: {}
+----------
+
+----------
+Xadrion the Creator:
+
+Descr: Creates.
+Stat: {}
+Esdraelon: {}
+Elegon: Ki - Tel - Ki
+----------
+
+----------
+Kalthadas the Blessed:
+
+Descr: Creates meaning and purpose.
+Stat: {}
+Esdraelon: {}
+Elegon:
+Tarelendil:
+Faelon:
+Eldramar:
+Eressea:
+Valimar:
+Effect:
+Commands:
+Usage:
+Picture:
+----------
+
+
+----------
+Draeron of Wish Granting Number 1:
+
+Descr: One of the thirteen Draeron which, when gathered to gather, grant the bearer anything.
+Stat: {}
+Esdraelon: {}
+----------
+
+
+----------
+Draeron of Wish Granting Number 2:
+
+Descr: One of the thirteen Draeron which, when gathered to gather, grant the bearer anything.
+Stat: {}
+Esdraelon: {}
+----------
+
+----------
+Gallion of Power:
+
+Descr: It does what you need it to.
+Stat: {}
+Esdraelon: {}
+----------
+
+
+----------
+Wrath of the Ancients:
+
+Descr: {}
+Stat: {}
+Esdraelon: {}
+Elegon:
+Effect: Obliterates all enemies.
+Commands:
+Usage:
+Picture:
+----------
+
+
+
+-----------------------
+Transcendental Tirion:
+-----------------------
+
+
+
+
+
+------------------
+Creatable Tirion:
+------------------
+
+
+
+-----------------------
+Player Made Tirion:
+-----------------------

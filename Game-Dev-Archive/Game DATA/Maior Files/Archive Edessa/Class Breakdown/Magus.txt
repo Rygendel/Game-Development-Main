@@ -1,0 +1,50 @@
+Class: Magus
+
+Subclasses:
+
+SC - Arcane:
+
+Unique Abilities:
+25% Damage Boost to Arcane Spells
+15% Casting haste boost to Arcane Spells
+Mana Regeneration Increased by 10%
+
+Unique Spells:
+Arcane Blast
+   Descr:
+
+
+Mind Rend
+Arcane Charge
+
+
+
+SC - Desire:
+
+Unique Abilities:
+50% Damage Boost to Desire and Arcane Spells
+20% Casting haste boost to Desire Spells
+
+Unique Spells:
+Arcane Blast
+Phantasmal Vision
+Object of Desire
+
+
+
+Template for Spells:
+
+{Spell Name}
+   Descr - {Spell Description}
+   Base Stats - {Basic Info}
+   Effects - {special effects}
+
+
+
+
+
+Gaeros (non-combat powers)
+
+Conjure item - {}
+{}
+{}

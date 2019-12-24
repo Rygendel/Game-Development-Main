@@ -1,0 +1,18 @@
+[Aynu code]
+
+
+
+
+---------------------
+[Aynu Template]::
+
+
+[aynu-code; entirely coded in aynu]
+
+[Name]::
+
+
+[data]::
+...
+.
+.

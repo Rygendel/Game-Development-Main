@@ -1,0 +1,20 @@
+Quests:
+
+Quests are specific tasks given by non-player characters. The objectives vary greatly, and are often part of a storyline. Players are usually rewarded for completing quests, often with money, training, items, experience, reputation gains, and many other possible things (rarely completing quest chains can award the character a legendary item or Aercyon).
+
+
+
+
+Dungeons and Raids:
+
+Dungeons and raids are special scenarios where a group of players needs to overcome a series of challenges and battles. These are usually part of the storyline, and the mechanics of the battle can vary greatly. Players are usually rewarded quite handsomely for completing dungeons and raids.
+
+
+
+Scenarios:
+
+Scenarios are special competitions with varying types of objectives. Rewards can be various amounts of money, items, sirions, tirions, and other things. A characters special abilities will have various effects during the scenario
+
+Campaigns:
+
+These are extended campaigns which players can progress through. The players progress through the campaign is saved.

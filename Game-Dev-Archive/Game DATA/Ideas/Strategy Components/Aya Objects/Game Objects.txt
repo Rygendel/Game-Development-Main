@@ -1,0 +1,9 @@
+(This will be the world in which all the objects lived and can be acquired)
+
+Can by acquired:
+
+Tirions
+
+Draemon
+
+Eredar

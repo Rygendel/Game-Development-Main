@@ -1,0 +1,137 @@
+--------
+Weapons:
+--------
+--------
+
+There are a number of factors that determine a weapon's utility.
+The following is a template:
+--
+{Name}:
+
+Description: {description}
+
+Stat:
+
+  Base: {a number}
+  Physical:
+  Magic:
+  Fire:
+  Water:
+  Ice:
+  Nature:
+  Desire:
+  Wind:
+  Lightning:
+
+Scaling:
+  
+  Strength: {a letter grade}
+  Intellect: {
+  Dexterity:
+  Skill: 
+
+Power: {appropriate symbol}
+
+Effects: {any additional effects}
+
+Forging tree: {list of possible branches for modification}
+
+--
+
+Weapons can either be used to strike the opponent or catalyze spells. Weapons have a base stat and a power which determine its fundamental parameters. The weapon may also have additional effects
+
+Stat:
+The base stat determine the raw power that the weapon deals when used to either strike the enemy or catalyze a spell. In addition, the power
+
+Scaling:
+The ability for the power and stat of a weapon to scale with the user's stats. 
+
+Power:
+Power is used to determine the fundamental strength of a weapon and its abilities. Special symbols are used to indicate the power, and these can scale with the user's stats.
+
+
+--------
+
+
+
+
+One-Handed Swords:
+------------------
+
+
+
+Two-Handed Swords:
+------------------
+
+
+
+
+Staves:
+-------
+
+
+Staff of the Sorceror:
+
+Description
+
+Stat:
+
+  Base: 20
+  Physical:
+  Magic: 100
+  Fire: 0
+  Water: 0
+  Ice: 0
+  Nature: 0
+  Desire: 100
+  Wind:
+  Lightning:
+
+Scaling: 
+  
+  Strength: -
+  Intellect: A
+  Dexterity: -
+  Skill: C
+
+Power: Kai-Tur
+
+Effects:
+
+Forging tree:
+
+
+
+
+
+Armour:
+-------
+
+Cloak of the Magi:
+
+
+
+
+
+
+
+Artefacts:
+----------
+
+
+
+
+
+
+Magic:
+------
+
+
+
+
+Device:
+-------
+
+
+
+

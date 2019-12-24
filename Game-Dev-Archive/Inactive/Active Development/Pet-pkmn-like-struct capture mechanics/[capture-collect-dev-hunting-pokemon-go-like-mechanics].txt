@@ -1,0 +1,9 @@
+Notes 1:
+
+Synthesize and copy pokemon go mechanics and use them in my game-dev mechanics, especially for capture, hunting, and collection mechanics for pet - like structs
+
+Including things like razz berries for increased chance of capture, better balls, lure modules, incense, lucky eggs, etc
+
+Hypnotism mechanic and hypnotic pet - like,  transforming pet - like,  creation and happiness pet - like,  sexy pet, etc
+
+Use all kinds of Pokemon mechanics from pokemon go for my pet - like structs

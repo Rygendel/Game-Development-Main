@@ -1,0 +1,13 @@
+Neopets-Like Design
+
+- develop code, data, and markup language for expressing objects in this game
+
+To start building the ultimate Endor game:
+  - start by building the neopets-like base setup for Endor
+
+* Develop [Neopet-structs], items/objects/Rygel, game-world, subgames, plot, roleplay and relationships with other players, and much more
+
+* Can form relationships with other players and roleplay in a common fantasy world with many others
+
+* Neopets-structs:
+  - Have stats/data/data-structs that determine how good they are at certain things -> develop these to make your struct good at certain things and then use your struct's strengths in gameplay or to acquire/do/be/[aynu]/[aynu-theory-concept]/.../[more to develop] things

@@ -1,0 +1,1 @@
+-  actually create a game-thing here using the structure of the game thing creation template

@@ -1,0 +1,8 @@
+[General Template for creating Aynu things]
+
+- these things can be anything, whether objects, items, abstract aynu-things, game objects, aynu-structs, game structures, game systems, game mechanics, [abstract aynu game systems/mechanics/things], and anything else, including aynu-things that are beyond description.
+
+
+[Aynu][Aynu][aynu]:
+
+[aynu-symbol]...

@@ -1,0 +1,5 @@
+[Encode Aynu Thing/Struct engine code here; everything needed to implement and create the objects and their game-mechanics/interactions/meaning/value/existence/model/system/things/[any other thing] ]
+
+[Use aynu-code]
+
+[the gameplay and eveything else is created using aynu-code; they can only be understood through aynu-concepts/theory]

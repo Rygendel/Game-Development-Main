@@ -1,0 +1,25 @@
+Encyclopaedia:
+
+- Character Sheets
+- Items
+- Realms
+- Non-Player Characters
+- Races
+- Pet Species
+- Classes
+- Professions
+- Activities
+- Combat
+- Sirions
+- Tirions
+- Social interaction
+- Guilds
+- Shops
+- Lore
+- Examinations
+- Homes and Property
+- Programmable things that can acquire abilities, powers, features, items, and other things
+- Flesh out combat mechanics (character and pet)
+- Character and other feature customization
+- Develop Aeonar, Aenarions
+- Auras

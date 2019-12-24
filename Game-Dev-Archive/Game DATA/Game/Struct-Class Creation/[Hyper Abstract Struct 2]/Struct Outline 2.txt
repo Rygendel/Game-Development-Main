@@ -1,0 +1,3 @@
+[Another struct class to test out mechanics; possibly create this class exclusively aynu, or any other method]
+
+[may need to create more classes or create a copy+paste template of struct-class creation folder]

@@ -1,0 +1,62 @@
+Core Poke-Struct Gameplay:
+
+	- poke-structs can engage in several types of gameplay:
+		-> conventional "combat" revolves around the generation of "icons" and using them to do things, use of special abilities, items, things
+		-> can also engage in a turn-based strategy "civ" type combat where they try to build a system of "objects"/"empire" that tries to become the greatest civilization 
+		-> can engage in many other kinds, including new ones developed by players, can simulate any kind of gameplay and there is a template for creating game-play systems
+		-> can engage in special abstract gameplay systems; including special and ultimate "ultimate universal" game-play system/model with many different components and sub-systems combining together and interacting (this will be the greatest abstract gameplay system, do everything I want to do; will combine both concrete and aynu-encoded components and contain all the greatest things and best ideas, including freedom and extendibility and freedom to develop further extensions and innovations, improvements)
+
+
+
+
+
+Core Civ-struct Gameplay
+
+	-> develop system where players try to build the greatest civilization, which is determined based on the aggregation of several categories and avenues of development; players can develop their civ to be "good" at different kinds of things; players can choose to focus on a few categories or try to be good at many things
+
+
+
+
+
+Core Mech-Struct Gameplay
+
+- Choose gameplay class
+- build struct
+- play game, using your struct's powers and things to do things and compete in the game to try to achieve the gameplay goals and desired things; following game-play rules and mechanics
+- receive game-rewards determined by game-performance
+
+[Need to replace the above generic description with an explicit outline capable of completely describing the gameplay system in a way that completely determines it and makes it reproducible, fully encodes and creates/encodes the gameplay model]
+
+
+
+Hyper Abstract Struct gameplay:
+
+
+
+
+
+
+World Mechanics
+
+
+
+
+(struct) Mechanics
+
+
+
+
+
+Item Mechanics
+
+
+
+
+
+(thing)-Mechanics:
+
+
+
+
+
+

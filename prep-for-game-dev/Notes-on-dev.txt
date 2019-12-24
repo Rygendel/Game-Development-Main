@@ -1,0 +1,7 @@
+
+
+- pet-structs are the main game-mechanic I will be developing (the name [pet-struct] is a placeholder)
+
+- I will do all of my primary development in the "prep for game dev" folders and then merge into the active game dev folder when ready
+
+- keep copies on the E drive, the badass WD external hardrive and jbobicus and yossefmusleh gmail accounts

@@ -1,0 +1,14 @@
+City Nodes:
+
+
+
+
+Size and Population:
+
+- Size determines the amount and level of development a city can support
+- the population determines the number of automata/things within the city
+	- population divided into two components: generic and automata
+	- generic population are a basic stat: the members can't be differentiated and they are used much like a resource that isn't consumed
+	- automata are special objects within a city; they are a struct on their own and have their own stats, powers, abilities, routes of development; and they have desires, goals, uses, relationships, roleplay, and much more
+	- automata are "specialists" that you can use to do things for your city-node, you can assign automata to a task or thing that does something or grants some bonus to your city 
+	- automata have a pokemon/neopets-like mechanics to them

@@ -1,0 +1,43 @@
+Scripting:
+
+Scripts are pieces of code which, when executed, perform a series of commands, much like a computer program. This provides a way for players to automate certain actions. Scripts are typically written in a special language
+
+
+Commands:
+
+For <var> = <lower limit> to <upper limit> do
+
+< Statements >
+
+
+--------------------------------------------
+
+If <condition> then
+< Statements >
+
+end if
+
+--------------------------------------------
+
+
+Take < object >
+
+--------------------------------------------
+
+Do <statement>
+
+--------------------------------------------
+
+define structure <structure type name> 
+< component name > <type>
+...
+
+end structure
+
+--------------------------------------------
+
+define function <function name> <inputs>
+
+< statements >
+
+end function

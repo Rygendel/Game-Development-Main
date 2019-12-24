@@ -1,0 +1,77 @@
+Mech Stats and Structure:
+[design and structure mech stats/gameplay page]
+
+[this form the basis of the mech-struct-stat game system that creates the [ultimate aynu game objects] game play and which can simulate any kind of gameplay].
+[these stats make the mech-structs a type of [ultimate aynu thing/struct]]
+[mech-structs, like all other structs/items/objects are outlined/created/exist in collectible object files that can be used in gameplay and in the game world and have value/meaning in it] 
+
+- need to give each of the data components below a full outline, description, mechanics engine and any other things to give them value, meaning, purpose within the game world and to create a system that allows players to value these objects, use them in games, and decide which mechs they desire, want to collect/build and use in battle, and to decide which objects are good at certain game-things.
+
+- which objects players will want to collect and gameplay with will be determined by these data values and their interaction with the game mechanics, engine, and world
+- these data values give the mech special powers/effects/things/uses/[abstract aynu-things] depending on their actual values; some may be good, some may be bad, some may good to certain kinds of players but not others
+- these data values can do anything and everything; an object with the right values can do or be anything
+- certain structs with certain data values for these parameters will be the ultimate, greatest, and most powerful/valuable/desireable/[thing]/rayku/[abstract aynu-thing] objects in the game; and I will give them to myself and this will make me happy and achieve all of the things I want
+- collecting and building objects with certain stats will be a core component of gameplay, and will be the most fun component of the game
+
+- collecting objects with certain stats or whose stats meet certain requirements will be an extremely fun game-component with many detailed mechanics and an endless replayability as there will always be new things to collect or new/better gameplay mechanics to engage in with your collected objects; these objects can be displayed in a gallery and there are interesting/fun/theory-rich systems/mechanics/models you interact with and  gameplay mechanics/systems/rewards/fun/things/prestige/[abstract aynu-good things]/[abstract aynu-fun-game-things]/[abstract fun]/[abstract good]/[abstract aynu-things] associated with simply possessing/controlling these objects and showing them off in a gallery; can engage in highly replayable game-mechanics/story/adventure/RPG/MMORPG/exploration/[abstract-fun-things] with your collected objects and try to collect/build/buy/trade-for objects whose stats/things make them good at the parts of gameplay you want to be good at
+
+- essentially, the ultimate fun game revolves around collecting mechs/structs/[ultimate-aynu-things] with the stats/data/properties/things/[abstract-aynu-things] you desire/[abstract-aynu-desire] and playing with them in the game based on their stats/data/properties/things/[abstract-aynu-things]
+
+- there are many different stats/data/properties/things/[abstract-aynu-things] the objects can possess, and many more combinations; which types you choose to pursue depnds on the player and what they want the most; different data and combinations will result in objects that are good at different components of gameplay and it all depends on what component of gameplay the player wants to interact with; they would primarily try to acquire objects that are good at the areas they want to focus on, and try to collect objects that are good in areas that are of secondary interest  
+
+- some are more valuable/powerful than others in a generic sense and some may be better at certain things by trading off value/power/goodness in other areas
+
+- getting perfect objects with the best data in each area/stat is extremely difficult, but I will give myself these objects
+- players will want to collect and possess and keep-safe objects/structs/things/[aynu-things] that have the kinds and combinations of data/stats they want/desire/[aynu-desire]/rayku/[abstract-aynu-good-thing]/[aynu-thing]
+- there is a rich economy and market structure surrounding the buying and selling of structs; possessing very valuable/rare structs with valuable data/combinations can make you very wealthy; players can try to build wealth by acquiring valuable structs with valuable data/structure, and can sell/trade them on the market
+- could be structured in a similar way to trading event-pokemon-files: players can try to collect (and do things/gameplay with and engage/play/[abstract-play] in game-mechanics/systems/formula/models/structures/[aynu-game-system/play/thing]/play/[abstract game-thing] with) struct-[creation/data]-files (each file is an instance of a struct and contains all of its essence, game-data, game-development, and everything about it and all of its game-things/data), and trade/sell them and the data they contain: works even better because there are ways to ensure the files are legitimate, and spare copies cannot be made (i.e. files can not be cloned, so there is not an infinite supply of the files; files are clone/copy locked so you can't generate more than you have, but are safely backed up)
+
+- collecting objects with certain stats or whose stats meet certain requirements and displaying them in a gallery (i.e. "gallery building") is a transcendentally fun and rich/complex game component and mechanic/system that can only be described and expressed using abstract-aynu-code:
+  [abstract aynu-code creating and describing gallery gameplay that gives it the greatest gameplay stuff that goes beyond any mortal descirption or imagination; ultimately has all the things I desire from the aynu ]
+
+
+Mech stat template:
+
+[Mech-struct data 1]::(a stat whose game-things I have to describe, possibly using aynu)
+[Mech-struct data 2]::
+[Mech-struct stat 1]::
+[Physical-stats]::
+[Mech-aynu-thing]::
+[Free-form data component]:: (a component that is more "free form" and can add any kind of thing to the struct; can have multiple/any-number-of components/data-pieces added)
+[Effect]::
+[Game-things]::
+[Mech Ultimate Aynu thing]::
+[Mech-game-stat]:
+[Mech stat 2]::
+[Aynu-data 1]::
+[Aynu stat 2]::
+[Aynu-thing]::
+	> [sub-stat 1]::
+	> [sub-stat 2]::
+	> [sub-stat 3]::
+		>> [sub-sub stat 1]::
+		>> [sub-sub stat 2]::
+[Stat 3]::
+[Mech Megas data]::
+[Skills]::
+[Stat 4]::
+[Items]::
+[Sub-structs]::
+[Struct-modules/extensions]::
+[Struct-gear and possessions]::
+[Additional traits/properties/meta-data]::
+[Additional things/Notes/effects/[anything]]::
+[Additional notes 2]:
+
+-----------------------------------------
+- develop template and in-depth mechanics for each stat
+- mechs, their stats, and their gameplay can be used to simulate and create any other kind of game
+	-> these stats for the basis of the [ultimate game system]
+Examples of stat-effect-modules
+
+
+ example of free form data:
+
+[This thing allows the mech-struct to absorb a target and gain its powers]
+[this data component allows you to automatically defeat a foe]
+[this data component (extended description, possibly involving aynu, or any other kind of language/data)]

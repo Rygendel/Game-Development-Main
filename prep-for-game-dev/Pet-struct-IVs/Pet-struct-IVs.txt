@@ -1,0 +1,66 @@
+Pet-struct-IVs
+
+- add developable and variable data-components, data-structures, pure aynu-writing/data-structs, ..., [more to develop], and many other things that structs can have and which are properties encoded in their data-sheet that vary between pet-structs and make each one unique -> some are permanent, some can be developed, but each factor into determining how good the struct is at different/various aspects of gameplay
+ -> include things like Individual Values, nature, [powers], [possessions], [things the struct has], [pure aynu-things], ..., [more to develop]
+- some data-structs/stats/[aynu-game-data-structs] (referred to as stats for lack of a better term] can be developed, some are permanent
+
+
+- need to create and develop the mechanics and gameplay for each stat -> determine how it can be developed and how it affects the game
+
+- players can play games to develop IVs
+
+
+[example]:
+
+[pure aynu-game-data-thing]::
+
+[code creating the mechanics of this stat and everything about how it affects the struct, the kinds of values it can take and what they mean in the game-world and gameplay and [aynu-game-things], all of its [pure-aynu-theory-game-dev-things], [pure-aynu-value/desire/meaning, power, elysion, …, more to develop], [more pure-aynu-things to develop], the game-engine and game-systems that implement this thing, how it can be developed, and all of its [aynu-game-dev-things] (and more to develop)]
+
+
+Catalog of Struct Data components:
+[this catalog contains all of the different data-components, stats, [pure-aynu-data-structs], pure-aynu-game-values, [aynu-game-theory-data-writing-things], [pure aynu-struct-things/writing], [Estat], [aynu-game-data-things], [pure-aynu-data-thing], [data-thing],  [aynu], game-power/thing/Rygel/Iulion/adrion-granting-data-structures], data-structs, game-writing-thing, …, [more to develop] that a [pet-game-struct] can have and possess in its data-sheet/encoding. This catalog also contains all the descriptions, game-dev-code and game-dev-writing, and any other code/writing/symbols to give [the data-thing (to summarize the above)] its mechanics, determine what all of its possible values mean in the game and create the mechanics, game-dev-things, [pure-aynu-game-dev-things], [game-mechanics], [game-world-system-things], [pure-aynu-game-universe-things], …, [more to develop] game-universe-things and game-dev-mechanics/systems of this [data-thing] and how it affects the struct, the kinds of values it can take, what (the things) these [data-things] and their values give to the struct and what they mean in the game-world, [pure-aynu-game-theory-things], [game-dev], [aynu-game-dev-things], …, [more to develop], game-universe, and gameplay and [aynu-game-things], all other possible things about the [data-thing] and what its values/things/[aynu-things] do for a [pet-game-struct] including [pure-aynu-theory-game-dev-things], [pure-aynu-value/desire/meaning, power, game-things, game-goodness, elysion, …, [more to develop], [more pure-aynu-things to develop]. The catalog also contains the game-engine and game-systems that implement each [data-thing], and create all of its game-mechanics, game-systems, [game-universe-things], [pure-aynu-game-dev-things], [game-dev-things], …, [more to develop], including how it can be developed, and all of its [aynu-game-dev-things] (and more to develop)] >> Also includes mechanics, systems, game-dev, [pure-aynu-game-dev-things], …, [more to develop] that enable players to develop their own [data-things] that a [game-pet-struct] can acquire and everything for them that is described above (anything about them, including everything mentioned in this paragraph, can be developed for the [data-things] by the player, and this includes game-mechanics, game-things, [aynu], [Iulion], [Adrion], [Rygel], [aynu]-[aynu]-..., game-systems, [game-play-mechanics], [game-play involving game-structs], [game-universe-things], [game-dev], [pet-struct-things], [game-struct-things], [game-struct-play], [game-things involving pet-structs or any other game-struct or [pure-aynu-game-struct-thing]], [pure-aynu-game-dev-things], [pure-aynu-game-struct-things], [game-dev-things involving any kind of [game-struct]], …, [more to develop], [pure-aynu-game-theory-things], and anything else that uses their [data-things]/[data-structs], [aynu-code/writing], …, [more to develop]
+
+[pure aynu-data-thing-1]:: { to develop } 
+
+[pure aynu-data-thing-2] :: {develop here}
+
+[icon-data-thing-1] :: {  }
+
+[rarity] :: {  }
+
+[aynu-desire-value-1]:: { to develop  }
+
+[aynu-paradise/Elysion/[ultimate-game-dev-thing]-data-thing] :: { to develop }
+
+
+[Nature-icon-stat]::
+
+[Fire-icon-stat]::
+
+[Wish-granting-icon-stat]:: { to develop }
+
+[Speed]:: { }
+
+[Strength]:: {  }
+
+[Willpower] :: { }
+
+[Defense] :: { }
+
+[Special-stat-to-Develop] :: { }
+
+-----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+

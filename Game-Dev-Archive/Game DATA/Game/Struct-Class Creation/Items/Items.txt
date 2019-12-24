@@ -1,0 +1,90 @@
+Items:
+
+- items can have any kind of use/game-play, and can be related to any form of game-play
+- game-play structs and objects are also forms of items
+- anything can be itemized and interacted with using the general item-interaction interface
+- items can interact with and be played with inside the game-world
+- items can be given to structs/characters/things/players for them to use, do things with, or just to possess to satisfy their desires/things/wants
+
+
+Item interaction and Game-play Mechanics
+
+
+Item Format:
+- note: each individual category can be divided further into subcategories
+
+[name]:
+[meta-data]:
+	[thing]:
+	[thing]:
+[text]:
+[game-play things/effects/actions]:
+	- interactions:
+	- [thing]: 
+[aynu-data]:
+	- [aynu]:
+	- [aynu]: 
+
+
+Catalogue of Items:
+
+
+Name: [Effect]-object
+Meta-Data:
+Text:
+Game-play: - can be consumed by the player to activate [effect]
+[aynu-data]:
+
+Name: Mirror of Kalandra
+Meta-Data:
+Text: Used to duplicate a struct
+
+
+
+
+
+-------------------------
+- Crafting pieces:-------
+-------------------------
+Name: Exalted Orb
+Meta-Data:
+Text: Add a new random modifier to a Mech or [hyper-abstract struct] component.
+Game-play: Add a random effect to a mech or [hyper-abstract-struct] component from the folowing [pool of effects].
+[Aynu-data]:
+
+- []: Re-roll values of all additional modifiers
+
+---------------------------
+
+
+- [Poke-doll]
+
+
+
+- [Furniture]
+
+
+- [notebook]
+
+
+- [computer]
+
+
+- [Component Items]
+
+
+
+- [Toy set]
+
+
+
+- [Piece of paper]
+
+
+- [neopets-like set of items; create many different kinds of items, even if they don't have a clear motivation for use in game-play, any item could find a game-play-use/purpose one day; create any kind of item imaginable]
+
+
+
+
+
+

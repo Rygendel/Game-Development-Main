@@ -1,0 +1,8 @@
+Two Main Classes of Units:
+
+Heros/[insert name here] (main combatants)
+- major objects players will develop
+
+
+Minions/[insert name here]
+Fixed objects players will summon, like in card games like Hearthstone.

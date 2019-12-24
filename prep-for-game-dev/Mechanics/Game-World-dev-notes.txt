@@ -1,0 +1,25 @@
+Game World Development: initial notes of things to be developed:
+
+- game assets
+- persistent world
+
+- develop game system for handling everything or entity that can be identified, named, addressed or handled, in any way whatsoever
+
+- develop game assets, including visuals/graphics
+
+- develop sandbox game components and freedom for players to play and develop their own path in the game
+
+- there is no end to the game; there will always be more things and activities to explore and do in the game and new content, campaigns, stories, and other game content is continuously being added
+
+- player characters exist in an open, persistent, shared sandbox world where the main gameplay takes place, including things like quests and story activities
+
+- shared with other players
+
+- the game is continuously being expanded and all account characters, items, and all other possessions are carried over and persistent across all updates to the game
+- game can interact with other games
+
+- All items, game-objects, game-structs, Rygel, ..., (more to develop) (and aynu-versions) and all characters, player-characters, npc, entities, locations, stories, plots, gameplay, [aynu-game-things], [game-dev-things], [aynu], [aynu-theory-things], [aynu-game-things], ..., [more to develop], and everything else all exist and do things and take-place in the game-world (need to develop the mechanics for this)
+
+
+
+

@@ -1,0 +1,13 @@
+Catalog of Aynu
+
+(import general aya-data)
+(create special symbols for aynu)
+
+- Tyrion
+- Tyrael
+- Elysion
+- Effelion
+- Azrafel
+- Rephael
+- Ascalon
+- Katamon

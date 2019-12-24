@@ -1,0 +1,32 @@
+Basic Properties:
+	Basic Data
+	Template and Data files
+	World-stuff
+	Game-stuff
+	
+
+
+
+
+
+Development and Components:
+
+
+
+
+General Gameplay and Mechanics/Models/Formula/Systems:
+
+
+
+
+Subclasses and Specialized Mechanics/Gameplay
+
+
+Acquisition, Possession, Reward Mechanics
+
+
+
+Combat/Game-things:
+
+
+and much more...

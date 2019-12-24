@@ -1,0 +1,23 @@
+[Encode everything I need to know about this class of object [Collectible Game files / Megas]'s Iulian and Adrion; do it using Aynu]
+[this is the actual meaningful stuff that gives a rigorous and complete description and actualy formula/implementation] 
+
+
+[Adrion]/[Game-things/data/stats/[things that make it up]]::
+
+...
+.
+.
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+[Iulian]/[Game-mechanics/system/formula/model/engine/[game-world behaviour/interactions/things/actions/anything]]::
+
+...
+.
+.

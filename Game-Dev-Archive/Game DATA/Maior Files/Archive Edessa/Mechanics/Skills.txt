@@ -1,0 +1,155 @@
+Skills:
+
+Skills allow players to engage in a variety, which when levelled grant characters access to new abilities and features, such as creating special items, casting new spells, and much more. Skills are levelled up by acquiring lessons with trainers or performing certain tasks. There is no cap on the level of any skill, but the ability to grow to the next level grows exponentially, and the benefit of levelling diminishes. Furthermore, players are occasionally presented with the choice of gaining one of three mutually exclusive talents with the skill at special points as their skill in any branch advances, further forcing players to specialize and distinguish themselves to suit their own needs, desires, and play style.
+
+Magik Skills:
+------------
+
+Conjuring:
+
+Enchanting:
+
+Destruction:
+
+Restoration:
+
+
+
+
+
+
+
+
+
+
+Caerdon Skills:
+------------
+
+Creation:
+
+Forging:
+
+Inscription:
+
+Wish Making:
+
+Desiration:
+
+
+
+
+
+General Skills (Available to anyone):
+-------------------------------------
+
+Survivalism
+Fishing
+Archiving
+Riding
+Dancing
+
+-----------------------
+Special Skills:
+-----------------------
+
+[Conjure Item] :
+Info: Conjures a random item.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+[Channel Rift] :
+Info: 
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects:
+
+[Create Erenion] :
+Info: Creates an Erenion specified by the player.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects:  
+
+[Create Tirion] :
+Info: Creates a Tirion specified by the player.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects:  
+
+[Tame Creature] :
+Info: Tames wild creature.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects:  
+
+
+[Computer Proficiency] :
+Info: Allows player to use a computer.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects:  
+
+
+[Invisibility] :
+Info: Allows player to become invisible.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+
+[Granting Wishes] :
+Info: Allows player to grant wishes.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+[Create Essences] :
+Info: Allows player to create special essences.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+
+[Construction] :
+Info: Allows player to construct things.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+
+[Channel Immortal Word] :
+Info: Allows player to channel, partially understand, and endow objects with immortal words.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+
+[Creativity] :
+Info: Allows player to create any sort of wondrous thing.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 

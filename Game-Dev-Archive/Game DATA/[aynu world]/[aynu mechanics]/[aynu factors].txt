@@ -1,0 +1,9 @@
+Notes: Decide on factors that [aynu][aynu]
+(these factors can be broken down into sub-factors, which can be broken down even further (all encoded by aynu). This gives a high degree of control, granularity, and detail to the development of your struct, similar to what is seen in distant worlds. This holds for many other [aynu-things] and [aynu-systems], which [aynu-factors] can affect and influence.)
+
+[aynu][aynu][aynu]: [aynu][aynu]
+	-> [aynu][aynu][aynu]
+	-> [aynu][aynu][aynu][aynu]
+		-> [aynu][aynu]
+		-> [aynu][aynu][aynu]
+	-> [aynu][aynu]

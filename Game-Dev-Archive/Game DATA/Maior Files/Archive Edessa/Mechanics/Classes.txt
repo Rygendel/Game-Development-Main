@@ -1,0 +1,95 @@
+Classes:
+There are a number of different classes
+
+Warrior:
+--------
+-Primarily focusses on dealing damage and resisting attacks
+
+
+Hunter:
+-------
+
+Mage:
+-----
+Descr:
+-Focusses on the use of powerful spells to inflict damage and affect gameplay
+-most efficient class at inflicting damage
+-can conjure items and servants
+-considered to have one of the highest damage outputs of all classes
+-relies on a number of protection and defensive spells, vulnerable otherwise
+
+Subclasses:
+
+-Arcane
+
+	Abilities:
+	  -Arcane Blast
+	  -Arcane Elemental
+	  -Arcane Cannon
+
+-Conjurer
+
+-Crystal
+	Abilities:
+	  -Crystal Blast
+	  -Crystal Elemental
+	  -Crystal Cannon
+
+-Desire
+
+-Divinae
+
+-Fire
+	Abilities:
+	  -Fire Blast: 
+		Descr: Standard attack. Used for engaging weak enemies quickly.
+		Info: Acquired at level 1
+		Stats:
+	  -Fire Elemental
+	  -Fire Cannon
+
+-Frost
+	Abilities:
+	  -Frost Blast
+	  -Frost Elemental
+	  -Frost Cannon
+
+-Lightning
+	Abilities:
+	  -Lightning Blast
+	  -Lightning Elemental
+	  -Lightning Cannon
+
+-Nature
+	Abilities:
+	  -Nature Blast
+	  -Nature Elemental
+	  -Solar Cannon
+
+-Wish
+	Abilities:
+	  -Des Blast
+	  -Des Elemental
+	  -Des Cannon
+
+
+
+
+Warlock:
+
+
+
+
+Rogue:
+-----
+Descr: Hybrid class. Builds and uses devices and machines for combat and other uses. Utilizes intellect to build devices and use them for various purposes.
+
+
+
+
+
+
+Special Heroi Classes:
+----------------------
+
+Archmagus:

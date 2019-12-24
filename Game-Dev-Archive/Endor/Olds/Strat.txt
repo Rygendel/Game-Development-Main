@@ -1,0 +1,13 @@
+Main game-struct:
+
+[need to design how the main "civ-empire" nation building and gameplay work]
+- is a civ-empire made up of a number of "cities"/provinces/planets/[game-dev struct nodes]/[the main structs that players focus on getting, developing, and game-playing with; these are objects as well and have Rygel/object mechanics, these are the main focus of gameplay and game-world things] [name pending] that can be developed by improving development stats, by adding buildings and developing them, assigning automata to work for the city, putting items/things in the city, facilitating growth and "private development"[by automata doing their own thing],and many other ways, ..., [more to be developed]
+
+- can use the special structure design mechanic to build special objects such as ships
+
+- add a private economy mechanic where AI controlled objects develop their own infrastructure and economic system; can benefit from this by collecting things from it like taxes or using these systems to supply yourself with resources
+
+
+- ex. a nation with a rich supply of a resource can let a private entity develop it and then buy the resources from them
+
+[Game-world]::[Create the game-world and its reality, laws, theory, things, plots, story, roleplay, game-things, and anything else about the game world and game-reality]

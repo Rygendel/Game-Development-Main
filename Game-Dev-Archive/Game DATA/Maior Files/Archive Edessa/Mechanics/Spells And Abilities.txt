@@ -1,0 +1,261 @@
+Spells:
+
+Firebolt:
+Info: Does A Small Amount of Fire Damage.
+Damage: 13
+Type: Fire
+Auxiliary Effects: None.
+
+
+
+Icebolt:
+Info: Does A Small Amount of ice Damage. May reduce opponent speed.
+Damage: 13
+Type: Frozen
+Auxiliary Effects: 5% chance of reducing opponents speed by 40%.
+
+
+Nature Wrath:
+Info: Does a small amount of nature damage.
+Damage: 13
+Type: Nature
+Auxiliary Effects: 
+
+
+Binding Vines:
+Info: Vines sprout and wrap the opponent.
+Damage: 0
+Type: Nature
+Auxiliary Effects: Wraps opponent and freezes movement.
+
+
+Conjure - :
+Info: 
+Damage: 0
+Type: Desire
+Auxiliary Effects: 
+
+
+Conjure - :
+Info: 
+Damage: 0
+Type: Desire
+Auxiliary Effects: 
+Additional Description: Only useable by mages, Archmagus.
+
+[Obliterate] :
+Info: 
+Base Damage: 1000000
+Type: Desire
+Auxiliary Effects: 
+Additional Description: Only useable by mages, Archmagus.
+
+
+[Wish] :
+Info: Creates an object specified by the caster.
+Base Damage: 1000000
+Type: Desire
+Auxiliary Effects:
+Additional Description: Requires the reagent [Dream Shard]. Requested object must be inscribed on [Wish Register]. Can only be cast by an Archmagus. 
+
+
+[Wrath of the Ancient Lords] :
+Info: Reduces target to a single point of health.
+Base Damage: undefined
+Type: Desire
+Auxiliary Effects: 
+Additional Description: Only useable by mages, Archmagus.
+
+
+[Arcane Recharge] :
+Info: Gives a large boost to spell power and returns mana to full.
+Base Damage: undefined
+Type: Arcane
+Auxiliary Effects: Boosts Spell power by 25%. Sets mana to 100%.
+Additional Description: Only useable by mages, Archmagus.
+
+
+[Celestial Bolt] :
+Info: 
+Base Damage: 
+Type: 
+Auxiliary Effects: 
+Additional Description: Only useable by mages, Archmagus.
+
+
+[Phoenix Flame] :
+Info: 
+Base Damage: 
+Type: 
+Auxiliary Effects: 
+Additional Description: Only useable by mages, Archmagus.
+
+[Gravitate] :
+Info: Slows opponents movement and attack speed.
+Base Damage: 
+Type: 
+Auxiliary Effects: 
+Additional Description: Only useable by mages, Archmagus.
+
+
+[Illusion] :
+Info: Creates an illusion specified by the caster.
+Base Damage: 
+Type: 
+Auxiliary Effects: The target will not be able to correctly perceive their environment until the illusion is dispelled.
+Additional Description: Only useable by mages, Archmagus.
+Usage: Use "CAST ILLUSION ON <target>". Use the "\n" to add additional lines to the illusion.  
+
+
+[Divus Illusion] :
+Info: Creates any illusion the caster wishes.
+Base Damage: 
+Type: 
+Auxiliary Effects: 
+Additional Description: Only useable by mages, Archmagus.
+
+
+[Mental Corruption] :
+Info: Causes the target to go insane, reducing their ability to act.
+Base Damage: 
+Type: 
+Auxiliary Effects: Target cannot move offensively.
+Additional Description: Only useable by mages, Archmagus.
+
+[Void Wall] :
+Info: Enshrouds an area with a void wall, preventing external beings from affecting anything within.
+Base Damage: 
+Type: 
+Auxiliary Effects: Protects beings inside the wall from damage and other effects.
+Additional Description: Only useable by mages, Archmagus.
+
+
+[Invisible] :
+Info: 
+Base Damage: 
+Type: 
+Auxiliary Effects: 
+
+
+
+[Warp] :
+Info: 
+Base Damage: 
+Type: 
+Auxiliary Effects: 
+
+-----------------------
+Special Custom Spells:
+-----------------------
+
+Under Certain Circumstances, players may acquire special customized, player-created abilities. They may also acquire special combos.
+
+
+[CUSTOM1]
+
+
+-----------------------
+Special Skills (Abilities):
+-----------------------
+
+[Conjure Item] :
+Info: Conjures a random item.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+[Channel Rift] :
+Info: 
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects:
+
+[Create Erenion] :
+Info: Creates an Erenion specified by the player.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects:  
+
+[Create Tirion] :
+Info: Creates a Tirion specified by the player.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects:  
+
+[Tame Creature] :
+Info: Tames wild creature.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects:  
+
+
+[Computer Proficiency] :
+Info: Allows player to use a computer.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects:  
+
+
+[Invisibility] :
+Info: Allows player to become invisible.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+
+[Granting Wishes] :
+Info: Allows player to grant wishes.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+[Create Essences] :
+Info: Allows player to create special essences.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+
+[Construction] :
+Info: Allows player to construct things.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+
+[Channel Immortal Word] :
+Info: Allows player to channel, partially understand, and endow objects with immortal words.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 
+
+
+[Creativity] :
+Info: Allows player to create any sort of wondrous thing.
+Structure:
+Leveling:
+Data: 
+Type: 
+Auxiliary Effects: 

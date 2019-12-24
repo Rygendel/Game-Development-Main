@@ -1,0 +1,82 @@
+Ordon
+Enki
+Abzu
+Anaximander
+Archidamios
+
+
+
+
+Each collectible struct will have a set of items/abilities/powers/moves/things it can use in combat, some can be used in combination or have effects which work well together or work well with things had/used by other structs in play, to create extremely powerful combinations of moves
+
+
+[Rules, Mechanics, Systems, [Game-things], [Iulion], [Game-world-things], and anything else needed to create/game-create the Gameplay and Game-Dev of the TCG and create the entire TCG game (including trading-card-game-mechanics)]::
+
+[code/text]
+
+[more to develop about TCG/CCG and combined Endos gameplay]
+
+
+
+Game components:
+(game-dev objects)
+(their mechanics, system, game-system, game-play, existence, Iulion, essence, [aynu], [game-world-things], [aynu-things], [aynu-game-things], ..., (more to develop), and everything about them are/is entirely self-contained within themselves, no further code is needed to describe them) (and aynu-versions)
+(can use aynu)
+(develop these)
+
+
+[Game-thing]:: { 
+
+
+
+}
+
+
+
+[Move Mechanics] :: {
+
+
+}
+
+
+
+[Special Ability Mechanics]:: {
+
+- special additional abilities that can affect what a struct can do in gameplay
+- any kind of effect is possible; usually have special tags to identify and manage them (like the name of an operator)
+- often have effects that remain in force while a struct is in play, generally removed when the struct is removed but some can linger
+- ex. a struct can use multiple items, moves, abilities per turn; can add an ambient effect like reducing all damage or increasing all damage; can allow a struct to copy any ability/item/thing or steal an item/struct/thing
+...
+.
+.
+(more to develop)
+
+
+
+}
+
+
+
+
+[Base Building]:: {
+
+- build up a base, develop its economy, build a power structure that you can use to develop an empire
+
+- bases can be attacked, capture sources and generate resources to supply needs
+
+- has a population of automata/units each with their own special abilities and stats that can contribute to the base
+
+- there are rare units like the dracolith that can turn enemies into inanimate objects
+
+- base can help gain posession of and collect tradable structs/objects as part of the Endos TCG/CCG
+	- main point of building up base is so you can more effectively gain control of and defend your collection of objects, including pure aynu objects and pure aynu structs/cards/things/elu in the TCG/CCG
+	- this feeds into and Merges with the Endos TCG/CCG
+	- base struct can be used to build, develop, and trade your Endos TCG/CCG
+	- the structs/cards in the TCG/CCG can be used to further benefit/develop/game-dev/game-thing/game-play with your base
+	- the structs/cards/objects in the TCG/CCG have inherent value
+	(including the pure Aynu TCG/CCG)
+	(develop and perform more game-dev with respect to combining and co-developing the Base-struct-survivalist (ARK/Rust/EVE style) gameplay with the TCG/CCG gameplay, especially with the pure Aynu TCG/CCG)
+
+
+
+}

@@ -1,0 +1,11 @@
+Struct objects that are used in combination with the game-structs during game-play
+
+
+
+
+
+Format and Mechanics:
+
+
+[name]:
+[data]

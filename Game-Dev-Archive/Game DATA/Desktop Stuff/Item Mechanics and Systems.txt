@@ -1,0 +1,3 @@
+[Item Mechanics and Systems]
+
+[Develop using pure aynu theory and code]

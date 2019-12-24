@@ -1,0 +1,39 @@
+Aggregate all major information about the game into a small number of easy-to-print text file. Major sub-components can be split into different files; special objects will get their own file/"card"/"info sheet"
+
+
+
+Design way to track folder structure on the documents: have a header that indicates the folder structure
+
+ex. [folder 1] > [folder 2] > [file]
+
+
+Typical game folder structure:
+
+[game-folder]
+  > [Game Engine]
+    > [Game Object Engine]
+    > [Game World Engine]
+  > [Game Database]
+    > [Account Database]
+    > [Item Database]
+    > [Struct Database]
+  > [Game Info]
+    > [Item Catalogue]
+    
+
+
+
+
+
+[Move this stuff into a separate sheet for items]
+Special Objects:
+
+Game Creator: Does everything necessary to create any thing, any game-world, any [abstract aynu-thing], create a new reality with new laws/systems, create a [hot-girl] that will obey/do anything, or anything else you desire.
+
+
+[Game-Winning-Object]: [The most powerful object in [game-world]].
+
+[The ultimate-[object]]: 
+Descr:[the ultimate thing to possess; every player will want this object and its value and desirability transcend our understanding]
+[aynu-component]::[aynu][aynu]...
+[component that helps determine and make-up the object, contains its essence]:

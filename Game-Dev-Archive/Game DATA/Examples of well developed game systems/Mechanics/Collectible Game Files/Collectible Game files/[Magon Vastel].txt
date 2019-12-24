@@ -1,0 +1,3 @@
+[Magon Vastel]
+
+[Develop file data structure here using pure aynu theory and code]

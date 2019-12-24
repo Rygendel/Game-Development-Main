@@ -1,0 +1,292 @@
+%%%%%%%%%%%%%%%%%%
+Note 1:
+
+Categories (of things to create for the game): 
+Encoding symbols
+Special Encoding objects
+Basic structs
+Special Structs
+Construction/Development/Evolution Mechanics (for structs)
+Possession Mechanics
+Interaction/use/gameplay mechanics
+
+Strategy Components:
+Empire building mechanics
+Combat Mechanics
+Production Mechanics
+Resource Mechanics
+Point and Currency Mechanics
+Constraints
+Competition and Reward Mechanics
+
+Abstract/Aynu:
+- develop many kinds of transcendental aynu properties/things for things to possess, and that players will want
+  (players will want different aynu-things depending on their own interests/desires)
+- similarly, develop many aynu mechanics/games that different players will find interesting
+- develop many different aynu things that players will [aynu-want/desire] and will enjoy doing many different kinds of things
+  and engaging in many different kinds of gameplay to acquire, and will have to spend a lot of time working towards
+- aynu-items
+- (discuss more about the aynu-things, how players will want to get and possess them [for abstract aynu-reasons/value/rewards/things], how possessing them is [the ultimate goal and every player will have some aynu-things that they will [abstractly desire/want to possess for its own sake and for reasons/things that transcend description] ], and the things they have to do to get them) 
+- (add more details on aynu-things and the abstract mechanics motivating players to want to possess certain aynu things) 
+
+%%%%%%%%%%%%%%%%%%%%%%  
+
+Note 2:
+
+- need to develop the different kinds of concrete and aynu structs players will try to control and develop
+- there are many different types with many different mechanics and properties, sometimes even mixing aynu-things with concrete things
+- some are completely aynu-based and are involved in [abstract aynu-mechanics/systems/realities/universes] while others follow concrete systems/mechanics/worlds etc.
+- need to develop the information sheets and data for both of these (including for the systems/worlds that contain them and give them purpose as well as "running" them)
+
+
+- outline of abstract aynu game:
+
+[Aynu-Systems]:
+- create description of [aynu-game system/mechanic/category/thing] using aynu, including a full description of the thing as well as the engine that runs it (using aynu). Each thing will also have its own aynu-label. These aynu-descriptions and engines will give absract [aynu-meaning/vaue/transcendental things/gameplay] to objects that have components that interact with the [aynu-system].
+
+ Ex: 
+
+%%%%%%%%%%%%%%%
+%% [Aeleron] %%
+%%%%%%%%%%%%%%%
+
+[aynu][aynu]..
+
+----------------
+%%%%%%%%%%%%%%%%
+%% [Syntagma] %%
+%%%%%%%%%%%%%%%%
+
+[aynu][aynu]....
+[aynu][aynu][aynu]...
+
+----------------
+
+- objects, things, [aynu-things], structs, [aynu-structs], and anything else, will have the relevant component of that object that interacts with an [aynu-system] encoded using a data structure, and encoded using either english or [aynu-symbols]. This will be indicated by using the label of the aynu-system. This aynu data has meaning that transcends our ability to understand it, and does things that transcend our ability to experience them, all of which are determined by the aynu-code used to write the associated [aynu-system].
+
+Ex:
+
+struct [Eredar] {
+
+[Aeleron]::[aynu][aynu]...
+
+[Syntagma]::
+
+}
+
+or
+
+[Marek][Estel] { [develop format here]
+
+{ [Syntagma]
+[develop format for aynu]
+}
+
+
+}
+
+(need to develop a good format for encoding components/categories of this game using aynu)
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+Note 3
+
+Components to code using aynu:
+
+[Aynu-World]
+	-> aynu coded docs
+
+[Different Kinds of aynu-structs]
+	->[aynu] coded docs
+
+
+[Aynu][Aynu][Aynu]
+	-> Aynu Coded docs
+
+[thing]
+	-> [documents encoding the thing using aynu]
+	-> [use special aynu encoding of the thing to connect it to other things]
+		-> ex. for objects interacting with [Syntagma], they possess a special
+		   component labelled "[Syntagma]" that contains the relevant [aynu-data]
+		   (see above)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Note 4
+- better version of illyriad/civ -> build structures/civ in a persistent world
+- many paths of development, players can focus on different aspects
+- a lot of content, players can roleplay, or engage in many different kinds of gameplay
+- players can fight for control of objects
+- players can fight to achieve certain objectives that they can set for themselves, can be anything they desire
+- players can do things in the persistent world, develop their own characters
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Note 5 (following note 3)
+
+(develop outline of game creation template)
+
+([game])
+	-> (aynu-items)
+	-> (aynu-game-things)
+		-> (aynu-game-thing1)
+			-> [aynu-game-thing1] doc
+	-> (aynu game system)
+	-> (aynu-game-world)
+		-> (aynu-concepts/ideas/theory)
+	-> (aynu-game mechanics/reality)
+	-> (aynu-game-structs)
+	-> (aynu-thing)
+		-> [aynu-thing.1]
+		-> [aynu-thing.2]
+  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Note 6
+
+Components for concrete (city/province/regio) structs:
+
+-> quality of life/happiness
+-> resources
+-> goods, products, manufacturing, object/system/thing/output/factor production
+-> items
+-> units
+-> things that can be built
+-> [building-type structs]
+-> [node development]
+-> [abstract structure development]
+-> [abstract code/encodings/script parts] 
+-> [aynu-things]
+-> artefacts
+-> wonders/[great things]
+-> civilian industries
+   -> population can autonomously develop anything
+-> automata [including pop]
+   -> special type of population that can be used to do/be [any thing/aynu-thing]
+-> population
+	-> type of population
+	-> size of population
+	-> [special properties/attributes of population]
+-> special characters/[great persons]
+-> slaves
+-> industries
+-> production/output
+-> creation
+-> special things
+-> special structs possessed
+-> [aynu-structs] possessed
+-> [special aynu-objects] possessed
+-> special objects/things/systems/structures/factors/[any thing] possessed
+-> [abstract aynu-factors and systems]
+-> [abstract aynu thing]
+-> [any custom category]
+-> [user developed custom thing]
+-> [power/wealth/value/development/objects/aynu/[good thing]/[desireable thing]/[thing] abstractions]
+-> [Aynu-thing: Syntagma]
+-> [thing: ]
+-> [thing: ]
+-> [	]
+-> [	]
+-> [stats]
+-> characters, special persons connected to your struct
+-> Relationships, positions, roles, story, roleplay, etc
+-> [Special Factors]
+-> [Special gameplay influencing factors]
+-> [Special powers/abilities/effects]
+-> [Some random factors]
+-> [Aynu-coded factors/things with aynu coded structure, systems, data, and anything else including [abstract aynu-things]]
+-> (concrete coded things with concrete structure and systems described)
+-> Mystic Fantasy components 
+-> Mystical creatures (like dragons, giants, elementals, gryphons, some magical powers, etc)
+-> [Noldor] (a special aynu thing, whose gameplay contribution is entirely encoded and implemented by aynu)
+-> and many more...(to be added)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Note 7: Types of Games:
+
+- create systems/games entirely coded in aynu
+	-> all things use [aynu]
+
+- two types:
+	-> pure aynu games
+	-> games with both concrete and aynu components
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Note 8: Object Possession
+
+- players can possess various objects, do various things with them, interact with them in many ways, and do anything imaginable with them
+- can do any [aynu-coded] thing with them
+	-> [aynu][aynu]
+- objects can be affected by [aynu-things] that transcend description
+- objects can be interacted with in many ways
+- players can possess things, interact with them and trade them in a market economy that can affect/determine their value based on supply/production, uses, properties, desireability, [aynu]-factors, abstract factors, things, and anything else
+
+- have aynu-coded mechanics/systems/things affecting them
+
+- [aynu][aynu][aynu]...
+
+- and much more (almost anything imaginable and desired)...
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Note 9: Currency:
+
+- Different kinds of currency/points can be spent on different kinds of things.
+	-> there are concrete points for buying concrete things, aynu-points for buying aynu-things
+
+- Different kinds of currency can be used to buy different kinds of things and are acquired in many different ways
+
+- you can emphasize getting one type of currency/points/power/(value abstraction) to specialize in the kinds of things you can buy with them, and emphasize development in those areas
+
+concrete Ex. Administrative points spent on special administrative tasks, Ekron points spent to buy economic things, 
+military points spent to buy military upgrades.
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Note 10:
+
+Civilian/private/automata development:
+	-> within your struct various automata/groups/entities/people can appear and develop on their own and can do various things and have various objectives like building their own corporation/business, live their lives, or have adventures
+	-> these automaton can also do/create aynu-things
+	-> these people/automata are not directly controlled by the player (they are controlled by the game AI, and are partially randomized, but the probabilities are based on various factors/stats/things/systems the player can influence/control), but can be influenced by them, and form the basis of the "civilian economy" and "civilian population" that players will need to cultivate and protect to help develop and give them advantages/power/[abstract aynu-things] over their rivals
+	-> there are, as usual, aynu-versions of these civilians/automata:
+		[aynu-automaton]::[name] {
+			[aynu-data][aynu]
+		}
+
+
+
+From before:
+
+"Your struct will gradually acquire smaller automated structs that make up a 'private' or 'civilian' economy. The will do things and develop on their own, and their development will help contribute to your main struct, but these structs have their own independent and automated goals, development, values, things, existence, desires, [aynu-things], [any things], etc. They 'live' inside the imperial struct, their actions can generate and affect things, and they participate in economic activity that the player can affect/influence and benefit greatly from. But the player needs to provide suitable conditions for supporting this population of structs.
+
+The automata/population structs can build things, acquire and possess things, acquire resources, build their own groups/structs/businesses/things, perform actions, do things, 'live their lives', settle territory, set their own goals/desires and achieve them, and virtually anything imaginable."
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Note 11:
+
+Limits:
+Players frequently encounter limitations on their structs and need to make decisions and take actions to overcome them. Which limits they overcome and by how much depends on their choices/actions/acquisitions, types of struct, choice of developments, expenditure, and many other factors.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Note 12:
+
+On acquiring Aynu-things:
+
+There are many [aynu-factors/concepts/theories] that determine how [aynu-desirable/worthwhile/difficult] a particular [aynuthing or struct], and these things determine why I might want to acquire one aynu struct over another.
+
+Things to code:
+	- develop a system to encode the factors that make a particular type of person/player desire one kind/type/category of [aynu-struct] over another, and also encode other factors that differentiate the struct and influence things like rarity, value, difficulty to acquire, etc.
+
+	- encode the things, concepts, thoughts, ideas, theories, etc that make [me] want to acquire certain types/kinds of [aynu-things] and [aynu-structs], and then give some aynu structs those things [but don't give it to the vast majority of them]. Then give my personal account these [aynu-things] and pre-created [aynu-structs].
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Note 13
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Note 14
+

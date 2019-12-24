@@ -1,0 +1,17 @@
+[Exodia] :: {
+
+[Game-code to develop this struct as one of the [ultimate aynu game-structs that cause me to achieve all of my game-desires]
+
+    [Struct stats]:: {
+
+        [anything]::[the best data]
+        [Game mechanics/system/thing/dev]::[the best stats/data/code/writing]
+        [pure aynu game-thing]::[the [aynu-theory-concept-best-thing] aynu-code/stats/data/writing/info]
+
+...[more to develop]
+
+    }
+
+...[more to develop]
+
+}

@@ -1,0 +1,10 @@
+Glyphs, Scrolls, and Texts
+
+Glyphs allow for the encoding of various pieces of information. Some important types of Glyphs:
+
+Spell Glyphs:
+
+Knowledge Glyphs:
+
+Creation Glyphs:
+

@@ -1,0 +1,76 @@
+[Database of Items, objects, structs, Rygel, ..., [aynu-things], ..., [aynu-game-dev-things], ..., [more to develop]]
+
+
+[Flamethrower] :: {
+
+    [Icons] :: {
+
+        [Fire]:: 20
+    }
+
+}
+
+
+[Luxurious Work Desk] {
+
+
+}
+
+
+[item] {
+
+[things]
+
+}
+
+
+
+
+[[]-Computer] {
+
+
+}
+
+
+
+
+[Cell-Type Absorbing Tail] {
+
+[Game Effect]:: { Absorb weak enemies, increasing power. [Give detailed description of game mechanics] }
+
+}
+
+
+[Great Python] {
+
+[a python that can wrap and consume prey whole]
+
+}
+
+
+[Ethereal wraps] {
+
+[wraps that can be used to bind a foe]
+
+[discuss game mechanics such as icon usage, binding effect, and more game-effects/powers, game mechanics, etc.]
+
+}
+
+
+
+[Name]/[meta-data]:: {
+
+[game-stats]
+
+[game-dev]
+
+[detailed description of game-mechanics, game-dev, game-systems, game-world-things, etc...]
+
+[possibly aynu-things or pure aynu things, [pure-aynu-game-dev], pure aynu-code/writing]
+....
+.
+.
+[more to develop]
+[need to develop item/object/Rygel/.../[more to develop] data format/structure, move to a proper typesetter/word-processor, use a nice document format, structure (probably a special table or card-like structure, or other data-structure with a nice and beautiful/aesthetically pleasing document structure)
+
+}

@@ -1,0 +1,58 @@
+﻿Need to develop my game with the following and develop the following for my game:
+
+
+- pet structs can participate in a multiplayer, turn-based or real-time tactics-game warfare
+
+
+- can include "living game" components, with new campaigns, sub-games, [aynu-sub-games], quests, [abstract-aynu-game-play-thing], events and things to engage in play using their game-structs, civ-empire, resources, economy, game-things, [game-structs], [aynu-game-structs], ..., more to develop, and anything else their account possesses in the game
+  -> structs, game-structs, game-things, Rygel, [aynu-game-things] and [account-things] can use all of their game-stats, abilities, powers, items, gear, powers, [aynu-stats], [aynu-data-components], [aynu-things], ..., [more to develop], and everything else they have and about themselves
+
+
+- game-structs, aynu-game-things, [aynu-game-structs], and anything else the player's account possesses in the game can be used to participate in continuously developed new game-content/campaigns/quests/events/[abstract-aynu-game-things]/[sub-games]/[aynu-sub-games] within a living and evolving world
+  - new campaigns and events, new enemies and things are constantly appearing and offer a wide variety of new and interesting content for players to engage in gameplay with their game-structs, civ-empire, resources, economy, game-things, [game-structs], [aynu-game-structs], ..., more to develop, and anything else their account possesses in the game
+  - structs, game-structs, game-things, Rygel, [aynu-game-things] and [account-things] can use all of their game-stats, abilities, powers, items, gear, powers, [aynu-stats], [aynu-data-components], [aynu-things], ..., [more to develop], and everything else they have and about themselves
+
+
+- structs, game-structs, game-things, Rygel, [aynu-game-things], [account-things], game-structs, aynu-game-things, [aynu-game-structs], stat/data-component/Rygel/[aynu-thing]/[aynu-data-thing]/[aynu-item-thing] and anything else the player's account possesses comes with its own set of mechanics/systems/[aynu-game-things]/[aynu]/[aynu-theory-things] that can be gameplayed-with, game-world-play-thing, game-thing, [aynu-theory-game-play], [game-play-thing], [abstract transcendental aynu-thing encoding aynu-[fun/happiness/[elysion/ultimate-desire-aynu-theory]] aynu-gameplay-things], incorporated, [aynu-theory-thing encoding the aynu-theory-game game-things that can be done with a [game-dev-thing] in a game], applied/used/had/[aynu]/[aynu-theory-thing], ..., [more to develop], and [anything else] in any kind of game-dev-things, gameplay, game-scenarios, games, [game-dev-things], sub-games, [aynu-sub-games], [new-player-developed-sub-games], contexts, game-things, campaigns, situations, and anything else -> the base mechanics can be taken and [game-play-used/played-with] and incorporated in any kind of game that can be developed -> construct base mechanics/systems/game-things for the [game-things] that can be taken, incorporated, [game-play-thing], [aynu-theory-thing] and used in any kind of game-dev-thing that can be developed
+
+
+- for example, a new event, thing, campaign, [abstract-aynu-game-thing], evil enemy with special powers and forces appears, and players need to go on a campaign to defeat them using their game-structs, civ-empire, resources, economy, game-things, [game-structs], [aynu-game-structs], ..., more to develop, and anything else their account possesses in the game
+
+
+  - structs, game-structs, game-things, Rygel, [aynu-game-things] and [account-things] can use all of their game-stats, abilities, powers, items, gear, powers, [aynu-stats], [aynu-data-components], [aynu-things], ..., [more to develop], and everything else they have and about themselves in all of the above mentioned things ("living game" events/campaigns)
+
+
+- two teams take turns moving and using abilities/items/things on a map
+
+
+- have gear, armour, weapons, items, powers, can summon, create things, do things to influence things on the map, and virtually anything else
+  - example: target an area to try to immobilize players, change the weather, summon pets, and many other things [to develop more abilities/powers/things/items/etc/...[more to develop]]
+
+
+- take some influence from tactics games like [Tactics Ogre: The Knight of Lodis]
+
+
+- need to develop base mechanics of the game: need to be flexible to allow for any kind of roleplay experience and allow for simulating any kind of gameplay or game-dev-things using the game-structs and Rygel/game-data/code/writing and [aynu-game-things/rygel/data/structs/code/writing]
+
+
+- players can design and develop their own campaigns, sub-games, [aynu-sub-games], quests, [abstract-aynu-game-play-thing], events, open-world sandbox "free-development" "free-form-gameplay" alternate-world/reality/universe game-dev-components and things that they can engage in play/[aynu-game-thing-play]/[abstract transcendental aynu-theory-fun/[elysion]-game-play that I need to develop and encode using aynu] with using their game-structs, civ-empire, resources, economy, game-things, [game-structs], [aynu-game-structs], ..., more to develop, and anything else their account possesses in the game
+  -> structs, game-structs, game-things, Rygel, [aynu-game-things] and [account-things] can use all of their game-stats, abilities, powers, items, gear, powers, [aynu-stats], [aynu-data-components], [aynu-things], ..., [more to develop], and everything else they have and about themselves in these player designed things
+
+
+- players can engage in open-world sandbox "free-development" "free-form-gameplay" alternate-world/reality/universe in which they have the freedom to do and develop any kind of gameplay using the game-structs and Rygel/game-data/code/writing
+
+
+- eventually replace tactics with [ultimate aynu-developed game-type/genre that is the [ultimate-game-fun-theory-thing-I need to develop] and the ultimate game-fun-thing I seek to develop and create from game-development: the ultimate source of elysion/[aynu]/[ultimate-aynu-theory-things I want from game dev] is playing this game and being successful and having an account that has/possesses a lot of good/[aynu-game-theory-good/aynu-theory-thing-struct-good] things/structs and is "wealthy" or "good" in the game] ]
+
+
+  - develop this from a neopets-like-base
+
+
+- can have a strong roleplaying component and takes elements from things like Dungeons and Dragons, Warhammer, RPG games, pokemon, Civilization, and any other games: combines all the best things and transcendental fun things from all possible games into one [including aynu-theory-things]
+
+
+- may code the essential game-things purely using aynu, using aynu-symbols and a nice/aesthetically beautiful/desireable/pretty/good-looking data/document/file structure/system/format/data-sheet-struct
+
+
+- develop model for developing structs that can be used in gameplay and have Rygel/item mechanics (and can be traded/market-econ/Rygel/item-object-struct things)
+    - this system is stand alone, includes a folder that retains copies of data sheets and code-base for encoding everything about the structs in the game and their engine)

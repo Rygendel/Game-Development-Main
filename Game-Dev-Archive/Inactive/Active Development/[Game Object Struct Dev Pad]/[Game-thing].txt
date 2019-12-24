@@ -1,0 +1,23 @@
+[Game-thing Header and Meta-Data, Arch-Data]
+
+[design data/code structure]
+[need to create the actual game objects/things/Rygel/Adrion and write all of their game-data/[aynu-code]/things and base game-data/code/[writing] that forms the basis of gameplay and game-development (the development and "building-up" of the object as part of gameplay to make it better and specialized in ways the player desires) soon]
+
+[Game-thing Main Code (aynu/english)] {
+
+  class Civ-Struct extend {
+    
+    [thing] Civ-type { types: 
+                      [Des]:: [this type focuses on being able to create things that the population desires, giving it bonuses in [aynu-happiness]
+                              [Special structs: 
+					[Well of Desire]::
+                                        [that ultimate thing I wrote down in some other file and need to develop further and write more code for it and write more things in its data-components]
+                               ] 
+                     }
+
+    [thing] Special [things] :: { }
+
+
+
+}
+

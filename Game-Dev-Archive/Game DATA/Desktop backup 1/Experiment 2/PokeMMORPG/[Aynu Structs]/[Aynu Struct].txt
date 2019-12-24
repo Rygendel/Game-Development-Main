@@ -1,0 +1,14 @@
+[Describe the aynu structs, development, mechanics, gameplay model/system, etc. using aynu]
+
+The ability to describe these structs and their gameplay mechanics goes beyond my ability to describe.
+
+However, their aynu-gameplay, [aynu-development-gameplay], aynu-code, and aynu-things and [things] will give players reasons and motivation to try to acquire these objects, develop them, game-play with them, and do other [abstract aynu-things] with them, that go beyond our understanding, but players will be able to determine which ones they want based on their own game-play desires/goals/things/values/wants/preferences by reasoning based on the theory and gameplay mechanics/model/system created by the aynu-Struct game code and engine/description as well as the aynu-data possessed by each individual aynu-struct/item/object and its interactions (and theory of its gameplay) and gameplay with the aynu-struct game-code.
+
+
+
+[add any other english descriptions I desire here; put all the best things I come up with here]
+
+
+
+------------------------------
+[design and create the aynu-code in an aesthetically pleasing way, and design a good format, perhaps use special symbols]

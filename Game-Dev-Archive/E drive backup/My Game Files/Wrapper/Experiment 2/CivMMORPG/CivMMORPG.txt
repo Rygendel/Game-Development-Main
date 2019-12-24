@@ -1,0 +1,22 @@
+Create an MMORPG based around building an empire "base". Can include characters in government, units, items, artefacts, city-structs, buildings, research, tech, passive development, training, improved stats and capabilities, production, manufacturing, crafting, developing, and much more.
+
+- players build, grow and develop their civ-empire; build buildings/development, acquire things to make their civ-empire better/powerful/good/valuable, research tech, generate resources/points they can spend on improvements; develop their empire through many different types of mechancis such as a passive tree with nodes you can take by spending points and which grant improvements; build units/automata that have powers and can do things (and fight)
+
+- develop rich combat mechanics for units; mechanics for acquiring territory/nodes/cities/regions/things, and many other game things
+
+
+
+
+Components:
+
+Accounts
+Items and Artefacts
+Buildable Structs
+Aynu-things
+Civ-Gameplay
+Dev/Research/Cultural Dev/Civ-dev/[many other classes of development]... (there are many different dev mechanics players could focus on)
+.
+.
+.
+-> draw some inspiration from illyriad, Distant worlds, Civilization series, Age of Empires, Europa Universalis 4 and many other strategy games
+-> there are many layers of complexity and things you can focus on; there is also a mechanic for developing new gameplay features/systems/mechanics/models and layers of complexity that you can then choose to focus on (as long as it follows development rules) and see if doing well in your new category allows you to outperform structs using pre-existing mechanics

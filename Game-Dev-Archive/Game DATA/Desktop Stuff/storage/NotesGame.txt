@@ -1,0 +1,91 @@
+There are several different genres of games. In each one, the ultimate goal is to build and possess aya-structs, which one can do by doing things in any or all of the games.
+
+- being able to acquire, build, possess, and collect aya-structs is the ultimate desireable goal of each game, and typically the better the player a player is at a game, the greater their ability is to acquire or build the aya-structs they want
+
+- players can also acquire [auria], the main form of currency. This can be acquired in many different ways, and can be used to buy things from NPC shops or from other players. Virtually anything can be bought or sold in player owned shops or through trading post or auctions. Money can be used to buy items that restock at NPC shops and resold at a higher price. Economy works very similarly to neopets. There is a highly sophisticated market economy based on the sale of items, aya-things, structs, pets, and virtually anything else; with a great degree of freedom.
+
+- the amount of auria you have determines your "economic power" and your ability to acquire things. With enough auria you can buy almost anything. However some things can be extremely expensive or can only be acquired through special mechanisms/events. 
+
+(need to describe and develop the different games, including the ways in which actions in the games can lead to the acquisition or building of aya-structs)
+
+- space civilization/corporation/EVE Online type game
+  -> players are part of a civilization acquire and develop tech
+  -> space-ship battles
+  -> control systems, acuire and build better systems and engage foes to control desirable things
+***
+- struct-minion development and battle
+  - players can collect structs/minions, develop them, and engage in a variety of forms of combat
+  - includes storyline, roleplaying, questing, individual battling, building a     character/story/plot
+  - can advance across many storylines and plots, allowing you to acquire things and aya-things
+  - players can progress, acquire achievements
+  - players can develop in their own persistent world
+  - players can pursue any kind of [life/existence]
+  - players have complete freedom to explore the vast world, and do many things with a great         degree of freedom
+  - main combat is turn based, involves using structs/creatures and their effects, stats,         equipped objects, developed traits/things, and any other properties they possess or acquire       to defeat their opponent using one of several standard modes of [combat]
+  - items can have uses in combat or in the persistent world
+  - items can be finite use or permanent
+  - players can set up supply chain to keep them supplied
+  - main combat: turn based, and features single-character, dual, multi
+  - use their abilities, items, things, and other factors to defeat opposing parties
+  - there are many factors such as positioning, stats, items, abilities, environment, powers, type, class, race, small amounts of randomness, etc [to be developed]
+  - can train at various places to develop their stats; stat development is open ended
+  - players can choose which of their struct-minions the want to use in their main party
+  - highly successful parties can acquire treasure, and objects which can be used to acquire or build aya-structs and aya-objects
+  - has some neopets-like features; especially the economy
+  - with enough money, you can buy virtually anything; all items have some value; some are worth millions
+  - objects up to a certain value can be bought at player-owned stores; anything else can be traded through a special system
+***
+- civilization/illyriad style struct building game
+  - build structs that can develop in a number of ways
+  - acquire resources, develop an "economy"
+  - acquire special units or things that can be helpful
+  - acquire territory, can build things on that territory or farm resources
+  - can battle foreign threats and other structs
+  - can manufacture/craft things
+  - based on special "city-like" things that can grow and expand, become better at doing things
+	- these things have their own stats that can determine what they can do or how good they 		are at things, and can be spent to develop the "city"
+  - can build special "sub-structs" or "buildings" which are special units that can perform actions, acquire things, build things, etc
+  - these buildings can be developed and used to do things, complete actions, develop storyline, roleplay, do things in the persistent world, acquire things, engage in one of several modes of combat, and much more
+  - a civilization can control many cities and a lot of territory; each city or territory can have many buildings, depending on how large it is
+  - highly successful civilizations can acquire treasure and objects which can be used to acquire or build aya-structs and aya-objects
+  - much more
+***
+- lovecraftian-themed character development/monster fighting game
+
+
+----------------------------------------------------------------------
+
+Struct-Minion
+- build structs; those structs can do various things
+- structs can summon and support minions; can use those minions to do various things and battle
+- standard goal is to defeat your opponents struct
+- played out on a map
+- turn based and real-time versions
+- can collect minions for your struct, can develop your struct along many paths
+- can also build non-battle structs/minions that are desirable in the persistent world (say more on this)
+- can build structs/minions to generate aya-things [aya-sub-structs/aya-structs]
+
+Pokemon/Neopet [develop this]
+- develop a set of pet-structs and their mechanics
+- do battle with your opponent in one of many games: there are two main kinds, one without a map, and one with a map
+- can collect different units and develop them in many ways and along many possible paths
+- turn based; can use different abilities, items, mechanics, factors, things, abstract things
+- can train in various stats: Strength, Intellect, [Faer], Agility, Magus, Crafting, [thing], Draemos
+- can gain points in different categories through training; the more points in each stat the better rewards
+- can also develop along a tech tree to gain abilities that you want; special mechanics for acquiring access to these branches
+- pet-struct battling is important in many ways, and can help you gain wealth, things, items, develop plot/story/roleplay, acquire aya-things and aya-structs, and many other things
+
+
+-----------------------------------------
+Plot (PvE)
+- Many types of Ancient Ones/Old Gods, cults
+- players may align themselves with various factions, gain access to their powers, forces, tech
+- players can play along many different plot lines that end in fighting a major boss (can do this arbitrarily many times), inspired by Arkham Horror
+- players develop their main struct (same as before) which takes the form of a character which goes around uncovering clues, battling ancient monsters and acquiring items used to help battle with ancient and powerful forces
+- value and utility of items is influenced by its utility in engaging with foes
+- can acquire ancient artefacts with special powers
+- can learn many different schools of forces/mythos
+- horror/lovecraftian theme
+- players can develop and persist over many rounds of plots. Plots usually take siginificant time to complete, but can reward players well depending on how well they do. Plots can also have significant sub-stages which players can complete to gain things, possibly even aya-things
+- players can gain aya-things, which are the true source of [abstract value/meaning/goodness/desire] behind everything, possessing aya-things is desirable on its own without any other qualification
+- players may pursue relationships/roleplaying

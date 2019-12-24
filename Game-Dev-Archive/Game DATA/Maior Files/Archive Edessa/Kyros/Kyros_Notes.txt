@@ -1,0 +1,195 @@
+General Combat and competition (Kyros):
+
+
+Stats:
+
+Kyros possess the following stats.
+
+Strength: Determines the power of direct attack.
+
+Defence: Determines resistence to direct attacks.
+
+Intellect: Affects ability to use and create spells and devices.
+
+Dexterity: Affects ability to create and use certain objects.
+
+Agility
+
+Speed: 
+
+Health
+
+Talent
+
+Stamina: Determines the number of items you may carry.
+
+Mystic Reagar: Affect magic usage and power.
+
+
+Equipment and Gear:
+
+Kyros may be equipped with with a number of items which may be used during. Items may be capable of doing direct damage, catalyzing spells, using special abilities, or anything else. These abilities and objects may also be used in the main world and in varying contests.
+
+There are several classes of battle gear:
+
+Attackers
+Defenders
+Freezers
+Reflectors
+Healers
+Buffers
+Blessing
+Special Effect
+special Magic
+Other
+
+
+Kyros Creation:
+---------------
+
+Some Kyros may be acquired through special features, some may be hatched from an egg, and some may be acquired through special hidden methods. Kyros appearance, nature, interests, certain talents, personality, dreams, desires and initial abilities may be customized, as can Individual Values to a certain extent, and many other components.
+
+
+
+------------------------------------------------
+Skills:
+
+Kyros can be trained in a number of special skills. They gain points by practicing and using their skills.
+
+Crafting
+Hunting
+Inscription
+Enchanting
+Programming
+Engineering
+
+
+
+
+
+--------------------------------------------------
+
+Special Abilities:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------
+Companions
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+Useable Equipment, Items, and Objects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+Terraneum
+
+- Can build civilization of miniature creatures, which can then produce items and money
+- Partially Automated, you care for creatures and direct them
+
+
+
+
+---------------------------------------------
+Battles, Contests, and Rewards
+
+
+- Can participate in special Role-Playing Storylines and quests, which can rewward various objects
+  - Storylines will involve long plot-based progressions, and within each you can acquire various new skills,     objects, companions, titles, etc
+  - Storylines can take on different forms, take place in alternate universes, can be in different styles such as a map-based, turn based RPG
+
+- Occasionally there are larger mega events
+- Can participate in special contests involving various skills
+
+
+
+
+
+
+
+-----------------------
+Interactions
+
+- Interaction with Kyros takes place in both the main, fully 3D, completely free word, and various submaps, such as turn-based engagements, and much more
+
+
+- Can fully interact with items
+
+Examples include
+-Purchase toys, and play with your Kyros to make it happy. Kyros mood can affect it in various ways. For example, in battle if your Kyros is happy, it gains a special bonus to defence and attack. Also, your pet being happy will give it bonus in skills, allow it to craft and access special objects, and much more.
+
+- Kyros can enter and live in your home. Players can purchase property, which they can customize by adding rooms, furniture such as a safe, and safely store many objects in it.
+
+- Kyros may possess their own items and special objects, store these items, collect them, and interact with them in many ways
+
+- Kyros may build their own collections of items and special objects
+
+- Kyros may collect special cards, coins, arcane and magical objects, and much more
+
+
+
+
+-------------------------------
+Customization
+
+
+Special attributes, such as appearance, backstory, description, innate talents, etc can be customized with special items such as clothes
+
+
+
+
+
+
+---------------------------------
+Codable Companions
+
+- Special devices that can be coded to carry out various tasks, store data, construct things. Code is based on the construction of various data structures
+
+- Data Structures: 

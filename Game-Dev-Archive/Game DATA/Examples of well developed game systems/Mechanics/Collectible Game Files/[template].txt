@@ -1,0 +1,12 @@
+Note: These actually are the objects: having the file in your inventory is equivalent of possessing them; these files create the objects in the game world and manipulating the files is equivalent to manipulating the objects. Like TRading/colectible cards; possessing the file is equivalent to possessing the object in the game and allows you to use it in the game.
+
+[more notes describing the objects (name pending) and their mechanics/structure/data/template]
+------
+Template:
+
+{
+
+
+
+
+}

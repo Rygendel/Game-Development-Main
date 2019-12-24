@@ -1,0 +1,59 @@
+Game-Struct Class: Mechs/Mech-systems [working name]
+
+- essentially a system where players can build-up structs by combining different sub-objects using several different mechanics to create "builds"
+
+
+
+- can participate in any game-system, and mech-struct game-play can simulate/model/create any other kind of game-play system/model.world
+
+- made up of different component objects/structs that players can combine and add to their struct to make it and determine its game-play powers/effects/skills/value/purpose/things/[abstract-aynu-things]/properties/desires/desireability/[abstract-aynu-properties]/structure/anything
+- effectively a "system" of components with each component contributing to the overall structure in some way; the components "make up" and create the struct, and the things they do/are/[thing]/[aynu-thing] add to the powers/[things] of the mech-system
+- can be programmable/use "circuit-chip"-like objects that can be added or removed in special sockets to add features/powers/things/code/[aynu-things] to the mech that can be removed/swapped easily
+
+-the game-systems this class uses and is based on determine how you can combine objects, what each component object does/adds and how the components interact
+
+- mech-struct gameplay can simulate/create any other kind of gameplay; often directly through classes of components whose interactions/porperties create a specific class or model/system of game-play
+
+[add more things from the text/ideas here as I develop them]
+
+
+
+
+
+
+----------------------------
+
+-each mech has a "core-model" that determines the kinds of things it is/does/[things]/[abstract things] in a fundamental way
+
+- determines the model of its interactions and determines which game-models/systems it interacts with and how on a fundamental level (further influences by any added components)
+
+- the "core-models" themselves simulate a kind of pokemon/neopets type system, where each base core has its own sets of properties and strengths/weaknesses
+
+- there are also various kinds of restrictions/constraints and other factors that determine how you are allowed to combine components, and which ones
+	-> include things like level, power/item-level, compatibility, support contraints, resource-supply contraints, etc
+	-> makes some components useful for many different kinds of goals such as "levelling"; even if some components may seem weak/suboptimal they may actually be extremely good for other kinds of gameplay or be extremely powerful when combined with other things
+
+---------------------------
+Explicit outline:
+
+- begins with the "core-model"; the core model has its own base permanent properties, which include which kinds of development-models/systems/mechanics it allows (different cores can have different numbers/types of systems/models/mechanics they can be developed along)
+- for example, core may allow you to add objects to "sockets" on the core, as well as to select nodes on a "development" tree as the core gains levels
+- one core may allow you to write code that the core runs and uses to develop itself
+- a core may use a [abstract aynu-mechanic/system/model] for development/existence/gameplay/data/structure/[anything else about it]/[things]/[aynu-things]/properties
+- a core may be developed exclusively in terms of the aynu
+- a system of cores can use [any abstract mechanics/system/model] for any [abstract-aynu-thing]
+- a [mech-core-struct] can use any [abstract mechanics/model/system] for any [thing] and in any [way]
+- mech-core-structs and their component/part-structs/sub-struct-development can follow any [game-play model and design system] for component/structure/object/thing/struct/[thing]/[game-play thing] development and for [anything else]
+- [special abtract gameplay design/model/system encoded in aynu]
+- [thing expressing the best and freest and abstract-greatest/most-fun and imaginative/creative/stimulating and [any other abstract-good thing] gameplay design in aynu]
+
+- the core's base properties also includes the kind of game-play it engages in, the game-world effects it can have, its abilities in combat, its game-things, its [aynu-things], [...], [things], [abstract things], its game-play properties, [aynu][aynu], what it might be desired for, what uses/good things it has, the reasons a player may want it, what it is good for, what it is [aynu-good] for, the game-laws it follows, and any thing else and any other game-thing; these can be modified, developed, and added to by adding and combining mech-components (the "sub-objects")
+
+- [add more concrete and fully described mechanics and outline/description/encoding of the system and the mech-struct-objects and anything else related to them as I devise them; should be enough to fully describe, understand, replicate, create,..., and implement the struct system]
+
+
+----------------------------
+
+
+
+

@@ -1,0 +1,69 @@
+- need to figure out way to create structs that meet all of my desires: create both concrete and abstract game-structs or create both abstract and concrete game-struct components?
+
+
+- create system similar to skill gems, but with abstract aynu-things and data
+- create a struct-system/model based on concrete mechanics but using abstract-aynu things as well as conrete things
+
+
+
+ex. Some Mechanics
+
+PokeGear:
+
+- abstract items/sub-structs that can be given to poke-structs for use in gameplay
+	-> can also be developed, modified, improved, crafted, traded
+
+PokeSkills
+- abstract "abilities" or "sills" or things that can be given to pokestructs that can be developed used in gameplay; can provide a passive improvement, add things that they can do or become or have, or anything else
+
+
+
+Basic PokeStruct Structure:
+(need to properly design this and the gameplay mechanics that go with each component)
+
+[Class Name]:
+[Type]:
+[Basic Data ranges]: (each class of struct has a aset of ranges that its common data values can take; each individual instance has its values randomly assigned form those ranges)
+[Text]:
+[Things]:
+[Special things]:
+[Unique things]:
+[things]:
+[(aynu-things)]
+[Data]:
+[Gameplay]:
+[Effects/Abilities/Skills]:
+[Item-things]:
+
+
+
+[Development Mechanics]:Outline special modifications and values that can be added to the structure to "make it better at certain things".
+
+[Development Values]:
+[Sockets for components/things]:
+[Ability level]:
+[Special Passive Effect]:
+[Special thing]:
+[Special research upgrade]:
+[thing]:
+
+[Combat/Gameplay-relevant stats]:
+[stat 1]:
+...
+
+
+
+[Pool of [Special Modifiers/things] it can acquire]: similar to a set of moves/special abilities the struct can use. Need to outline their mechanics; limitations, constraints, etc.
+
+
+
+
+
+
+Outline of Struct Mechanics:
+
+
+
+[Name of Struct Component]
+[Mechanics behind it]
+

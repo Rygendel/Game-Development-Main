@@ -1,0 +1,18 @@
+Icon (Iconium, Iconos) Mechanics
+
+- Basic Resource of Gameplay and many gameplay mechanics/systems
+
+- Anything can generate Icons and use them in any way, for any gameplay purpose
+
+- Icon generation can be part of the basic stats of a game-struct, pet-like-struct, items, objects, Rygels, and any other gameplay thing
+
+- It it possible for game-structs, pet-like-structs, items, objects, Rygels, and any other gameplay thing to both generate and use icons as a resource for any kind of thing
+
+- Icons can be used/required for anything, including game-world actions/activities/tasks/things
+
+...
+
+- Some types of resources are actual items that can be traded and sold
+-> this class is often called [Elementium] (each type of elementium has its own stats and data that makes it useful/good/[aynu-good/necessary/desired-for]/[aynu-theory-concept-thing] for for different kinds of things, [aynu], [Iulion], [Adrion], ..., [aynu-game-world-thing], [aynu-game-dev-thing])
+-> some types of elementium can be used for crafting/making certain kinds of game-structs, pet-like-structs, items, objects, Rygels, [aynu], [aynu-game-thing], [aynu-game-world-thing], [aynu][aynu], [Adrion], [aynu-game-dev-thing] ..., [more to develop], and any other gameplay thing
+-> elementium can be used for pretty much any kind of game actions/activity/tasks/things, ..., [more to develop],...., that require physical resources, such as crafting

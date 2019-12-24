@@ -1,0 +1,4 @@
+Marik:
+
+[may need to do this in google docs to get the nice layout and structure for the aynu-code]
+[develop the common design for these objects in the object and rygel game dev folder]

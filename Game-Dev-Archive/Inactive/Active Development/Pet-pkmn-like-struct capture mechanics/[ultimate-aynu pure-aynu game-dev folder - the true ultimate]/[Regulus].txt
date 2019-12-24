@@ -1,0 +1,143 @@
+[import []]
+...
+[setup and platform and meta-data]
+[sufficient code to make this self-contained]
+[add more code describing everything about this thing, the ultimate and greates aynu-thing/struct/object/Rygel/Adrion that I will give to myself and possess. By having it in my game account, I will achieve [the greatest player in the game, [aynu-theory-thing], [Elysion], my aynu-ultimate-happiness-desire, [aynu-concept-thing expressing the transcendental and ultimate thing I desire and seek to achieve from aynu-game-dev], ..., [more to develop], ..., [need to develop an expression for the ultimate thing I desire and want and make me [aynu-life-happy] from game-development and that will cause me to be [the aynu-concept-theory-thing that will finally make me happy...(more to develop on this front, including using aynu-code/symbols/data/writing/structures)]
+
+
+
+[Game-dev-thing] Regulus [meta-data]... {
+
+
+[code, aynu-code, special aynu-things that transcend mortal understanding, [Iulion], [Adrion], [aynu][aynu], things-[aynu], ..., [more things to develop/game-develop], [aynu-code/data-things/structures to develop], [aynu-game-things/code/script/writing to aynu-game-develop], aynu-writing, [aynu-game-writing-dev-things], data-structures: eventually move into a word processor and a nice document structure]
+
+[need to use special symbols for aynu-code and aynu-writing] 
+
+[aynu-code/symbols/data/writing/structures/game-dev]...
+
+
+}
+
+[eventually develop this into a template for creating the 
+
+[ultimate [aynu-things] I [aynu-desire/Elysion/want] from game-dev; the aynu-things I want to get out of aynu-game-dev and [aynu-possess] and which will make me [aynu-Elysion-game-happy/good/satisfied] by having them and printing out, ...., [more to develop]] (need to copy the expression I made before). 
+and here it is ->
+[the (aynu) hyperbolically best], [aynu-best], most-powerful, [game-best], [aynu-game-dev-best], [game-mechanics-determined-best], [aynu-game-system-determined-best], [Iulion-best], [Adrion-best], [game-play-[aynu-theory-thing]], [aynu-game-system-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], best, greatest, ultimate, ultimate-superior-thing, [aynu-ultimate-superior/good/best], [aynu-theory concept]/[aynu-theory concept that is [aynu][aynu] and transcendentally [aynu-best]/[aynu] even among [aynu]], [aynu-game-mechanics-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]] , [aynu-game-thing-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [aynu-game-world-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Iulion-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [Adrion-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Rygel-[aynu-theory-thing]], [game-world-[aynu-theory-thing]], [(aynu) game-mechanics-[aynu-theory-thing]], [(aynu) game-dev-[aynu-theory-thing]], [aynu-game-universe-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [aynu-game-dev-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [(aynu) game-dev-[aynu-theory-thing]], [(aynu) game-universe-[aynu-theory-thing]] ..., [more to develop]
+
+
+
+The two ways of doing this are:
+
+- creating aynu-game components that create everything about the game, and make it a game I eternally find [ultimate aynu-fun/engaging/game-play-good/.../[more to develop about how this game will be the best game and have all the best properties of a game in a way that transcends mortal understanding and can only be encoded and created in aynu]
+
+- creating things/stats/data/Rygel/items/structs/game-play-structs/characters/.../[many other things to develop], characters, roleplay-things, and many other things that are each in some way a type of: [aynu-ultimate [aynu-things] I [aynu-desire/Elysion/want] from game-dev; the aynu-things I want to get out of aynu-game-dev and [aynu-possess] and which will make me [aynu-Elysion-game-happy/good/satisfied] by having them and printing out, ..., [more to develop]] (need to copy the expression I made before):[the (aynu) hyperbolically best], [aynu-best], most-powerful, [game-best], [aynu-game-dev-best], [game-mechanics-determined-best], [aynu-game-system-determined-best], [Iulion-best], [Adrion-best], [game-play-[aynu-theory-thing]], [aynu-game-system-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], best, greatest, ultimate, ultimate-superior-thing, [aynu-ultimate-superior/good/best], [aynu-theory concept]/[aynu-theory concept that is [aynu][aynu] and transcendentally [aynu-best]/[aynu] even among [aynu]], [aynu-game-mechanics-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]] , [aynu-game-thing-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [aynu-game-world-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Iulion-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [Adrion-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Rygel-[aynu-theory-thing]], [game-world-[aynu-theory-thing]], [(aynu) game-mechanics-[aynu-theory-thing]], [(aynu) game-dev-[aynu-theory-thing]], [aynu-game-universe-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [aynu-game-dev-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [(aynu) game-dev-[aynu-theory-thing]], [(aynu) game-universe-[aynu-theory-thing]] ..., [more to develop]
+
+
+
+-> essentially I need to code all of the ultimate and best things I need to achieve my ultimate game-desires/goals/Elysion/paradise using aynu, and these can be split up into the underlying game-world and game-platform/mechanics/system/engines, and the things in the game, including the things I will designate and create/make/[aynu-make-thing]/[aynu-concept-theory-thing] to be:
+---
+ [aynu-ultimate [aynu-things] I [aynu-desire/Elysion/want] from game-dev; the aynu-things I want to get out of aynu-game-dev and [aynu-possess] and which will make me [aynu-Elysion-game-happy/good/satisfied] by having them and printing out, ..., [more to develop]] (need to copy the expression I made before):[the (aynu) hyperbolically best], [aynu-best], most-powerful, [game-best], [aynu-game-dev-best], [game-mechanics-determined-best], [aynu-game-system-determined-best], [Iulion-best], [Adrion-best], [game-play-[aynu-theory-thing]], [aynu-game-system-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], best, greatest, ultimate, ultimate-superior-thing, [aynu-ultimate-superior/good/best], [aynu-theory concept]/[aynu-theory concept that is [aynu][aynu] and transcendentally [aynu-best]/[aynu] even among [aynu]], [aynu-game-mechanics-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]] , [aynu-game-thing-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [aynu-game-world-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Iulion-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [Adrion-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Rygel-[aynu-theory-thing]], [game-world-[aynu-theory-thing]], [(aynu) game-mechanics-[aynu-theory-thing]], [(aynu) game-dev-[aynu-theory-thing]], [aynu-game-universe-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [aynu-game-dev-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [(aynu) game-dev-[aynu-theory-thing]], [(aynu) game-universe-[aynu-theory-thing]] ..., [more to develop]
+---
+and then give to myself to achieve [aynu-happiness/desire/elysion/game-dev-happiness/success] and be the best in the game and in the best state such that I achieve:
+---
+ [aynu-ultimate [aynu-things] I [aynu-desire/Elysion/want] from game-dev; the aynu-things I want to get out of aynu-game-dev and [aynu-possess] and which will make me [aynu-Elysion-game-happy/good/satisfied] by having them and printing out, ..., [more to develop]] (need to copy the expression I made before):[the (aynu) hyperbolically best], [aynu-best], most-powerful, [game-best], [aynu-game-dev-best], [game-mechanics-determined-best], [aynu-game-system-determined-best], [Iulion-best], [Adrion-best], [game-play-[aynu-theory-thing]], [aynu-game-system-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], best, greatest, ultimate, ultimate-superior-thing, [aynu-ultimate-superior/good/best], [aynu-theory concept]/[aynu-theory concept that is [aynu][aynu] and transcendentally [aynu-best]/[aynu] even among [aynu]], [aynu-game-mechanics-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]] , [aynu-game-thing-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [aynu-game-world-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Iulion-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [Adrion-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Rygel-[aynu-theory-thing]], [game-world-[aynu-theory-thing]], [(aynu) game-mechanics-[aynu-theory-thing]], [(aynu) game-dev-[aynu-theory-thing]], [aynu-game-universe-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [aynu-game-dev-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [(aynu) game-dev-[aynu-theory-thing]], [(aynu) game-universe-[aynu-theory-thing]] ..., [more to develop]
+---
+
+
+The Regulus is the basis for, and one of the:
+[aynu-ultimate [aynu-things] I [aynu-desire/Elysion/want] from game-dev; the aynu-things I want to get out of aynu-game-dev and [aynu-possess] and which will make me [aynu-Elysion-game-happy/good/satisfied] by having them and printing out, ..., [more to develop]] (need to copy the expression I made before):[the (aynu) hyperbolically best], [aynu-best], most-powerful, [game-best], [aynu-game-dev-best], [game-mechanics-determined-best], [aynu-game-system-determined-best], [Iulion-best], [Adrion-best], [game-play-[aynu-theory-thing]], [aynu-game-system-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], best, greatest, ultimate, ultimate-superior-thing, [aynu-ultimate-superior/good/best], [aynu-theory concept]/[aynu-theory concept that is [aynu][aynu] and transcendentally [aynu-best]/[aynu] even among [aynu]], [aynu-game-mechanics-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]] , [aynu-game-thing-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [aynu-game-world-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Iulion-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [Adrion-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Rygel-[aynu-theory-thing]], [game-world-[aynu-theory-thing]], [(aynu) game-mechanics-[aynu-theory-thing]], [(aynu) game-dev-[aynu-theory-thing]], [aynu-game-universe-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [aynu-game-dev-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [(aynu) game-dev-[aynu-theory-thing]], [(aynu) game-universe-[aynu-theory-thing]] ..., [more to develop]
+
+
+Use Regulus and the data/file/document-structures developed for regulus to create the:
+[aynu-ultimate [aynu-things] I [aynu-desire/Elysion/want] from game-dev; the aynu-things I want to get out of aynu-game-dev and [aynu-possess] and which will make me [aynu-Elysion-game-happy/good/satisfied] by having them and printing out, ..., [more to develop]] (need to copy the expression I made before):[the (aynu) hyperbolically best], [aynu-best], most-powerful, [game-best], [aynu-game-dev-best], [game-mechanics-determined-best], [aynu-game-system-determined-best], [Iulion-best], [Adrion-best], [game-play-[aynu-theory-thing]], [aynu-game-system-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], best, greatest, ultimate, ultimate-superior-thing, [aynu-ultimate-superior/good/best], [aynu-theory concept]/[aynu-theory concept that is [aynu][aynu] and transcendentally [aynu-best]/[aynu] even among [aynu]], [aynu-game-mechanics-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]] , [aynu-game-thing-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [aynu-game-world-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Iulion-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [Adrion-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Rygel-[aynu-theory-thing]], [game-world-[aynu-theory-thing]], [(aynu) game-mechanics-[aynu-theory-thing]], [(aynu) game-dev-[aynu-theory-thing]], [aynu-game-universe-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [aynu-game-dev-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [(aynu) game-dev-[aynu-theory-thing]], [(aynu) game-universe-[aynu-theory-thing]] ..., [more to develop]
+
+
+
+
+[things describing how/what/things I need and have created to make the things that are:
+[aynu-ultimate [aynu-things] I [aynu-desire/Elysion/want] from game-dev; the aynu-things I want to get out of aynu-game-dev and [aynu-possess] and which will make me [aynu-Elysion-game-happy/good/satisfied] by having them and printing out, ..., [more to develop]] (need to copy the expression I made before):[the (aynu) hyperbolically best], [aynu-best], most-powerful, [game-best], [aynu-game-dev-best], [game-mechanics-determined-best], [aynu-game-system-determined-best], [Iulion-best], [Adrion-best], [game-play-[aynu-theory-thing]], [aynu-game-system-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], best, greatest, ultimate, ultimate-superior-thing, [aynu-ultimate-superior/good/best], [aynu-theory concept]/[aynu-theory concept that is [aynu][aynu] and transcendentally [aynu-best]/[aynu] even among [aynu]], [aynu-game-mechanics-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]] , [aynu-game-thing-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [aynu-game-world-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Iulion-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [Adrion-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Rygel-[aynu-theory-thing]], [game-world-[aynu-theory-thing]], [(aynu) game-mechanics-[aynu-theory-thing]], [(aynu) game-dev-[aynu-theory-thing]], [aynu-game-universe-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [aynu-game-dev-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [(aynu) game-dev-[aynu-theory-thing]], [(aynu) game-universe-[aynu-theory-thing]] ..., [more to develop]
+
+]
+
+
+[things...for:
+
+[aynu-ultimate [aynu-things] I [aynu-desire/Elysion/want] from game-dev; the aynu-things I want to get out of aynu-game-dev and [aynu-possess] and which will make me [aynu-Elysion-game-happy/good/satisfied] by having them and printing out, ..., [more to develop]] (need to copy the expression I made before):[the (aynu) hyperbolically best], [aynu-best], most-powerful, [game-best], [aynu-game-dev-best], [game-mechanics-determined-best], [aynu-game-system-determined-best], [Iulion-best], [Adrion-best], [game-play-[aynu-theory-thing]], [aynu-game-system-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], best, greatest, ultimate, ultimate-superior-thing, [aynu-ultimate-superior/good/best], [aynu-theory concept]/[aynu-theory concept that is [aynu][aynu] and transcendentally [aynu-best]/[aynu] even among [aynu]], [aynu-game-mechanics-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]] , [aynu-game-thing-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [aynu-game-world-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Iulion-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [Adrion-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Rygel-[aynu-theory-thing]], [game-world-[aynu-theory-thing]], [(aynu) game-mechanics-[aynu-theory-thing]], [(aynu) game-dev-[aynu-theory-thing]], [aynu-game-universe-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [aynu-game-dev-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [(aynu) game-dev-[aynu-theory-thing]], [(aynu) game-universe-[aynu-theory-thing]] ..., [more to develop]
+
+]
+
+
+
+[[aynu][aynu][aynu-things to develop for:
+[aynu-ultimate [aynu-things] I [aynu-desire/Elysion/want] from game-dev; the aynu-things I want to get out of aynu-game-dev and [aynu-possess] and which will make me [aynu-Elysion-game-happy/good/satisfied] by having them and printing out, ..., [more to develop]] (need to copy the expression I made before):[the (aynu) hyperbolically best], [aynu-best], most-powerful, [game-best], [aynu-game-dev-best], [game-mechanics-determined-best], [aynu-game-system-determined-best], [Iulion-best], [Adrion-best], [game-play-[aynu-theory-thing]], [aynu-game-system-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], best, greatest, ultimate, ultimate-superior-thing, [aynu-ultimate-superior/good/best], [aynu-theory concept]/[aynu-theory concept that is [aynu][aynu] and transcendentally [aynu-best]/[aynu] even among [aynu]], [aynu-game-mechanics-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]] , [aynu-game-thing-determined-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [aynu-game-world-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Iulion-[aynu-theory-concept expressing the ultimate thing I want out of game-development]], [Adrion-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [Rygel-[aynu-theory-thing]], [game-world-[aynu-theory-thing]], [(aynu) game-mechanics-[aynu-theory-thing]], [(aynu) game-dev-[aynu-theory-thing]], [aynu-game-universe-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [aynu-game-dev-determined-[aynu-theory-concept-thing expressing the ultimate thing I want out of game-development]], [(aynu) game-dev-[aynu-theory-thing]], [(aynu) game-universe-[aynu-theory-thing]] ..., [more to develop]
+
+]
+
+
+--------
+
+
+
+preceding aynu-ultimate stuff:
+
+[create a single sheet for the [aynu-ultimate [aynu-thing] that I desire/[aynu]/want/[Elysion] [aynu] out of [aynu][aynu][aynu] [aynu][aynu] [aynu]-game-dev-creation [aynu] [aynu]...[more to develop]] that contains all the [game-dev], items, universe, mechanics, game-play, game-systems/data, game-properties, game-features, entities, characters, thing-[aynu], [aynu], [aynu-game-dev-things], [aynu-objects/things], [aynu][aynu], story, roleplay, multiplayer, interactions, game-play-[aynu], [aynu-game-story-character-entities-relationship-universe-roleplay], Rygel, things, objects, (aynu) game-play/systems/mechanics/properties/things/[Iulion]/[Adrion]/[aynu]/[game-world-things]/[aynu-game-dev]/dev/.../[more to develop], ..., [more to develop], and any other game-things or [game-dev-things] or [the aynu-ultimate [aynu-thing] I [aynu]/want/desire/[Elysion] from [aynu][aynu] game-dev-creation [aynu]...[more to develop]] for it and built for it in the game-world using [aynu]-code/values/symbols/writing/data]
+
+
+[aynu][Askalon][Ascaflone][Tyrgon][Azrafel]...
+[aynu-symbols/writing]...
+[aynu-code/symbols/data/writing/structures]...
+[aynu-code/symbols/data/writing/structures/game-dev]...
+
+
+
+--------------------------
+
+[more stuff about the aynu-ultimate thing:
+
+[aynu-ultimate aynu-thing stuff (the "single sheet" thing mentioned above)]:
+
+-> apply this (stuff below and above) to multiple things in different ways, and also apply it to game-mechanics, game-dev-things, game-systems, game-world-things, and many other things/objects/Rygel/Iulion/Adrion in the game in different ways/schemas
+
+for the [aynu-ultimate aynu-thing]:
+
+- give it code/data/writing that:
+  - allows it to [interact-with]/[game-dev-thing]/[game-world-mechanic-thing]/[game-world-system-thing]/[game-play-interact]/[aynu] any game-things, Rygel, objects, [aynu], [aynu-game-things], items, thing-[aynu], [aynu][aynu], game-mechanics, game-systems/features, ..., [more to develop], and many other things in the best/[aynu-theory-concept]/[most-game-dev-desireable/elysion] way
+
+  - allows it to participate/be-part-of/[game-play-interact]/.../[more to develop] with any and all [game-play mechanics, systems, features, things, Rygel, objects, ..., [aynu], ..., more to develop] in the best/[best good thing]/greatest/[greatest-aynu]/Elysion/most-desire/most-good/high-impera/[aynu-theory-concept]/[aynu-theory-concept expressing the aynu-greatest and most desired/Elysion thing]/[aynu]/.../[more to develop] way possible
+
+- it will also be the best/[best good thing]/greatest/[greatest-aynu]/Elysion/most-desire/most-good/high-impera/[aynu-theory-concept]/[aynu-theory-concept expressing the aynu-greatest and most desired/Elysion thing]/[aynu]/.../[more to develop] thing for players to collect and will be a necessary part of any collection; players will want to collect this thing above all others and its collection-value is infinite
+   -> for 
+
+- allows it to game-play with any game-mechanics/systems/features and be the best/greatest thing at them
+
+- can do and be anything in the game, has all of the [aynu-greatest] things/abilitites/collection-things/properties/[aynu]/[aynu-game-dev-collection-things]
+
+- give it code/data to make it the [aynu-best/greatest/Elysionon/[most-desired-thing]/[aynu-most-elysion/wanted/desired]/.../[more to develop]] at every [aynu-game-thing], [Iulion], game-play-mechanic/system/feature/thing, game-dev-thing, [aynu-game-dev-thing], ..., more to develop, and anything else
+
+- make it the [aynu-best/greatest/Elysionon/[most-desired-thing]/[aynu-most-elysion/wanted/desired]/.../[more to develop]] collectible object; any collection that possesses it is automatically the [aynu-best/greatest/Elysionon/[most-desired-thing]/[aynu-most-elysion/wanted/desired]/.../[more to develop]] and most [aynu-valuable/aynu-rare/aynu-treasure]/[aynu]/[abstract-aynu-concept-expressing-the best possible thing a collection could be/have/[abstract-aynu-theory-concept-thing]]/[abstract-aynu-theory-concept-thing]/.../[more to develop]
+
+[more to develop about this being the best thing in the game at everything, including roleplay, multiplayer game-play, game-relationship-value, and the best thing of any collection and the rarest, best, most-powerful, greatest, [aynu-greatest], [aynu], [abstract-aynu-theory-concept-thing] , [Regulus], [ the aynu-ultimate theory-concept expressing a theory-thing that transcends our notion of best or greatest; the greatest thing transcending our mortal understanding or imagination] and most valuable thing to collect (and aynu-versions); allows you to control another player, and many other things]
+
+
+- this is the [ultimate/most-valuable/best/greates/most-desireable/Elysion] thing to collect and makes any collection it is a part of the [ultimate/most-valuable/best/greates/most-desireable/Elysion]
+
+[need to develop more code/writing/game-dev describing and creating how this is the best collectable object, the best/greatest/[aynu-theory-concept expressing the best and most transcendental-des-Elysion thing]/[aynu]/[aynu-theory-concept]/[Escaflone]/most-desire/[most-valuable]/[elysion]/[aynu][aynu]/.../[more to develop] thing at every game-dev-thing, game-mechanic, game-system, game-feature, [Iulion], [Adrion], [game-object], [aynu-game-thing], [aynu-game-dev-thing], [thing-aynu], [collection-thing], [aynu-collecting-thing], [aynu-treasure-thing], [aynu-game-struct], [aynu-gameplay-thing], [aynu-game-pet-like], [aynu-thing-to-train/develop-game-play/competition-thing], ..., more to develop, and anything else (and aynu-versions)]
+
+[aynu code expressing all of the stuff above (about being the best thing at everything and collecting):
+
+[aynu][Salianerva][Regulus][Coronis][Darion][Menegroth][Formenos][Tyrion][Tyrael][Tyrios][...][more to develop]
+[aynu-code/symbols/data/writing/structures/game-dev]...
+
+[more to code/structure/data]
+
+]
+
+- also: I need to give my account the only copy of this thing (the best Rygel-like things that is)
+
+
+----------------------------
+
+
+
+
+

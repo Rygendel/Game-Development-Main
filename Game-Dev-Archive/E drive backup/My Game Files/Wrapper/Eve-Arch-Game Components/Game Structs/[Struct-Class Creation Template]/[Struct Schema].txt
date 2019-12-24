@@ -1,0 +1,1 @@
+- write everything about the struct here, including game mechanics, systems, interactions, how to get them, collections, data template, components, development mechanics, data structures, and enything else

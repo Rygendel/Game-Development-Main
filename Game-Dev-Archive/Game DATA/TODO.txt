@@ -1,0 +1,3 @@
+Need to combine all of the game components and streamline them into one concrete game thing that will be easy for me to print out and make hard copies of: probably combine everything I want into a single file.
+
+- need to make long term storage and preservation viable; need to find the best possible way to store and preserve the game-stuff indefinitely

@@ -1,0 +1,80 @@
+Todo: Discuss more about the code/information/properties/things that will make players want to acquire/own/use/abstract random items like a lamp set or clothing or other random objects
+Discuss the many things players can invest their time in developing
+
+
+- abstract properties and encoding that endows all objects with desirable things
+   - motivates many things, such as acquiring and possessing these objects, value, and is one of the reasons that players are motivated to acquire, possess, use, and keep objects
+   - abstract code that encodes all sorts of (desirable) things that make indivicual objects unique, useful, desirable (such as a lamp set)
+   - abstract code is present on all objects, and differs depending on the specific object
+   - some are more desirable, and it affects an objects use, desirability, possessiveness, abstract general properties, etc.
+
+-abstract property, purchasable, develop
+
+- abstract things that can be owned and developed
+    - abstract things vary by type and can be developed and used in many different ways, granted many different attributes
+    - player can invest more time in fewer of these abstract things
+
+- discuss the abstract actions, structures, information, data, existence, desirability, constructions, civilizations, building, being, possessing, aeron, etc
+
+- discuss abstract data, structures, information, things that can be created, acquired, developed, possessed by things, built, do things, interact, be things, abstract possessed, and much more
+
+- discuss abstract data, structures, information that can be acquired by various abstract objects and developed, endowing them with abstract aeron/aeonar and other things, and allowing them to interact and perform abstract actions, be abstract things, and have abstract properties and desirability through abstract things (need to develop the abstract things that make these things abstractly desirable, and the ways of being abstractly desirable, and the special abstract concepts that influence and determine everything about an object and ways of encoding things)
+
+
+Test stuff:
+
+Floras: endowed with the following things:
+
+Freios: Special structure that can be developed and modified to be any abstract thing. [find the right words] Tyrael. Can be developed and modified, and it is desirable to acquire and develop many different types and things, and they result in many different structures, interactions, and abstract thing. Can be used in many different games and systems, realities. [find more words to express game-like development], has different values, and the different freios can do and be many different things.
+
+- Find the words to express abstract desirability, usefulness, good
+- express "developing, customization, building, growing"
+- develop code, tech trees, creation trees, and other methods of development, creation, and construction
+
+Civilos: 
+
+
+
+Abstract Concepts that can be developed and possessed by objects:
+
+Description: These things can be built up and develop structure. They will possess and be described by various abstract concepts. The factors, structures, and concepts determine what the object is, does, has, interacts, and just general existence and essence. These structures give rise to a variety of mechanics that can be basically anything, and lead to many interesting, fun, and [abstract fun/interest/desire/game/create/happiness/paradise/firdaws]
+
+Acquiring, building, and developing these things will be of interest.
+
+Main structures to develop:
+
+-------
+Hadros:
+-------
+General Description:
+
+Format: [things]: [exact type of thing possessed] - [develop structure and encoding, abstract concepts expressing various things]
+
+Astoria: t-d-fsdfegrsdf-sdfregsgbsd-dfs
+Hyro: Utter abstract greatness.
+Pharon: [develop way of encoding all great information]
+Andregon: [interesting, desirable, creatable, customizable, structure, buildable, develop, aeron, ...]
+Ilya:
+Kloras
+Honorius:
+Arcadion:
+
+-develop concept useful for expressing desirable, possess, for building structure and expressing desirable things to do
+-develop the structures needed to build all the desirable things, interactions, and make the world interesting
+-need to spend at least 15 minutes a day working on this
+- Create list of items, data sheets
+
+
+--------
+Aurelios:
+--------
+
+- to develop structure
+
+(things) to use: [edessae, examon, stadron]
+
+--------
+Exarchon:
+--------
+
+- to develop

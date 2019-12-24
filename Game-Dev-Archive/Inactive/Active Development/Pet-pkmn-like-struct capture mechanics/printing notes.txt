@@ -1,0 +1,7 @@
+Currently:
+
+Printable focus:
+
+- focus on printing out what is in the E-drive (not backup), the pure aynu coded stuff, and everything currently on the desktop (i.e. pet-struct stuff and the pet-pkmn stuff (capture mechanics included in there somewhere))
+
+-> but from pet-pkmn, do not print "Resources" or web-pages, only stuff I concretely wrote  

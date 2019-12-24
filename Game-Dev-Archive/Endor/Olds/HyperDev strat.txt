@@ -1,0 +1,41 @@
+Example of a game developed using the special game-dev mechanic that develops games much like I develop objects/structs using data sheets
+
+- this is the development document for the main-game structures in my strategy MMORPG game, where players will roleplay as the leader of a civ-empire and manage it
+
+[Name]::[game name]
+
+
+[Game-thing/system/mechanic/world]::
+
+[code, text, aynu-things creating the Game-thing/system/mechanic/world]
+
+
+[City-structs]::
+
+	[pop]
+	[automata]
+	[dev stat1]
+	[buildings1]
+	[sockets]
+	[items]
+	[structs1]
+
+
+[Private Economy]::
+
+
+[Warfare]::
+
+
+
+[things]::
+
+
+[Units]::
+
+
+[Buildings]::
+
+[Abstract Game Dev]
+
+[Game-world]::[Create the game-world and its reality, laws, theory, things, plots, story, roleplay, game-things, and anything else about the game world and game-reality]

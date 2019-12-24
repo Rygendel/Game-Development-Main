@@ -1,0 +1,30 @@
+Structs
+
+- outline struct gameplay mechanics
+- outline general system for building games around structs that players can develop/collect and use to engage in gameplay or acquire aynu-structs and other things/rewards/prizes/objects/[things transcending description]
+- give concrete, detailed mechanics
+
+
+Parameters/Fields/Attributes/Things:
+- components/features/properties/things the struct has that can be developed
+
+------------------------------------
+
+[things]: (gameplay description)
+
+
+
+----------------------------------------
+
+[thing]: (gameplay description)
+
+
+
+
+
+-----------------------------------------
+
+[thing]:
+
+
+ 

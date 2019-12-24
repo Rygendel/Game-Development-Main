@@ -1,0 +1,105 @@
+Catalog of Races:
+----------------------------------------------
+
+------------
+Anthromorph:
+------------
+
+Overview:
+---------
+
+
+Bases stats:
+
+
+Warrior:
+-------
+Health:
+Stamina:
+Strength:
+Agility:
+Dexterity:
+Intelligence:
+(Mana):
+
+Warlock:
+-------
+Health:
+Stamina:
+Strength:
+Agility:
+Dexterity:
+Intelligence:
+(Mana):
+
+
+
+
+------------------------------------------------
+Features:
+
+
+Starting Gear:
+
+
+
+Andrenor:
+
+Bases stats:
+Health:
+Stamina:
+Strength:
+Agility:
+Dexterity:
+Intelligence:
+(Mana):
+
+Additional Bonuses:
+
+
+
+
+
+Sanorion:
+
+Bases stats:
+Health:
+Stamina:
+Strength:
+Agility:
+Dexterity:
+Intelligence:
+(Mana):
+
+Additioanl Bonuses:
+
+
+
+
+Ramaen:
+
+
+Bases stats:
+Health:
+Stamina:
+Strength:
+Agility:
+Dexterity:
+Intelligence:
+(Mana):
+
+Additional Bonuses:
+
+
+
+----------------------------------------------------
+
+List of Races:
+
+Andrenor
+
+Sanorion
+
+Ramaien
+
+

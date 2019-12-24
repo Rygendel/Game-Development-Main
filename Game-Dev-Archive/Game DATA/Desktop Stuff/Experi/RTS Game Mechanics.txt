@@ -1,0 +1,28 @@
+Outline of Major Components of Gameplay:
+
+Trade:
+
+
+Resource
+
+
+
+Acquiring Items and Inventory:
+
+
+
+Acquiring Special Things:
+
+
+
+
+Plots and Relationships:
+
+
+
+
+[Gameplay System]:
+
+
+
+[Aynu-Gameplay-System]:

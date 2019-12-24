@@ -1,0 +1,1 @@
+Information sheet outlining the [aynu-game-struct]'s gameplay and game-things, fully describing, implementing, and creating its gameplay via code.

@@ -1,0 +1,44 @@
+Basic things I need to make:
+- gameplay mechanics, engines, things, and systems
+- the objects, structs, aynu-things, aynu-objects, items, aynu-game-structs and anything else that participates in gameplay
+- anything else, like story or roleplay, that participates in gameplay and creating it
+
+
+Design a simplified system for making games, mostly by writing the game in a data-sheet and creating a collection of game-thing data-sheets for anything in the game, including for items, game-structs, special gameplay things, player accounts, world things, maps, NPCs, events, forts, locations, objects, aynu-things, game-reality things, game-things, game-world powers/effects, [things], characters, buildable and developable game-things, gameplay-things/structs, ... [more to develop,... and anything else. This will be the ultimate method for making games that do what I desire and achieve [elysion + ultimate goal/descriptor]
+	-> call this Endor
+	-> the Endor Files are the game, to have the game and be able to play it and game-play with it, you need to have the Endor (or Magon) game-dev-files
+	-> the Game is created and gameplayed using the Endor or Magon Dev-files: they are the engine/structure/code that creates (and "is") the game
+	-> include data-sheets, documents, data-bases, repositories, document-structs, files, file-systems, file-structures, data-structures, and any other [file-data objects] with them to store game-data and game-things such as player accounts, world-state, items, structs, objects, Elu-things, Feanor, Adrion, Iulion, Rygel, and any other game-things -> these help the Endor/Magon to create and be the game/gameplay and allow for persistent-world gameplay
+
+
+- Elodor
+- Elador
+
+[Develop Endor for game-dev]::
+Three main modes of development:
+
+	- explicit and concrete game development
+		-> focus on building my ideal strategy game and icon based gameplay
+	- development using aynu-code and abstract-aynu-things: Endor
+		- create an abstract version of a strategy game constructed with Endor
+	- the Iulion-based game development I am working on in google docs, that uses hybrid stuff and Magon
+
+
+
+
+Sample Endor Game:
+
+
+[Name]::
+
+
+
+[Iulion/Mechanics label]::
+[code, text, aynu-things, data-structures creating and implementing the Iulion/system/mechanic]
+-> use special code to connect this mechanic to any objects, stats, or other game things that interact with it
+-> use special code to create other special parts of the mechanic: need to systematiz how this works
+-> Use special code to determine how this mechanic fits into the game-world and interacts with other parts of the game
+-> construct special code-systems to create certain types of things for the mechanic that do  certain things
+
+
+[Game-world]::[Create the game-world and its reality, laws, theory, things, plots, story, roleplay, game-things, and anything else about the game world and game-reality]

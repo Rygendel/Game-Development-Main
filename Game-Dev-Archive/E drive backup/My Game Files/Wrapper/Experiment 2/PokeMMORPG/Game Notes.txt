@@ -1,0 +1,120 @@
+- Need to design the main poke-struct game-system that allows players to value and reason about which structs they want, think are good, can use in battle, and generally develop a theory about which structs they want to work towards acquiring and use in gameplay
+
+- Need to design system for [great objects] which players will want to collect and possess and [abstract gameplay with]: these will be the ultimate things that will motivate gameplay and do everything that I want
+	-> right now the Aynu-structs/aynu-pokestructs are the things I'm going to create to fulfill this
+
+- Need to design the game world and the mechanics behind what the players can do in the gameworld gneerally work toward a free open "sandbox" universe where players cna do virtually anything
+
+- develop an "EVE online" type system for mechs; incorporate the "Mech", "Megas", "Civ" and "hyper abstract structs" into the game as subcomponents; players can acquire structs for these games within their arch-game and use them for these subgames; everything exists within the arch-game and can be traded/exchanged/interacted with from the arch-game
+
+
+- I can write down anything I come up with here, which can later be implemented in a well organized and thought out way; this can help me organize the documents to better present the game information contained in the documents in an aesthetically pleasing way
+
+
+- can use things like "effort points" and "individual values" to develop pokestructs; may decide to implement some mechanics to reverse or undo some development or acquired/spent points to allow "respec"
+
+
+
+----------------------------------
+
+- poke-structs generate "icons" that can be used and spent in battle on things like abilities, attacks, effects, special things, etc.
+	-> for example, some items need icons to power them
+	-> icon types are typically associated with certain things or gameplay "themes" (though definitely not limited to them)
+		-> ex :  fire -> direct damage
+			 magic -> manipulation
+			 summons -> creating things
+	-> however icons are, in general, not limited in terms of their possible gameplay function and can be used for virtually anything
+	-> many things even require a mix of icons
+	-> can purchase multiple things, actions, attacks, effects per turn as long as they are available
+
+- make it possible to devise many kinds of gameplay systems around the "icon" system base mechanics; possibly even a civ-empire style turn based game or player made custom games
+
+- players have many reasons to play, ranging from collecting and possessing certain desired objects/structs, creating/developing/managing and customizing game-structures (like homes/bases), to building and managing a dynamic game-structure, to enjoying the gameplay, participating in gameplay, participating in new plots and special events, social interactions, enjoying the lore and becoming engrossed in the gameplay world, or exploring the game-world and seeing the beautiful landscapes and scenes, and many other abstract reasons that go beyond my ability to describe
+	-> this can include aynu-encoded reasons, (which motivate acquiring objects with certain aynu-code) such as:
+		-> [aynu][aynu][aynu]...
+		-> [...]
+ 
+
+- players can even work towards developing their own reasons to play the game, within the arch-game, and this includes developing their own game mechanics, worlds, objects, structures, story, plot, puzzles, events, influencing meta-game events, meta-game, etc
+
+- can create their own fantasy world within the game, and with a storyline, plot, relationships, quests, gameplay content, gameplay structures, objects, adventures, and social interactions with other players 
+
+- can build economic structures like companies/corporations, stock markets, industries, etc.
+
+- new events, leagues, challenges, and content is always being added and can be developed and shared by players
+
+- create objects of affection
+
+- create a city/life simulator sub-game similar to Sims and Anno 2070/2205
+
+------------------------------------------------------------------
+
+- create skill gems similar to poe; skills and game-powers are items that can be developed, improved, traded, and sold
+
+- create a pokemon/Neopets like base game and item-system; eventually add in PoE's combat mechanics with World of Warcraft's volume of content and 3D, open, persistent world
+
+- different species of mechs can be limited in the types of things they can use, skills they have access to, values their stats can take
+
+- skills and items can be activated by spending icons
+
+- skills have their own types and mechanics
+	-> follow icon system
+	-> get bonuses for being used by structs/mechs/pokestructs whose type aligns with the type of the skill
+
+- each skill has its own special mechanics/effects that distinguish it from other skils, these mechanics can be modified through development or combining it with other things or using icons, and can utilize special things/items, icons
+
+- world is open, persistent, shared; allows for a parkour system
+
+- build world locations, including cities and shops that randomly restock certain types of items, including very valuable ones
+	-> results in restocking mechanic very similar to Neopets
+
+- structs themselves, including mechs, pokestructs, megas, etc, are also items and can be interacted with as items and traded or sold
+
+----------------------------------------------------------
+
+- mech and component design is highly flexible; can use many different mechanics to modify and develop mechs
+	
+
+- mechs and their components are also items and can be traded and sold
+
+- can create mech components and mech-things that can do [anything] and create or do any [game-play-thing]
+
+------------------------------------------------------------
+
+- structs (including mechs and pokestructs) have an existence and manifestation inside the 3D, open, persistent, shared world and can perform live real-time actions and things in the game world; and can use their skills/items/abilities/things/powers/effects in live real-time in the persistent game-world
+
+------------------------------------------------------------
+
+- similar to pokemon/Neopets, many structs have a use outside of just combat; in a variety of game-play mechanics (ex. breeding, special actions, etc)
+
+- structs are not limited in terms of the kinds and number of things they can do in game (especially mechs, megas)
+	-> can have effects and influence many different areas of gameplay
+	-> can influence and affect many different gameplay mechanics/systems
+
+--------------------------------------------------------------
+
+- create a rich theory of gameplay
+- the game is made up of many different game-play mechanics, engines, and systems interacting with each other; creates a rich theory and gameplay environment, such as items, base, world, plot, char, struct, quest, special events, combat, sub-games (like capture the flag, card games, PvP games)
+- each struct class has its own rich theory, mechanics, engine
+- includes different formats of PvP games like capture the flag, king-of-the-hill, team shooter, defending a base, capturing things, etc.
+- includes many different kinds of subgames, including racing, ship battles
+
+--------------------------------------------------------------------
+
+- Design data components that structs can have and link them with the game-mechanics, engines, and systems with which they interact and which give them powers/value/things in game
+
+- some game modes don't have fixed goals/objectives: you can set your own goals or run the game indefinitely
+	- running the game indefinitely essentially creates a new "game-life simulation"
+
+- players can form a "bond" with some types of their items, structs, and craftable things, and can continue to develop and improve them with every new content release (can choose to continue to develop things or try new things)
+
+- players can work to develop their things through quests/game-progression and game-events-participation or earning them through similar actions, raids, high-end content, etc.
+
+- developments can modify civ parameters such as size, production capacity, capabilities, etc.
+
+-----------------------------------------------------------------------------
+
+
+
+
+

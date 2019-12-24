@@ -1,0 +1,3 @@
+[Buildings]
+
+[things you can add to a struct to allow it to do or produce stuff]

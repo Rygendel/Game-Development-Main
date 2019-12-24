@@ -1,0 +1,135 @@
+Create a Pure aynu Gameplay system: Adonis and Coronis
+
+Includes several classes of structs each with their own base stats which are partially randomized (sort of like pokemon or neopets). Players can try to develop and gameplay with their struct within the endos game. Players can try to acquire special pure aynu objects (called Coronis) (treat these similar to Sylyn) they can add to their struct to give them things, abilities, pure aynu game-things, etc. The Coronis have special collectible value and inherit things from the Sylyn and Elu; the Elu themselves can be Coronis. Can have Rygel Mechanics.
+
+
+- Adonis is like the base/mech/pokemon and main gameplay object (or Feanor)
+-used to engage in gameplay, [game-things], can be used in the game, and have the ability to do/be things in the game and interact with the game world
+
+- Adonis can be developed, levelled, have its stats modified, trained, and built-up in many different ways
+
+- can do/be/participate/[things] in gameplay
+
+-[abstract concept related to game-things and the Endos game; coded in aynu]
+
+- [game-things]
+
+
+-[aynu-coded game-things]
+
+- [need to describe Adonis and Coronis and everything about them in the Endos game and all of their Endos game-dev in aynu and aynu code]
+
+
+- Coronis are like items/sylyn/Elu/powers/abilities/moves/weapons/gear/powers/effects/buildings: they allow you to develop your main gameplay object, have value, can be collected, can engage in Rygel mechanics, and can do and be anything
+- Coronis are the main source of interest, value, collectible, gameplay
+- there is a coronis that can do or be any kind of thing, engage/be any kind of game-thing; 
+- there is a Coronis to fulfill anything imaginable or [aynu-describable] or [aynu-theoretic] or [aynu-concept/imagine]
+
+- and developing Adonis and Coronis/Sylyn/Elu/[tcg/ccg things] and collecting and game-playing with them is the ultimate source of Elysion/Effylion/[my ultimate desire]/[the ultimate thing I want from game-development]
+
+
+
+-From ph:
+-Adonis is the base struct that can be developed with coronis; basically they are part of the mech system where the Adonis are the mechs and the Coronis are the items/game-dev-objects
+
+Also, Adonis is like the base/civ and Coronis are the buildings, structures, workers, and every other kind of thing that goes into building up the Adonis.
+
+Different types of Coronis (and adonis) can have different stats, structures, systems, mechanics, game-properties, data, game-dev, data, data-structures, game-world-play, [aynu], Iulion, Adrion, development, mechanics, game-behaviour, game-interactions, game-powers, game-function, game-functionality, [game-things], [aynu-game-things], ..., (more to develop), ..., and many other things. (and aynu-versions)
+
+- Both Coronis and Adonis are the (abstract) aynu main-game objects that will create the ultimate core gameplay of the Endos game. [these will be the main focus of pure-aynu game-dev and will achieve the ultimate and greatest game-dev and the Elysion/[ultimate thing I desire from game-dev in order to achieve the ultimate [aynu-happiness-things] ]
+
+- these are the ultimate game-things that I will game-dev to achieve [Elysion]/[The ultimate thing I want from game dev] 
+
+
+---------
+[Adonis]:
+---------
+
+
+[game-dev for adonis]
+[these are like the bases/mechs, which can be given Coronis (which are like items/objects/structures/components/buildings) in order to give them things and give them [Iulion]/[Adrion]/game-development/[game-structure]/[game-powers]/[game-things]/[aynu]/[abstract aynu-concepts]/[aynu-game-theory]/[aynu-game-world-concepts]/[aynu-game-reality-things]]
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+----------
+[Coronis]:
+----------
+
+
+[Game Dev for Coronis]
+[Copy some of the development from things such as Elu, Rygel, stats, and many other documents, expecially the ones on Google Docs]
+
+
+
+
+
+
+[Coronis Data]::
+(each Coronis object is self-contained and contains all of its game-development and the data it needs to function and exist, have its properties/game-things/[Iulion]/[aynu]/[Adrion] and game-exist in the game-world)
+
+
+
+
+
+[Nerva]::{
+		[cost]::
+		[stat]::
+		[thing]::
+
+}
+
+
+
+
+[Azrafel]::{
+		[cost]:: infinity
+		[stat]:: inifinity
+		[thing]:: {greatest}
+		...
+		.
+		.
+
+}
+
+
+
+
+[Invictus]::{
+		[Powers]:: {
+				[Romenna]::{ }
+		}
+
+}
+
+
+[struct name]::{
+
+		[struct data and data structures]
+		[need to create structure, format, and the type/structure/[thing] of data and aynu-code that goes here]
+
+}
+
+
+[copy some of the objects from other parts]
+
+
+
+
+[My ultimate Desire objects that I will give to myself and achieve Elysion and everything I want from game development]:
+
+
+[Azrafel]::{ [ultimate desire data/aynu-code/text/descr/things/game-dev/Iulion/Adrion/Aynu] }
+
+
+[Anarion]:: { [ultimate desired/Elysion/[aynu-game-dev-desire] game-dev/Iulion/Adrion/[Aynu]/data/aynu-code/text/descr/things] }
+
+
+...
+.
+.
+(more to develop)

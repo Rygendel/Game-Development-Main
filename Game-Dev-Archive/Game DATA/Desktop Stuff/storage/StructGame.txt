@@ -1,0 +1,51 @@
+Outline:
+--------
+
+- players will develop structs that can do various things/engage in various kinds of gameplay
+
+- one of the most basic kinds is a turn-based (or real time) strategy/rpg game in which players battle on a map
+
+- players will fight for control of various types of things for various reasons
+
+- players may choose to acquire things for the resources they produce, develop a base infrastructure, develop an economy or trade network
+
+- players can specialize to produce certain types of objects
+
+- players can work towards producing very valuable/rare/powerful/desirable/wondrous items or aynu-structs
+
+- players can develop or build many knds of structs
+
+- players can develop units that can do many different things, participate in different kinds of gameplay
+
+- players fight for control of things on a map
+
+- can create and customize their basic "civ"-struct and develop it (these developments are permanent) and use it to engage in gameplay
+
+- these structs can be used in both real-time and turn based "civ"/"AoE" type games 
+----------------------------------
+Features of Structs:
+
+"Buildings" [working name]
+
+"Production" [working name]
+
+"Housing" [working name]
+
+"Territory" [working name]
+
+"Items" [working name]
+
+"Population/Units"
+
+"Structs" [working name]
+
+[things]
+
+[things]
+
+[things]
+
+[things]
+
+[things]
+

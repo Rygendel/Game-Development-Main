@@ -1,0 +1,58 @@
+Ideas for pet-struct builds:
+ 
+Zygarde - high defenses
+- land's wrath -> make an enemy vulnerable to [Ground/Nature] type icons/attacks
+- Defender of the land -> damage/icons determined by the user's defenses
+ [picture: a shield-like force-field builds around fists, which is then used to strike the enemy]
+ 
+ 
+------------------------------
+Exodia 
+ 
+Description : automatically wins at anything and everything
+ 
+(write the description and game-dev code/writing to actually implement and create these things and implement, game-dev, game-create, ..., [more to develop], and give the game-struct everything in its description and [aynu], pure-aynu-things, and any aynu-theory-things, game-things, [things], [aynu-aynu-...], game-mechanics, game-dev-things, [aynu]-game-world-things, [aynu]-game-mechanics, game-properties/abilities/powers/possessions/[things]/[more to develop], [aynu-game-desire-things], [aynu-Elysion-things], game-systems, [Iulion], [Adrion], [Rygel], ..., [more to develop], and anything else) -> create its struct-sheet/data-struct-sheet, including [aynu], pure-aynu-things, and any aynu-theory-things, game-things, [things], [aynu-aynu-...], game-mechanics, game-dev-things, [aynu]-game-world-things, [aynu]-game-mechanics, game-properties/abilities/powers/possessions/[things]/[more to develop], [aynu-game-desire-things], [aynu-Elysion-things], game-systems, [Iulion], [Adrion], [Rygel], ..., [more to develop], and anything else)
+ 
+ 
+ 
+--------------------------------
+El 
+ 
+Description : Can do anything and everything (including [aynu] and aynu-theory-things)
+ 
+ 
+- (write the description and game-dev code/writing to actually implement and create these things and implement, game-dev, game-create, ..., [more to develop], and give the game-struct everything in its description and [aynu], pure-aynu-things, and any aynu-theory-things, game-things, [things], [aynu-aynu-...], game-mechanics, game-dev-things, [aynu]-game-world-things, [aynu]-game-mechanics, game-properties/abilities/powers/possessions/[things]/[more to develop], [aynu-game-desire-things], [aynu-Elysion-things], game-systems, [Iulion], [Adrion], [Rygel], ..., [more to develop], and anything else) -> create its struct-sheet/data-struct-sheet, including [aynu], pure-aynu-things, and any aynu-theory-things, game-things, [things], [aynu-aynu-...], game-mechanics, game-dev-things, [aynu]-game-world-things, [aynu]-game-mechanics, game-properties/abilities/powers/possessions/[things]/[more to develop], [aynu-game-desire-things], [aynu-Elysion-things], game-systems, [Iulion], [Adrion], [Rygel], ..., [more to develop], and anything else)
+ 
+ 
+---------------------------------
+Megalo - Can produce an infinite amount of icons/damage/things
+ 
+ 
+- (write the description and game-dev code/writing to actually implement and create these things and implement, game-dev, game-create, ..., [more to develop], and give the game-struct everything in its description and [aynu], pure-aynu-things, and any aynu-theory-things, game-things, [things], [aynu-aynu-...], game-mechanics, game-dev-things, [aynu]-game-world-things, [aynu]-game-mechanics, game-properties/abilities/powers/possessions/[things]/[more to develop], [aynu-game-desire-things], [aynu-Elysion-things], game-systems, [Iulion], [Adrion], [Rygel], ..., [more to develop], and anything else) -> create its struct-sheet/data-struct-sheet, including [aynu], pure-aynu-things, and any aynu-theory-things, game-things, [things], [aynu-aynu-...], game-mechanics, game-dev-things, [aynu]-game-world-things, [aynu]-game-mechanics, game-properties/abilities/powers/possessions/[things]/[more to develop], [aynu-game-desire-things], [aynu-Elysion-things], game-systems, [Iulion], [Adrion], [Rygel], ..., [more to develop], and anything else)
+ 
+ 
+---------------------------------
+Morpheus - Can become anything
+ 
+ 
+- (write the description and game-dev code/writing to actually implement and create these things and implement, game-dev, game-create, ..., [more to develop], and give the game-struct everything in its description and [aynu], pure-aynu-things, and any aynu-theory-things, game-things, [things], [aynu-aynu-...], game-mechanics, game-dev-things, [aynu]-game-world-things, [aynu]-game-mechanics, game-properties/abilities/powers/possessions/[things]/[more to develop], [aynu-game-desire-things], [aynu-Elysion-things], game-systems, [Iulion], [Adrion], [Rygel], ..., [more to develop], and anything else) -> create its struct-sheet/data-struct-sheet, including [aynu], pure-aynu-things, and any aynu-theory-things, game-things, [things], [aynu-aynu-...], game-mechanics, game-dev-things, [aynu]-game-world-things, [aynu]-game-mechanics, game-properties/abilities/powers/possessions/[things]/[more to develop], [aynu-game-desire-things], [aynu-Elysion-things], game-systems, [Iulion], [Adrion], [Rygel], ..., [more to develop], and anything else)
+ 
+ 
+---------------------------------
+Sif - Can gain control of the opponent and manipulate the opponent into doing anything
+ 
+ 
+- (write the description and game-dev code/writing to actually implement and create these things and implement, game-dev, game-create, ..., [more to develop], and give the game-struct everything in its description and [aynu], pure-aynu-things, and any aynu-theory-things, game-things, [things], [aynu-aynu-...], game-mechanics, game-dev-things, [aynu]-game-world-things, [aynu]-game-mechanics, game-properties/abilities/powers/possessions/[things]/[more to develop], [aynu-game-desire-things], [aynu-Elysion-things], game-systems, [Iulion], [Adrion], [Rygel], ..., [more to develop], and anything else) -> create its struct-sheet/data-struct-sheet, including [aynu], pure-aynu-things, and any aynu-theory-things, game-things, [things], [aynu-aynu-...], game-mechanics, game-dev-things, [aynu]-game-world-things, [aynu]-game-mechanics, game-properties/abilities/powers/possessions/[things]/[more to develop], [aynu-game-desire-things], [aynu-Elysion-things], game-systems, [Iulion], [Adrion], [Rygel], ..., [more to develop], and anything else)
+ 
+ 
+ 
+-------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

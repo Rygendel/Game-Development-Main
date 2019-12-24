@@ -1,0 +1,135 @@
+[Pocket Lab Ray]:: {
+
+
+[Game-dev]:: { Modifies a random piece of data of your pet-struct according to the following mechanics: }
+
+}
+
+
+[Exodia]:: {
+
+[Game-dev]:: {Automatically get anything you want in the game, including winning at some part of the game. Can be used to achieve, create, or do anything in the game. }
+
+}
+
+
+[ultimate aynu-desire thing I want from gameplay to achieve Elysion]:: {
+
+[need to finally create full description and add it here]
+
+}
+
+
+
+[(thing) Morphing Potion] :: {
+
+}
+
+
+
+[Green Apple] :: {
+
+
+
+}
+
+
+
+[Fortuna's Staff] :: {
+
+[Game-dev]:: {Once per day, creates a random high-rarity object and gives it to you (need to elaborate on mechanics) }
+
+}
+
+
+
+[Giant Box of Presents] :: {
+
+
+
+
+}
+
+
+
+[High Performance Computer] :: {
+
+}
+
+
+
+
+[Magna Defender] :: {
+
+[Copy previous description]
+
+}
+
+
+[Red Notebook]
+
+
+
+[Permanent Information-Recording Device]:: {
+
+[Game-Dev]:: {Anything recorded on this device is eternal and can never be destroyed, including any games-developed on it }
+
+}
+
+
+[Permanent Game-dev and Game-play Device]:: {
+
+
+}
+
+
+[Blank [Game-console-type] Game Cartridge]
+
+
+
+[Game Computer-thing]
+
+
+[Game-Dev-Arkon]::{
+
+[Data]:: {
+	[Type]:
+}
+
+[thing]:: { }
+
+[Game]:: { Can be used to completely develop, create, and produce any game, including [aynu-games] and [aynu-coded games] }
+
+}
+
+
+[Dragon Soul]::{
+
+[Data]:: {
+	[type]::{ Battle Magic }
+}
+
+[Game]:: { Effect: Does anything the user desires, can create anything, can create an infinite number of icons of all types, can automatically defeat foes, and anything else...[add code/[aynu-code] that allows this to do anything and any [aynu-coded-thing]/[aynu]/[aynu-thing]/[aynu-Elysion] in the game and allows it to have any game-dev-thing }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+[game is a placeholder for something that transcends mortal imagination/understanding]
+[create system and objects necessary for players to create their own game-worlds, that can be anything and allow the players to do/have/[abstract thing] anything]
+Outline game-world creation mechanics:
+
+Actual game-world contains three things: game-world engine, game-world-database (consisting of the actual game-things), and the game specification (containing all the information about the game)
+
+	- game engine contains the code to actually run the game and its 	mechanics/systems/world/reality/gameplay/objects/structs/things/accounts/items/[abstract aynu things]
+		- [thing] Engine
+	- game database contains the actual game instance and its 	mechanics/systems/gameplay/objects/structs/things/accounts/items/[abstract aynu things]
+		- [things] / [thing] Database
+	- game spec contains all the information about the game and its 	mechanics/systems/gameplay/objects/structs/things/accounts/items/[abstract aynu things]
+		- [thing] info
+	the game spec contains concrete data about the actual game and its current state, and includes all the data necessary to construct the game
+
+Can create anything about the game and store it in one of these folders
+ 
+
+
+Game-world Creation Mechanics, engine, info, and objects:
+
+[outline mechanics, engines, info, resources, things, powers, work, mechanics, and objects/materials/things/recipes/actions needed to develop and make your own game-world and the things/structs/mechanics/systems/objects/[abstract aynu-things] in it]
+
+
+- create game-systems, game-mechanics, game-objects, accounts, game-engines, instances of game-things, etc...
+
+---------------------
+
+Game-World Development:
+
+- development can include ongoing projects, game can be continuously developable and modifiable, new things can constantly be added/expanded, can include "slots" for players to expand the game in ways they desire; can create new games within the game and make it possible for players to create things or game-worlds within the game-world
+
+- can make it possible for players to create anything, any [abstract-thing] or [abstract-game-thing] or [abstract-game-system/world/reality] within the game
+
+- can create anything about the game; can create any type of game-world-reality desired, including new types that transcend understanding, with systems/things that transcend our understanding
+
+- can do/make anything and any [aynu-thing]
+
+- new content can continuously and autonomously develop
+
+-can create any kind of player interaction
+
+- can create [thing]
+
+- can [thing]
+
+-can develop [thing]: [how to develop thing]
+
+
+Developing [thing]:
+	[requirements]
+	[things]
+	[specification]
+	[instructions]
+	[code]
+	[info][data][other things] 
+
+
+Game-world Dev simulator/generator/engine:

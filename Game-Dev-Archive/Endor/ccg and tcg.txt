@@ -1,0 +1,67 @@
+Develop theory and mechanics of the tcg collection building, collection valuation, competition, grading, rarity, condition, quality, level, stats, etc...
+
+Part of what determines the value of an object is the number and types of things it can be converted to [or states it can take], things it can do, powers/abilities/effects it has, its stats, [aynu-things], [aynu] text, code, data, [Iulion]-things, [Adrion], [aynu], and many other things...(more to develop) (or aynu-versions)
+
+The more and better the things the object can be turned into, do, have, [aynu], ... (more to develop), the more valuable it is. 
+
+Value is also heavily affected by the uses of an object in gameplay
+
+[Much more to develop, as well as for items]
+
+Add booster pack mechanics and some things being rarer than others, some randomness.
+
+Develop trading and collectible object/thing/struct/card game mechanics, structure, game-things, gameplay, Iulion, Adrion, [aynu], ..., (more to develop), and many other things such that collecting things and building up and possessing my collection, especially with things that are rare and valuable, special, desireable, useful, good, [aynu], [Aynu-theory-thing or concept], ..., (and many other things to develop), powerful, [aynu], [have certain aynu-things], [have certain [Adrion]], [have certain Aynu-code/text/data/stats/values/[things]/[document/file-things]/(more to develop, including Aynu)/Adrion/Iulion], [their card (i.e. the document/file containing it) has certain desireable/[Aynu-desireable]/Ryku/[Eros]/[Elysion properties/things/structures/data/attributes/powers/uses/abilities/stats/[aynu-game-world-things]/[game-dev]/[aynu-document-things]/[aynu-file-things/structures]/[aynu-file-data-structures]/[aynu-document-data-structures]/[aynu-things]/[aynu-data]/[aynu-game-things]/(more to develop)/(copy file document things from Google drive file) and Aynu-code/text/data/stats/values/[things]/[document/file-things] (or aynu-versions, need to develop more)], (things I like and desire and [aynu-desire] and [aynu-thing] for my own reasons (And [aynu-reasons]) and derive happiness and everything I want from) is a source of and creates/[aynu-creates] Effylion/Elysion/[Ultimate thing I want]/[aynu-concept expressing the ultimate thing I want from game-development]/[ultimate-aynu-theory-thing]/[ultimate aynu-theory-happiness-thing] (need to develop more and better ways to express the ultimate thing, will need to copy some things from Elu documents, Elu Des Engine, and other documents)
+
+
+-design Rygel/Object mechanics for collectible things (design simple aynu words to express the [ultimate thing or Effylion and ultimate thing I want and desire from game-dev] as well as [collectible/tradable things])
+
+
+
+
+
+- design combat/gameplay/[game-play]/[Iulion]/[Iulion-play]/game/game-dev/[game-things]/[aynu]/[aynu-game]/[aynu-game-world]/[game-world]/[things]/[aynu-things]/[Adrion]/[Rygel] mechanics for the collectible objects that can include things like support objects/mechanics, ability to play and have active many things/objects/structs/[struct-system] at a time ( a system of objects that work together)
+
+
+
+
+- use icons to pay for and support moves, actions, properties, interactions, abilities, effects, items, things, Adrion, passives, powers, [aynu], [aynu-things], ..., (more to develop), ... (and aynu-versions) (icons may or may not be consumed)
+
+
+
+-Some structs/cards/things can have powers, moves, abilities, traits, effects, things, ..., (more to develop), that work on use, can be linked to work in combination with other things and modify them, passively and continuously affect the game (while active), have permanent effects, trigger under special conditions, have special tags that result in special mechanics/systems/structures, ..., (many other kinds of mechanics or structure to develop), or do any other kind of thing in any kind of way or using any kind of mechanics, game-mechanics, or game-dev
+	- ex a passive power can reduce the cost of all your struct's skills by a certain amount of icons, or increase damage, or do any other kind of thing 
+
+
+
+-------------
+
+Pure Aynu:
+
+Need to develop collecting and trading gameplay where players try to collect objects that can be game played with and are useful in a game, usually Endos
+
+In addition, develop a pure aynu trading/collectible card game involving pure aynu objects (like Sylyn). Everything about the ccg/tcg will be coded in aynu, including the object's Endos game-mechanics, Endos gameplay, collectible card game-mechanics, [Aynu], Iulion, Adrion, [game-dev], [aynu-game-things], [aynu-game-world-things], and any other game-dev things, [aynu-game-dev], and anything else.
+
+i.e. players will try to collect pure aynu objects with much of the value coming from their aynu-code, aynu-data, data, text, sym, [aynu-things], and many other things. Create pure aynu tcg/ccg with everything needed to create, implement, [create the objects], [create all the entities that participate in the gameplay and make up the world], [create all the elements of the game-world and game-play, game-mechanics, game-systems, game-things, [aynu-game-things], [Iulion], [Adrion]], and run the tcg/ccg game and gameplay coded in aynu and part of the Endos game.
+
+
+
+All of the [game-dev], [aynu-game-things], [aynu-game-world-things], [Iulion], [Adrion], and anything else about the objects, the game, or anything about the objects and their relationship to the game, will be determined, created, developed, [aynu-created], implemented, [aynu-concept], and [aynu] by the aynu-code, aynu-things, aynu-data, [aynu-developed card/data-sheet]
+
+Every object in the pure aynu tcg/ccg is an Elu or a Sylyn and will have its own aynu-developed card/data-sheet that includes code for all its game-things, [aynu-game-things], [aynu], Iulion, Adrion, stats, game-powers, game-abilities, and anything else. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

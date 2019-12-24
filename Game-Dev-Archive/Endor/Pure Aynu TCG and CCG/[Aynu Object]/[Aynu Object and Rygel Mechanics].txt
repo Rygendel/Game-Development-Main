@@ -1,0 +1,31 @@
+Name: Sylyn
+
+
+[encode object, card, struct Mechanics and Rygel]
+[encode everything about the objects in the game here, and everything about how they work]
+[the Sylyn are the main objects that gameplay revolves around and that players will try to acquire as a kind of collection based gameplay: trying to acquire the Sylyn that the player desiresis the ultimate goal of gameplay]
+
+[can use the Sylyn to engage in any kind of gameplay]
+
+[everything about them is self-contained in their aynu-code; they can have any kind of game-things, [aynu-game-things], [aynu-game-world-things], [aynu], [Iulion], [Adrion], [game-dev], [game-properties], [game-characteristics], [game-mechanics], [game-systems], [game-function], [game-powers], [gameplay], ..., [more to develop], and anything else (including aynu-versions) and all of it is created and coded by the aynu-code contained in their data sheet/card and all of it is completely encapsulated and described by it; nothing else is needed other than the game-engines]
+
+
+[need to design a better system for creating the surrounding game-development documents, the objects themselves, and their structure and design]
+
+[need to design a better way to create the object's data-cheets/cards]
+
+
+[need to design a better way to determine and object's value, how good its stats are, what its code means, what game-things, [aynu-game-things], [aynu-game-world-things], [aynu], [Iulion], [Adrion], [game-dev], [game-properties], [-----], [game-descriptions], [things], [objects], [aynu-value], [aynu-effects], [aynu-stats], [aynu-data], [aynu-code], [aynu-game-powers], [game-characteristics], [game-mechanics], [game-systems], [game-function], [game-powers], [gameplay], ..., [more to develop], and anything else (including aynu-versions) it has, and everything else : develop a document/engine (coded in aynu) that assigns aynu-game-meaning to the objects in terms of aynu-concepts/theory; the objects only have meaning derived from aynu-concepts, and can only use an aynu-coded engine to give them that meaning]
+
+
+
+(more to develop; must eventually remove everything and only write things using aynu-code, aynu-text, aynu-symbols, [aynu], ...)
+
+(ultimately all of these descriptions are insufficient and only poorly approximate a description of the Sylyn, which transcend mortal description and can only be understood and created using aynu; which is why I must eventually remove everything written in English and only write things using aynu-code, aynu-text, aynu-symbols, [aynu], ...)
+...
+.
+.
+
+
+
+ 

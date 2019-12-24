@@ -1,0 +1,32 @@
+These are one of the main pre-constructed objects that players will want to acquire, the other being Tyrions. Most of the interesting theory comes from combining them. They can be developed somewhat along well-defined tracks, and combined in many ways.
+
+Collectable, tradable, purchasable and desirable/useful/good/hylia/lanayru for various things.
+
+Methods of acquisition:
+
+Purchase
+Trade
+Craft
+Achievement
+Special Task/Quest
+Pack
+Many other..
+Development
+
+Rarity:
+
+
+Stats for development:
+
+[stat1]: used to influence the flow of [combat1]
+[stat2]: used to influence state of battle
+[stat3]: used to summon things to influence battle
+[stat4]: used to attack/control others
+[stat5]: used to gain resources/things
+[tech-tree1]: abilities/effects used to create things for use
+[tech-tree2]: abilities used to enhance control over the flow of battle
+
+- can collect these structs, and build systems of them
+- these objects contribute the qualities they possess to the system
+- these systems of structs can then be used to engage and battle with others, interact with the world, and do many things
+- individual structs can be influenced by many things, including other structs, and can acwuire and develop stats and effects

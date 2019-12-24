@@ -1,0 +1,17 @@
+Mechanics/Gameplay
+
+Ex:
+
+- build structures to develop an economy
+- develop tech tree
+- develop powers/abilities
+- acquire aynu-structs
+- acquire, store, possess, and use items
+- acquire and use resources to power things or make things
+- acquire things to make you and your population [happy/satisfied/rewarded/elysion/[abstract good things]]
+- create units/army to fight others
+- battle for control of various [desirable/transcendentally good] things/objects/structs/items/relics/[abstract things]
+- any [transcendental] gameplay
+- [any type of abstract gameplay]
+- [any abstract mechanic]
+- [any thing/aynu-thing]

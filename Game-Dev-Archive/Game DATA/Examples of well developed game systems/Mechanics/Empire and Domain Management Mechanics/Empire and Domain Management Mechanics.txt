@@ -1,0 +1,69 @@
+- learn from endless legends; including a tech web where you can choose which techs you want to spend points researching; they unlock other techs, but its better to focus on the ones that are actually useful
+
+- resource, struct, unit, object, item and population/automata management: allocate power, resources, automa, units, items, mechs, objects, structs and many other things to make your civ-empire the best
+
+- allocate and manage things: has a spreadsheet like quality to it
+
+- can manage diplomacy, warfare, administration, provinces, production, trade, development, research, and many other gameplay mechanics/components/systems/models/Iulion
+- manage your own base
+- place this under "Empire and Domain Management Mechanics"
+
+- based on Endless legends; build your own Fantasy empire; each base empire has its own properties and special abilities; you develop your own empire and acquire things, artefacts, powers, production, resource-generation capacity, ability to make certain units/things/automata, build buildings to add effects and assign automata to things to use them, and much more
+
+- can go on quests, set your own goals and try to achieve them, do anything you want, try to control territory, build cities and much more
+
+- "has several factions, each with their own unique characteristics including appearance, units, abilities and play-styles"
+
+Endless Legends Description:
+
+Endless legend is a turn-based 4X strategy game, in which players take control of a fantasy faction to establish an empire through exploration, conquest, diplomacy and research.[3] The game is set in the land of Auriga, with the layout of its landmass and ecosystems being randomized per game, represented on a model-like map made up of a hexagonal grid. The map is populated with a variety of terrain, each made up ofbiomes within the world which have effects on the player's units. Tiles and their layout are all randomly generated to create a unique playable world with each separate playthrough. Fog of war covers the play space requiring exploration by the player's units to find resources and minor factions and races that players must utilize and exploit to benefit their growing empires. Unlike other 4X games, however, in Endless Legendthe world map is also formed of separate regions. Once a city has been established within the borders of a region for the first time, the entire region becomes part of a faction's territory and control. At the start of each game, each faction begins with a settler unit to establish their first city and region. Regions can only host one city each within its borders.[4]
+
+Players choose from one of eight factions, each with their own unique characteristics including appearance, units, abilities and play-styles:[3]
+
+Wild Walkers: Former forest dwellers who have harnessed magic to control and shape the natural world.
+Broken Lords: Knights of honor and chivalry who have lost their humanity, remaining as specters within their suits of armor.
+Vaulters: Great smiths and craftsmen who have lived in solitude underground for most of the history prior.
+Necrophages: A great hive mind of insectoid creatures that can spread plagues while infecting and controlling others.
+Ardent Mages: Sorcerers who warp their bodies and minds to achieve great magical power and sustained life.
+Roving Clans: Travelers and merchants from distant lands of a nomadic tradition.
+Drakken: An ancient dragon race whose longevity has made them a wise race of scholars and diplomats.
+Cult of the Eternal End: A fanatical cult that spreads influence on lesser races, mechanical in their appearance and thought, who wish to destroy the relics of the Endless, the advanced alien race that once counted Auriga among the planets under their possession.
+Faction controlled cities are used to generate resources, construct buildings and recruit armies. There are five different key resources each faction requires to remain stable and grow: food, industry, dust, science, and influence. Food is used to increase and sustain the population. Industry is used to produce units and buildings. Dust is the standard currency in Auriga. Science is used for research. Finally, influence is used for empire level actions, in which the player gains boons like boosted attack on units or additional resource gain. Influence is also required for diplomatic proposals with other factions. Resources are gained through the properties on game world tiles within a city's border, buildings the player has constructed and research. How much of a resource a city can gather is dictated a city's worker force, gained by its native population, which can grow. Workers are the main tool for gaining resources. They are placed to collect certain resources for the player, with more workers on a certain task gaining more resources. Another aspect of Endless Legend is progression of research. Research is cut into four areas within multiple eras. The four areas of research are military, science and industry, empire and expansion, and economy and population. Each aspect is intended to tailor the experience to the player and pushes toward that players specific goal of victory.[5]
+
+Cities are where armies are raised. Armies are composed of individual units spawned by the player, with different units types having their own abilities and uses in combat. Players move armies through an action points system. Each movement and interaction subtracts one action point until the counter hits zero, at which point no further actions can be taken.[3] The units are used for exploration, combat, diplomacy and questing. Units in an army can be outfitted with different equipment researched and purchased by the player or found. Acquired equipment can change the statistics of a units to the player's liking. Armies can also the include a hero, a powerful unit with the ability to gain skill points to temper the character to a player's play style.[5]
+
+Endless Legend also has a quest system where quests are found in the game world. Many of these are completed through the use of armies. Quests differ between factions and are the main source of story content throughout the game.[4] Completing all of the player's chosen faction's quests is also one possible the victory condition for a player. Armies can accomplish quests given by other faction for diplomacy points. Diplomacy is used to gain favor with other faction, and if enough influence points are gained alliances can be formed.[4] On the other hand, a declaration of war between the player and another faction can also occur if a player helps that faction's enemy. Outside of both peace and war, all players begin in a state of "cold war".
+
+There are eight win conditions in the game:
+
+Elimination Victory: No other faction is left alive.
+Score victory: having the highest number of overall points at the end of the 300th turn in a normal game.
+Expansion Victory: 80% of the map is claimed by a player.
+Economic Victory: in a normal game 555,500 Dust has been collected by a player.
+Diplomatic Victory: in a normal game collecting 3000 Diplomatic Points.
+Wonder Victory: the first player to complete all of their faction's quest and build the associated Wonder.
+Scientific Victory: the player must discover five of six technologies in the 6th era.
+Supremacy Victory: conquer all capitals on the map.
+
+- players can also make the game "open ended" meaning there is no set end and players can keep playing the game and doing things and roleplaying indefinitely, managing their empire and continually trying to do new things and develop and expand their empire indefinitely 
+
+Distant Worlds Universe Features:
+
+Truly Epic-Scale Galaxies: play in galaxies with up to 1400 star systems and 50,000 planets, moons and asteroids. Vast nebula clouds spiral out from the galactic core, shaping the distribution of star clusters in the galaxy
+Private Enterprise: the private citizens of your empire automatically take care of mundane tasks like mining resources, transporting cargo, migration between colonies, tourism and much more. This frees you from micro-management and instead allows you to focus on a macro-scale
+Intelligent Automation: automate the various tasks in your empire, so that you can focus on the areas that you enjoy most. Or have your advisors make suggestions in different areas like colonization, defence or diplomacy – helping you learn the best tactics and strategies
+Explore: explore the vast galaxy, discovering valuable resources, potential colonies for your empire and making contact with other empires. Uncover secrets that lift the veil on the galaxy’s mysterious past...
+Colonize: send out colony ships to found new worlds for your empire. Develop your new colonies by keeping them well-supplied with a steady stream of valuable resources
+Defend: patrol the outlying areas of your empire to protect from raiding pirates or dangerous space monsters. Construct defensive bases at your colonies. Build up your fleets to defend against enemy empires. Recruit troops to invade enemy colonies and conquer the galaxy!
+Diplomacy: interact with other empires, discussing treaties, making trade offers or just giving them a piece of your mind. Talk to pirate factions, tapping into their underground information, or paying them to do your dirty work for you...
+Espionage: covertly seek out information about other empires, or even disrupt their progress with acts of sabotage
+Research: develop new technologies for use in building your own unique ships and star bases
+Characters:  including Leaders, Admirals, Generals, Ambassadors, Governors, Agents and Scientists, all with defined skills and traits and the opportunity to advance and improve
+Design and Build: A very flexible system allows you to design and build the ships and star bases in your empire. Construct mighty military ships ranging from escorts to carriers and dreadnoughts at your space ports, or build mining stations, research installations or secret monitoring facilities at remote locations throughout the galaxy
+Choose your Playstyle: Start with a single planet and sub-light ships, or as an established space-faring civilization with warp drives.  Play as a Standard empire or as a Pirate faction, with many adjustable victory conditions and gameplay choices depending on your actions.
+Built-in Game Editor: fine-tune your own galaxy, adding or removing star systems, planets, asteroid fields, ships, star bases, space monsters or anything else. Modify the attributes of any empire in your game
+Extensive Help: exhaustive, built-in, context-sensitive help is always only a single key-press away. Press F1 at any time for a detailed explanation of the current game screen, your currently selected item, etc
+Tutorials: in-game tutorials familiarize you with all of the game elements and tools
+
+- all games are open ended, meaning the game-world lives on and continues to exist and live and move on, allowing the player to engage and play with the game mechanics/systems and gameplay in a fun and interesting way indefinitely, much like in real life and much like MMORPGs
+- there is a common persistent game-world that is constantly evolving and which players exist and play the main arch-game in

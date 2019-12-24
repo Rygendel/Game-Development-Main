@@ -1,0 +1,79 @@
+Everything about these structs transcends our ability to understand them or describe them in mortal words. They are completely determined by their aya, and their theory and everything to do with them is determined by the Tyros and abstract concepts. Ideas such as usefulness, which ones are "good"/valuable/desirable/powerful/win, and much more, are completely determined by these concepts, and they transcend our ability to understand them. Words can not do them justice, and only make them seem worse.
+
+Can't be described by mortal notions, words, or ideas. They are beyond our imagination.
+
+These notes will outline the structs, what they are, how they are built, and include a catalog and outline of their stats, and all other information pertaining to them.
+
+
+- combine aya using connecting symbols to create the data
+- combine data using connecting symbols to create structures, and put them in the components for structs (concepts like Eros, Alexios,...)
+- can create "free" structures by directly combining aya and attaching them to structs by putting them in their components (concepts like Eros, Alexios,...)
+
+ - detail the process of using aya to build intermediary constructs, and then describe how to use these intermediate constructs to build structs (they can add many different things which transcend our understanding)
+
+- these structures will ultimately be and do everything I desire. It will be fun to build different structs and collect structs and "play" and engage in games/combat/strategy games with them. Some will be better (in an abstract way that transcends understanding) than others in highly detailed, meaningful and structured ways that transcend our understanding. They will be and do and [abstract concept] many different things, all of which transcend our understanding.
+
+[may explain more about them later, but ultimately they will do everything I want, have enough [transcendental] meaning, structure, gameplay value, and value to make certain special ones desirable and make me happy]
+
+- players will want to acquire them through various methods, and will want to possess them and interact with them and engage in gameplay with them
+
+- players can customize their structs by developing them and acquiring special aya-built objects (listed in data) for them
+
+- these structs can be built from and developed using aya and special pre-built aya-structures (listed in "data")
+
+- players can use special aya-built objects and structures to build up their main structs
+
+- players can build up the structures, and then interact with and engage in gameplay with the things they have built
+
+- players can acquire the structs and the things needed to build through various methods including:
+	- buying the thing
+	- earning it by completing special tasks
+	- winning them through competitions
+	- special events
+	- special achievements
+	- hard work navigating a series of construction tasks
+	- solving puzzles
+	- completing quest lines
+	- competing in special games that use special battle structures to fight each other, and structs or sub-structs can be rewarded for completing certain achievements
+	- can also be rewards as part of a battle card game 
+
+- players can acquire access to a certain amount of special sub-structures ("data") and special aya-built things which they can then combine to build the struct. For example, the player can acquire 
+"[aya][aya][aya]::[aya][aya][aya][aya]" through some method. This object can then be used in a struct. Its entire essence is merged with the struct, so you can only use it once.
+- aya-structs can be built from both pre-built [aya-sub-structs] or directly from aya manually added and combined
+
+(1) you begin by "hatching your basic struct. For example:
+<Tyrion> [Ilyion] {
+}
+
+(2) Acquire some [Insert name of general aya-substructures used to build structs]. For example:
+ - [Azralon][Tyrael][Effelion][Azrafel][Tyrael][Elysion][Exodius]
+ - [Akaia][Atreus][Saida][Arkon][Deon][Julian]::[Wrathios][Lukaria][Eros][Arkon]
+
+(3) Combine it with your struct in whatever way you wish (allowing for some customization/differentiation):
+<Tyrion> [Ilyion] {
+--
+[Azralon][Tyrael][Effelion][Azrafel][Tyrael][Elysion][Exodius]
+--
+[Akaia][Atreus][Saida][Arkon][Deon][Julian]::[Wrathios][Lukaria][Eros][Arkon]
+--
+}
+
+or
+
+<Tyrion> [Ilyion] {
+--
+[Akaia][Atreus][Saida][Arkon][Deon][Julian]::[Wrathios][Lukaria][Eros][Arkon]
+::
+[Azralon][Tyrael][Effelion][Azrafel][Tyrael][Elysion][Exodius]
+--
+}
+
+or
+
+<Tyrion> [Ilyion] {
+--
+[Azralon][Tyrael][Effelion][Azrafel][Tyrael][Elysion][Exodius]::[Akaia][Atreus][Saida][Arkon][Deon][Julian]::[Wrathios][Lukaria][Eros][Arkon]
+--
+}
+
+(4) Continue to develop and interact with your structure in any way

@@ -1,0 +1,5 @@
+Write everything about the object class here.
+
+ex: Buildings: write about buildings, how they work, what kinds of effects they can have on gameplay (ex. manufacture items/units, generate resources, provide services, cast effects, and anything else, or have any other effect or use; similar to buildings in Age of Empires, Civilization, and Battle for Middle Earth)
+
+Also create template for object data files, and the engine for processing them and integrating them into gameplay, write everything needed to understand the objects (ike a wiki page) and implement them in the game (like the game code/engine).

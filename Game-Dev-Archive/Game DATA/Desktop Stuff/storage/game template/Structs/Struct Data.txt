@@ -1,0 +1,16 @@
+Data:
+
+[thing]:
+
+
+
+[thing]:
+
+
+
+[aynu-thing]:
+[aynu]
+
+
+[aynu-thing]:
+[aynu][aynu]

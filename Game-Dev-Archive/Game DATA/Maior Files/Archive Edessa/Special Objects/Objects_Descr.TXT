@@ -1,0 +1,6 @@
+Things to do
+
+ - Add more properties, and fully flesh them out for each type
+ - Add more of each type
+ - Describe how aeonar, immortal words and divine symbols are used, can be    combined, and more
+ - Describe their in-game importance

@@ -1,0 +1,23 @@
+Enemies:
+
+Common Enemies:
+
+Feral Sabrecat:
+Stats:
+Health: 40
+Strength: 10
+Defense: 10
+
+Possible Drops:
+Sabrecat Claw: 80%
+Sabrecat Fang: 30%
+Sabrecat Pelt: 40%
+
+
+
+Dungeon Bosses:
+
+The Maker
+
+
+The creator

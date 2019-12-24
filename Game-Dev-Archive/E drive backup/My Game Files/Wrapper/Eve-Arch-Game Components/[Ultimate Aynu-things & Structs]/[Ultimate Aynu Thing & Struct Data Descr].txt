@@ -1,0 +1,89 @@
+[Create a self contained description and data encoding of the Ultimate Aynu thing/struct (possibly renamed to megas) and its mechanics/value/meaning/power/gameplay/things]
+
+[include a description of its format/model/system and a template]
+
+[do everything in aynu]
+
+[add all the best things that will make players desire certain types of these objects with the right aynu data that satisfies their game-play desires based on the game engine and game mechanics and the way the data interacts with those mechanics]
+
+[these objects will ultimately do everything I want and more; there will be certain kinds of these objects that I will want to possess/collect/gameplay-with (collecting and possessing them is a form of gameplay; "creating a gallery of items/things/structs") and by collecting/possessing/gameplaying/gallerying them, I achieve my ultimate desire/goal/fulfillment/paradise; I achieve the ultimate thing I want and which goes beyond mortal description; can ony be expressed with the following aynu code: [aynu-code] ]
+
+[ultimately will be capable of simulating any kinds of gameplay; all gameplay components can be simulated]
+
+
+[encode everything I want and more using aynu-code]
+
+[the objects/structs themselves are made up of aynu-code and aynu-things; can only be understood through aynu-concepts and aynu-theory/mechanics that transcend our understanding and are implemented and encoded in the corresponding game engine and this file]
+
+[everything needed to understand/implement/create/possess/[everything] these objects and integrate them into a game is contained in the engine and data files, and the actual objects/structs themselves are in the inventory files; everything you could ever want about these objects is contained in these files/folders]
+
+[there is a lot of rich gameplay involved in trying to get the Ultimate Aynu Things/Structs you want, and developing them; just trying to acquire them provides a rich and fun gameplay experience, and new ones are constantly being released (players will generally not want to acquire all of the objects, different players will desire a small subset of the objects, but players will almost always be able to find something they want/desire/[abstract aynu-desire]); different types of players will want to acquire different kinds of things]
+	-> [many different types of games and game-play mechanics involved in acquiring Aynu things/structs; design some of them using concrete things; create most of them using Aynu-code and aynu-data-engines and aynu-data files]
+	-> create a template and system for creating aynu-things/structs and the game-play-things that allow you to acquire them as rewards
+
+- design way to code and create Aynu things/structs
+
+[aynu-descr]:
+
+
+[aynu-data]:
+
+
+
+[aynu-template]:
+
+[ Need to design the symbols and structure for the card/data-sheet/creation-sheet for the ultimate aynu thing/struct ]
+
+ex. (ultimately encode everything in aynu-code)
+
+Note:
+Develop stats/data and dev mechanics that allow players to develop any kind of thing, engage in any kind of development/building mechanic, and can impose any kind of constraint/rule/law/[thing that forces the mechanics and system/formula/model/world/reality of the gameplay and development-system to be interesting and have a rich theory]
+
+- can simulate any kind of aynu-game-system/model/formula/world/reality and development/struct-building mechanics/model/system/formula and can use special [things/data/stats/mechanics/aynu-things/theory] to make it aynu-interesting and have a rich and aynu-fun aynu-theory that players want to engage, play with, interact with, and be “immersed” in, and can have many different kinds of aynu-game-theory-things/types that different kinds of players may find interesting
+
+- any player will be able to find some ultimate aynu-thing/struct/Megas that they find [the ultimate/greatest aynu-thing, that having and game-playing with is the ultimate-aynu-gameplay-fun/[aynu-good-thing]/[aynu-thing]/aynu-fun/aynu-interesting/aynu-rich-theory/paradise and being the ultimate aynu-thing they desire to possess and gameplay with and engage in its game-play theory/world/reality above all else].
+
+- essentially create a coding/creation and data-sheet system for Ultimate Aynu-things/structs/Megas; as well as a system for building and developing them
+- create a system for developing/creating both their game-data/inventory/existence-soul-essence/[the data files that give their template as well as the files that "are" the Ultimate Aynu Megas/struct/item/thing] files, as well as a system for creating/building/developing them in game with game mechanics and gameplay (i.e. gameplay mechanics for actually, acquiring, possessing, interacting with, game-playing with, having game-play-fun, engaging in game-play things/combat, engaging in core game-things, using them in the game-world and having them attached to your account)
+- create their game-creation/acquisition/possession/development and game-play/interaction/world-life mechanics
+
+- create special mechanics for acquiring them; fun games/things and gameplay players can engage in and find fun; and from which they can receive Ultimate Aynu things/structs (and the things/powers needed to develop them) as rewards; motivates players to train to become good at and engage in these games/things/activities/mechanics to get the things they desire
+
+
+----------------------------------------------------------------------------------
+Copy mech description:
+
+
+
+
+---------------------------------------------------------------------------------
+[Name]:
+[Artwork]:
+[Meta-data]:
+[data]:
+
+[structured-data][encoded and described using aynu-code]
+
+[aynu-things]...
+
+<aynu-thing meta-data= ...> ... </aynu-thing>
+
+[Data-component]::[data-structured in an aestheticaly pleasing way][encoded and described here using aynu-code]
+
+<meta-data> [thing] { ...
+
+[describe the structure and everything else, and encode it, using aynu-code]
+
+}
+
+( formatting + data ......
+.
+.
+.
+)
+.
+.
+.
+
+[and many other things I have yet to design...]
+--------------------------------------------------------------------------------------

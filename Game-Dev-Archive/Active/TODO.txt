@@ -1,0 +1,56 @@
+TODO:
+
+- develop pet-structs and struct gameplay-mechanics/abilities/powers/things/[aynu-things]
+  - develop things like moves, skills, items, powers, gameplay-effects (like increased drop rate and increased rarity of items)
+
+- prepare documents for printing, create a strategy and start by adding titles/folder and document structure information to documents
+  -> example: if a document is called blahblahblah.docx make the title of the document blahblahblah and maybe add folder info
+
+
+- find a way to edit docx files: maybe purchase microsoft office/word
+
+
+------------
+
+- develop struct game-data and their game-effects, game-dev, aynu-game-things, [game-world-things], game-stat-effects-powers-things, game-systems, [aynu-game-mechanics/systems/[aynu-things]], [Iulion], [Adrion], behaviour, ..., [more to develop/aynu-develop], and anything else
+- everything should contain a complete description/text/data/code/writing of its game-dev, game-mechanics, game-systems and anything else about it, and everything needed to implement and create it in the game; game-structs and their game-mechanics and game-powers, ..., [more to develop/aynu-develop], and all other game-dev-things (including aynu-things) should be completely encoded in their document and not require external descriptions/engines to implement or create it in the game
+ex.
+
+[Exodia]:: {
+
+[stats]
+
+[game-play-effects]::
+
+[things]:: { game-data and their game-effects, game-dev, aynu-game-things, [game-world-things], game-stat-effects-powers-things, game-systems, [aynu-game-mechanics/systems/[aynu-things]], [Iulion], [Adrion], behaviour  }
+
+[thing]:: { a complete description/code/writing necessary to implement and create this thing and all of its [aynu-things], game-mechanics, aynu-game-mechanics, game-systems, game-dev, ..., [more to develop/aynu-develop] and anything else about it in the game }
+
+[aynu-game-dev]
+
+[Game-dev]
+
+[abilities]
+
+[items]
+
+[aynu-gam-data]
+
+[things]
+
+[Iulion]
+
+[adrion]
+
+...
+.
+.
+[more things to develop]
+
+[more aynu-things to develop]
+
+[more things to aynu-develop]
+
+}
+
+

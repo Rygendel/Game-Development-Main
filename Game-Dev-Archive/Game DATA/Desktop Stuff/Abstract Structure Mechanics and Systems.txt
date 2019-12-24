@@ -1,0 +1,100 @@
+
+- essentially create a system for creating abstract struct/object/things/[abstract things] classes, abstract struct-objects, and the game-systems, game-mechanics, game-worlds, game-theory they live and interact with to get meaning
+- can be used to create virtually any kind of game-thing/[game-abstraction-thing]/[game-aynu-thing]
+- create the basic core objects/mechanics used to do this, which are also game-things
+------------
+
+- items can interact and do/be things under a wide variety of game mechanics and system, virtually limitless freedom to [abstract game-play] with objects in any way desired
+
+- items can have pre-set actions/powers/values/effects that you can perform with them
+
+- can also customize/develop/create/extend special objects (And templates) to create special interactions/powers/effects/game-system-things
+
+- [can use special template and structure creation objects to develop any kind of abstract struct with any kind of [abstract thing/game] that has/is/[abstract symbol indicating some kind of abstract relationship]:
+
+	-->[abstract desire/want/enjoy/toy-desire/enjoy-playing-with/want-because-it-creates-a-game-you-utterly-and-forever-enjoy-playing/abstract-game-desire/abstract-thing]]
+	-->[abstract thing related to the abstract concepts I need to develop to do the things I want]
+	
+
+
+
+ - [can use special template and structure creation objects to develop any kind of abstract struct with any kind of [abstract thing/game]
+
+
+
+
+
+
+---------------------------------------------------------
+(need to find a better way to structure information sheets)
+Abstract Struct Creation system:
+
+objects:
+
+
+
+
+- [Abstract Struct Core: ]
+[design format for distinguishing properties and structure of each struct core]
+  - properties/components:
+    - 2 system sockets
+    - (data components) (structural use)
+
+
+(add objects that can be used to create structure classes (including meta-data and abstract mechanics/systems), templates and struct-objects and give them anything, game-play-things, game-play-actions, game-play-powers/value/[raiku-things]
+- abstract struct game component:
+	template:
+	packages:
+	meta-data:
+	data:
+	format:
+	[game-things]:
+	[game-actions/powers/effects/system-engagement]:
+	[special abstract components/data/essence/structure]:
+	[things]:
+
+ex.
+basic struct-class creation core:
+class name:
+meta-data:
+description:
+game-interactions
+game-system-things:
+game-things
+game-world-engagement:
+player-character and game-object interactions/actions:
+
+
+---------------------------------------------------------------
+
+
+ex. basic struct creation core: format 1:
+
+struct name
+meta-data
+[game-data]
+[game-system=things]
+[things; abstract-aynu-things]
+[ ... ]
+
+
+
+System creation Mechanics
+
+Core:
+
+Description:
+
+Corresponding struct data and how it interacts with the engine:
+
+
+
+
+ex.
+
+Computer-mechs:
+processor
+drives
+memoi
+data-controls
+attachments

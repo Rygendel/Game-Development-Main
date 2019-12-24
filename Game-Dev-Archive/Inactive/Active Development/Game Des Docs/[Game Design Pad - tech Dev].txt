@@ -1,0 +1,16 @@
+Game Design Pad - Tech Dev
+
+- tech/dev tree/web lets players develop the kinds of abilities/things/tech/dev/game-things their civ has access to
+- dependencies and restrictions on the number/kind/combinations of techs you can take require you to develop special "builds" for your civ
+  - take a subset of techs that you feel give you the best things you want
+  - take subsets of tech that give you access to the things you like/[enjoy to play]/[give you what you want]/[give you the ultimate thing you want out of gameplay and the game]
+  - for any kind of player, there are techs that give them the [game-things/Aynu/Iulion/Adrion] and [game-play/aynu-game-things] they desire
+- similar to character passive skill tree (like poe)
+- over time more techs are released and players are allowed to take more of the new techs which allows players to continually expand the techs/devs they have access to
+- techs can be related to special plots and events 
+
+- with the right combination of techs/devs, player's civs get access to certain kinds of items, Rygel, objects, abilities, buildings, structures, structs, game-things, game-mechanics, game-systems, game-play, Iulion, Adrion, [aynu-game-things], powers, behaviours, aynu-structs, properties, [aynu], [aynu-game-things], ..., [more to develop], ..., and many other things (and aynu-versions)
+
+- getting access to techs/devs may require doing special things, participating in special plots, completing special quests/things, engaging in certain kinds of gameplay, spending certain kinds of resources, meeting certain requirements, and many other things -> there are also restrictions on what kinds/combinations of techs/devs you can get, and there are data-structures that determine how this works
+
+-----

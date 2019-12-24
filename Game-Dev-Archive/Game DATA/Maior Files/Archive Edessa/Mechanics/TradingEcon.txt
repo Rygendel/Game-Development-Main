@@ -1,0 +1,41 @@
+Economy and Trading:
+
+Currency:
+
+There is one major type of currency, the gold Dinarius, and its subunits. In addition, certain other entities may serve as currency, such as gold
+
+
+
+Trading:
+
+Almost every item and currency may be exchanged with other characters.
+
+
+
+
+Shops and Vendors:
+
+List of Shops:
+
+Void Vendor:
+Wares: Can stock and sell anything.
+
+
+
+Trading House:
+
+Location where characters may trade or purchase almost anything.
+
+
+Resources:
+
+There are several types of resources:
+
+Paper
+Metals
+Crystals
+Minerals
+Herbs
+Dyes
+Arthenos
+Aeternae

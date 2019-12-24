@@ -1,0 +1,9 @@
+World Mechanics:
+
+- fully 3D world that players can walk in and explore
+- all objects, map features, structs, etc. have physical manifestations in the world that players can interact with
+
+- players can use "sandbox" controls for interacting wih things, or special pre-set action commands to interact wit objects in well-defined ways relevant to gameplay:
+	- to talk with another character, click on them
+
+- need to design the "action command" system that outlines how players can interact with the item in the game world; include some standard actions and an "Action box" that can contain special interactions/actions that you can do with an item (ex. a quest object can have special actions in the action box that has to do with the quest)

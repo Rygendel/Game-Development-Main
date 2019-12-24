@@ -1,0 +1,47 @@
+Sigils, Runes, Texts, Stilens, Symbols, Languages:
+
+
+Sigils
+There are many ways of encoding information.
+
+
+
+Stilens:
+Constructs that are used to encode information. Used to encode elegon.
+
+Symbols:
+
+Ki: { insert symbol here } 
+--
+Meaning:
+Aeleron:
+Data:
+
+
+
+Des: { insert symbol here } 
+--
+Meaning:
+Aeleron:
+Data
+
+
+Tel: { insert symbol here } 
+--
+Meaning:
+Aeleron:
+Data:
+
+
+Pharos: { insert symbol here } 
+--
+Meaning:
+Aeleron:
+Data:
+
+
+Kae: { insert symbol here } 
+--
+Meaning:
+Aeleron:
+Data:

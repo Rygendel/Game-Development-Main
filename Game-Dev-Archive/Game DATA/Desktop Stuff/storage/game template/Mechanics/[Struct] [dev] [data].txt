@@ -1,0 +1,31 @@
+[Struct] [Dev] [Data]:
+
+[In general, encode various mechanics/components/things/(abstract things) using aynu]
+
+[Dev Tree]
+
+
+[Tech] [tree]
+
+
+[Structure that can be built on your main struct]:
+
+
+[Ways in which these structures can be developed]:
+
+
+
+[Constraints]:
+
+
+
+
+[Resource and artefact acquisition]:
+
+
+
+[Item and aynu-thing acquisition]:
+
+
+
+[Goals/purposes/objectives]

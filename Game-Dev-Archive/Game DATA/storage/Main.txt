@@ -1,0 +1,181 @@
+Information Sheet For Main Struct:
+
+
+-------------------------
+TODO:
+- describe the core structs that make up the main struct
+- describe the system/theory/mathematics of the high structs, their stats, and abstract descriptors and struct builders
+- describe the stats relevant to acquiring high structs
+- describe combat, actions, abstract things that players want to do with their structs and the reasons for building them
+- develop abstract reasons/desire that motivate acquiring various objects
+- how to build things and acquire abstract structs
+- develop stats/structure of main struct - describe how it can be developed, acquire abilities/skills/[abstract powers]
+
+--------------------------
+
+Main Struct Determinants (determine the elementary properties of the struct):
+(influence stat development and other things, give special bonuses or penalties in various things)
+
+(some categories of these stats can easily be created, others require special achievements to unlock)
+
+Class:
+
+Type:
+
+Phyle:
+
+Order:
+
+Regnum:
+-------------------------------
+Core
+
+Descr: Sort of like the soul/machine, manages the essence of the struct and manages its components and gives it meaning, value, truth, the ultimate good thing. [Need to describe the theory, how it manages the components - uses processor, system structure]
+
+They form a system of structs that every Main struct possesses, and can be developed in a vast variety of ways that uniquely determine the struct and determine how "good"/great/valuable it is
+
+The basis of each of the core system structs is determined by the Type/Phyle/Order... data as well as initial factors decided on or earned by the player. They can be developed further through various means...
+
+Break it down into the different component structs (and describe stats of each component):
+Players can develop these main structs, describe their stats and the mathematics behind them. Can engage in various kinds of activities/battles/things, can do various things.
+  - [Instruction Decoder]
+  - [Interactor]
+  - [Data Manager]
+  - [Executor]
+  - [Formenos]
+  - [Salian]
+  - [Data Struct/Storage]
+-------------------------------
+Background Description:
+
+Story:
+
+Stats:  - type
+        - effect/talent trees
+        - battle stats
+        - influential stats
+        - skill/trade stats
+        - contest stats
+        - action stats
+        - Ko stats
+
+Directives:
+
+Scripts:
+
+Position:
+
+Influence:
+
+Force:
+
+Size:
+
+Love:
+
+{Goals}:
+
+Mikael:
+
+Adriel:
+
+Rygel:
+
+Resources Possessed:
+Baryon:
+
+Resource production:
+Baryon:
+
+
+----
+[High Structs] 1:
+(main things that allow for development for various purposes.)
+(structures can be developed for various reasons, competitions, things)
+(need to describe why they acquire/build/develop them, the theory and mathematics behind them, stats, structure, etc.)
+(can have varying rarity and difficulty of acquisition)
+(they can do many things, including helping to build other objects)
+
+Territory:
+
+[High Struct] Development Bases (each base allows for the development of struct, possibly with some bonuses or special features depending on the base)
+
+Space: (allows for the support of more major structs and minions, heros)
+
+[High Struct Development Stats]:
+
+
+------
+[High Structs 2]:
+
+
+--------
+
+Development Trees:
+
+
+-------
+Abstract Research
+
+
+--------
+Tyrion Stats
+
+--------
+Draemon Stats
+
+
+--------
+[Object Development Stats]
+
+Adrion
+
+Orpheon:
+
+Reveron:
+
+-------
+Abstract Struct Stats:
+
+(includes stats that determine your ability to acquire/build/possess/use/abstractly possess/ {abstract term encapsulating everything to do with possessing/owning/controling/having/using/doing})
+
+Lorien Points (used to develop them)
+
+Lorien Developments (allows access to special abstract structs and ways/things to develop them)
+
+Abstract Struct DEvelopment Tools:
+
+Abstract Struct Development Bases: (each base can be developed into a struct, each base has special innate traits that make the struct unique)
+
+Abstract Struct Development Points/Currency:
+
+Abstract Struct Development Resources:
+  - (list of elements which can be used to build aya-structs, including information       on what and how they can be used)
+
+Abstract Struct Inventory Size:
+
+Aya-components (used to build the abstract structs):
+
+Abstract Struct :
+
+Reveron: (stat which affects the ability to create aya-structs, gives access to many aya/things to make them better - Reveron can be used to directly create the greatest and best/most desirable structs independent of any other factors) -- (finish this, basically Reveron will be the most powerful way to build and acquire abstract structs, can be directly used to create them, and create the best, rarest, most (abstractly desirable/good/useful/happy/valuable/meaningfull/...)
+...
+
+Adrion: (like orpheon, but better)
+
+Orpheon: (like reveron, but better)
+
+-----
+Abstract Struct Inventory/Collection (abstract):
+(provides a system framework for managing your structs and harnessing them to do things, sort of like a deck for TCG card games)
+
+Abstract Struct Deck Structure:
+(sort of like a TCG deck, is a structure that can hold a limited number of structs, allows you to harness them and provides a framework for the player use them to do various things, battle foes, and do things that go beyond comprehension)
+(Slots: )
+
+- (list of abstract structs here, include all of their info)
+
+> struct SampleStruct {
+  [thing] < .. > :: 
+  [thing] < .. > ::
+} 

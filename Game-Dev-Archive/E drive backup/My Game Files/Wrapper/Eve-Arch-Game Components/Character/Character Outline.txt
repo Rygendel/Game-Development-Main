@@ -1,0 +1,63 @@
+Character:
+
+- characters have various stats/data that determine how good they are at certain parts of the game
+- player stats/things/items/structs can allow them to do certain things, participate in certain parts of gameplay, acquire things in the game
+- any part of the game can be influenced by or determined/accessed by stats/things/items/structs in some way
+- players can train their stats to make themselves better at certain things in the game; better stats make you better at certain things
+- players can improve their stats or change their values through various mechanics; ex. use of book/knowledge items or training schools (other items/mechanics exist as well)
+
+- characters can also equip gear or use items that make them better at certain things or allows them to do/acquire things
+- can use items/structs do certain things
+- items, things, structs, and stats can influence gameplay, and allow you to do/trigger/interact-with/acquire/gameplay-with various gameplay things 
+
+- need to design stats and gear and how they affect gameplay
+	-> ex. Coder's Gloves and Coder's Glasses make your a character a better programmer/codes/software developer in the game
+	-> can also improve your programming skill stat to make your character a better programmer or have access to special features/abilities/things
+	-> can also improve game creation stats to make your self a better game-creator or give yourself access to certain special features/abilities/things (ex. being able to make an MMORPG or add special features to the game, support more players, etc.)
+
+- stats can also be divided into sub-components (which can further be divided into sub-components) that can have their own additional values that determine your specialization within that stats and further details regarding your abilities in that stat component; overall just adds for data and detail about game-play effects; allows for the creation of more highly structured, detailed, and interesting gameplay
+	ex. A programmer could choose to focus on a specific area like game-design, graphics, AI, user interface, front-end, back end, database, etc
+		; could also focus on specific languages or technologies such as Java, Python, C++, Javascript, Node.js, etc
+
+- has a sandbox open-world "life/reality" simulator that allows players to do any kind of thing and develop the stats needed to do any thing within the open, free, game world (allows for a more wide ranging action-MMORPG experience)
+
+- there are many kinds of things players can build and develop using different mechanics, things, and skills
+	-> including different classes of structs, game-structures, game-progress, competition-skills, bases, personal-features, special customizable things, collections, things, and much more
+
+- can put on different clothing and gear, customize appearance and engage in cosplay, can equip and wear certain mechs, which can undergo the same crafting processes and development as other mechs, have their own stats, and can contribute to your powers, abilities, stats, etc, and give you special additional effects, and more (some components are similar to Path of exile gear, have special fixed modifiers and stats, as well as some partially randomized additional modifiers that can vary and can add any sort of modifier)
+
+- need to design character stats page:
+
+Appearance Customization:
+
+- can customize:
+	- race
+	- gender
+	- age
+	- physical appearance
+	- Cosplay
+	- Gear (including Mechs that double as wearable gear)
+
+
+
+Skills/Stats:
+	- Basic Stats
+	- Crafting Ability
+		-> Game Creation:
+			> Sub-components:
+	- Trade Abilities
+	- Profession Abilities
+		-> Programming:
+			Sub-components:
+				Languages:
+					> Java: 
+					> C++:
+				Database:
+	- Combat Abilities
+	- Collecting Hobbies
+	- Game Skills
+	- Desires/Goals
+	- Special Skills
+	- Special Abilities
+
+

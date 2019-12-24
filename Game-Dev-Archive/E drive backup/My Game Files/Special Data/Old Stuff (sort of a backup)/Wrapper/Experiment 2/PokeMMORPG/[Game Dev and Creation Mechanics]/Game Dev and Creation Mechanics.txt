@@ -1,0 +1,57 @@
+[Outline game development mechanics, within the arch-game][Create model and system for players to develop their own game-universe, game-laws, and game-objects/characters/things/features to populate it, and a standard system for integrating it into the arch game, and allowing other people to play it][allows players to create a sub-universe within the arch game where they have complete freedom to create any kind of game-world and game things, including aynu-things, that they want or desire or [transcendentally want/desire for transcendental reasons]][Create objects and game-systems to facilitate this]
+
+[add more info as I come up with it, mostly in english with a bit of aynu]
+[add anything I can think of to make this the greatest mechanic possible, give players the freedom to create anything they can [transcendentally imagine], in ways that go beyond my ability to describe]
+[make it possible for players to create things that go beyond my ability to describe]
+[[add any other things I can think of that do *great* things]]
+[add anything I can think of that is good here]
+[there are things I will never think of that are components of this mechanic]
+[find a way to implicitly code things I will never think of or be able to describe (that go beyond my ability to describe) and give them to this mechanic, probably using aynu]
+
+
+Players can create their own subgames that integrate with the game world.
+	-> items and objects they create for their subgames exist in the archgame and can be trade and manipulated just like any other item; can create custom objects
+
+
+
+------------------
+More Notes:
+
+- From phone:
+-> create game -world creation mechanics: a system where players can create their own game and gameplay system and world and allow themselves and others to create accounts and play in it
+-> can create any kind of system and data, such as combat, structs, items, info-sheet-cards, world, mechanics, characters, plots, stories, game-maps, etc.
+-> create coding language/system for this (probably using aynu and symbols)
+-> essentially creating "game-development" mechanics within the arch-game
+-> the creator can create all sorts of things/objects and give them to anyone, can give him/her-self ultimate power
+-> works within the arch-game and is integrated with it
+
+%%%%
+%Player-developed game-objects/things/items:
+-> create system for player-made things that can be developed and made part of the arch-game
+-> players can create customized objects for their game and manage/interact with them as they would any other object in the arch-game
+-> objects created by players would function as any other objects, but have things created by the player and have notes indicating that it's player created, what player made things it's a part of and notes describing it, its data, and all the customization/things the creator has given it, and essentially describing and implementing the object
+-> create system that allows players to create objects and encode/create/develop them in a way that allows them to be integrated with and interact with the arch-game in any way the creator specifies
+-> design special mechanics to create and integrate objects into the system
+-> create a system that allows players to create any type or class of objects, design any kind of gameplay model/system/mechanics that fully determines how these objects behave and interact in gameplay and in any kind of game-combat or game-life-simulation system, as well as to encode and create actually copies of these objects, and incorporate them into the arch-game in any way the creator desires and allow other people to play the game on a common platform, effectively creating an "MMORPG" game, or any other type of game with a common shared world, within the arch-game 
+-> has special game-code and aynu-code system that allows the player to encode and implement game-objects/structs
+
+
+------------------------
+- in keeping with the general philosophy of "itemization", create items, objects, and structures that are necessary and sufficient to do game development and engage in any aspect of game development, create any kind of game
+- these items have their own mechanics, and can be used to create any kind of game and anything you want to put in the game-world, and any kind of mechanics
+- these items can be used to do any kind of game development, and can create any game, including games that transcend my ability to describe
+- these items implement game development mechanics, and are sufficient to do any kind of game development, including games that transcend my ability to describe
+
+[Outline mechanics of the items used to perform game dev]
+
+List of items:
+
+- game development engine
+- game development [thing]
+- game development [tool] (a tool used in some way during game development)
+- game development [resource] (a resource that is used to produce parts of the game, objects in the game, game mechanics, things in the game, world-things in the game, characters, accounts, systems, forces, plot, combat-systems, gameplay features, or anything else for the game)
+- game development manual and language book (contains the language and code system used to create games)
+- game dev starting core (each game needs to be built around a core; the core is essentially a "blank canvas" on which you develop your game)
+- game development object core (each object you put in the game needs a core; the core is essentially a "blank canvas" on which you develop the object using the mechanics)
+- blank game cartridge (package all of your game-components into this object which you can reproduce and distribute to other players; putting your game onto the cartridge allows you to play the game on the gaming system)
+- gaming system (used to run games you develop)

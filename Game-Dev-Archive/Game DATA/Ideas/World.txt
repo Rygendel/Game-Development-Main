@@ -1,0 +1,23 @@
+Ea:
+
+The Universe, and everything in it. Sometimes used as the name for the creator.
+
+The map:
+
+Each point in the map is characterized by the following data fields:
+
+Co-ordinates: (x,y,z)
+Region:
+Terrain Type:
+Floor?:
+Wall?:
+Occupant:
+Features:
+Building?:
+Special Actions:
+Notes: 
+
+
+Existence:
+
+Reality:

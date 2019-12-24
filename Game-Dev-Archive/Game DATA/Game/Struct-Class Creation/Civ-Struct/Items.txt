@@ -1,0 +1,23 @@
+Items:
+
+These are a subclass of game-items that focus specifically on the civ-empire. Any item can be placed in a city for storage or use or interaction. Some items can affect the city and civ-empire gameplay.
+- design the mechanics surrounding items, draw inspiration from Neopets and Path of Exile (these mechanics will also apply to aynu-things and aynu-struct-items and the [Great Objects] and Megas)
+
+
+
+
+
+
+Catalogue:
+
+Name: Strange Attractor
+Meta-data
+[text]
+[Effect]: Boosts Population by []
+
+
+
+
+
+[thing]
+[effect]: Boosts [happiness/thing] of a single automata when given to it.

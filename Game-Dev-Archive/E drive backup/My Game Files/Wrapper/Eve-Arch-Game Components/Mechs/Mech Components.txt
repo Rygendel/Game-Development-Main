@@ -1,0 +1,13 @@
+- mech components work similar to skill gems in Path of Exile: each one has special powers that can be used when added to a mech, and they can be combined in a mech to create powerful combinations that affect each other, and can be supported by other mechanics such as a passive tree or gear
+
+
+ex: one mech component can use a powerful attack and a linked component can boost that attack or redirect it for some other use, or do any other kind of thing
+- a mech component can serve as a "trigger" that can activate other components
+- mech-thing/component effects/powers/things can interact with each other and create new and more powerful powers/effects/structures/things as a result of their combination
+
+- there are restrictions, constraints, and requirements on the components you can combine, the number you can use, and many other things; building combinations and structures of components and mech-things that satisfy the theory, mechanics, models, systems, [things], constraints and restrictions is a rich and complex mechanic with a rich theory
+	-> prevents players from being able to just get everything; players need to spend considerable resources getting the things they want
+
+
+
+- [write rich gameplay mechanics for mech components; partially based on Path of Exile Skill gem mechanics where players build combinations and systems of components/gems that work together and combine their powers to build an interesting model and structure, and can be modified by and interact with other mechanics and other systems/models/worlds/game-play-things]

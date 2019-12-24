@@ -1,0 +1,15 @@
+- create outline for civs, the basic structs of the civ-empire game-play system and model.
+
+ Need to create many different basic civs, each with their own special powers, attributes, units, buildings, specialities, things, and game-play focuses. Different civ may have different game-play focuses and allow for different play-styles and strategies. Players will choose which civ to base their empire on and develop their basic civ into an empire. Each civ has its own unique set of things, and players can chose the civ they feel best suits their own game-play desires. These civs exist within an mmo open-world.
+
+- each civ has a different set of properties/stats that make them unique, make their game-play different, and can have a different focus and play-style
+
+- civs cna differ in their basic stats, and its up to the player to choose which development path they take; some development paths are shared, others are unique to the civ
+
+
+
+[Karon] (trade based civ, has special units and bonuses for trade)
+
+
+
+[Arnor] (aynu-thing-acquiring based civ, focuses on acquiring special aynu-objects)

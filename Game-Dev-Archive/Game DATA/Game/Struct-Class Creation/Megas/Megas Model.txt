@@ -1,0 +1,25 @@
+Template And Structure of Megas
+
+
+- based around items in neopets and Path of Exile; can interact with these objects in any way and in many ways
+
+[aynu][aynu] (aynu-code)
+
+
+
+
+[Megas components]:
+
+
+
+[aynu-component]: 
+[aynu-information]
+
+
+[aynu-component2]:
+[aynu-information]
+
+
+
+
+

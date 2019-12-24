@@ -1,0 +1,27 @@
+Draemon:
+-------
+
+
+Outline:
+--------
+
+
+Structure:
+----------
+
+<Name>
+
+<General Structure [name/description to be determined]>
+- Use pre-determined aya-built things to set this up
+
+<Encoding/Built-up Structure and Development>
+- use special encoding techniques, players can use various mechanics to develop these, exchange things and accomplish tasks in order to develop this
+
+
+-----------------------------------------------
+
+
+
+
+Coding Technique:
+-----------------

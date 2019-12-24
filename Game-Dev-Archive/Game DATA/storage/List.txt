@@ -1,0 +1,35 @@
+Things to build:
+
+- Characters
+- Draemon
+- structs (the stuff in game.txt and abstract.txt)
+- Tyrions/objects
+- Sirions
+- Machines
+- World
+- background mechanisms/gameplay 
+- encapsulation of the game and a system
+
+
+[these objects transcend all description, but are given by approximations, and are used to provide the background for everything related to the game]
+- abstract concepts (including battle concepts): provide motivation/framework for structs to interact with, have value, engage in actions, and provide reasons for acquiring and using them
+  -> provides a way to make objects desireable, useful, and any other good thing
+
+- abstract classes: provide framework for interpreting data and giving the concrete data meaning
+
+- aya: basic objects used to build everything; what they are transcends all things
+
+
+- Describe the data and structs related to each structure (Characters/NPC, World, Items, Campaigns/Adventures/Story Arcs/Quests, Tasks/Things to do or collect/Achievements)
+
+
+Main Quest:
+(Story/Lore)
+
+Intro/First Encounters
+
+
+Secrets of the Old Gods
+
+
+Into the Void

@@ -1,0 +1,77 @@
+Design the stat and data value systems for these structs. This may include the substructure/development mechanics/[Iulian] for these objects.
+
+- essentially design the parts that make up each object, and the mechanics/[Iulian] by which they can be developed, trained, grown, etc.
+- these are the components that make up the struct and determine what it is and give it value, things, properties, attributes, physical appearance, anything and everything, meaning, Iulian, gameplay effects, gameplay-things, Gameplay powers, Adrion, make it possible for objects to achieve ryku 
+- and object's stats determine what kinds of things it can do in gameplay and how good it is at various gameplay-things and parts of gameplay (ex. combat)
+
+- anything can be created using the right data/stats, and everything in the game is completely determined by them
+
+- what these stats can do and are responsible for transcend mortal description and can only be described using aynu; but as a crude approximation, these data components are responsible for everything, they're mechanics govern everything, and they are responsible for everything
+	-> they are the "atoms" that make up the game world; anything can be encoded using the right data and stats; everything in the game is encoded using these stats, code, and data
+
+- ultimately this system of data, stats, and coding will allow me to create a rich and wonderful gameplay world with a rich theory and with many kinds of gameplay-objects/structs and where players can engage in any kind of gameplay they what with as much interesting components/mechanics/gameplay/Iulion as they want and where players can achieve ryku through any kind of game-play-thing/Iulion/Adrion or possessing any kind of Adrion they [abstractly desire]
+- this system of stats/data/coding will enable me to create the objects/structs that I want to possess and make me abstractly happy/Satisfied/ryku to possess; these are the ultimate things/Adrion that 
+	-> allows me to create the objects that I have been trying to create and possess for myself and which achieve [the ultimate thing or Asphodel] 
+	-> allows me to create the Asphodel Adrion objects/structs
+	-> allows me to create many different types of objects/structs that are Asphodel for many different types of players
+
+- this system of stats/data/code can be used to create classes of objects/structs that can engage in any kind of gameplay, including abstract-aynu gameplay that transcends mortal description and can only be encoded in aynu 
+
+- this system of stats/data/code can be used to create any kind of game worlds/models/mechanics/systems/formulas/models/Iulion/Adrion/Structs/Objects that can engage in any kind of gameplay, game-things, things, and abstract-aynu-things that transcends mortal description and can only be encoded in aynu 
+
+
+
+
+----------------------------
+
+general format::
+
+[name] :: [Description of data component and its game mechanics/things/models/systems/formula/Iulion/Adrion, and it what ways it makes things [aynu-game-good] and achieves ryku and any other [aynu-things/concepts]]
+
+[Name] :: [Aynu-encoded things]
+
+May split these data components up into their own pages
+
+- give each data component its own file outlining its mechanics/system/model/Iulion/Adrion/formulas/gameplay/game-things and everything else needed to fully describe, implement and create it in the game world and to be able to fully reproduce and describe how it works. Describe all of its gameplay, game-things, and aynu-things that transcend description and can only be encoded with aynu
+
+- some of these data components will have aynu-things and aynu-theory that transcend mortal comprehension and can only be encoded using aynu-code
+
+- develop the data components, their gameplay, Iulion, Adrion, development mechanics, models, game-things and everything else about them and their aynu- concepts and aynu-things that transcend mortal understanding and can only be encoded in aynu
+
+- develop their gameplay, game-mechanics, complete game-world/reality interactions/things/essence/Iulion/Adrion
+
+- ex: for the "dev graph" component, describe its mechanics, including the structure and nodes of the tree itself, how choosing nodes on the tree works, how their effects apply, what the effects of each node are, how you can spend points to take nodes on the graph, how socketing jewels in the dev tree to dynamically change it, how do you mak emodifications to the tree, and many more mechanics
+	- players take nodes on the graph, and the effects of each node are added to the character to which the graph is associated; players can spend "regret points" to remove chosen nodes and receive the points spent as a refund, with the restriction that the graph of their chosen nodes must still be connected, and note that regret points are acquired by using an orb of regret, which is an item that can be consumed to generate one regret point
+
+- can use a variety of data structures for the data components and their  mechanics/system/model/Iulion/Adrion/formulas/gameplay/game-things page
+
+- certain stat components can take on a wide variety of values, including abstract values, aynu-coded values. Then the gameplay mechanics that use that stat take that value and any other relevant values/systems/functions/models and inputs them into a function to determine what game-things happen
+	-> ex. in combat take your own and your opponents combat powers into account; in a shooter take the gun's parameters (power, range, explosiveness, deadliness of ammo, position, aim, trajectory, physics, etc, opponents position, movement, body armour, etc.)
+
+-----------------------------
+
+Example Page:
+-------------------
+[Name]:
+
+[ 
+- mechanics/system/model/Iulion/Adrion/formulas/gameplay/game-things and everything else needed to fully describe, implement and create it in the game world and to be able to fully reproduce and describe how it works. Describe all of its gameplay, game-mechanics, game-things, and aynu-things that transcend description and can only be encoded with aynu
+
+- develop their gameplay, game-mechanics, complete game-world/reality interactions/things/essence/
+iulion/Adrion
+]
+
+
+------------------------------
+
+
+
+Data Components and Mechanics/Adrion/Iulian:
+
+[Wrathion]:: [Main data encoding many of its gameplay-things and aynu-game-things; written in aynu]
+
+[Sylyn]:: [Uses special data structure; players need to acquire points to spend to add things to this data component]
+
+[Carnaeron] :: 
+
+[Dev graph]:: [A graph where players start at a certain node and can spend dev points to get nodes on the tree that give them things or have effects on their game-things] [ex. Player character dev tree is such that nodes taken give bonuses to the character] [ nodes taken must be connected] [there are similar dev graphs for most types of structs/game-files]

@@ -1,0 +1,9 @@
+[Implement aynu-things here]
+
+[Aynu thing]::
+
+{
+[aynu-things and data go here, format and style are used to encode structure]
+
+
+}

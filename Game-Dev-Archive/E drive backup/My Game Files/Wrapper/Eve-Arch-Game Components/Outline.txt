@@ -1,0 +1,2 @@
+Base many of the game mechanics on Eve, but make it even better and add new things as well
+- take data about the EVE online from sources and use them to craft this game

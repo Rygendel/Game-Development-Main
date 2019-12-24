@@ -1,0 +1,25 @@
+[Object basic Data]
+
+[Description of object/struct class, system, type, and more (game-theory and game-mechanics of entire group/classification/type of objects/structs)]
+
+[Object main Data]
+
+[Describe object data structure]
+
+[Describe and data/game-things for entire category of objects]
+
+[then develop components/data/[aynu-data]/[aynu-code/symbols]/[aynu-text-things]/[aynu-glyphos-things]/[aynu-game-code/file-writing-document-things]/things/properties/things/[aynu]/[Iulion]/[Adrion]/[game-things]/...[more to develop] that define/characterize individual objects/structs/[Rygel]/[Adrion]/[aynu]/...[aynu-game-things]/[more things to develop]]
+  [these are the things that give the objects all the interesting game-things that can make them game-desireable and give them life in the game, and make the game dynamic and interesting]
+[describe concretely what they do/are/[aynu]/[aynu-theory-concept]:     ... ]
+
+...
+.
+.
+[more to develop]
+
+[need to eventually redo this completely to write down some actual game data]
+
+[this should contain all the data needed to understand and create the game; this is the game and needs no additional documentation or source code, this contains all of that]
+
+[need to develop the ultimate thing I wrote down in some other file and need to develop further and write more code for it and write more things in its data-components, and write more [data/aynu-data/aynu-things]/[aynu]/[aynu-data-components] for it]
+

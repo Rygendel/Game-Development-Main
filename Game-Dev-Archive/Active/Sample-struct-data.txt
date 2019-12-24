@@ -1,0 +1,99 @@
+﻿Basic Data:
+
+
+[need to actually develop this: this will be the basis for structs I will actually develop and use in gameplay and develop real gameplay for (or create as stand-alone things that can be incorporated into any gameplay and used in any roleplaying campaign-type continuous persistent open-world-sandbox-universe/alternate-reality gameplay): these will form the basis for "pet-structs" and collecting the "pet-structs" and [aynu-theory-game-playing] with the "pet-structs" I desire/[aynu-theory-struct-want-desire/[transcendental desire]] will be the [ ultimate Elysion/aynu-desire/[transcendental-love-desire-thing] that I need to find and encode a good writing/description/aynu-encoding using both regular and aynu-code and integrating things from previous documents/writing ... (more to develop) ], and my ultimate source of happiness and elysion/fun in playing this game and will cause me to have/achieve the [ultimate-thing/aynu-thing I want from game-development] and the following:
+
+
+[ultimate thing]:
+[does the ultimate game-dev-thing I want out of game-development]...[need to write more about the ultimate thing and create a standard description of it using stuff I've previously written plus new stuff I develop]
+
+
+
+
+
+
+- icons: different structs can have access to different types of icons and in different numbers, which affect what types of things they can do/use/have/be/...
+
+
+- structs will have ~5 aynu-data-components, which can acquire and take [aynu-valued] stats
+  - these aynu-stats will have [aynu] as values, can acquire and train for different kinds of aynu-values, can acquire more, and can be used to affect [aynu-gameplay-things] or concrete gameplay (like the tactics/RPG/civ-empire/neopets-like/.../[any other game]), or [any other game-dev-thing]
+- the [aynu-data] for each stat will have a special structure that will mean something and will be used to give [aynu-game-dev-meaning/theory] to the data values that gives them [game-play-dev-things]
+- [develop more about aynu-values stats and data-structure components]
+
+
+  -> example: [Orpheos]: { [eru], [rygel], [azrafel] }
+
+
+
+
+- structs can also acquire [aynu-objects/Rygel/structs] which are things which can be equipped/possessed and which can have arbitrary free-form aynu-data-structures and which can be used in aynu-gameplay or concrete gameplay
+
+
+- structs will have their own "character-data-sheet/folio" which will contain all kinds of data/code/writing/[aynu-code] that encodes/creates [concrete-game-dev-things]/[aynu-game-things]/[transcendental aynu-theory-things that do everything I want for game-dev]/game-powers/game-properties/[game-things]/[code/writing/stats/data/[aynu]/[aynu-code]/[aynu-writing]/[aynu-sym] that determines how the struct interacts with certain game-dev-things/mechanics/systems (or aynu-versions)]/.../[more to develop] which can be developed in any way to allow the struct and its mechanics/systems/[acquired-game-dev-things] to engage in any kind of roleplay/game/game-dev-things/[aynu]/[aynu-theory-game-things]/[transcendental-aynu-theory-things that encode everything I want/desire/elysion/[aynu]/[ultimate aynu-thing I want and need to finish developing] ]/gameplay/[aynu-game-play]/[aynu-game-mechanics/systems/struct-things]/[aynu-game-play-things]/.../[more to develop]
+  -> these things can be incorporated/used/[aynu-theory-thing]/[aynu-theory thing expressing the ability to game-play with dertain things in a particular game-thing I need to develop and code using aynu] in any game-dev-thing/[aynu-game-thing]/game/[aynu]/[roleplay-game-thing]/[game-campaign-context-thing]/[subgame-dev-thing], including things developed by players
+  -> can be used in subgames, campaigns, roleplay, [aynu-sub-games], and anything else including things developed by the player
+
+
+- [develop more about these "free-form" aynu-game-objects/Rygel" and what they can do [which is any aynu-game-theory-thing] in the game-world and [aynu-game-dev-world]
+
+
+[Need to develop aynu-stats, items, Rygel, and all other components of the struct that are encoded purely in aynu and write a pure-aynu game-dev-code/engine/document] that describes, encodes, creates, and implements every thing and every [aynu-theory-game-dev-thing] and anything else [more to develop] about them in the game
+
+
+- each stat/data-component/Rygel/[aynu-thing]/[aynu-data-thing]/[aynu-item-thing] comes with its own set of mechanics/systems/[aynu-game-things]/[aynu]/[aynu-theory-things] that can be applied/used/[aynu]/[aynu-theory-thing] in a wide variety of game-dev-things, gameplay, game-scenarios, games, contexts, game-things, campaigns, situations, and anything else
+
+
+example aynu-stat/data component:
+
+
+[Orpheos]
+
+
+[pure aynu-data/code that describes, encodes, creates, and implements...
+
+
+[ultimate thing]:
+[does the ultimate game-dev-thing I want out of game-development]...[need to write more about the ultimate thing and create a standard description of it using stuff I've previously written plus new stuff I develop]
+
+
+-------------------------
+
+
+Example struct:
+
+
+[struct-name] :: {
+
+
+[Icons]
+
+
+[concrete-stats]
+
+
+[aynu-stat]
+
+
+[aynu-stat]
+
+
+[Orpheos]
+
+
+[aynu-stat]
+
+
+[aynu-stat]
+
+
+[Items]
+
+
+
+
+[aynu-structs/Rygel]
+
+
+
+
+}

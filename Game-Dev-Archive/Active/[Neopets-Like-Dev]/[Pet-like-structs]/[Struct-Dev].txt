@@ -1,0 +1,220 @@
+[Struct Dev]::
+
+Note: stats -> game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop]
+
+
+--------------------------------------
+- add [aynu-Elysion-things] and [ultimate game-description/code/writing/information/text/data-struct/[aynu-theory-writing/code/script] that is/has/[gives the struct] all of the things, [aynu], [aynu-theory-things], game-play-things, [aynu-game-things], [aynu-game-possessions], [aynu-game-data-structs], [aynu-game-powers], [all the best aynu-theory-things/properties], [Iulion], [Adrion], [Rygel], [aynu-game-happiness], [aynu-Elysion-things], [aynu-game-desire-things], [aynu-Eros], [aynu][aynu][aynu]...[more self-meaningful aynu-theory-code], ..., [more to develop], including all of the [ultimate things], and everything I want/desire/Elysion/[aynu-theory-desire/happiness/paradise-derive] from game-dev and game-things/rygel -> this code will encapsulate all of this and by giving this code/writing to a struct, make it the best, most powerful, [any other good things], [all good/best aynu-theory-things], ..., [more to develop], and most [aynu-valuable] thing in the game and make collecting, possessing, [any other game-play-thing], ..., [more to develop] and game-playing with it the thing that causes me to achieve [the ultimate satisfaction/happiness/paradise/firdaws that I want to achieve from game-development and playing games (more to develop)] and [the ultimate and best aynu-description/writing I desire the most above all else and that gives me everything I desire from game-dev and playing games that I need to copy from certain other files] to certain game-structs to make them the ultimate things and the best, most powerful, [any other good things], [all good/best aynu-theory-things], and most [aynu-valuable] thing in the game and make collecting, possessing and game-playing with it the thing that causes me to achieve [the ultimate satisfaction/happiness/paradise/firdaws that I want to achieve from game-development and playing games (more to develop) ]
+(need to develop the above further -> create aynu-code/writing that is, has, encapsulates and creates everything written above)
+
+
+----------------------------------------------------
+
+Catalogue of effect/struct-dev-structs:
+
+examples of effects:
+
+- [can do anything]
+
+- [can do [thing expressed in game-code/aynu-game-code]]
+
+- [any and all [aynu]/[aynu-thing]/[aynu-game-thing]/[aynu-game-dev-thing]/[aynu-theory-thing]]
+
+- [can create anything]
+
+... [more to develop]
+
+----------------------------
+
+Struct-dev-structs:
+
+How they work:
+
+Struct-dev-structs contain game-dev-code that endows the game-struct that possesses it with some [game-thing]/[game-dev] (or aynu-versions). For example there can be a struct-dev-struct that contains game-dev-code that enables the struct to create or do anything, transform into anything, gain control of a target, automatically win at anything, or anything else, or anything expressible with pure aynu-code.
+
+
+example:
+
+1.
+[Coronis]::{
+
+[description]::{ [aynu-theory thing expressed in [aynu-code]] }
+
+[pure aynu-game-dev-code]:: { [pure aynu-game-dev-code] that allows the struct to [aynu-theory thing expressed in [aynu-code]] in the game  } 
+
+-develop [data components for flavour (such as appearance, special traits, game-world-effects, features, special physical traits, and many other things, ways to make it pretty or look "cool"/good/badass/dragon-like/ninja-like/rogue-like/[any other thing]-like, allow for customization and style or any other desired things, and allow the player to develop their struct in any way they desire)]
+ 
+[any other stats/data-components/data-structures/data/[aynu-game-dev-code-data/writing/things] that can affect gameplay and the game-world in some way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop]. Stats/game-data/game-struct-theory-things/data-structures/game-writing/game-dev-data/game-dev-code/data/[aynu-game-dev-data]/code/writing/[game-dev-writing]/.../[more to develop] that affect the game and game-world in any kind of way or have any kind of game-mechanics/game-systems/[game-things]/[game-dev] can be developed and new ones are constantly being added. Can develop and acquire stats/game-dev-data/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] that affect the world in any kind of way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop], and new ones are constantly being developed. Can acquire these stats/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] and develop your pet to have them as part of gameplay][players can develop (and give to their pet-structs/game-structs) these game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop]-things to give their structs any gameplay/game-world effect or game-mechanics/game-systems, properties, traits, behaviours, powers, [things], [game-dev-things], [aynu-game-dev-things], skills, [game-world-dev], devices, abilities, possessions, [Iulion], [Adrion], [aynu-theory-things], [aynu], …, [more to develop], and any other things (or aynu-versions) they desire/[aynu-theory-desire/want/happiness]]
+
+
+[more stuff to develop]...
+
+
+}
+
+
+2.
+[Daeros]::{
+
+[description]:: { Can do or create or [aynu-theory-thing] anything }
+
+[game-dev]:: { game-dev code that enables/creates/gives a struct the ability to [do or create or [aynu-theory-thing] anything] in the game, with an explicit encoding of how the mechanic works and can be used, and the creation of the actual mechanics, game-thing, [Iulion], [Adrion], [aynu-theory-game-thing], and game-system (and aynu versions/things) that creates the ability to [do or create or [aynu-theory-thing] anything] in the game }
+
+-develop [data components for flavour (such as appearance, special traits, game-world-effects, features, special physical traits, and many other things, ways to make it pretty or look "cool"/good/badass/dragon-like/ninja-like/rogue-like/[any other thing]-like, allow for customization and style or any other desired things, and allow the player to develop their struct in any way they desire)]
+ 
+[any other stats/data-components/data-structures/data/[aynu-game-dev-code-data/writing/things] that can affect gameplay and the game-world in some way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop]. Stats/game-data/game-struct-theory-things/data-structures/game-writing/game-dev-data/game-dev-code/data/[aynu-game-dev-data]/code/writing/[game-dev-writing]/.../[more to develop] that affect the game and game-world in any kind of way or have any kind of game-mechanics/game-systems/[game-things]/[game-dev] can be developed and new ones are constantly being added. Can develop and acquire stats/game-dev-data/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] that affect the world in any kind of way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop], and new ones are constantly being developed. Can acquire these stats/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] and develop your pet to have them as part of gameplay][players can develop (and give to their pet-structs/game-structs) these game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop]-things to give their structs any gameplay/game-world effect or game-mechanics/game-systems, properties, traits, behaviours, powers, [things], [game-dev-things], [aynu-game-dev-things], skills, [game-world-dev], devices, abilities, possessions, [Iulion], [Adrion], [aynu-theory-things], [aynu], …, [more to develop], and any other things (or aynu-versions) they desire/[aynu-theory-desire/want/happiness]]
+
+
+[more struff to develop]...
+
+
+}
+
+
+
+
+---------------------
+
+Template:
+
+[name]: {
+
+[description]::
+
+[game-dev]: { code to implement and create the effect-struct and all of the things/powers/[aynu-game-theory-things]/[game-mechanics/game-powers] a struct gets from having it. Creates everything about the thing and all of its properties, behaviours, powers, things, game-dev, game-systems, aynu-theory-game-things, [Iulion], [Adrion], [aynu], game-mechanics, game-world-mechanics, game-world-dev, ..., [more to develop], and anything else (and aynu-versions) about the effect/ability/power-struct in the game } {more to develop}
+
+[aynu-game-code]: { code to implement and create the effect-struct and all of the things/powers/[aynu-game-theory-things]/[game-mechanics/game-powers] a struct gets from having it. Creates everything about the thing and all of its properties, behaviours, powers, things, game-dev, game-systems, aynu-theory-game-things, [Iulion], [Adrion], [aynu], game-mechanics, game-world-mechanics, game-world-dev, ..., [more to develop], and anything else (and aynu-versions) about the effect/ability/power-struct in the game } {more to develop, but everything is in aynu-code}
+
+[thing]
+
+[more things] ...
+
+[aynu-game-code]::
+
+[aynu-game-dev]::
+
+[aynu]
+
+- develop [data components for flavour (such as appearance, special traits, game-world-effects, features, special physical traits, and many other things, ways to make it pretty or look "cool"/good/badass/dragon-like/ninja-like/rogue-like/[any other thing]-like, allow for customization and style or any other desired things, and allow the player to develop their struct in any way they desire)]
+ 
+[any other stats/data-components/data-structures/data/[aynu-game-dev-code-data/writing/things] that can affect gameplay and the game-world in some way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop]. Stats/game-data/game-struct-theory-things/data-structures/game-writing/game-dev-data/game-dev-code/data/[aynu-game-dev-data]/code/writing/[game-dev-writing]/.../[more to develop] that affect the game and game-world in any kind of way or have any kind of game-mechanics/game-systems/[game-things]/[game-dev] can be developed and new ones are constantly being added. Can develop and acquire stats/game-dev-data/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] that affect the world in any kind of way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop], and new ones are constantly being developed. Can acquire these stats/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] and develop your pet to have them as part of gameplay][players can develop (and give to their pet-structs/game-structs) these game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop]-things to give their structs any gameplay/game-world effect or game-mechanics/game-systems, properties, traits, behaviours, powers, [things], [game-dev-things], [aynu-game-dev-things], skills, [game-world-dev], devices, abilities, possessions, [Iulion], [Adrion], [aynu-theory-things], [aynu], …, [more to develop], and any other things (or aynu-versions) they desire/[aynu-theory-desire/want/happiness]]
+ 
+----
+
+develop [data components for flavour (such as appearance, special traits, game-world-effects, features, special physical traits, and many other things, ways to make it pretty or look "cool"/good/badass/dragon-like/ninja-like/rogue-like/[any other thing]-like, allow for customization and style or any other desired things, and allow the player to develop their struct in any way they desire)]
+ 
+[any other stats/data-components/data-structures/data/[aynu-game-dev-code-data/writing/things] that can affect gameplay and the game-world in some way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop]. Stats/game-data/game-struct-theory-things/data-structures/game-writing/game-dev-data/game-dev-code/data/[aynu-game-dev-data]/code/writing/[game-dev-writing]/.../[more to develop] that affect the game and game-world in any kind of way or have any kind of game-mechanics/game-systems/[game-things]/[game-dev] can be developed and new ones are constantly being added. Can develop and acquire stats/game-dev-data/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] that affect the world in any kind of way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop], and new ones are constantly being developed. Can acquire these stats/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] and develop your pet to have them as part of gameplay][players can develop (and give to their pet-structs/game-structs) these game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop]-things to give their structs any gameplay/game-world effect or game-mechanics/game-systems, properties, traits, behaviours, powers, [things], [game-dev-things], [aynu-game-dev-things], skills, [game-world-dev], devices, abilities, possessions, [Iulion], [Adrion], [aynu-theory-things], [aynu], …, [more to develop], and any other things (or aynu-versions) they desire/[aynu-theory-desire/want/happiness]]
+ 
+ 
+
+
+---- 
+
+
+...
+
+[more to develop]
+
+
+}
+
+
+example:
+
+[Iluvatar]:: {
+
+[description]:: { [Can create or do anything] }
+
+[game-dev]:: { [actual game-dev-code that gives, describes, creates, [aynu], [aynu-theory-things], and implements the necessary game-dev, game-mechanics, properties, behaviours, powers, things, game-dev, game-systems, aynu-theory-game-things, [Iulion], [Adrion], [aynu], game-mechanics, game-world-mechanics, game-world-dev, ..., [more to develop], and anything else (and aynu-versions) to allow this struct to fulfill its description and specification, in this case this stuff creates the game-dev, aynu-game-dev, game-mechanics, game-systems, [aynu], [aynu-theory-things], ..., [more to develop], and anything else necessary to give this struct the ability to do or create anything, do [thing expressed in game-code/aynu-game-code], and do/[aynu]/[aynu-theory-things] any and all [aynu]/[aynu-thing]/[aynu-game-thing]/[aynu-game-dev-thing]/[aynu-theory-thing] [i.e. put description here to make it the ultimate thing I desire from game-development and copy all ultimate-desire-descriptions/text/writing/code here]
+
+[thing]
+
+[more things] ...
+
+[aynu-game-code]::
+
+[aynu-game-dev]::
+
+[aynu]
+
+
+- develop [data components for flavour (such as appearance, special traits, game-world-effects, features, special physical traits, and many other things, ways to make it pretty or look "cool"/good/badass/dragon-like/ninja-like/rogue-like/[any other thing]-like, allow for customization and style or any other desired things, and allow the player to develop their struct in any way they desire)]
+ 
+[any other stats/data-components/data-structures/data/[aynu-game-dev-code-data/writing/things] that can affect gameplay and the game-world in some way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop]. Stats/game-data/game-struct-theory-things/data-structures/game-writing/game-dev-data/game-dev-code/data/[aynu-game-dev-data]/code/writing/[game-dev-writing]/.../[more to develop] that affect the game and game-world in any kind of way or have any kind of game-mechanics/game-systems/[game-things]/[game-dev] can be developed and new ones are constantly being added. Can develop and acquire stats/game-dev-data/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] that affect the world in any kind of way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop], and new ones are constantly being developed. Can acquire these stats/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] and develop your pet to have them as part of gameplay][players can develop (and give to their pet-structs/game-structs) these game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop]-things to give their structs any gameplay/game-world effect or game-mechanics/game-systems, properties, traits, behaviours, powers, [things], [game-dev-things], [aynu-game-dev-things], skills, [game-world-dev], devices, abilities, possessions, [Iulion], [Adrion], [aynu-theory-things], [aynu], …, [more to develop], and any other things (or aynu-versions) they desire/[aynu-theory-desire/want/happiness]]
+ 
+
+
+
+...
+
+[more to develop]
+
+}
+
+
+
+
+
+
+-------------------------
+
+[Aynu-coded game-dev/game-struct-things/[aynu-theory-game-dev]/[aynu-game-powers]/[aynu-game-things]/.../[more to develop]]:
+
+- ... [more to develop]
+
+[Aynu-code effects/game-dev/struct-game-things/[aynu-struct-game-dev things]/.../[more to develop]]
+
+[aynu][...][aynu]:: { [aynu game-dev-code here which encodes all of the aynu-game-theory things necessary to fully implement and create this aynu-thing in the game and what it does to a struct and what a struct gets from having this aynu-game-dev]
+
+[aynu]::{ [aynu-game-dev-code] }
+
+ex.
+
+[Tyrion][Sirion][Keraunos]:: {   [aynu][aynu]::[aynu]-[aynu]>>[aynu]...
+
+
+----
+Also create aynu-versions of the following:
+
+develop [data components for flavour (such as appearance, special traits, game-world-effects, features, special physical traits, and many other things, ways to make it pretty or look "cool"/good/badass/dragon-like/ninja-like/rogue-like/[any other thing]-like, allow for customization and style or any other desired things, and allow the player to develop their struct in any way they desire)]
+ 
+[any other stats/data-components/data-structures/data/[aynu-game-dev-code-data/writing/things] that can affect gameplay and the game-world in some way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop]. Stats/game-data/game-struct-theory-things/data-structures/game-writing/game-dev-data/game-dev-code/data/[aynu-game-dev-data]/code/writing/[game-dev-writing]/.../[more to develop] that affect the game and game-world in any kind of way or have any kind of game-mechanics/game-systems/[game-things]/[game-dev] can be developed and new ones are constantly being added. Can develop and acquire stats/game-dev-data/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] that affect the world in any kind of way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop], and new ones are constantly being developed. Can acquire these stats/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] and develop your pet to have them as part of gameplay][players can develop (and give to their pet-structs/game-structs) these game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop]-things to give their structs any gameplay/game-world effect or game-mechanics/game-systems, properties, traits, behaviours, powers, [things], [game-dev-things], [aynu-game-dev-things], skills, [game-world-dev], devices, abilities, possessions, [Iulion], [Adrion], [aynu-theory-things], [aynu], …, [more to develop], and any other things (or aynu-versions) they desire/[aynu-theory-desire/want/happiness]]
+ 
+ 
+
+
+----
+
+
+-----------------------------
+
+Pure aynu Struct-dev-structs
+
+[Develop the pure aynu struct-dev-structs here and write all of the code to implement and create the struct-dev-struct and give them all of the things/powers/[aynu-game-theory-things]/[game-mechanics/game-powers] a struct gets from having it in the game. Creates everything about the struct-dev-struct and all of its properties, behaviours, powers, things, game-dev, game-systems, aynu-theory-game-things, [Iulion], [Adrion], [aynu], game-mechanics, game-world-mechanics, game-world-dev, ..., [more to develop], and anything else (and aynu-versions) about the effect/ability/power-struct in the game } {more to develop, but everything is in aynu-code}
+
+Struct-dev-structs can be used to develop game-structs by being given to the struct, and subsequently endowing the struct with properties, behaviours, powers, things, game-dev, game-systems, aynu-theory-game-things, [Iulion], [Adrion], [aynu], [pure-aynu-things], [aynu][aynu][aynu][...], [aynu-...], game-mechanics, game-world-mechanics, game-world-dev, ..., [more to develop], and anything else (and aynu-versions) it gets from (and is encoded by) game-dev-code and pure aynu things
+
+
+[need to develop more about pure aynu struct-dev-structs and how they can be used to develop game-structs as part of the game-mechanics, and used to give game-structs the pure aynu-game-dev-code they possess which in turn gives the game-structs [pure aynu-game-things/mechanics/[aynu-theory-things]/[aynu-properties]/[game-powers]/[game-systems]/[game-effects]/[game-play]/[aynu-game-world-play-things]/[Iulion]/[Adrion]/.../[more to develop]]
+
+
+
+----
+Also create pure aynu-versions of the following:
+
+-develop [data components for flavour (such as appearance, special traits, game-world-effects, features, special physical traits, and many other things, ways to make it pretty or look "cool"/good/badass/dragon-like/ninja-like/rogue-like/[any other thing]-like, allow for customization and style or any other desired things, and allow the player to develop their struct in any way they desire)]
+ 
+[any other stats/data-components/data-structures/data/[aynu-game-dev-code-data/writing/things] that can affect gameplay and the game-world in some way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop]. Stats/game-data/game-struct-theory-things/data-structures/game-writing/game-dev-data/game-dev-code/data/[aynu-game-dev-data]/code/writing/[game-dev-writing]/.../[more to develop] that affect the game and game-world in any kind of way or have any kind of game-mechanics/game-systems/[game-things]/[game-dev] can be developed and new ones are constantly being added. Can develop and acquire stats/game-dev-data/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] that affect the world in any kind of way or have any kind of game-mechanics/game-systems/game-things/[aynu-game-things]/[game-dev] or [aynu-game-dev], …, [things], [more to develop], and new ones are constantly being developed. Can acquire these stats/game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop] and develop your pet to have them as part of gameplay][players can develop (and give to their pet-structs/game-structs) these game-data/game-struct-theory-things/data-structures/game-dev-data/game-dev-code/game-writing/data/[aynu-game-dev-data/code/writing]/code/writing/[game-dev-writing]/.../[more to develop]-things to give their structs any gameplay/game-world effect or game-mechanics/game-systems, properties, traits, behaviours, powers, [things], [game-dev-things], [aynu-game-dev-things], skills, [game-world-dev], devices, abilities, possessions, [Iulion], [Adrion], [aynu-theory-things], [aynu], …, [more to develop], and any other things (or aynu-versions) they desire/[aynu-theory-desire/want/happiness]]
+ 
+ 
+
+
+----
+
+
+--------------------------------------------------
+
+[also develop game-mechanics that allows players to develop structs and their stats and struct-data-components and struct game-dev-things within the game : players can train and develop their structs, improve their stats, develop their game data-structures, give them new game-dev, [aynu-game-dev], [aynu-theory-things], ..., [more to develop], powers, effects, items, and anything else : players can develop their structs in any way imaginable and codable (can be coded) in regular game-dev code or aynu-game-dev-code]
+
+[more to develop]
+

@@ -1,0 +1,18 @@
+Catalogue of Automata structs:
+
+One of the most important components of gameplay. Player civ structs will attempt to acquire significant populations of these automata structs, and develop them into things they desire.
+	- an important component of civ-struct development is devoted towards developing and supporting a large population of certain types of automata, one possible focus of development is to optimize for developing populations of certain kinds of automata
+	- automata can have many different kinds of properties/factors/stats, both aynu and concrete, that can contribute to gameplay in different ways
+	- ex. some aynu might be good at combat, others at building/creating things, or helping develop new things, creative endeavours, relationships/roleplaying, attracting cute girls, etc
+
+
+Automata:
+
+Wyveros:
+[stat]:
+[stat]:
+[Desires]:
+[Activities]:
+[Talents]:
+[Ideas]:
+...

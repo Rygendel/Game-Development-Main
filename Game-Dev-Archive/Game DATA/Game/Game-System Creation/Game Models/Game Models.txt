@@ -1,0 +1,3 @@
+This is a system for the arch-game that encompasses many different sub-games. Each subgame has a model that encompasses all of the aspects of its game-play.
+
+Ex. Model for Civ-empire strategy game:

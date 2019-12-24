@@ -1,0 +1,443 @@
+Mechanics:
+
+In general, most things do not decay.
+
+Main Character:
+
+Players will create their main character who will, through out the course of gameplay acquire stats, abilities, items, skills, talents, special objects, and many other things. The player will be able to explore a variety of 3-D landscapes, a fully immersive world, and participate in many events, quests, battles, plots, and storylines.
+
+Battle Mechanics:
+
+Two kinds: Player and Pet battling.
+
+Player:
+-------
+
+There are two main kinds of player combat: story/scenario based (SS) and player v. player / campaign (PVPC) combat.
+
+SS Combat is based around
+The items are more temporarily, depending on the level of combat involved.
+
+
+PVPC involves training special stats and the purchase of items which magnify the effects. The items have a more permanent uses.
+
+Player combat takes place in real time. This type of combat generally revolves around the use of "action" or "moves". These are typically attacks, spells, or special actions that affect the course of combat. Players may also have up to five different abilities "primed", giving them special bonuses. Players can acquire abilities in a variety of ways. Different actions can have different effects on gameplay, such as stunning opponents, altering the field of battle, providing special boosts, interfering with your opponents ability to fight, summoning powerful allies, casting powerful spells, and much more.
+
+Special types of objects can also be used to influence battle, such as giving bonuses to various spells. Potions may also used to give benefits.
+
+
+There are many different ways of achieving victory in combat, and varying strategies to achieve these conditions.
+
+Physical Attacks:
+-Modified by physical stats: strength, defense,
+
+
+Special Attacks:
+-Modified by Special stats: intellect, spell power
+
+
+Each Attack has a type: Arcane, Fire, Water, Nature, Aether, Air, Light, Dark, Magic.
+
+
+Damage calculation:
+
+Average Damage = ([[d_{max} + d_{min}]/2] + )/() + f()
+
+
+Talents and Special Abilities:
+------------------------------
+
+Talents allow for special abilities which alter combat style, allowing for a variety of different combat styles. layers are somewhat limited in the number and types of abilities they will be allowed to learn, and will need to make choices regarding what talents and abilities to learn, which will affect play style.
+
+Each class will have several branches of talents, from which they may specialize in one primary and one secondary branch. Furthermore, as they level they will learn some new skills automatically, while at other points they will be forced to choose between a number new, differing abilities, from which they may choose only one or two to learn. This means that certain abilities may be learned at the expense of others. Players may also go out of their way to acquire new abilities from various trainers, or have their existing abilities modified (to change or add various features) by various trainer and characters throughout the game. This further increases differentiation amongst players within the same class and talent branch. The types and combinations of abilities that one may use during a battle will vary.
+
+Moreover, each class will have seven different branches of combat in which they may train to acquire new abilities, skills, stat points, and more. Acquiring lessons in these branches will be difficult, and involve the acquisition of special stones. Progress in each branch is measured by "lesson points" or levels. As players increase their levels in these branches, they are rewarded with various things such as new skills, abilities, items, etcetera. Moreover, there is an overall cap in the total amount of "lesson points" a player may acquire across all branches, though this may increase as more levels of each branch are discovered.
+
+There is no formal level cap on talents, however currently players will not gain new abilities after level 200, and increasing talents further grows exponentially.
+
+
+
+Combos:
+-------
+
+Occasionally, using multiple abilities in a chain results in a "combo" boost.
+
+
+
+
+
+Pet Battling:
+-------------
+
+Pet battling is turn based, and revolves around special moves used by the pets, modified by a limited amount of equipment and external factors.
+
+
+
+Non-Combat Game:
+----------------
+
+There is a significant amount of content outside of gaming. Players can attempt to pursue roleplay, advance in their guild, train professions, collect items or special objects, compete in special competitions, hone their skills, play games, pursue vast wealth, and much more.
+
+
+
+Quests and Storyline:
+---------------------
+
+Players can also pursue quests, and build their own storyline and purpose in the game.
+
+
+
+Item Collection:
+----------------
+
+
+
+Special Objects:
+----------------
+
+These include the Erenion, Tirion, Sirion, Phaeron. These special objects are endowed with special properties, abilities, Aeonar, immortal words, etc. They can be stored in special containers.
+
+
+
+
+Roleplaying:
+------------
+
+Players may engage in roleplaying. Players can create their own world, meaning, and purpose within the game. Roleplaying affects their interaction with the world, their characters personality, possessions, role, meaning, identity, and much more. Roleplaying allows characters to construct their own storyline. This roleplaying is essentially canon, and is an integral part of the interaction between the character, other players and the world. This affects the persons in game character, and defines its interactions and what it is, has, and does.
+
+
+
+
+
+Guilds:
+-------
+
+Players may join guilds, which are large player organizations. Guilds may purchase guild property, have a large storage vault and may acquire exclusive guild halls and forums. Guilds can organize a variety of events, and may take on challenges, quests and so on. Guilds may be organized as the founders wish.
+
+
+
+
+
+
+
+
+World Interaction:
+------------------
+
+Players are immersed completely inside a 4 dimensional (3 space and 1 time) world, which they are free to explore at their own will (similar to WoW). There a veriety of landscapes, cities, environments, alternate worlds, and regions for the player to explore. Players may also acquire property to store their items, and all possessions are displayed within the world, and can be freely interacted with just as in reality. Players may acquire items and other objects, and freely interact with them just as in reality. Players may explore and use their abilities freely within the world and interact with all items and live their lives within the game as they wish. They may construct their own lifestyle and live a life of their own within the game, and create their own world and create special objects.
+
+
+Player homes may not be invaded or destroyed, and all things stored in your home or vault are safe from destruction, theft and other negative effects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Currency:
+---------
+
+Each faction has its own form of currency. There are two universal forms of currency: Precious Elements and gold. Other regions may have their own forms of currency, but the two main ones are (nearly) universally accepted.
+
+
+
+
+
+
+
+
+Physical Laws:
+--------------
+
+There are a number of physical laws which govern everything in the game. 
+
+- Players do not die permanently
+- Logic holds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stat Gain:
+----------
+
+There are (n) stats:
+
+Strength
+
+Intelligence
+
+Resistance
+
+Maximum Mana
+
+Creativity
+
+Maximum Health
+
+Agility
+
+spell Power
+
+Critical Strike
+
+Accuracy
+
+Dexterity
+
+Speed
+
+Resilience
+
+Haste
+
+Innate Boost
+
+Archimon
+
+Eonar
+
+Anarion
+
+...
+
+
+Stat gains are governing by a number of factors including level, race, class, and subclass. For all races, a certain number of stats are gained after levelling up, which depend on the player's level. Different races may focus more heavily on different traits as part of their racial features, though this does not factor heavily. Class and subclass more heaviy affect stat distribution. Furthermore, after levelling, players are given five stat points to distribute as they wish amongst their stats (in addition to the stat points which are automatically gained, as mentioned previously). Furthermore, players may gain "training stat bonuses" when they enter training mode. Players gain points towards stat increases by beating certain creatures which award points in a given stat area. For example, killing [fel demons] grants points towards intelligence. After killing a certain number of these creatures, a stat point is gained. Player may earn a maximum of 255 stat points using this method.
+
+Stats may also be honed and increased through training.
+
+
+The stats Relevant to Combat are:
+
+
+
+
+
+
+
+The Other stats are relevant to a variety of other activities, such as professions or hobbies. For example, higher creativity will improve the quality of certain types of item creation.
+
+
+Other Mechanics that influence Gameplay:
+----------------------------------------
+
+Combat Specializations:
+
+
+
+
+
+
+
+Infusions:
+
+Infusions affect individual spells or attacks used during combat. Infusions can add additional effects, increases damage, or a variety of other things.
+
+
+
+
+
+
+
+Glyrons:
+
+
+
+
+
+
+
+
+Master Abilities:
+
+These are additional special abilities that can be used during combat.
+
+
+
+Item Ownership and the Economy:
+-------------------------------
+
+
+
+
+
+
+
+
+Items:
+------
+
+General items
+Players can store and own an arbitrary number of items and currency. These can be everyday things such as food or supplies, battle items, reagents, special artifacts, etc.
+
+
+
+
+Battle Items:
+
+At any time, the following can be equipped:
+
+Chest
+Head
+Shoulder
+4 Special items
+4 Rings
+
+
+Weapons:
+
+Offensive weapons have two basic factors which directly affect damage output: icons of damage and power. Icons can be divided into ten different types:
+
+fire
+water
+nature
+desire
+aetheron
+ 
+
+
+
+Hobby and collector items:
+
+
+
+
+
+
+
+Storage:
+
+Player Can carry one large bag and one smaller bag with them. For safety, players can open an account at a bank located in their home city. These banks allow players to store currency and provide a vault within which players can store various things.
+
+
+
+Pets and Soulbeasts:
+--------------------
+
+Players can also work on acquiring pets and soulbeasts. These can have various affects on gameplay and combat. They can assist in combat, be involved performing certain tasks, serve as mounts, and carry out a variety of activities. They can be trained, learn abilities, and have their own stat system.
+
+
+Achievements, Pursuits, Galleries:
+----------------------------------
+Players can find purposes for their characters in game, whether it is collecting special objects, defeating powerful enemies, acquiring great skill in a special trade, aacquiring much wealth and fame, becoming skilled at special games, establishing a powerful guild, establishing a homestead and a comfortable home, etc. Players may pursue whatever they wish.
+
+
+Aercyons:
+---------
+
+
+
+
+
+
+
+
+Kyrons:
+-------
+
+Special programmable things that can acquire abilities, powers, features, items, and other things.
+
+
+
+Sirions:
+--------
+
+
+
+Tirions:
+--------
+
+
+
+Altaer:
+-------
+
+
+
+
+Galilen:
+--------
+
+
+
+Edessos:
+-------
+
+
+
+Alkalon:
+--------
+
+
+
+Idriis:
+-------
+
+
+
+Hythem:
+-------
+
+
+
+Acteon:
+-------
+
+
+
+Edrenion:
+---------
+
+
+
+Alessa:
+-------
+
+
+
+Tyrios:
+-------
+It transcends all expression in words. Has the immortal words Galvaeon, Redaelok.
+
+
+Regulon:
+--------
+Its greatness transcends all expression in words. Has the immortal word Kadmon.
+
+Altirion:
+---------
+A powerful and abstract mechanism which can endow meaning and purpose, satisfy desire, create new worlds and objects, encode special information and properties, provide new avenues of attaining success and desirability. It can also do many things and anything. It can also endow objects with aeonar and many other abstract properties and mechanisms. It can also endow an object with Ourania and Elysion. It can also endow objects with properties and other things which transcend expression in words. Has Firdaos.
+
+
+Ourania:
+--------
+A very interesting thing which is extremely fun. Has Firdaos.
+
+
+Elysion:
+--------
+Powerful and abstract mechanic which satisfies all desires and interests. Has Firdaos.

@@ -1,0 +1,24 @@
+[Outline style/structure and data]
+
+(include lists of formats and structural outline here)
+(outline meaning/value/use/structure/influence/factors/mechanics and abstract things here using aynu)
+
+[name]:: [data]
+
+
+ex.
+
+[aynu thing]:: {
+
+%%%%%%%%%%%%%%%%%%
+%% [aynu thing] %%
+%%%%%%%%%%%%%%%%%%
+
+[...]
+
+
+%%%%%%%%%%%%%%%%%%
+
+
+
+ 

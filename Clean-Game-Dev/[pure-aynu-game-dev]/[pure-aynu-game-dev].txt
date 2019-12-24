@@ -1,0 +1,10 @@
+Pure-aynu-game-object/thing/struct/[aynu-theory-thing]:
+
+[design, game-creation, game-implementation, and game-coding, and game-development document for all pure aynu game-things]
+
+[everything here will be done in pure aynu, and the pure aynu code is sufficient to encode the game, create, game-create, implement (and create the necessary game-engines for ) and provide all game-functionality, game-objects, game-world-things, [pure-aynu-theory-game-things], game-engines, game-play, [game-elysion-things], [game-existence], [game-possibilities], [game-universe-things], game-powers, game-functions, game-behaviours, game-things, [aynu], [Iulion], [Adrion], mechanics, game-dev-things, [pure-aynu-game-dev], [game-world-things], [aynu-game-theory-things], [game-universe-things], game-things, [game-object-things], [game-structure-things], [game-world-properties], [game-world-existence], [game-world-assets], [game-object-assets], [artwork], [aynu-game-object-assets], [aynu-game-thing-assets], [persistent-world-things], [game-properties], [game-behaviours], [game-theory-mechanics], [any game-thing imaginable], [game-elysion-possibilities], [game-world-effects], [game-engine-things], [game-powers], [game-objects-interactions], [game-world-effects/interactions/powers/things/[aynu]], [game-theory-interactions], [game-world-theory-things], [aynu-game-theory-interactions], [aynu game-theory-object-usage/game-play-things/effects], [aynu][aynu] , [game-theory-universe-systems/mechanics/forces/powers/possibilities], game-systems, [Iulion], [aynu], [aynu-aynu-...], …, [more to develop] (or pure aynu-versions) using pure aynu game-dev-code/writing/symbols for all pure-aynu-game-things] 
+
+(copy over the best of pure-aynu-game-dev (for all pure aynu-game-things) here and make it clean and well designed)
+
+
+

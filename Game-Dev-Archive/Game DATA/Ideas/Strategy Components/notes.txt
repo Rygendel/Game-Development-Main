@@ -1,0 +1,110 @@
+- Players develop their (possibly city-like) structure (or something that does not resemble a city)
+- these structures could possibly be things that transcend any mortal concept (but we use the placeholder of "city" or "polis")
+- can construct structures(abstract) that do things such as generate resources, allow players to construct things, or have effects, or other abstract things
+- players are represented by a character that controls the polis
+- players can trade, sell objects, work towards building/acquiring abstract objects
+- players can go on quests, engage in world exploraration
+- players can fight in battles, wars
+- players can compete in other areas
+- players can become great traders, run corporations
+- players and the population can come from different races
+- players can build, develop, create, acquire, and store many different kinds of objects, many of which have various uses
+
+- players have a "domain" and they can build or create thing in their domain to do things, such as generate aya-built structures, battle opponents domains, generate trade, craft things, or anything else
+- players can specialize and customize their domain to have special structures, abilities, things etc.
+- limitations force players to choose their own path, manage resources and abilities/structures
+- players can choose their type of domain to begin with, customize, and gain access to more space or types of structures
+
+-this is the game where the aya are relevant and where the aya-constructed objects can be acquired and will be useful/desirable/relevant/meaningful/possess/good/great/(everything I want them to be)
+
+- can build many different kinds of structures that can do and be many abstract things, possess many abstract properties
+
+- can build and code structures to carry out a variety of actions, do things, be things, or have things (need to describe how these structures are built/coded, and how the things they do affect the world and are desirable)
+
+- players build a collection of structs they can use to do things
+
+---------------------------------
+[Final version of game outline]
+
+- outline:
+  - player creation
+  - main structure they will be building
+    - substructures that can be built and developed, and which have an effect
+    - "minions/chars" which are agents which can carry out tasks, have stats, and can be developed
+  - objects they can acquire, and their effects/usefulness/desirability, and how to acquire them
+  - develop some of the abstract things using aya
+  - outline combat/interaction
+  - outline quests, exploration, building
+
+--------------------------------------------------------
+
+  Players:
+  - character will belong to one of [n] races, each with characteristics
+  - player initial stats will be partially randomized
+  - can acquire special desirable/good objects such as Tyrion
+  - can build strucutres (Erenion) that do things and are important and fun
+
+--------------------------------------------------------
+
+  Main structure [Erenion]
+  - will have a pair of co-ordinates to determine location
+  - wil have a series of attributes
+  - attributes can be developed by specific actions, developing
+
+
+  Attributes/Structure
+  - some of it is built by aya, some in plain english
+  - resources take time, skill, and access to special things in order to build
+  - various attributes and values those attributes can acquire, and they are determined by the values the payer has in that attribute
+  - can unlock special features, acquire new technology/abilities/structures/information/objects/things
+  - can perform quests and special achievements to get things
+  - structures/attributes can acquire additional features, abilities, traits, effects, things, objects, interact with things, and have effects
+  - can build units/structures that do special things, units/structures have their own development track, tasks, ways to develop and specialize, abilities and features they can acquire, objects they can possess, actions and effects, and much more
+  - these units and structures can then be used and played with, do and be things
+
+  The Basic stats of the main structure (Erenion) are:
+
+  - Estell
+  - Auridon
+  - Marion
+  - [sym999] (production-like thing)
+  - [tel2398] (gathering - like thing)
+  - [tor9884] (special-crafting-like thing)
+  - [warfarin9830] (involved in combat/competition)
+  - [tel989] (trading-like thing)
+
+  Some structures you can build:
+
+	Tyrannos: 
+	Main [Abstract thing corresponding to traits, features, useful things possessed]
+
+ex. Titan unit can be built, has several main development tracks, including: daemonic, secret fire, drakonos. can acquire abilities and traits/development along each track.
+
+
+
+  The possible specializations:
+
+
+  The possible values (these will be concepts built with aya) 
+  
+  Abilities/Interactions
+
+  Things:
+--------------------------------------------------------
+
+  Objects
+  - include Tyrion, Draemon, and other things built with the aya
+  - can be bought, sold, crafted possessed, used, and interacted with in many [transcendental] ways
+  - their effects and nature are determined by the aya-objects used to build them
+
+
+---------------------------------------------
+Storyline/Environment:
+Players fight various monsters using their vrious structures, characters.
+Lovecraftian style horror.
+Old Gods
+Other Worlds, portals
+Players fight to defeat monsters, gain the monster as a trophy which can be used or traded for other things.
+Monsters have stats and attributes that determine what combat style/abilities work against them, there are many different types, and these different types have different uses once acquired.
+Players can also acquire various (relics of the ancient ones).
+Cosmic Horror, travel to dimensions and realms beyond imagining, stretching the limits of sanity.

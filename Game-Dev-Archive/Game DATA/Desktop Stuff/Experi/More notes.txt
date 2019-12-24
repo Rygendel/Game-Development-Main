@@ -1,0 +1,147 @@
+ex. Control provinces that produce a certain kind of resource that is needed to produce a certain type of thing. This thing could be a type of [aynu-thing] that is (abstractly desirable) to possess (for example the winner could be the person that gets this [aynu-thing] first or gets the best version of it).
+
+For example could try to get the resources to support the following type of unit:
+Dracolith:
+Stat:
+Power:
+Abilities: Can take control of an enemy province.
+
+
+Dementor:
+Mind-control enemy characters.
+
+
+[Aynu-Greatest-thing]
+[aynu-code]:
+This aynu thing is simply the best thing, and is desirable to possess in a way that transcends understanding. (add aynu description) (add description emphasizing that players wil want to possess this objects for its own sake and with no other outside motivation, possessing this object is the ultimate, greatest, best, most desirable, etc..., even better than having a hot girl)
+
+
+
+---------------------------------------------
+
+- need to outline the main data for each province/city struct
+	- do they place a city at one location on a map, and then slowly acquire territory
+	- can they form more powerfule structs later on, eg. great city/province, megaros 
+- outline how they are built/acquired
+- outline the ways they can be developed
+- outline the key parameters of the civ
+- write down various ideas for concrete gameplay here
+- players fight for control/possession of things they desire [ultimate abstract aynu-trophy] like [aynu-things] or concrete things of great value/power (and acquiring these things ultimately give you the ability to do or acquire other, greater, things)
+
+Components of Implementation:
+
+Factors that affect a structs power/abilities/stats:
+
+Control of Resources
+Production/Creation of things
+Technology
+Units/power-projection-things
+Power
+Wealth (income, points[1], points[2], currency[3], [special-points], [special-currency], [special-resource])
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Develop abstract aynu versions of struct things/systems/attributes/mechanics that model different game mechanics
+
+- agathon: private economy mechanics
+
+- Angainor: population and manpower mechanics. 
+	- Can assign parts/fractions/amounts of the population to different components to power them, the population 	assigned to that component will then perform the tasks necessary to support it. The population is not consumed by 	this and can be reassigned at a small cost
+	- The population grows or shrinks over time depending on properties of the civ struct.
+	- Individual members of the population have their own special properties, characteristics, attributes, types, 	stats, possessions, etc. Each member of the population has its own attributes partially randomized, but the
+	randomization is influenced by various factors, and most strongly by properties of the civ struct.
+	- Individual members of the population can acquire things and personal property, have their own objectives, 	automata, and this is partially affected by the civ-struct's development and properties.
+	- properties of individual members of the population are aggregated to determine properties of the entire 	population
+
+- Pharos: Trade and the free market
+	- players can trade almost anything, including items, services, nodes, structs, objects, things, information, colonies, resources etc...
+	- many components of gameplay are itemized (based on the use of items), and these items can be interacted with in a concrete manner, and can be traded
+	- players can use currency to buy various objects, or barter for them
+	- can also buy/sell things to the automata/population living within your civ struct
+	- can set up a trade network to transfer goods/things from different parts of your empire to others (to supply your population/automata), or trade with other civilizations/players. This trade network is usually automated (that is, the player sets it up, and it is automatically run by your empire, and automata/pop as well as other players can interact with it and buy/sell/transport/do/trade things with it), and the player will earn things/currency from all activity on the trade network.
+
+- Eru: - abstract aynu-trophies (things acquired for the mere goal of possessing them) with aynu-meaning and aynu-values/things that makes players want them and are made [abstract aynu-happy] and achieves a form of [abstract aynu-game-winning] by possessing them.
+	- different types/components/modes of Eru, players will work to achieve the particular Eru with the specific [aynu-data] they want
+	- an Eru is entirely determined and formed by its [aynu-data], and aynu-built components, and players will determine which ones they want to possess and which one will cause them to be [aynu-winning/successful/(the-aynu-best)] based on the [aynu-data/things] it has.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Two main kinds of structs/gameplay to develop:
+
+civ-structs
+pokemon/neopets-structs
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+In general, objects have two or more information sheets:
+
+Two main ones:
+
+- information
+- implementation/mechanics/existence data (all data need to determine gameplay, game data and interactions)
+
+players have many other data sheets, including:
+- player data
+- games
+- game structs
+- possessions
+- inventory
+- [aynu]-inventory
+- territory
+- civ/empire
+- resources
+- currency
+- trophies
+- achievements
+- special things
+- wealth
+- storage
+- creations
+- codes
+- [aynu-things]
+- [abstract aynu-game-systems and game structures/collections]
+- [aynu-collections]
+- collections
+- ...
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+Can participate in RTS game similar to EU4
+	- provinces have many different ways of developing
+	- players can customize their main struct to emphasize different aspects of developments
+	- provinces can be developed in many different ways, focus on many different kinds of resources, things, ways of developement
+	- provinces can specialize in many different things, there are an infinite number of things provinces can do/become/create, and there are many different factors/systems that your province can choose to develop/create/improve/build
+	- depending on their performance in each "game" session they run, they will get rewards, some of which can be used 	to develop their struct further: structs have both permanent developments and temporary developments they acquire during campaign battles:
+
+	- campaign battles:
+		- players use their structs as the basis of an "empire" try to grow/develop and defeat their opponents,
+			- winners/goals can be determined by different criteria depending on the type of campaign
+		- there are many different ways to develop
+		- players can set their own goals, 
+		- campaigns can include many AI controlled factions, different kinds of worlds resources, things  
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+Economy:
+- neopets-like economy for items and aynu-things
+- lots of competition to acquire and possess certain things, many things have high market value because they are extremely desirable, useful, or have high demand for many reasons
+- often items are an extremely good store of wealth since their market value can increase dramatically due to demand
+- there are many supply and demand forces at work
+- players can trade items or currency through severa different market outlets, can run their own shops to sell or trade things
+- some items can have extremely high deamand, making it extremely valuable/powerful/desireable for a player to possess them
+- the higher the demand, typically the more/better items/currency you can get in exchange for it
+- there are many reasons why items might be desired, have high want/deamand
+- almost all items are useful/desireable/good in some way, have at least a little value (even if its only for collectability purposes) (i.e. almost always better to possess an item than to not)
+- can sell some items in a player owned store, store can be upgraded/customized/developed, and some items can be purchased from your store by NPC/automata depending on upgrades/development
+
+...
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+Creating Game Systems/Mechanics:
+
+- create game system/data sheet with data encoding everything about the mechanic/system
+- add data components, that encode everything about how the struct interacts with the system/mechanic, to structs that interact/involved with the mechanic/system
+
+...

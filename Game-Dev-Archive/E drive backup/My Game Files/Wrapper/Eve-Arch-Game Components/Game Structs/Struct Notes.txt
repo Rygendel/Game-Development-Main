@@ -1,0 +1,184 @@
+Design collectible structs that can be used to play games/battle but can also be displayed in a gallery/collection and players can compete with each other to try to get the best collection
+
+- there is a system for determining how valuable/good/powerful/[things]/[abstract-aynu-thing] a collection is based on the structs in the collection and how valuable/good/powerful/useful/[thing]/[abstract-aynu-thing]
+
+- inspired by TCGs/Pokemon/Neopets/EVE/[other games]
+- players can trade, buy, and sell structs
+
+The structs are items and have their own data components, tags, properties, effects, powers, attributes, art, and other things that determine them and make them. They can also be developed and have their stats/things improved, can be given objects, items, and gear; similar to mechs; can be built up
+
+also copy the item gallery mechanic description I wrote in My Game Files. This is done directly below between the ">>...", except replace the word "item" with "struct"
+
+- need to design nice file-system schema for managing the game objects and develop methods for running and maintaining the game using files to store data and folders to organize them
+
+- each struct and item/object can either have its own file or have its data included in an inventory file (or some other file); the file/data is like a "trading card" that holds and effectively creates the struct; controlling the card/file/data is equivalent to controlling the struct
+
+- like characters, structs have their own stats that have the same kind of effects, described as follows:
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+> - structs have various stats/data that determine how good they are at certain parts of the game
+> - player stats/things/items/structs can allow them to do certain things, participate in certain parts of gameplay, acquire things in the game
+> - any part of the game can be influenced by or determined/accessed by stats/things/items/structs in some way
+> - players can train their stats to make themselves better at certain things in the game; better stats make you better at certain things
+> - players can improve their stats or change their values through various mechanics; ex. use of book/knowledge items or training schools (other items/mechanics exist as well)
+
+> - characters can also equip gear or use items that make them better at certain things or allows them to do/acquire things
+> - can use items/structs do certain things
+> - items, things, structs, and stats can influence gameplay, and allow you to do/trigger/interact-with/acquire/gameplay-with various gameplay things 
+
+- need to design stats and gear and how they affect gameplay
+	-> ex. Coder's Gloves and Coder's Glasses make your a character a better programmer/codes/software developer in the game
+	-> can also improve your programming skill stat to make your character a better programmer or have access to special features/abilities/things
+	-> can also improve game creation stats to make your self a better game-creator or give yourself access to certain special features/abilities/things (ex. being able to make an MMORPG or add special features to the game, support more players, etc.)
+
+- stats can also be divided into sub-components (which can further be divided into sub-components) that can have their own additional values that determine your specialization within that stats and further details regarding your abilities in that stat component; overall just adds for data and detail about game-play effects; allows for the creation of more highly structured, detailed, and interesting gameplay
+	ex. A programmer could choose to focus on a specific area like game-design, graphics, AI, user interface, front-end, back end, database, etc
+		; could also focus on specific languages or technologies such as Java, Python, C++, Javascript, Node.js, etc
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+- structs also have "Individual Values" that can make structs of the same type different/unique
+- Individual values are randomly generated when the struct is created and permanent and added to the associated stat to change it or increase it
+	-> makes some structs "innately better" at some things than other
+	-> is typically a value from 0 to [n] that gets added to a stat, structs can have IVs for each stat
+	-> similar to IVs in pokemon
+	-> IVs affect gameplay by making a struct's stats better and giving them a permanent boost, thereby making the struct naturally better at the components of gameplay that use that stat
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+structs/items (structs are also a type of item, but with many gameplay mechanics and actions to interact with; even though items can have any kind of gameplay mechanic, and different kinds of items can interact with different kinds of mechanics/actions within the gameworld, and its always possible to release new actions/effects/actions/game-play-things/powers/things for items/structs)
+
+- base structs around Pokemon, Neopets, EVE online, Path of Exile, and many other games
+- structs can have different schemas based on what they are intended for
+- different structs can be directly relevant to a particular subgame e.g. the Pokemon-like subgame, EVE Online-type subgame, Neopets-like subgame, etc, but all exist within the arch game and can be traded and manipulated within the larger arch-game
+	-> this leads to the different schemas and classes of items that exist within the game
+-tags: items can contain special pieces of data called tags that give the object special things/actions/powers depending on which tag it has:
+	-> e.g. items with the "food" tag can be eaten, giving special effects depending on the item's properties
+	-> Space-ship items can be boarded and piloted; they create a new environment the player can explore within the ship; can be piloted, can support multiple players inside the ship using features such as special rooms, can contain many rooms, areas, guns, decks, etc; can carry cargo, and do many other things
+
+- a major component of gameplay involves trying to collect certain structs; players can try to collect certain items based on criteria they decide and desire, and players can display these items in their gallery or store them away in their safety deposit box
+- players who collect a sufficiently large quantity of a certain class of structs can receive rewards
+- many items have hidden uses
+- players whose struct collection achieves certain criteria can acquire special rewards and things; there are also competitions between different item collections to see which one is the best based on certain criteria (the criteria is determined by the type of competition you enter) and there are game-play rewards and effects for winning
+- players can try to collect certain structs they desire based on certain criteria
+- example: players can try to collect all structs with a certain tag or certain set of tags (e.g. plushie, {apple, food})
+- players achieve game-rewards and gain powers/value in game from having good or completed galleries; having a complete gallery of a certain class of things gives you special game-things, game-rewards, game-prizes, game-play bonuses, game-play powers, game-play value, [abstract game-things], [abstract aynu-things], and many other things
+- players will find it fun/[abstract aynu-fun]/rayku to try to collect objects and complete galleries of a certain class of object/thing/struct etc; collect things with certain proerties, developments, things, or anything
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+----------
+
+- design collection and collection-object/struct acquisition and development mechanics; develop mechanics for competitions/gameplay between collections 
+
+- create rewards/prizes/achievements and storyline/plot development for building good/valuable/powerful collections
+
+------------
+
+Design Format, structure, and gameplay of structs. General Template as follows:
+
+----------------------------------
+Struct template:
+
+[Description of struct and its gameplay]
+
+Struct Data components:
+
+[name]:
+
+[Data component]::[Description and gameplay info, any other information about the component]
+
+[thing]::[Description and information about the thing]
+...
+.
+.
+
+----------------------------------
+[Struct Gameplay Engine]
+
+[use aynu-code to implement the engine responsible for generating the structs in game and creating their game-play and game-interactions, existence, actions, properties, movement, powers, things, effects, art, essence, and any other game-things within the game-world]
+
+[name]:[name engine]
+
+[data component]:[sub-engine responsible for handling the data component]
+
+[thing]:[sub-engine for handling, implementing, creating, and processing the thing]
+...
+.
+.
+
+
+------------------------------------------
+[Struct Data Sheet] 
+
+(this effectively "is" the object and creates it in the game; these are the data sources for the object and having these data files in your inventory is equivalent to possessing and being able to do anything you want with the object)
+
+(owning this data sheet is like owning the "trading card", and is equivalent to the struct itself)
+
+(to do anything to the struct, you can do it to the data sheet; including trading)
+
+(this data sheet implements and creates the struct from its data; the game-engine takes this data and uses it to create the struct inside the game world and allows it to determine its game-play and game-things, as well as game-powers, effects, values, interactions, actions, things, properties, art, physical attributes, game-play, and anything else)
+
+[name]:
+
+[data component]: [data]
+
+[thing]:[things]
+...
+.
+.
+
+--------------------------------------
+
+can also design struct data sheet using structure similar to DOM markup language; especially "DOM tags"
+
+<[tag-data name] | options data > [data] </[tag-data name]>
+
+--------------------------------
+
+- gameplay structs typically have dynamic/[abstract-interesting and ever-fun, getting better, more fun, interesting, better game, abstract-dynamic, abstract things I can’t describe] and evolving/[abstract things I can’t describe] gameplay and value/meaning/purpose
+
+structs aren’t necessarily confined to a rigid set of boundaries; they can have their values/purpose/things/powers increased, and can be transported to game worlds beyond our imagining and interact with them
+
+can use imagination to construct all kinds of structs and struct-mechanics/systems/models and gameplay/struct-gameplay/game-worlds/game-laws/game-reality
+
+
+
+
+---------------------------------
+
+- you can build mechs to do anything you need or want; build them for virtually any use/purpose
+
+- need specialized struct for certain games
+
+ex Pokemon-like team combat/game-play where each team member can do things and participate in gameplay to achieve an objective (many different formats)
+
+- combat stats
+- move/power pool
+- item gear
+- special powers
+- other factors
+- other things
+
+Struct:
+
+[name]:
+[Artwork/images]:
+[basic stats]
+[Combat stats]
+[game-play-stats]
+[open-shared-game-world stats]
+[game-world data]:
+[things]
+[special effects/abilities]
+[special things]:
+
+

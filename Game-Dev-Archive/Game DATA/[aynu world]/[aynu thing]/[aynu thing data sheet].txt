@@ -1,0 +1,39 @@
+(need to decide on format, and create symbols)
+(need to create the different components to encode, their sub-components, etc)
+(need to create system for building aya-things out of aya-components, which can be built from raw aya-resources, and encode how the different aya-components influence the aya-thing)
+
+------------------------------------------------------
+One way of building up [aynu-things]:
+
+
+- works something like this:
+
+   -> [aya resources] -> via recipe/plans -> [aya-components] -> via plans/design -> [aynu-thing/structs]
+
+- the resources and aya-components used to build the [aynu-thing/struct] influence and determine its [aynu-data/things] in ways that transcend description, and can only be encoded in the aynu.
+
+- Aynu-components will have listed as part of their data sheet the [aynu-data/things] they add to an [aynu-thing/struct] they become a part of (encoded in aynu):
+[aynu][aynu][aynu][aynu]
+
+
+- [add more abstract mechanics related to [aynu-resources], [aynu-components], and [aynu-things/structs], encoded in the aynu]:
+
+[aynu][aynu][aynu][aynu][aynu][aynu][aynu][aynu]
+
+-------------------------------------------------
+There are many other ways of creating [aynu-things]. Some objects can't be created and transcend any mortal means of creation; they are eternal can only be acquired through special means.
+
+
+--------------------------------------------------
+
+
+
+[aynu][aynu][aynu]::
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,0 +1,33 @@
+[things you can add to your struct to give them things in the game, like abilities, gameplay, moves, things, aynu, etc]
+
+
+
+[Nerva]::{
+		[cost]::
+		[stat]::
+		[thing]::
+
+}
+
+
+
+
+[Azrafel]::{
+		[cost]:: infinity
+		[stat]:: inifinity
+		[thing]:: {greatest}
+		...
+		.
+		.
+
+}
+
+
+
+
+[Invictus]::{
+		[Powers]:: {
+				[Romenna]::{ }
+		}
+
+}

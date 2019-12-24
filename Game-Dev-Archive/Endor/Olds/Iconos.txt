@@ -1,0 +1,55 @@
+[develop Iconos Game and Gameplay here using Endor]
+
+- icons are generated and used as a resource for attacks, moves, spells, abilities, things, items, and many other things
+
+- certain structs and things focus on certain types/themes of icons (ex. wide variety versus a lot of a single kind)
+
+- not all attacks, moves, spells, abilities, things, items, and many other things can be used by every Feanor; some may be restricted to certain kinds fo structs, and some may have stat/item/thing requirements to be used, or other restrictions on a struct's ability to use it
+
+Endor Dev:
+
+[Name]::[Iconos]
+
+
+[Icon Mechanics]::
+
+	[types of icons and what they are good at]::
+	[how they work]
+	[how they are used in combat]::
+		[direct attack]:: convert icons to damage at a rate determines by stats
+		[Power usage]:: Some powers may require certain types and quantities of icons as a resource.
+		[Items]: Some items may require certain types and quantities of icons as a resource in order to be used
+
+
+[Direct Attacks]::
+
+
+
+
+[Powers]::
+
+	Structure::
+		[name]
+		[meta-data]
+		[Requirements]
+		[stats]
+		[Game-effects/things]::[main data outlining its game-effects, powers, things, game-play, game-world-things/consequences/powers/effects/abilities/...[more to develop], and anything else about the thing in the game and game-world etc.]
+
+	[Power linking]:: Powers can be linked to modify and interact with each other. Powers are embodied in objects called "Skill Gems" which can be socketed in things for you to gain access to them. Linking the sockets links the powers and their effects. and certain other factors influence how this works. [outline factors here]
+
+
+
+
+[Natures]::
+
+
+
+[Items and gear]::
+
+
+[Game-world]::[Create the game-world and its reality, laws, theory, things, plots, story, roleplay, game-things, and anything else about the game world and game-reality]
+
+
+...
+.
+.

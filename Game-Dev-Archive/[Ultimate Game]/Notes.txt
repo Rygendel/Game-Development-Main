@@ -1,0 +1,29 @@
+- eventually, I need to combine and distill all of the other things I've created and combine them in one well designed system of folders and files and code
+- this will eventually form the basis of the final game I intend to create, including all of the features I desire
+- copy all of the good stuff from the other files/folders here
+
+this will be the ultimate game I desire to create; will include many different kinds of mechs, structs and other things players will want to collect
+
+will include:
+	- many different kinds of things players can try to build and collect
+	- can find things and build galleries of things you like to collect
+	- can trade things and participate in a market economy
+	- many different types of gameplay and combat
+	- can create your own games and share them with others
+	- many different kinds fo social structures to participate
+	- storyline, RPG, MMORPG, open world to explore
+	- free to do anything; has a sandbox component that allows you to simulate everything and live in your own world
+	- plot and story to participate in
+	- can develop, build and customize many things
+	- can build your own base/civ/empire and battle other player's base/civ/empire; can acquire units/automata/things/objects/structs to support them
+	- ability to build your own games and worlds/reality 
+	- and anything else I desire
+
+- this will eventually become the ultimate game and world I want to create
+
+- will only add things to these files/folders when I decide they should be included in the final build
+- in the mean time, I can add notes to this file to determine where the project is at, how the project is working and what I intend to do next; and serve as a general outline for the project to make the game
+
+- this folder will eventually become and contain the game I desire above all else and will make me ultimately happy to have; I will give myself all the best stuff that I desire in this game
+
+- I can create and give myself whatever I want in this game; can do whatever I want in this game-world; I ultimately control this game and its reality

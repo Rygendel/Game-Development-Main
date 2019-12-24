@@ -1,0 +1,30 @@
+Mechs:
+Mechs form the basis that lets players build any kind of thing
+
+There are systems of stats/data, development/construction mechanics and many other things that determine how mech building and development/creation works.
+
+ex.:
+Stats:
+- power supply - each component uses up some power
+- power level: - need certain power level to be able to use components/things
+- Socket Quantity: determines how many components can be added
+- Type: the type of the base mech-core, affects what components it can add and use, as well as how it uses it, also can influence many other factors and different types of mechs can have different special mechanics and schemas
+- Tags: Special additional pieces of data that affects the mech and its mechanics/gameplay/things/systems/model/components/abilities/powers/effects; can influence how and what components it can use and many other things about them
+- Socket type: a property of each socket; determines the kinds of things that can be placed in it
+- alif: [special stat that does things]
+- [stat]: [
+- [additional stats]: [a collection of other stats that have other game-play purposes/meaning/power/value/effect/things; not all mech cores may have these stats]
+[things]:
+
+Different types of mechs can have their own special mechanics and gameplay-things that only they use and can be anything:
+ex ship mechs have ship building, pokestructs, civ-empire-eu4-DW, automata, etc.
+
+Note:
+Develop stats/data and dev mechanics that allow players to develop any kind of thing, engage in any kind of development/building mechanic, and can impose any kind of constraint/rule/law/[thing that forces the mechanics and system/formula/model/world/reality of the gameplay and development-system to be interesting and have a rich theory]
+
+- can simulate any kind of game-system/model/formula/world/reality and development/struct-building mechanics/model/system/formula and can use special [things/data/stats/mechanics/aynu-things/theory] to make it interesting and have a rich and fun theory that players want to engage, play with, interact with, and be “immersed” in.
+
+- essentially create a coding/creation and data-sheet system for mechs; as well as a system for building and developing them
+- create a system for developing/creating both their game-data/inventory/existence-soul-essence/[the data files that give their template as well as the files that "are" the mech/struct/item/thing] files, as well as a system for creating/building/developing them in game with game mechanics and gameplay (i.e. gameplay mechanics for actually, acquiring, possessing, interacting with, game-playing with, having game-play-fun, engaging in game-play things/combat, engaging in core game-things, using them in the game-world and having them attached to your account)
+- create their game-creation/acquisition/possession/development and game-play/interaction/world-life mechanics
+

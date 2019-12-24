@@ -1,0 +1,33 @@
+Design the game-play around the struct components
+
+There are both standardized components and "modifiable components".
+- can use special crafting system to modify additional effects/modifiers/effects/appearance/[any other thing] on modifiable components (similar to path of exile)
+
+
+
+Components:
+
+Format:
+
+[name]:
+[meta-data]: Includes basic game-play info common to all components, including how to attach it and combine it with a struct or other components
+[Text]:
+[Game-effects/things]: [encodes and implements its game-play effects, what it is and does, formulas, powers, values, skills, things, etc... and anything else about its gameplay] [includes any special additional modifiers]
+[Inventory of things added]:
+[Special Things]
+[aynu-data]:
+
+
+
+
+
+
+Catalogue:
+
+[name]: 
+[meta-data]:
+[text]
+[Game-effect]: Do [thing] during game-play
+[Inventory of things added]:
+
+

@@ -1,0 +1,38 @@
+Character Structure:
+
+Characters are described by the following data:
+
+Physical Features:
+- Race
+- Face
+- Physique
+
+
+
+Gear:
+- Head
+- Shoulders
+- Weapons
+
+
+Characteristics:
+
+
+Special Features:
+
+
+Stats:
+
+(things about a character that can be developed)
+
+Personality: Affects interactions with other characters in-game
+
+Attractivenes:
+
+(Coding Languages/Systems)
+
+(Structure-Building)
+
+(Game) (influences how good they are at games, making games)
+
+Objects they possess can be used for games.

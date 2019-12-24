@@ -1,0 +1,99 @@
+Stats:
+
+Directives:
+
+Scripts:
+
+Position:
+
+Influence:
+
+Force:
+
+Size:
+
+Inventory:
+
+Mikael:
+
+Adriel:
+
+Rygel:
+
+Resources Possessed:
+Baryon:
+
+Resource production:
+Baryon:
+
+
+-------------------------
+Dyos [City-like nodes]:
+--------------------------
+[Name]:
+[Buildings]:
+[Units]:
+[Inventory]:
+[Territory]:
+[Structures Controlled]:
+[Stats]:
+
+[Aya-things]:
+  [Aya-Structs Possessed]:
+  [Aya-sub-structs]:
+  [Aya-Objects]:
+  [Aya-Forging Objects]:
+
+[Other things]:
+---------------------------
+
+----
+Major Structs 1:
+
+Territory:
+
+[Major Struct] Development Bases (each base allows for the development of struct, possibly with some bonuses or special features depending on the base)
+
+Space: (allows for the support of more major structs and minions, heros)
+
+
+------
+Major Structs 2:
+
+
+--------
+
+Development Trees:
+
+
+-------
+Abstract Research
+
+
+--------
+Tyrion Stats
+
+--------
+Draemon Stats
+
+-------
+Abstract Struct Stats:
+
+Lorien Points (used to develop them)
+
+Lorien Developments (allows access to special abstract structs and ways/things to develop them)
+
+Abstract Struct DEvelopment Tools:
+
+Abstract Struct Development Bases: (each base can be developed into a struct, each base has special innate traits that make the struct unique)
+
+Abstract Struct Development Points:
+
+Abstract Struct Inventory Size:
+
+Aya-components (used to build the abstract structs):
+
+Abstract Struct :
+
+Reveron: (stat which affects the ability to create aya-structs, gives access to many aya/things to make them better - Reveron can be used to directly create the greatest and best/most desirable structs independent of any other factors) -- (finish this, basically Reveron will be the most powerful way to build and acquire abstract structs, can be directly used to create them, and create the best, rarest, most (abstractly desirable/good/useful/happy/valuable/meaningfull/...)
+...

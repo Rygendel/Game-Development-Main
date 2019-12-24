@@ -1,0 +1,8 @@
+[Carnaeron]:
+
+[ 
+- mechanics/system/model/Iulion/Adrion/formulas/gameplay/game-things and everything else needed to fully describe, implement and create it in the game world and to be able to fully reproduce and describe how it works. Describe all of its gameplay, game-mechanics, game-things, and aynu-things that transcend description and can only be encoded with aynu
+
+- develop their gameplay, game-mechanics, complete game-world/reality interactions/things/essence/
+iulion/Adrion
+]

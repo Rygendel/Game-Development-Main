@@ -1,0 +1,55 @@
+Pets (component similar to neopets):
+
+Species of Pets:
+
+Dranor:
+
+
+
+
+
+
+
+
+Ealthid:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Training Pet Stats and Abilities:
+
+Pets can be customized, and can acquire special abilities. You are required to care for and train your pets.
+
+Pets do not automatically acquire stats as they level. You are required to train your pet in various stats through various activities. They are capable of competing in various forms of battle and competition.
+
+Pets can also acquire special abilities, but only six at a time may be "active" (useable in battle). In addition, pets may be equipped with up to six pieces of gear.
+
+
+
+
+
+Pet Types:
+----------
+
+
+
+
+
+
+
+
+
+

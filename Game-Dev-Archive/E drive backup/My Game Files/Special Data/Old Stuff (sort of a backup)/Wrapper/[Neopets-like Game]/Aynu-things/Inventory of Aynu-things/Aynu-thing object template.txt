@@ -1,0 +1,18 @@
+Need to design the format and structure for these aynu-things, make it aesthetically pleasing and make me (and other players) want to possess, collect, and engage in game-play with certain aynu-things that have the things that the player desires. Different players may desire different things, since different aynu-things can lead to and engage in different kinds of game-play and game-things, have different value/effects/powers/things/[abstract things] on the game.
+
+[name]:
+[aynu-stat1]:[aynu-code]
+[aynu-stat2]:[aynu-code]
+[aynu-stat3]:[aynu-code]
+[aynu-stat4]:[aynu-code]
+[aynu-stat5]::[aynu-code]
+[aynu-code]
+
+
+[aynu-stat6]:[aynu-code using various different formats]
+
+....
+.
+.
+.
+.

@@ -1,0 +1,1 @@
+Create the aynu-description, code and engine that will completely describe gameplay, combat, development, and anything else.

@@ -1,0 +1,38 @@
+Kyros:
+-------
+
+Special programmable things that can acquire abilities, powers, features, items, and other things. You can have as many of each type as you obtain, and they have customizable features.
+
+Each special varies in terms of its characteristics, abilities, strengths, weaknesses, desirability, powers, and more.
+
+Furthermore, each individual Kyros has its own set of Individual Values (IV), which affect its stats and abilities, allowing for Kyros to vary in terms of their innate abilities and power. Base IVs influence stats, and special IVs allow for special additional effects and abilities. These are essentially random, meaning that some Kyros will have innate advantages or disadvantages in certain areas, and forcing players to search for Kyros with desirable IVs for their play style. Furthermore, players can acquire special "Divine truefavour" spheres which allow players to give their Kyros a special Customizable ability. 
+
+Moreover, individual Kyros are limited in the number of abilities they will be allowed to use during battle.
+
+Furthermore, special stones can be used to improve Kyros, improving their stats, abilities, granting them new things, etc.
+
+
+Kyros Combat and Competitions:
+-------------
+Kyros Combat and Competitions can be affected by a number of things:
+
+- stats
+- equipment
+- special abilities
+- passive abilities
+- stance
+- hidden abilities
+- blessings endowments
+
+Combat is turn based, and their is significant interaction between the various factors.
+
+(More coming)
+
+Competitions are other varieties of games. For example, two Kyros can battle for control of an object, with the winner claiming the prize.
+
+
+Catalogue of Kyros:
+
+Derenon:
+
+Descr: 

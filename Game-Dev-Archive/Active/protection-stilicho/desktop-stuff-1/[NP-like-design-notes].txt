@@ -1,0 +1,19 @@
+[The main source of gameplay involves plots/roleplay/adventure and trying to collect/develop the pet-structs/mech-like-structs/arch-structs you desire/like and make them into things that have the [things/abilitites/powers/[aynu-things]/[aynu]/[Iulion]/[Adrion]/[Rygel]/[aynu-theory-things]/.../[more to develop]] that the player likes or desires.
+
+-> players can also develop their own things/structs/game-things/game-mechanics/[game-play-world-things]
+
+
+-> Create a neopets and pokemon-like base that I can develop further (make items and economy work more like neopets did around 2003-2011)
+
+
+
+World: (need to develop these)
+
+  Shops (restocking) : Certain shops can restock certain types of items, some are extremely rare.
+                       -> the number and type of item is randomly determined, and the time they restock the item is random
+                       -> players can make money by buying rare items that restock cheaply and selling them to others
+
+
+  Exploration : players can navigate a fully 3D world with their items, gear, structs, etc. They can use their items, gear, structs, Rygel, etc. to do many kinds of things in the game world, build things, and go on all sorts of adventures, quests, treasure hunting, etc. and can gain many rewards for doing so such as rare and valuable things, access to special structs, game-things, acquire special [pet/mech/arch/[aynu]]-structs, etc.
+
+players can enter relationships and get married to others

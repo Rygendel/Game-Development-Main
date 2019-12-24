@@ -1,0 +1,75 @@
+Experiment with game-play struct and object design here:
+
+- ultimately need to find an elegant, manageable, and generalizable model for building a game using files and documents
+
+- need to also design a way in which players can interact and experience, view, engage with, and interact with all the game objects in a ric and rewarding way, allow players to engage with game objects in a rich variety of ways and not just leave them as game "abstractions"; creat a "physics sandbox" type environment where players can interact with objects in any way that they might if the objects and game world existed in real life
+	-> this includes game structs such as poke-structs, which can be seen and played with inside the game world; have a meaningful, physical and interactable existence inside the game-world
+	-> civ-structs can be interacted with on the game map and "take up space", have a "presence" on the game-map, and have an existence on the game map and can influence and affect it
+	-> players can see objects in the game-world-reality (/map) and interact with them through actions
+
+----
+
+
+
+
+Pet/Mech structs:
+
+The basic things that players will try to acquire, play with, develop and use to engage in gameplay combat, explore the world with, and do many different game-things with. They can be used as tools to do game-things
+
+
+There are also many types of development and game-play mechanics that can be employed with these structs
+
+
+Basic Game-things:
+
+[component 1]: "Attack"-type stat
+
+
+
+[component 2]: "defense" type component
+
+
+
+[component 3] "utility/special effect" type component
+
+
+
+[Component 4]: "special abstract gameplay component"
+
+
+
+
+[component 5]: "game-play component yet to be developed
+
+
+[component 6]: "turn based and real time strategy components"
+	[sub components]: - production
+			  - resource generation
+			  - income generation
+			  - population
+			  - happiness/population support
+			  - artefacts and objects possessed
+			  - special units and powers
+			  - forces and territory and abstract-territory and things controlled
+			  - relationships
+			  - space for buildings and civ-development
+			  - "buildings" and constructable objects
+			  - special attributes and properties
+			  - civilization-unique special abilities/powers, unique units, buildings, objects, things, etc
+			  - special things
+			  - [abstract things]
+			  - [special aynu-things]
+			  - [aynu]
+			  - [aynu-structs]
+			  - special game-play structs that can be played with as part of the strategy game
+			  - other structs that can be incorporated into gameplay
+			  - special game-play structs that can be possessed and used in the game, incorporated into the strategy game
+			  - special sub-structs
+			  - and much more...
+			  - [special game-structs that can be acquired and involved in civ-gameplay, some can be unique to different classes of civs]
+			  - special game-simulations, simulating many different types of game-play and life
+			  - diplomacy and relationships, and roleplay
+			  - other types of game-play structs like mechs can interact and play with the civ-gameplay and civ-structs
+			  
+
+Mech-Classes

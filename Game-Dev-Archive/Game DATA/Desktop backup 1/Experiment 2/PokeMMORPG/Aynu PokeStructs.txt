@@ -1,0 +1,53 @@
+Structure of aynu PokeStructs
+[Can try different formats; combine different formats;
+
+-> eventually create a well designed information sheet and engine outlining the struct class and its mechanics
+-> to go along with that are data-sheets/cards for each individual struct containing the data and essence of each struct in its current state; the structs are the information card; create tools for developing them, information cards can be updated as a struct develops
+-> the data cards will carry all the current data-components about the struct and all the game-things it has, and will be updated when the struct is developed or modified
+	-> for example if a stat is omproved via training, increase that stat on the data card
+	-> if a struct gains a thing, add that thing to its inventory or other appropriate component on the data card
+]
+[Outline the actual system for creating real copies of the game and game-structs and actual instances of them and game-playing with them further and managing their gameplay; a system for processing their interactions with the game-world; create a system for managing the game-structs and accounts using files]
+
+[then go and actually create game-structs using this system]
+	-> see "catalogue of [aynu-game-structs]"
+
+[Start by creating the game-structs I want for myself, give myself the best ones; create my account and its inventory of things]
+
+--------
+
+Components:
+
+->[Name]: Name of the struct 
+
+
+
+->[Aynu-thing]:
+[aynu-code]
+
+
+
+-> [Aynu-thing class]:
+[Aynu description and encoding/implementation of mechanics, including a complete description of the range of possible data-values it can take and their meaning. Also give a full outline of the game-play mechanics relevant and affected by it in a way that completely determines, creates and implements them]
+
+[Also include a complete engine for implementing any related game-play within the game world]
+
+[Can add anything else relevant to the aynu-thing; can use any format]
+
+[Fully describe the gameplay model/system/mechanics behind it; include a catalogue of all the things it can be/do/have and values/things it can have]
+
+[Create full description of it; full encoding of everything "to do" with it]
+
+[anything else...]
+
+[...]
+
+[thing]
+
+[...]
+
+
+
+-> [Aynu-stat/thing]:
+
+[Complete description, data, outline, "make-up", creation, encoding, implementation and engine...]

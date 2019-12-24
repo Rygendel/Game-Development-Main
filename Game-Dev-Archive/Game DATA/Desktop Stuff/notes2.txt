@@ -1,0 +1,25 @@
+
+[need to design base game-struct mechanics, as well as special mechanics for different classes of structs; system for players to create their own structs as well as create game-systems/theory/mechanics for their structs]
+
+- game-structs can be involved in virtually any game-mechanics imaginable
+
+- game-structs can []
+
+- there are game-structs for any kind of game-mechanic that revolves around certain objects
+
+- players can specify special game-mechanics for their structs
+
+players can collect special game-structs, 
+
+ receive them as rewards/prizes from special events/games/competitions/things
+
+
+- can design special game-systems/mechanics associated with a fixed class of structs that is special to that struct
+
+
+
+Game-struct Mechanics:
+
+[game-struct class1]:
+
+	[game-mechanic-system/theory]:

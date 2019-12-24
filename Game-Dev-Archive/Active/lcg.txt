@@ -1,0 +1,2 @@
+﻿- for structs, they have a base set of mechanics/systems that can be used to play a wide variety of games and campaigns that can be continuously developed
+  - doesn't have a rigid game structure, game can be continuously adapted, modified, developed and evolved over time as the game-developers wish

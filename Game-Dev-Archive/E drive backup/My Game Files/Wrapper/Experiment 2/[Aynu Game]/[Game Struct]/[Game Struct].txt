@@ -1,0 +1,1 @@
+Should follow the same generic format of the "Game Thing", but create an aynu-game struct, perhaps copy over the Megas, Mechs, civ, hyper-abstract, aynu-pokestruct or all.

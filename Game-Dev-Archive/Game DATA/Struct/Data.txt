@@ -1,0 +1,240 @@
+-----
+To be merged into the more current "Sub-structs"
+----
+
+These are special [things/constructs] which can be used to build other structs. Objects can acquire these constructs, and players can gain access to them to use them to build other objects.
+What they truly are transcends description, but is captured and encoded in the construct itself (the thing recorded with the aya) and its data. The entire transcendental essence of the construct is captured, stored, possessed, and manipulated by the aya. There are also some additional stats used to help understand interactions with these constructs. No way to describe these objects in words; they are simply the higher structures used to build other structures; they are the main source of any object's [transcendental properties/effects/value/desireability/anything/everything].
+
+--
+
+Used to build structs; can be "combined" to build a variety of structures, including things like Tyrions,Draemon ...
+(include info on how to use them to build structs, how these can be "plugged in" to the abstract structure system)
+
+The info field doesn't really tell you anything about the aya-built components. These transcend any possible description, and mortal words can't describe them and would only make things worse.
+The aya-data is the only thing needed to truly build and describe the object. The other data is just for convenient use, describing only a small part of the structure that we can interact with.
+There are abstract aya-concepts which fully develop the theory of these aya-structures, but they too transcend description. The way they interact with the structures is entirely determined by its aya-built constructs/structures. 
+
+
+Catalogue of structures (including rarity and class data):
+
+---------------------------------------
+
+Construct 
+(Actual Thing, determines its true things, things which transcend our understanding and can't be encoded in any other way except aya)
+(the aya structure here is entirely described and given aya-meaning and aya-value by aya-concepts and aya-theories that transcend our ability to comprehend or describe them) ((may remove this, or develop the aya-theories))
+(I could just delete everything and leave them as undescribable, transcendental, free from any constraints)
+(this is the thing that actually gets used to build other things, and a copy becomes a component of them)
+(this is the actual object we care about)
+(these objects can't be described by words)
+(these objects actually have interesting/[abstract thing representing good,fun,happy,desireable,eru,interesting,fun to play with]: [abstract thing representing things/meaning/value/purpose/theory/structure/properties/gameplay/mechanics/anything], but in ways that transcend our ability to understand or describe)
+(they can be [abstract fun] to play with and interact with, lead to potentially interesting gameplay when they interact with other objects)
+(consist of a list of aya, connected and managed by special symbols)
+
+
+Data 
+(determines how it interacts, interface, all the observable things that it can do or is and possesses) (these are in addition to the aya-data, and are a consequence of them, but in no way tell you anything about the aya-data; there is no way to understand the aya-data through the regular data)
+(todo: outline mechanics of writing the data later)
+
+Class:
+<>
+
+Rarity/Values:
+
+
+Acquisition Data:
+
+--------------------------------
+
+Construct:
+[Anarion][-][Dion][-][Eredar]>>[Turalyon]:::[Rochelle][-][Azrafel] 
+      [-][Arkon]:::[Anarion][-][Julian]
+      [Tel][Elysion]
+[Formenos][Saida][-][Exarkate]
+
+Data:
+<ros> - <ell> - [eon98] - [ero82] - <dre8>
+[8049]
+[7893]
+
+Class:
+<>
+
+Rarity/Values:
+<908>
+<6793>
+
+
+Acquisition Data:
+
+Info:
+(really good)
+
+----------------------------------
+--------------------------------
+
+Construct:
+[Coronis][-][Eyrion][+] [Baeryos] [-] [Marion][-]
+[Solon]::[Charon][-][Ereinion][+][Coronis] [-] [Saida] [>>] [Sirius] [#] [Solon]
+
+Data:
+<> - <> - [] - [] - <>
+
+Class:
+<>
+
+Rarity:
+
+Acquisition Data:
+
+----------------------------------
+----------------------------------
+Construct:
+[Julian] >> [Effelion] [-] [Eros] >> [Orpheus] >> [Hadrion] [-] [Ellion] - [Galakros]
+
+Data:
+<sym675> - <> - [] - [] - <>
+
+Class:
+<Eros>
+
+Rarity: 
+
+Acquisition Data:
+Acquired via special achievement [Defeat Galacton]
+
+----------------------------------
+--------------------------------
+
+Construct:
+[Saida] [-] [Exodius] [>] [Arcadion] [-] [Tyrael] [-] [Formenos] [>] [Feanor] [-] [Artorias]
+
+Data:
+<> - <> - [] - [] - <>
+
+Class:
+<>
+
+Rarity:
+
+Acquisition Data:
+
+----------------------------------
+--------------------------------
+
+Construct:
+[Saida][Arcadion][Tyrael][aya][aya][aya][aya][aya][aya][aya][aya]
+   [aya][aya][aya][aya][aya]::[aya][aya][aya][aya]
+[aya][aya]::[aya][aya][aya][aya][aya]
+
+Data:
+<> - <> - [] - [] - <>
+
+Class:
+<>
+
+Rarity:
+
+Acquisition Data:
+
+----------------------------------
+--------------------------------
+
+Construct:
+[aya][aya]::[aya][aya][aya][aya][aya][aya][aya]
+            [aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][aya][aya]
+[aya][-][aya][sym][aya]
+     [aya][aya][aya][aya][aya]
+          [aya][aya]
+
+Data:
+<> - <> - [] - [] - <>
+
+Class:
+<>
+
+Rarity:
+
+Acquisition Data:
+
+----------------------------------
+--------------------------------
+
+Construct:
+[Aryel][Marion][Elyssa][Syleyn][Formenos][Erindell]
+
+Data:
+<> - <> - [] - [] - <>
+
+Class:
+<>
+
+Rarity:
+
+Acquisition Data:
+
+----------------------------------
+--------------------------------
+
+Construct:
+()
+
+Data:
+<> - <> - [] - [] - <>
+
+Class:
+<>
+
+Rarity:
+
+Acquisition Data:
+
+----------------------------------
+--------------------------------
+
+Construct:
+()
+
+Data:
+<> - <> - [] - [] - <>
+
+Class:
+<>
+
+Rarity:
+
+Acquisition Data:
+
+----------------------------------
+--------------------------------
+
+Construct:
+()
+
+Data:
+<> - <> - [] - [] - <>
+
+Class:
+<>
+
+Rarity:
+
+Acquisition Data:
+
+----------------------------------
+--------------------------------
+
+Construct:
+()
+
+Data:
+<> - <> - [] - [] - <>
+
+Class:
+<>
+
+Rarity:
+
+Acquisition Data:
+
+----------------------------------

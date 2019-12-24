@@ -1,0 +1,13 @@
+[Game component/data/thing template]:
+
+[This is the template/outline file for creating anything that is a part of the game]
+
+%%%%%%%%%%%%%%%%%%%%%
+%%                 %%
+%%%%%%%%%%%%%%%%%%%%%
+
+[Structural outline, possibly in english]
+[Any additional data, possibly encoding structure, data, special things, and formatting]
+
+
+[Main aynu data encoded throughout, with some additional aynu data and formatting to properly render the data/mechanic/struct/thing]

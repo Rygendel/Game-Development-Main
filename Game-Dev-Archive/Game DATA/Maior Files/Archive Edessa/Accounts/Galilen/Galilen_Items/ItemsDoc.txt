@@ -1,0 +1,901 @@
+------
+Items:
+------
+
+Items work similarly to neopets. Each item has its own icon, description, and other pieces of information. 
+
+
+Players may create their own items, and customize them.
+
+Current Template:
+
+[{Item Name}]
+Class: {Class Name}
+Descr: {Flavour Text which may have some special meaning}
+Info: {Special notes about the item}
+Effects: {Lists any special effects the item may have}
+Abilities: {Lists any special interactions between this item and other mechanics}
+Spec:
+Stat: {If the items effects reference numerical info or stats, it will be here}
+Mir:
+Rarity:
+Icon:
+Elegon:
+Actions: 
+Picture:
+
+
+[{Item Name}]
+Class: 
+Descr: 
+Info: 
+Effects: 
+Abilities: 
+Spec:
+Stat: 
+Mir:
+Rarity:
+Icon:
+Actions:
+Picture: 
+
+
+Class:
+Descr:
+
+Weapons:
+--------
+
+(Rusty Short Sword)
+Info:
+Class:
+Descr:
+Effects:
+Spec:
+Stat: Base Damage: 1 - 2
+	Fire: 0 icons 
+	Water: 0 icons
+	Nature: 0 icons
+	Arcane: 0 icons
+	Wish: 0 ics
+	Physical: 0 icons
+Actions:
+Abilities:
+Mir:
+Rarity: 10
+Picture:
+
+
+
+
+(Soultuned Mage's Greatstaff)
+Class:
+Descr:
+Info: This powerful staff scales with the abilities of the user.
+Effects: Stat boosts
+Spec: 
+Stat:   Base Damage: Scales
+	Fire: 12 icons
+	Water: 12 icons
+	Nature: 12 icons
+	Arcane: 12 icons
+	Wish: 12 ics
+	Physical: 12 icons
+
+stat boosts: +315 intellect (scales)
+	     +5000 spell power (scales)
+
+Power: 
+
+special Effects: 
+
+Mir:
+Rarity: 
+
+
+[Tyarel, End Time]
+Class: Legendary Weapon
+Descr:
+Info:
+ - Weapon Type: Staff
+
+Effects:
+Abilities:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Elegon: Ki - Tel
+Actions: Anything
+
+
+
+
+
+Rings:
+------
+
+
+[Lords Signet Ring]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+
+
+
+
+
+
+
+
+Collectables:
+-------------
+
+[Card - ]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+
+[Card - ]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+[Stone - ]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+
+
+
+
+
+Magic:
+------
+
+
+[Conjure Demon]
+Info: Allows player to summon demons from the abyss.
+Effects: Allows player to summon the following demons: felbeast, cerebrus, vile imp, abysswalker
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+
+[Faint Magic Essence]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+
+[Desire Form]
+Class: 
+Descr: 
+Info: These precious and desirable entities are capable of being anything.
+Effects: 
+Abilities: 
+Spec:
+Stat: 
+Mir:
+Rarity:
+Icon:
+Actions: 
+
+
+
+
+[Mage's Catalyst]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+[Void Storage Vault]
+Descr: Can be used to permanently protect and store anything.
+Class: 
+Info:
+ - Stores items
+
+Effects:
+Abilities:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Actions:
+Picture:
+
+
+
+
+
+
+[Mage's Spellbook - Vol 1]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+[Mage's Spellbook - Vol 2]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+[Desire Essence Sphere]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+[Desire Essence Crystal]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity: 
+
+
+[Desire Essence]
+Info: Used to create desired objects.
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[Spell Scroll - Minor intelligence]
+Info: A learnable enchant that allows a player to modify any piece of armor to increase intelligence by 5.
+Effects: User gains the ability to cast the minor intelligence enchant which causes the target to permanently increase intelligence by 5. Can only be used on cloth armor. 
+Spec:
+Stat:
+Mir:
+
+
+[Item Creation Phoenaerus]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+[Formula: ]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+[Scroll: ]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+[Inscription: ]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+
+[Pale Embodiment ]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[Force of Will ]
+Info: Allows you to direct your will to control reality.
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[Luck Charm of Desire]
+Info: Increases rare item drop rate.
+Effects: Doubles drop rate for items with a drop rate less than 5%.
+Spec:
+Stat:
+Mir:
+
+
+[Altairian Potion of Intellect]
+Class: 
+Descr: A potion containing special knowledge and wisdom
+Info:
+ - Increases strength.
+
+Effects:
+Abilities:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Elegon: 
+Actions:
+Picture:
+
+[Altairian Potion of Strength]
+Class: 
+Descr: A potion containing special knowledge and wisdom
+Info:
+ - 
+
+Effects:
+Abilities:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Actions:
+
+
+[Essence of Existence]
+Class: 
+Descr: 
+Info: 
+Effects: 
+Abilities: 
+Spec:
+Stat: 
+Mir:
+Rarity:
+Icon:
+Actions: 
+Picture:
+
+
+[Alar Scroll of Possession]
+Class: 
+Descr: Use these scrolls to define your possessions.
+Info: Used to define your possessions.
+Effects: 
+Abilities: 
+Spec:
+Stat: 
+Mir:
+Rarity:
+Icon:
+Actions: 
+Picture:
+
+Hobby:
+------
+
+
+[Collectable Rock - ]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+
+[World Creation Apparatus]
+Info: Allows the player to create a world
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[World Recording Apparatus]
+Info: Allows the player record information regarding worlds they have created.
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+
+[World Recording Phoenaerus]
+Info: 
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+
+[Journal]
+Info: Used to record information.
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+
+
+
+
+Profession:
+-----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crafts And Devices:
+-------------------
+
+[Do-it-All Device]
+Info: Can do anything, including fetching and storing items, writing and storing data.
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[Wish Wand]
+Class: 
+Descr: 
+Info: Grants wishes and desires.
+Effects: 
+Abilities: 
+Spec:
+Stat: 
+Mir:
+Rarity:
+Icon:
+Actions: 
+Picture:
+
+
+
+[Fortuna Bot MK1337]
+Class: 
+Descr: 
+Info: Gives player a random object. May activate effect once every 24 hours.
+Effects: 
+Abilities: 
+Spec:
+Stat: 
+Mir:
+Rarity:
+Icon:
+Actions: 
+Picture:
+
+
+
+
+
+
+
+
+
+Special:
+--------
+
+
+[Small Bag]
+Info:
+Effects: Holds Up to 10 items.
+Spec:
+Stat:
+Mir:
+
+
+[Storage Box]
+Info:
+Effects: Deposit at bank to store up to 40 items.
+Spec:
+Stat:
+Mir:
+
+[RuniCodestone - Aphel]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+
+[RuniCodestone - Bel]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[Large Box of Goods]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[Large Box of Toy Goods]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+[Well Wrapped Present]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[Large Box of Toy Goods]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[Ancient Puzzle Cube]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[Lockbox - ]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+
+[Coin of Dreams ]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+
+[Wish upon a Star ]
+Info:
+Effects: Increases chance of randomly finding special items and currency.
+Spec:
+Stat:
+Mir:
+
+
+[Relic of Treasure Finding]
+Class: 
+Descr: Helps in locating hidden treasures.
+Info: 
+Effects: 
+Abilities: 
+Spec:
+Stat: 
+Mir:
+Rarity:
+Icon:
+Actions: 
+Picture:
+
+
+[Token of the Elder Gods]
+Class: Special Currency
+Descr: These valuable tokens can be exchanged for priceless objects
+Info: Can be exchanged for rare objects from the Elder Gods' vault.
+Effects: No special effects.
+Abilities: 
+Spec:
+Stat: 
+Mir:
+Rarity:
+Icon:
+Actions: 
+Picture:
+
+
+
+Music:
+------
+
+
+
+
+
+Souvenir:
+---------
+
+
+
+
+
+
+
+
+Academic Supplies:
+------------------
+
+
+[Red Hardcover Notebook ]
+Class:
+Info:
+Effects:
+Abilities:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Actions: Write information inside, place in gallery, 
+Picture:
+
+
+
+Food:
+-----
+
+[Red Apple]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Actions: Eat, Feed to pet, place in gallery, place in bag, ...
+Picture:
+
+
+Aelaros:
+--------
+
+[Archeron]
+Class: 
+Descr: 
+Info: 
+Effects: 
+Abilities: 
+Spec:
+Stat: 
+Mir:
+Rarity:
+Icon:
+Actions: 
+Picture:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Game:
+-----
+
+
+
+
+
+
+
+
+
+
+
+Elementals:
+-----------
+
+[Small Sample of Armantium]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Actions:
+Picture:
+
+
+
+[Raw Armantium Ore]
+Info:
+Effects:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Actions:
+Picture:
+
+
+
+
+
+
+
+
+Special Reagents:
+-----------------
+
+[Hyper Form]
+Class:
+Info:
+Effects:
+Abilities:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Actions: Anything
+Picture:
+
+
+
+[Black Ink]
+Class:
+Info:
+Effects:
+Abilities:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Actions: 
+Picture:
+
+[Hyper Form]
+Class:
+Info:
+Effects:
+Abilities:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Actions: 
+Picture:
+
+
+
+Information and Technology:
+---------------------------
+
+[High Performance Computer]
+Class:
+Info: This computer is capable of performing a wide variety of tasks. These include ...
+Effects:
+Abilities:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Actions:
+Picture:
+
+
+
+[Eternal Storage Drive]
+Class:
+Info:
+Effects:
+Abilities:
+Spec:
+Stat:
+Mir:
+Rarity:
+Icon:
+Actions:
+Picture:
+
+
+Book:
+-----
+
+[{Item Name}]
+Class: 
+Descr: 
+Info: 
+Effects: 
+Abilities: 
+Spec:
+Stat: 
+Mir:
+Rarity:
+Icon:
+Actions: 
+Picture:
+
+
+
+Player Created:
+---------------

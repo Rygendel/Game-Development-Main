@@ -1,0 +1,7 @@
+[write things and outline of character mechanics; players control this character and develop it and use it to live, do things, engage, and play/[abstract game-play] in the game world, and form the basis for all game mechanics]
+
+- physical charactersitics; including the physics engine related components that allow characters to do anything they could in real life
+- physical stats and mechanics that affect how players interact with and move/experience/live in the game-world
+
+- players can go in, learn skills, build a fort, defend it and raid against others (partly Eve and Rust inspired)
+- can learn to pilot space ships and travel through the galaxy 

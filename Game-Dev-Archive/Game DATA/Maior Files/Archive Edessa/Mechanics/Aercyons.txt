@@ -1,0 +1,103 @@
+---------
+Aercyons:
+---------
+
+
+General Description:
+---------------------
+Special objects which are extremely difficult to acquire. They are among the most powerful and abstract entities in the game, and can be used for essentially anything.
+
+
+
+
+
+
+Template:
+
+{Name}
+
+Descr: {}
+Stat: {}
+Esdraelon: {}
+Elegon:
+Effect:
+Commands:
+Usage:
+Picture:
+
+
+
+Catalogue:
+
+----------
+Sethaeron of Dire Need:
+
+Descr: It does what you need it to.
+Stat: {}
+Esdraelon: {}
+----------
+
+----------
+Sethaeron of Guidance:
+
+Descr: Provides answers and guidance.
+Stat: {}
+Esdraelon: {}
+----------
+
+----------
+Sethaeron of Creation:
+
+Descr: Creates.
+Stat: {}
+Esdraelon: {}
+Elegon: Ki - Tel - Ki
+----------
+
+----------
+Sethaeron of Meaning:
+
+Descr: Creates meaning and purpose.
+Stat: {}
+Esdraelon: {}
+----------
+
+
+----------
+Draeron of Wish Granting Number 1:
+
+Descr: One of the thirteen Draeron which, when gathered to gather, grant the bearer anything.
+Stat: {}
+Esdraelon: {}
+----------
+
+
+----------
+Draeron of Wish Granting Number 2:
+
+Descr: One of the thirteen Draeron which, when gathered to gather, grant the bearer anything.
+Stat: {}
+Esdraelon: {}
+----------
+
+----------
+Gallion of Power:
+
+Descr: It does what you need it to.
+Stat: {}
+Esdraelon: {}
+----------
+
+
+----------
+Wrath of the Ancients:
+
+Descr: {}
+Stat: {}
+Esdraelon: {}
+Elegon:
+Effect: Obliterates all enemies.
+Commands:
+Usage:
+Picture:
+----------

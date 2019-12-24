@@ -1,0 +1,37 @@
+World:
+
+
+
+
+
+Meta system: Constraints and Game-models/rules:
+- most game-lay systems have restraints/constraints on your ability to do things or acquire things in order to make the game interesting: you have to play the game according to a set of laws/rules
+Types of constraints include:
+	-> available actions and number permitted
+	-> resource limits and management ex. mana for actions, fuel supply
+	-> rarity of things
+	-> formula and explicit rules
+	-> number of sockets/slots/space/nodes
+	-> [any other type of system for defining game-mechanics]
+
+
+Game-Models:
+
+- pokemon
+- neopets
+- world of warcraft
+- civ 5
+
+
+
+
+Vendors and Crafting:
+- players can sell/exchange special combinations of objects to certain NPC vendors for special things in return: the objects in the recipe must be packaged together
+-> ex. certain combinations of items can be exchanged for a better item
+-> see path of exile for a similar system
+-> makes even seemingly worthless objects useful
+- can sell any item for something, but typically optimal to aim for recipe sales
+-> can get some really good things/structs/valuable things from vendor interactions and recipe sales
+
+
+-> crafting benches can be used to craft certain classes of things, perform certain types of modifications to items or structs, or do any other type of thing with objects/things/structs to modify/develop/create them

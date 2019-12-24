@@ -1,0 +1,29 @@
+Follow the same format for items:
+
+
+
+[Name]: Cryo-ray
+[meta]:
+[text]: This component can be used to freeze your opponents
+[game-play]::[Effect]: Freezes target, temporarily preventing them from performing any actions.
+
+
+
+
+
+[Name]: Kameha 
+[meta]
+[Text]: The most powerful object in the game.
+[game-play]:
+
+
+
+[Name]: Treasure Hunter
+[meta]:
+[text]: Improves your ability to find treasure in the game-world 
+
+
+
+[Name]: thing
+[meta]:
+[text] Just a thing. It has things. It is what it is. [Description]

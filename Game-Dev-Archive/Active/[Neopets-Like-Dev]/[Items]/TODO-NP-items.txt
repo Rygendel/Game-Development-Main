@@ -1,0 +1,41 @@
+Create layout and structures for Neopets-like item system
+  - then create a bunch of items
+
+
+[create and game-develop everything about the [Neopets-like] [aynu] game-object [aynu] class referred to as "items"]
+
+
+something like
+
+Item Mechanics, Game mechanics, systems, [aynu-game-things], ...
+
+[develop all game-dev things about the items (class of game objects, Neopets-like) here]
+
+- in general, everything about an item's game-mechanics/game-dev/[aynu]/[aynu-game-things/dev]/system/things is fully contained in the item's struct-data/code; it's data/code/writing/[aynu-code/writing] contains everything needed to fully understand, create and game-dev the item and everything about it and all fo its game-mechanics/systems in the game
+  - in other words, everything about an item should be contained in the data in its data-sheet (including aynu-things)
+  - everything needed to fuly implement all fo an item's game-systems and game-mechanics and game-engine should be contained in the data-sheet -> if everything about an item except its data sheet is lost, I should be able to fully recreate everything about the item using just the data-sheet
+  -> as a consequence, possessing an item's data-sheet is equivalent to possessing the item (there are special mechanics, such as special codes, used to prevent arbitrary duplication of items)
+ 
+
+
+Item structures:
+
+[name]:: {
+
+[Special data]:
+[description]:
+[Game Data]
+[Game-things]
+[Game-powers/things/data/anything] 
+(there is already a structure I developed for items - use it)
+
+[aynu-things]
+
+[aynu]
+...
+.
+.
+(more to develop)
+
+
+}

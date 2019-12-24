@@ -1,0 +1,119 @@
+Tyr:
+[provide a framework for making the objects I construct meaningful, valuable and do what I desire and what will ultimately make me happy]
+[allows for differentiating objects, and determines which objects are valuable/good/desirable to possess, and which ones are less so - measured by their aya-stats]
+
+These are the main concepts which will replace things like usefulness, desire, value, etc. They are far greater than their mortal concept couterparts, and utterly transcend description. What they truly are transcends description, but we do know they are the greatest things and the things we should strive for in the same way as their mortal counterparts:
+
+- used to create general description of aya-structs and [describe the things used to build structs, in abstract, general description]
+
+[Valyrion] - {happy}
+[Eros] - {utter desire/love/the ultimate thing to get/possess}
+[El] - {Good/Great/Useful}
+[Alecteon] - {abstract properties/things the object has}
+[Ryu] - {Value/meaning/helping to achieve desires}
+[Eru] - {the ultimate purpose/thing to get}
+[Elu] - {abstractly desirable}
+[Oranos] - {abstract greatness}
+[Adrion] - {abstract satisfaction, fulfillment, achieveing true meaning, being fun gameplay}
+[Tyrios] - {the best/fun thing to have, acquire, play with,and anything else}
+[Effyron]
+[Alexios]
+[Arya]
+[Varus]
+[Dyus]
+[Syllyn]
+[Exos]
+[Effy]
+[Tyr]
+[Aeon]
+[Tyria]
+[Arcadia]
+
+
+Qualities/Tyr-os: (things for objects to strive to possess and interact under, based on their aya-data they can develop these)
+
+[these qualities are Eros, lead to Valyrion, and in addition can have uses in various situations such as abstract combat - they endow objects with Eros, El, Ouranos, Eru, Alecteon, Ryu..]
+
+Heuristically, you can think of Qualities as an abstraction of forces, and how the object interacts with the qualities depends on the quality, and the object's Arion.
+
+These are in some sense, the categories in which objects can strive to be "good" in and can diversify by acquiring Aya which make them better according to a particular Tyr-os. They are in some sense a way of measuring how [El]/good and aya is with respect to one of these Tyr-os, and they provide [abstract goals] which we can strive for by acquiring objects which have the desired Tyr-os. 
+
+It is simply [El]/desirable/useful/valuable/powerful for players to acquire objects that are better according to these Tyr-os (as indicated by their aya-stats). 
+
+[However, they ultimately transcend any description, words can not do them justice, and they are simply beyond comprehension or description via mortal words.]
+
+[Eros]
+
+[Eru]
+
+[Avalon]: [Eros]-[Vor]-
+
+[Syntagmon]: [Ouranos]- 
+
+[Orpheos]: [Valyrion] - [El] - [Eru]
+
+[Alexiad]
+
+[Mutex]
+
+[Syratores]
+---------------------------------------------
+
+How these concepts interact with things:
+[Objects can can possess any of these abstract concepts to various degrees, depending on the [alecteon]/properties of the object] ...
+
+[these things provide abstract motivation, value, usefulness, etc
+
+[in an abstract sense these concepts motivate acquiring, possessing, using, owning, [interacting with], [doing things], [taking actions], [anything you want to do/be] involving various objects]
+
+
+
+[provide abstract reasons for acquiring possessing, using objects]
+
+[may delete the correspondences at some later date]
+
+
+Reasons to motivate acquiring Abstract structs:
+
+
+[Marked with Ryu/Eros/Eru](structs that are eros/desirable to possess):
+
+- they are simply elu and abstractly desirable
+- players will want to acquire them, having them is desirable and valuable and possessing them will be one of the most important goals and stores of value/greatness/oranos
+
+-some are simply desirable/eros/elu to possess, acquiring them will be difficult and require great achievements, but possessing them is the ultimate desire and source of [Valyrion] and [Eros]
+
+- players will want to possess them simply for what they are
+
+- like achievements/trophies, player will want to collect, store and possess them
+
+- what makes them [Eros] and abstractly desirable transcends description in mortal words (but is encoded in its aya-built data), they simply are [Eros/Eru] and desirable to possess because of the things encoded by the aya
+
+- some are extremely El/useful, have effects or do things which are important/useful/desirable/great 
+
+[Need to figure out how to describe abstract classes, there are infinitely many classes, but one "greatest class" and several special classes]
+[developing a structure within the framework of a class allows for interpreting its encoded information in the context of the theory]
+[also in some sense a "theory"]
+[they can't be truly described, mortal words can't do justice and they transcend all concepts, and go beyond these descriptions]
+[rename to something else, possibly make it the same as Tyr-os/concepts]
+
+
+For example, in the class "data structs" the name is the name of the struct, and some of its fields include:
+
+- the storage of the data
+- the types of operations supported on the data structure
+- what kind of data it can store
+- how fast the operations runs
+... 
+
+In the class of "automata", we can interpret the fields as giving information such as
+- input/output devices
+- processor abilities
+- [more computer/turing machine type stuff]
+
+
+- what they are exactly transcends words
+- creates a framework in which the encoded information for various structs can "do something" and "be something meaningful", governs the way the data interacts and in some sense gives it its "essence"/"value"/"meaning"
+- gives the data and aya everything and anything, including value, desirability, actions, purpose, usefulness, and all abstract Tyros such as [eru], [elu], ... (list the remaining abstract concepts
+- creates a framework which describes the objects and their data in terms of special transcendental aya-built things
+

@@ -1,0 +1,1 @@
+This folder will contain the files for the aynu symbols as soon as I can figure out a good way to generate them. This file will contain the mappings between the aynu symbols, and the "aya-words" used to represent them using english letters.

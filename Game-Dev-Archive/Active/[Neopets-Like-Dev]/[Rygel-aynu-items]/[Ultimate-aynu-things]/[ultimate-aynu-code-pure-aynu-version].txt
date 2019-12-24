@@ -1,0 +1,31 @@
+[a copy of the ultimate aynu code, but the description of it is also purely in aynu]
+[need to develop aynu-symbols to write this code]
+[need to fully redesign this] - actively work on developing the pure-aynu game-things/objects/Rygel and get them perfect]
+
+[need to actively develop this further]
+
+
+[Description]:[done in pure aynu]
+
+
+[Game-dev]:[pure aynu]
+
+
+
+
+
+
+--------------------------------------------------------
+Ultimate Aynu Objects:
+[create ultimate aynu objects and encode all of their game mechanics, systems, things, Iulion, Adrion, [aynu], [aynu-game-dev-things], game-dev-things, and everything else]
+
+1.
+[name]:: {
+	Description/data/code: [write aynu code describing its game-dev adn everything about it in the game and everything necessary to implement and create it in the game]
+	[Rygel/Object-code]: [write aynu code: this is the actual object and this writing/code actually "makes up" and creates the object in the game: owning a copy of this code is equivalent to owning the object in the game]
+}
+----
+
+2.
+	Description:
+	Code:

@@ -1,0 +1,25 @@
+[thing]-Manufactory
+
+
+
+
+[Research Facility]
+
+
+
+
+
+
+[Entertainment Complex]
+
+
+
+
+
+[Terrain Upgrade: resource extractor]
+
+
+
+
+
+[Terrain Upgrade: remote settlement]

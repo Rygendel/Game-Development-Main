@@ -1,0 +1,296 @@
+Things to Do:
+
+- remember, this is a game, so the design must incorporate some amusing and fun elements
+
+- add "notes" section to items, special objects, all other objects, abilities, talents, professions, and many other things
+- add other sections  
+- add notes/properties to tirions, aeonar
+- Outline properties of characters, races
+- add more detail to the structure of Esdraelon
+- create more special symbols and words to encode the information and meaning I want them to
+
+- need to include more structural components, mechanics, combat, games
+
+- outline gameplay, story, mythos, races, creatures, characters, and general ambient structures
+
+- outline mechanics, implementation
+
+----------------------------------
+Outline the Sacred Asturia, Escalonia:
+Notes: Acquiring these objects satisfies all desires, and achieves the true aeonar. Elysion.
+
+Azrafel: Capable of manipulating Reality as one wills.
+ - dakjdlsahkfbds
+
+Ascalon:
+
+
+
+
+
+
+
+------------------------------
+
+Economy, Shops, Corporations, Stocks and Shares:
+
+- primary medium of exchange is Aureus 
+
+- outline how businesses and corporations can be constructed
+
+- ownership of things can be sold through shares and stock
+
+- objects can be purchased from special markets or other players
+
+
+
+--------------------------------
+Places:
+
+Great Vault of Akron
+
+
+
+
+
+---------------------------------
+
+The Universe:
+
+The Lord: Earu/Elu
+
+The Way Reality Is (The way things are): Earu governs the true purpose and the secret fire.
+
+
+
+- matter is composed of fundamental elements, each with their own set properties. These elements can be combined and bound to create objects
+
+- there are 113 primary fundamental elements
+
+- some of the more important ones are: Mysium, Olegen, Reaniun
+
+------------------------------------
+
+Notes on Items
+
+
+
+
+
+---------------
+
+Notes on Abilities
+
+
+
+
+
+--------------------------
+Notes on Pursuits, Quests, Goals
+
+Players may choose to engage in a variety of endeavours, and interact with the fully immersive world in whatever way they wish. They may acquire and collect various items, abilities, special objects, special aeonar, and much more. They may also use and interact with these things in whatever manner they wish.
+
+
+- dsdfrgdfsgdfgs jsdlkfjs arcturon, asturia
+
+- ascalon 
+
+- ereinion
+
+----------------------------------
+
+Notes on Hobbies
+
+
+
+
+
+
+-----------------------------
+Talents
+
+
+
+
+
+-----------------------------------
+
+World Interaction
+
+
+
+
+
+
+
+
+--------------------------------------
+
+Notes on Jobs, Tasks
+
+
+
+
+
+
+
+------------------------------------
+
+Notes on Games
+
+
+
+
+
+------------------------------------
+
+Notes on Combat
+
+
+
+
+
+
+------------------------------------------
+
+Notes on Competitions
+
+
+
+
+
+
+---------------------------------------------
+
+
+Notes on Finding Purpose
+
+
+Players may define and construct their own objects, abilities, talents, aeonar, and purpose.
+
+
+The Mysterious Force - Zaedron
+
+- powerful essence which endows many things with special aeonar. Elysion. Many manifestations. Can be used to perform many tasks.
+
+Combat and professions using Zaedron. 
+
+Creation Zaedron
+
+Earth Zaedron
+
+Life Zaedron
+
+Destruction Zaedron
+
+Vaeron Zaedron
+
+Ereinion
+
+--------------------------------------------
+Notes on Games:
+
+Collecting Games:
+
+Building Games:
+---------------
+
+Build a civilization, led by special characters. Can acquire possessions, build buildings, construct structures, encode programs, acquire territory
+
+- Acquiring character
+- up
+- Acquiring Objects
+- Constructing Buildings
+
+Combat Games:
+
+Miscellaneous:
+
+
+Notes on Characters:
+--------------------
+
+Primary character, free to live and exist in the world as they see fit. Can acquire many things. Can pursue many activities and purpose. Can do what they wish. Elysion. Some of the activities and ways of pursuing meaning, happiness and elysion may include:
+
+- Playing games
+- Advancing skills and traits
+- Acquiring special objects
+- Customization and specialization
+
+Appearance:
+
+Gear:
+
+Stats:
+
+Traits: Determined from character creation and can not be changed. These can include many physical and personal characteristics.
+
+Talents: Determined from character creation and can not be changed. These can include special abilities
+
+Abilities:
+
+Personality:
+
+Possessions:
+
+Dareon:
+
+Rephaeon:
+
+Tirions:
+
+Sirions:
+
+Thought:
+
+Soul:
+
+Essence:
+
+Interests:
+
+----------------------------------
+Notes on Kaliphon/Esdraelon:
+------------------------------
+
+Special constructible objects. Can be used to create new things, meanings, ideas, concepts, aeonar, Dareon, and much more. Can be used to make new structures and systems. These objects can satisfy elysion, and can possess aeron. They can be used to create new worlds and realities.
+
+Data and information can be encoded. Players may be able to create their own members of a class of esdraelon, and use them, possess them, elysion, and much more.
+
+Inheritance and polymorphism.
+
+
+Classes of Kaliphon/Esdraelon:
+
+Desimon:
+--------
+Outline:
+
+--
+[Name]:
+
+[Daeros]:
+
+[Desirability]:
+
+[Ryel]:
+
+[Wish]:
+
+[Notes]:
+--
+
+
+Berrethon:
+--------
+Outline:
+
+--
+
+
+--
+
+
+--------
+Elements:
+Objects which make up everything and existence. Also endow structure to everything, determine everything, everything is made up of the elements and everything is determined by them. Abstract properties encoded in them.

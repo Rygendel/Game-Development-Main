@@ -1,0 +1,34 @@
+First experiment: create Pokemon/Neopets style mmorpg open world sandbox game with constantly added new gameplay and aynu-things/structs/objects to collect and structs to collect and gameplay with.
+
+
+
+Things to focus on:
+
+- create the poke-structs, that players will try to acquire, develop, and use in gameplay
+	-> there are many different "species" each with their own unique set of attributes/things
+	-> poke-structs can engage in many different kinds of game-play and game-combat; can acquie and specialize poke-structs for different things
+	-> pokestructs can engage in gameplay "within the game-world", are free to interact within the game-world according to game laws
+	-> poke-structs can do [many other things, can simulate virtually any gameplay given the right build-system]
+	-> players can build their pokestructs using many different things and development mechanics; good builds (for certain components of gameplay; how "good it is" is determined by the game-play component and its mechanics, engine, and model-system ) are extremely valuable, desireable, difficult to acquire, and a source of [abstract wealth-value-good] (since you can trade anything)
+- create the gameplay
+- create a large game-world with many things for players to do and places to explore
+	-> create a large amount of gameplay centered around doing things in the game world; ex. quests; can use structs to do things in the game world; can acquire objects within the game world and which can be played with inside of the game world; can do things with and game-play with structs inside the game-world
+- create aynu-objects and aynu-structs that players will try to collect
+- create items for the game, including items with player-designed purpose, items that players can use for their own delf-developed things/desires/goals/purposes
+	- items follow a neopets-style mechanic
+
+- create many plots and stories/adventures for players to participate in; special events and roleplaying, exploration and development of personal infrastructure, including bases, that can be used throughout the shared game world
+
+- create a large and expansive game-world with many places to explore
+
+- create large social structures for players to participate in
+
+- can have relationships
+
+- create many different game mechanics/systems and continuously develop new mechanics, make it possible for players to develop and simulate their own kinds of things/combat/gameplay/structures
+
+- create the [best things] for this game
+
+- there are many different game-play mechanics that players can choose to focus on or engage in
+
+- add the [best description/code/text]

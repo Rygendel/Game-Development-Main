@@ -1,0 +1,19 @@
+Place where I will design, develop and create the major gameplay objects that players can develop and use to gameplay/[aynu-gameplay]/[abstract-aynu-gameplay].
+
+Use some ideas from many Games including:
+	- Neopets
+	- Pokemon
+	- Illyriad
+
+Each struct will have some basic data and code that players can modify and develop using various data structures to make the struct better at different parts of the game in different ways, or to make the struct [aynu]/[aynu-theory-concepts]. Structs can have specialization or do/be things in special ways, and can be developed to do/be almost anything imaginable.
+
+Can also be developed using [aynu-concepts] to/for/[to achieve]/[aynu] [aynu-concepts]. Can [aynu]/[aynu-theory]/[aynu-theory-concept-thing]
+
+[Pure aynu-description of the Major Game Objects-Rygel-Adrion-Structs and all of their Game Development, how they work, and everything about them in the Game, and their [aynu-game-things]/[Iulion]/[Adrion]/[Aynu]/[Game-things]]:
+[aynu][aynu][aynu][aynu]
+
+
+[aynu]
+
+
+

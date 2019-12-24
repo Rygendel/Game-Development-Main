@@ -1,0 +1,51 @@
+Outline information about account structure, data, and gameplay:
+
+
+
+
+
+Notes:
+
+Girls/[Abstract Girls]
+- players can compete or do things to acquire/possess/own/get them
+- girls can be a thing players can possess/own
+- abstract girls can be a thing players collect/own/use
+	- > "abstract desire objects"
+	=> [abstract concepts representing player desires with respect to the girls; can represent things players desire to do things to/with them or states to put them in; or any other thing with respect to the girls]
+	-> players can do anything they want to/with them
+
+- girls can be involved in many abstract things the players want; many abstract things canbe done with them; they can [abstract aynu-thing]
+
+- they can [any concrete thing desired]
+
+
+Create your own objects/structs/systems/game-play-things/[aynu-things]:
+
+- create and implement a system for players to create their own kinds of things and actual copies of them; include an outline for the objects needed, how to design and make them, mechanics, recipes, tasks, actions, and things they need to do/acquire in order to create things, and anything else 
+
+	-> implement "create-your-own" items/things/objects/structs/gameplay-things/[aynu-things]
+
+
+Create Item/Object/Structure/[thing] Interaction mechanisms:
+	- create system that can allow any kind of interactions with game-things imaginable, and allow players creativity by combining or developing new ways to combine or game-play with or interact with or use game-objects
+
+- allows more freedom than imaginable for players to interact/[do-things] with items/objects, virtually anything possible can be done with items while following the game's laws/game-reason
+
+- players can understand an item/object's properties within the game-world and reason about them in order to do what they want and use them or play with them within the game world; like in real life objects/things have abilities/properties and players can use reason/game-reason to determine what things they can do/be and how to use them within the game-world
+
+- [further description about how the game/item system works and the complete and utter freedom given to the players that lets them do things with the objects that includes and goes beyond the kinds of things they can do in real-life or any game such as neopets, Path of Exile, MMORPGs, etc.
+
+- creativity and game-play in combining different things (similar to combining passive+gem+gear+flask+[other things] abilities/stats in PoE to create different builds) to create other things that are fun to have or use in 
+
+- can design and build many kinds of things using many different kinds of game-things that can be fun to have or use in game-play
+
+- items/objects/structs can be used in many different ways in game-play, virtually anything can be done with the right kind of item or item/action-combination in game-play
+
+- [virtually anything and any abstract thing can be done/created/thing with the right kind of items/objects/structs]
+
+- item mechanics: [abstract things]
+
+- [use [abstract-aynu-code] to describe items/objects/structs/[abstract-aynu-things] and their game-mechanics]
+
+- [add more concrete english to describe item/objects/structs/[abstract-aynu-things] game mechanics]
+

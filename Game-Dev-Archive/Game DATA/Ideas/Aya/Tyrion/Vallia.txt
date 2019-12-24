@@ -1,0 +1,10 @@
+Name: Vallia
+
+Turion:
+Daeron: [sym67]-[tyr11]-[]-[]-[]-[]-[]-[]-[]-[]-[]-[]-[]-[]
+Elyssion:
+Syleyn: 
+Aeron: [][][]
+Formenos: 
+Sirion:
+Notes:

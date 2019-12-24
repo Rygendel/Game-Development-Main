@@ -1,0 +1,14 @@
+- these are sub-games within the larger neopets-like game that players can participate in
+- each game has its own mechanics; and players may be able to use resources, items, structs, pets and other things to participate in it
+- these games are intended to be fun, and many have rewards/prizes/things and can have effects on the Larger game world
+
+-> the Neopets-like game world can have an effect on the games, and the games can have an effect on the Neopets like game world
+-> some sub-games have dedicated objects that can be acquired in the Arch-game and used in the sub-game or other game; some can use your pets abilities or those of other structs
+
+-> playing games can have many effects that go beyond the sub-game environment, the sub-game environment can be integrated into the game world
+
+-> games can be anything really
+
+
+-> eg. develop a turn based party-game similar to Keyquest
+-> make a game based on developing a self-sustaining and automata-run ecosystem/civ-system structure similar to Neopets Habitarium 

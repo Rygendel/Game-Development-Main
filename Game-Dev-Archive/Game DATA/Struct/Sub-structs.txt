@@ -1,0 +1,200 @@
+(migrate and finalize materials in the "data" folder as well as other files)
+Catalogue of [Substructs-final name pending] and Things used to build Structs:
+- they are strings of aya, combined in different ways
+- some of the different forms which the combinations of aya can take are listed in the "struct template" file
+- they can take many different forms
+- some may have a [descr] field which is described using the special aya-concepts.
+  -> [descr] may also use aya
+  -> adds some extra detail (though most of the aya-concepts and aya-things are encoded in the object itself)
+- the object itself consists of a collection of aya, organized in various systems
+  - this makes up the very essence of the object, and all aya-things about this object can be determined by the aya that make up the object 
+- they have mysterious aya-things, aya-power, aya-meaning, aya-anything and aya-properties that transcend our understanding
+- players will want to collect these objects for their own desires, or use them to build aya-structs that they want
+- players will want to collect these objects [for reasons that transcend our understanding]
+- players can also use these objects to build aya-structs they want to collect [for reasons that transcend our understanding]
+- these objects can be [desirable] and [valuable] and [anything] on their own [for various reasons that transcend our understanding, including things stated previously]
+- these objects can be built by some types of units, or acquired through crafting, quests, actions, plot, work, achievement, and various other means
+- these objects (including aya-structs) can be acquired through different types of gameplay, combat, games, and similar things. These objects will be the ultimate or best reward for most types of gameplay, and will motivate competition through the [desire to possess them]. These objects are innately and inherently [desirable to possess for reasons beyond our understanding], and therefore motivate competition and gameplay in order to acquire these objects.
+- these objects can be combined and used to build aya-structs; aya-structs will have several "sockets" to which these aya-substructs can be added; adding an aya-substruct to an aya-struct causes it to add its transcendental-essence to the aya-struct and give it things which transcend our understanding
+- these objects can be [used/things], combined and engage in interactions/gameplay which transcend our understanding; they add and participate in very deep gameplay mechanics that transcend our understanding and ability to describe
+- these objects can be combined through various crafting techniques to create aya-structs, and add their transcendental properties and essence to the aya-structs that they are a part of
+---------------------------------------------------------
+
+
+
+------------
+Description:
+------------
+
+[Valyrion][Eru][Tyrios][Adrion][Ryu][Oranos][Tyrios][Eru][Eros][Oranos] [Effy][Eru][Syllyn][Tyr] [Anarion][Tyrael][Exodius][Arkon][Alexios] [Azrafel][Sirius][Ascalon]
+
+-----
+List:
+-----
+
+---------------------------------------------
+1.
+
+[sym]
+[aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][aya]
+[aya][aya][aya]
+[sym]
+
+--
+
+[Descr]: [Adrion][Eru][Valyrion][Eros][Oranos] [Arcadia][Tyrios][Aeon]
+
+--------------------------------------------
+2.
+
+[Elysion][Isilya][Azrafel][Arkon][Turalyon][Anarion]
+
+--
+
+[Descr]: [Tyrios][Alecteon][Eros][Tyrios][Ryu][Eru][Eru][Tyrios][Effyron]
+
+--------------------------------------------
+3.
+
+[sym][Tyrael][Arcadion][Asturias][Elysion][Valeria][Arkon][Atreus][Ascalon]
+[Sirius][Exodius][Akaia][Escaflone][Artorrias][Illion][Coronis][Marion][Feanor][Effelion][sym]
+
+--
+
+[Descr]: [Eros][Alexios][Tyrios] [Eru][Eros][Azrafel][Alexios][Oranos][Effyron][Tyrios][Valyrion] [Eros][Saida][Atreus][Darus] [Seido][El][Eros][Tyr] [Akron][Dyon]
+
+---------------------------------------------
+4.
+
+[Tyrael][Azralon][Elysion][Arkon][Tyrion][Artorrias][Exodia]
+
+----------------------------------------------
+5.
+
+[sym][Arcadion][Adreon][Sirius][Tyrael][Tyrion][sym][Coronis][Effelion][Formenos][Akerus]
+[Elyssa][Numenor][Sif][Saron][Pharos][Alexiad][sym][Diabound][Eos][Tyrael][Adriel][Eredar]
+[Eriador][Tor][Effelion][Arkon][Kronos][sym][Exark][Elyssar][Vastel][sym][Wratheos][Saron]
+[Arcadion][Julian][sym][Sif][Saron][sym]
+
+------------------------------------------------
+6.
+
+[sym][Elysion][sym][Tyrael][Tyrion][sym]
+
+
+------------------------------------------------
+7.
+
+[Ascalon][Elysion][Asturias][Tyrael][Eredar][Arkon][Imperator][Vastel][Exodar][Magnaron]
+[Exodar][Anarion][Arkon]
+[Kronos][Evanesent][Acheron][Wrathion]
+
+--
+
+[Descr]: [Varus][Dionos][Exos][Adrion][Arya] [Exos][Effy][Tyr][Tyr][Dyus][Eru] [Exos][Tyr] [Varus][Exos][Arya][Eru][Arcadia] [Tyria][Arcadia][Aeon][Exos] 
+
+--------------------------------------------------
+8.
+
+[sym]
+[Elyssa][Adunai][Aion][Kairene][Elyssar][Asturia][Wratheos][Elysion]
+[Eudaimon][Sareon][Tyr][Sylyn][Genesaur][Acheron]
+[Eredar][Eros][Anarion][Kronos][Asturia][Vastel][Sif][Romenos][Arya][Efy][Illidan][Atreidei]
+[Endza][Alexiad][Kyros][Asha][Vindikator][Elyssar][Diabound][Arkadia]
+[sym]
+
+--------------------------------------------------
+9.
+
+[Asha][Endza][sym]
+[Rafael][Acherus][Tyrael][Illidan][Alexiad]
+[Saron][Romenos][Asha][Efy][Vindikator][Azshara][Adriel]
+[Eros][Elysion][Sedenion][Anarion][Eriador][Vastel]
+[Sylyn][Arkon][Kronos][Exark][Tyrael][Tyr]
+[Lorde][Arkon][Anarion][Saida][Acherus][Marion]
+[Elyssa][sym]
+
+--
+
+[Descr]: [Arcadia][Tyria][Exos][Syllyn][Arya] [Aeon][Tyria][Eru][Eros] [Eru][Alexios][Varus][Dyus][Effy][Tyr][Adrion] [Effy][Exos] [Aeon][Tyria][Eros][Valyrion][El][Ryu][Alexios]
+
+---------------------------------------------------
+10.
+
+[Arkadia][Illidan][Alexiad][Genesaur][sym] {
+[sym][Diabound][Magnaron][Atreus][Dionos][Eriador][Anarion]
+[sym][Acheron][Elysion][Sylyn][Exark][Exodar][Kronos][Eros][Arkon]
+[sym][Saida][Aescalon][Wratheos][Adunai][Romenos][Ary][Efy]
+[sym][Pharos][Eredar][Rygel][Marion]
+[sym][Effelion][Formenos][Feanor][Adriel][Elyssa]
+[sym][Coronis][Marion][Elyssa][Lia][Sirius][Ereinion]
+}
+
+----------------------------------------------------
+11.
+
+[Edessia][Illion][Pharos][Marion][Coronis][Elyssa][Wrathion][Leithian][Endza][Kyros]
+[Syleyn][Effelion][Elysion][Kronos][Tyr][Exodar][Imperator]
+[Lorde][Vastel][Ereinion][Ascalon][Tyrael][Arcadion][Akaia][Sirius]
+[Anarion][Coronis][Elysion][Wratheos][Elyssar][Ascalon][Artorrias][Tyrael][Arkon]
+[Rygel][Sirius][Julian][Adunai][Elyssar][Aion][Arkadia][Dionos][Sirius][Eudaimon]
+[Anarion][Elyssar][Elyssar][Elysion][Akron][Asturia][Anarion][Eros]
+[Varion][Elysion][Tyrael][Saron][Alexiad][Sirius][Elysion][Asha][Illion][Elyssa][Coronis]
+
+----------------------------------------------------
+12.
+
+[[Valens][Sareon]]::[Varus][Ouronos][Kalimon][Artorias]
+                           [Rygel][Hydraemon][Syleyn]
+                    [Dionos][Synarius][Katrinae][aya][aya]
+                    [aya][aya][aya][aya][aya]
+                    [aya][aya][aya][aya][aya]
+[Alexios][Sareon]::[Effelion][Artorias][Coronis][Holosyn][Alexiad][Ryu]
+                   [Adrion][Leithian][Endza][Asha]
+                   [Eos][>][aya][aya][aya][aya]
+                   [aya][aya][aya][aya][aya][aya]
+	           [aya][aya][aya]
+	           [aya][>>][aya][aya][aya]
+[Vor][Elyssar][Akron][Wrathion]::[Elysion][Artorias][Redentor][Eregion][Vastel]
+                                 [Sedenia][Adriel][Kronos][Acheron][Exodar]
+                                 [Ariel][Syleyn][Endza]
+
+---------------------------------------------------------
+13.
+
+[aya][aya][aya][aya]::[aya][aya][aya][aya][aya]
+[aya][aya][aya]::[aya][aya][aya][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya]::[aya][aya][aya][aya][aya][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya]::[aya][aya][aya][aya][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya]::[aya][aya][aya][aya][aya][aya][aya][aya][aya]
+
+--------------------------------------------------------
+14.
+
+[Tel][Saida][Atreus]::[Arcadion][Sirius][Azralon][Elysion][Valeria][Exodius][Asturias][Rygel]
+[Elessia][Coronis][Solon][Tyrael][Edessia][Elysion][Rafael][Elyssa][Alexiad]
+[Numenor][Endza][Maron][Aryel][Marion][Acherus][Sol][Diabound][Genesaur][Arcadion][Eros]
+
+----------------------------------------------------------
+15.
+
+[Adriel][Eos][Asha][Illidan]::[Sif][Saron][Tyrael][Azshara][Efy][Arkon][Vastel][Exodar]
+[Kronos][Anarion][Elysion][Sylyn][Tyr][Dyon][Eriador][Wratheon][Elyssar][Akron][Aescalon][Asturia]
+[Sylyn][Exark][Vastel][Elyssar]::[Wrathion][Arcadion][Andalus][Pharaeos][Julian][Elysion][Saba][Evanesent]
+[Eros][Acheron][Eros][Azshara][Efy]::[Eredar][Tyr][Sylyn][Kronos][Acheron][Eros][Sedenion][Coronis][Edessia][Exodius]
+[Valeria][Tyrael][Elysion][Illion][Vor][Akaia][Escaflone][Arkon][Sirius][Redentor]
+[Varian][Wrathion][Elyssar][Varion]
+
+-----------------------------------------------------------
+16.
+
+[aya][aya][aya][aya]>>[aya][aya][aya][aya][aya]//[aya][aya][aya][aya]{[aya][aya][aya][aya]}::[aya][aya][aya][aya][-]
+[aya][aya][aya][aya][-][-][-][aya][aya][aya][aya][SYM][aya][aya][aya][aya][SYM][aya][aya][aya]|[aya][aya][aya][aya]
+[|][aya][aya][aya][aya][|][aya][aya][aya][aya][aya][aya][|][aya][aya][aya][aya][SYM][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][SYM][aya][aya][SYM][aya][aya][aya][aya][|]
+
+----------------------------------------------------------
+

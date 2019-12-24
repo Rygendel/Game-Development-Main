@@ -1,0 +1,79 @@
+Current plans: something along the lines of an open-world (think WoW) version of pokemon/neopets, with influences from many games such as path of exile, Civilization, Distant Worlds, etc.
+
+- everything is determined by the game-engine, game-data, game-things, game-text and game-code (including aynu-code and aynu-things)
+
+Mech and Megas structs will feature heavily with a parallel "aynu"-encoded game-world. Will include a wide variety of subgames and different game-models, including real-time and turn based strategy, as well as room for players to create their own games, game-mechanics, game-systems/models, game-world, structs, things, and [abstract-things]
+- aynu-world will be outlined in the [aynu world] directory
+
+
+Also need to create "greatest desired descriptions": texts/code that describe/encode/implement the objects that I desire for myself and wil be among the best, most valuable/powerful/desireable/greatest objects in the game and make the owners the wealthiest and most game-fun and game-best players in the game, and achieve the game-play-best things in the game. They will be unique, and I will possess them.
+-> in essence, these descriptions will create the "best items/things/game-structs" in the game that I will give to myself -> they will be items, Mechs, and the best of them will be Megas.
+-> these descriptions/code will, when attached to a game-struct, be the ultimate thing I want
+-> [they will do the ultimate, freest things]
+-> these codes/texts will do [aynu-encoded-thing]
+-> some of these texts/code will be in aynu, but will still be among the the greatest/most-powerful/valuable objects/structs in the game (aynu-encoded objects can vary greatly in terms of their game-effects, powers, value, utility, properties, attributes, things, essence, game-play, game-things, game-system-models, and anything else)
+
+
+- create a wide and beautiful game-world with a lot to explore and interact with, and with plenty of things to find, uncover, do, be, see, interact with, and anything else. 
+- lots of opportunities and places to explore, a wide variety of landscapes and types of environments/maps
+- can claim a base to develop
+- can hunt for treasure and things/structs, try to capture/game-play with them in the wild
+- a lot of open-world interaction between the players and environments, a lot of activities and things to discover
+
+
+Item format:
+
+Item name:
+meta-data:
+Description/Text/Interactive text/data/flavour:
+Game-data/info/game-play: (things you need to recreate its in-game things/effects/powers/behaviour/[any-thing]/data)
+Interactions/Actions/instructions/[things you can do with/to the object]:
+Any other things:(can include anything, can include any special data or things that don't fit into any category; makes it possible to create items to do/be/[thing] virtually anything, though I may not create all such items)
+	- [aynu-data]:
+
+
+
+Struct Format: (need to design this further, create templates for different kinds)
+
+[generic format]: MEta-format common to all structs
+[format specific to the struct]: No set format, use the format for the particular struct class
+
+
+Item Catalogue
+
+
+
+[Game-World Creater]:
+
+
+
+
+
+
+-----
+
+[aynu][aynu][aynu]:
+
+
+
+-----
+[Ultimate-Game-object]:
+Meta-data:
+Description: [Description outlining how this is the most powerful/valuable/desirable concrete object in the game; how possessing it and using it in game-play is the greatest game-play objective involving concrete objects; (best description and flavour text involving concrete objects should go here)]
+
+
+
+
+
+My Inventory:
+
+
+
+
+
+
+[Base/Std] Struct Catalogue
+
+
+
+Struct Collection/Inventory

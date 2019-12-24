@@ -1,0 +1,29 @@
+Format:
+
+
+[Name]: Name of the PokeStruct
+
+[Species]:The Base class. Determines and influences many other features of the PokeStruct.
+[Gender]:
+[thing]:
+
+[Base Stats]:
+	[Icon Generation]: The amount of icons of each type it can generate in a single turn.
+	[Power Level]: 
+	[Dev Points]: The number of dev points acquired and where they have been spent
+	[Individual Values]: Special values unique to each instance that give it special boosts/values in certain areas (need to determine how these work). Can help make some structs inherently "better" at certain areas than others.
+	[Training Values]: Improvements to certain areas/things as a result of work on your part to develop and train them; reflected in these values; training in certain ways improves these values according to certain mechanics.
+	[Acquirable "Action/Ability/battle-power" pool]: The different battle-powers the struct can acquire and the methods used to acquire; these skills can be further developed and improved.
+	[Gear/item-giving]: The items that the Pokestruct has and can use in the game-world and game-play; some things might require special training, stats, or development in order to be used, or might require some special game-play mechanic be satisfied in order to use it, or some other game-play condition must be ment, or some other thing (these mechanics will be among the most flexible and extendible, and can interact with virtually any system and can be modfied and simulate virtually any gameplay system)
+		-> the way pokestructs use and interact with items is virtually limitless, and allows for virtually any kind of gameplay, and can be developed and extended in any way, and players can even devise and use the item system to build their own new game
+		-> pokestruct interactions with subclasses of items can follow virtually any gameplay model/system/mechanics
+	
+
+[Development Structures]:
+	[Devlopment structure 1]:
+
+
+
+[thing]:
+
+[aynu-things]:

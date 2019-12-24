@@ -1,0 +1,1 @@
+Create model for game-account data files, including all the data and things that account possesses.

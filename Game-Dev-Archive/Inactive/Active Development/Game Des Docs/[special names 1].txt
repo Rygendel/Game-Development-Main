@@ -1,0 +1,23 @@
+Singollo
+Utumno
+
+Simulation Roleplaying open-world sandbox
+
+- create a game world where players can acquire things and develop things, players are free to communally develop their own game, game-things, and gameplay
+(somewhat similar to minecraft)
+
+- vast open world with a variety of worlds, open exploration, roleplay, ..., [and many other things to develop]
+(somewhat similar to "No Man's Sky")
+  -> players can participate in a wide variety of games, subgames, player-developed things
+  -> constantly added new plots, activities, games, missions, [gameplay], [things to do and gameplay], ..., [more to develop], ... etc
+  -> new kinds of gameplay and developments in older gameplay are constantly being developed and added to the game
+  -> continuously evolving world and character/drama/plot allows players to remain continuously engaged in special events and gameplay that may occur only once
+
+
+
+Game Design Pad:
+
+- Object Mechanics, trading, crafting, design, development, economy, corporations, companies, stock, [hyper-trading], and more...
+  - Start with a basic Neopets-like item/object system, and go beyond it; develop a more complex and developed item/trading/economic system with more detailed crafting similar to games like Rust, ARK: Survival evolved, EVE, etc.
+
+- write pure aynu documents and pure aynu game-design-pad

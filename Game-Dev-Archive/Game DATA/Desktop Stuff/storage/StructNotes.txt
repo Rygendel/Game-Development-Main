@@ -1,0 +1,332 @@
+Things to build:
+
+- Characters
+- Draemon
+- structs (the stuff in game.txt and abstract.txt)
+- Tyrions/objects
+- Sirions
+- Machines
+- World
+- background mechanisms/gameplay 
+- encapsulation of the game and a system
+
+
+- Describe the data and structs related to each structure (Characters/NPC, World, Items, Campaigns/Adventures/Story Arcs/Quests, Tasks/Things to do or collect/Achievements)
+
+
+Main Quest:
+(Story/Lore)
+
+Intro/First Encounters
+
+
+Secrets of the Old Gods
+
+
+Into the Void
+
+List of additional aya:
+
+- Acherus
+- Wulph
+- Wareth
+- Rafael
+- Sol
+- Erol
+- Kyros
+- Tura
+- Endza
+- Asha
+- Leithian
+- Ryu
+- Eos
+- Holosyn
+- Alexiad
+- Rorenos
+- Illidan
+- Romulus
+- Romenos
+- Aquirae
+- Eorel
+- Sif
+- Saron
+- Pharos
+- Ephe
+- Efy
+- Arya
+- Vindikator
+- Diabound
+- Atreidei
+- Evanesent
+- Genesos
+- Genesaur
+- Magnaron
+- Tor
+- Targon
+- Beltheos
+- Azshara
+- Felreaver
+- Liuna
+- Eros
+- Adriel
+- Roshan
+- Acheron
+- Eredar
+- Eriador
+- Anarion
+- Rohirrim
+- Roheros
+- Arkon
+- Imperator
+- Lorde
+- Kronos
+- Exark
+- Exodar
+- Vastel
+- Sadana
+- Sylyn
+- Sedenia
+- Elysion
+- Saida
+- Tyr
+- Tarabulus
+- Seido
+- Sedenion
+- Atreus
+- Dyon
+- Deo
+- Dionos
+- Darus
+- Sareon
+- Akron
+- Wrathion
+- Wratheos
+- Eudaimon
+- Eudairon
+- Elysion
+- Asturia
+- Elyssar
+- Aescalon
+- Nymeria
+- Julian
+- Aureliana
+- Avelia
+- Lukaria
+- Dairon
+- Algalon
+- Argelon
+- Aealon
+- Saba
+- Saberon
+- Adunai
+- Eregion
+- Ariador
+- Pharaeos
+- Feros
+- Kairene
+===========
+more to add:
+
+- Adrianna
+- Lina
+- Aryel
+- Katamon
+- Argus
+- Sylene
+- Therion
+- Theridon
+- Thyrion
+- Karabor
+
+
+
+Rough work on creating an object template:
+- the abstract value and goodness/meaning is a part of what is encoded by the aya
+- all things about the aya, including all the things you could every care about, are encoded by the aya
+-many different ways of building structs and substructs (and building structs from substructs)
+(fill in "aya" with actual aya data that makes the object into something meaningful, gives it (transcendental) value, power, things, abilities, properties, desireability, goodness, greatness, and anything else)
+
+<class> [name] {
+
+[[Valens][Sareon]]::[Varus][Ouronos][Kalimon][Artorias]
+                           [Rygel][Hydraemon][Syleyn]
+                    [Dionos][Synarius][Katrinae][aya][aya]
+                    [aya][aya][aya][aya][aya]
+                    [aya]::[aya][aya][aya][aya]
+
+[Alexios]::[Effelion][Artorias][Coronis][Holosyn][Alexiad][Ryu]
+           [Adrion][Leithian][Endza][Asha]
+                  [Eos][>][aya][aya][aya][aya]
+           [aya][aya][aya][aya][aya][aya]
+	   [aya][aya][aya]
+	   [aya][>>][aya][aya][aya]
+           
+[Exark][aya]::[aya][aya][aya][aya][aya][aya][aya][aya][aya]
+
+[[Saida]::[Eredar]::[Acheron][Dionos]]::[Arkon][Eros][Saron]
+
+[[aya][aya][aya]][sym][aya][aya][aya][aya]
+
+[aya][aya][aya]::[aya][aya][aya][aya]
+[aya][aya][aya][sym][aya][aya][aya][aya][aya][sym][aya][aya]
+[aya][sym][aya][aya]
+
+
+[[aya][aya][aya][aya]] [sym] {
+::[aya][aya][aya][aya]
+::[aya][aya][aya][aya][aya]
+::[aya][aya][sym][aya][aya][aya][aya][aya]
+::[aya][aya][aya][>][aya][aya][aya][aya]
+::[aya][aya][aya][aya][aya][aya]
+:::::::[aya][aya][aya][aya]::[aya][aya]
+::[aya][aya][aya][aya][sym]
+[sym] }
+
+}
+
+Formatting examples:
+
+[[aya][aya][aya][aya]][sym][aya] {
+[aya][aya][aya][aya][aya]
+::[aya][aya][aya][aya][aya][sym][aya][aya][aya]
+
+}
+
+(Definitely need to add everything after this point)
+
+Can be rewarded for completing various tasks. Some special events award structs and things to build structs. Sometimes rare quests and random events occur which help you to acquire them. Can build and develop things which help you acquire structs and things to build them. Can develop followers who you can send on missions once they reach a certain stage of development, level, equipment, skill, abilities, etc.
+
+
+
+Some items can assist:
+Some objects can make temporary or limited things permanent.
+Some objects can generate things for construction.
+
+List of substructs:
+(may include additional info later)
+(used for constructions)
+(these not only encode things, but actually are them)
+(vary greatly, encode and are things that transcend understanding)
+(these will encode and embody everything about a struct when fused with it)
+(these will be the greatest things, do everything I want, which transcends mortal description)
+(these objects vary greatly, their transcendental properties, effects, nature, essence, and everything else, varies greatly between these substructs)
+(but all the things I want can be built from some combination of these structs)
+(not all of them have the same level of desirability, they vary in value and method of acquisition)
+(add more things I want here, everything I could [want] is in some way constructible from these objects)
+(there are special, valuable, and meaningful rewards for collecting all special pre-constructed (standard,set) structs that belong to various classes)
+(some of these objects are themselves rewards, they are [abstractly desirable, in ways we can not express])
+(some of these objects possess [abstract concepts], which makes them desirable to possess for reasons and things beyond our understanding)
+(can build galleries of structs, and there are many powerful motivations/rewards/values for doing so)
+Basic Ideas:
+- possessing these objects is the ultimate goal and the thing that players will [desire] and make them [happy], and will be the ultimate purpose of gameplay
+- the reasons and motivations are beyond our understanding, as are the true [properties/essences/meaning/value/etc/things that are beyond our understanding]
+- but the best of these objects will cause players to be [valyron] and have [aya-expressed concepts that are beyond our understanding, but are the greatest good]
+- there is some struct that will satisfy any desire or [abstract desire] or [abstract thing]
+- players can build a system of aya-structs to create any desired gameplay or thing or [transcendental thing]
+(add anything that satisfies me)
+----------------------------------------
+[[aya][aya][aya][aya]] [sym] {
+::[aya][aya][aya][aya]
+::[aya][aya][aya][aya][aya]
+::[aya][aya][sym][aya][aya][aya][aya][aya]
+::[aya][aya][aya][>][aya][aya][aya][aya]
+::[aya][aya][aya][aya][aya][aya]
+:::::::[aya][aya][aya][aya]::[aya][aya]
+::[aya][aya][aya][aya][sym]
+[sym] }
+
+}
+
+-----------------------------------------
+
+[aya][aya][aya]::[aya][aya][aya][aya]
+[aya][aya][aya][sym][aya][aya][aya][aya][aya][sym][aya][aya]
+[aya][sym][aya][aya]
+
+------------------------------------------
+
+[aya][aya][aya][aya][aya][-][sym] {
+::[aya][aya][aya][aya]
+
+}
+
+----------------------------------------------
+
+[[Tyr][Eos][Leithian][Endza]] [sym] {
+::[Asturia][Elyssar][Eros][Pharaeos][Adrianna]
+::[Efy][Tyrion][Exodar]
+::[Elysion][Aescalon][Dyon][Atreus][Magnaron]
+::[Roheros][Pharos][Efy][Tyrion][Dionos]
+::[Sedenion][Alexiad][Vastel][Adriel][Anarion][Saron][Wrathion][Elyssar]
+::[Adunai][Wrathion][Seido][Adunai][sym][Azshara][Eros][Saida][Dionos]
+::[Eros][Wrathion][Exodar][aya][aya][aya]
+:::::::[aya][aya][aya][aya]::[aya][aya]
+::[aya][aya][aya][aya][sym]
+[sym] }
+
+}
+
+-----------------------------------------------
+
+[Exodar][Adunai][Pharos][Wrathion][Elyssar][Tyrion][Sylene][Adriel][Eros][Exodar]
+
+----------------------------------------------
+
+[Dionos][Asturia][Endza][Saida][Efy][Seido][Magnaron][Endza]
+
+-------------------------------------------
+
+[Elysion][Efy][Wrathion][Tyrion][Tyrion][Vastel][Elysion]
+
+---------------------------------------
+
+[Sedenion][Exodar]/[Vastel][Dyon][Atreus]::[Adunai][Adriel][Anarion][Dionos]
+
+----------------------------------------------
+
+[Sedenion][Anarion][Atreus][Argus][Wrathion][Sylene][sym][Tyrion][Elysion][Aryel][Katamon][sym]
+
+-------------------------------------------------
+[sym][aya][aya][aya][aya][sym][aya][aya][aya][aya][aya][sym][aya][aya][aya][aya][sym]
+[sym][aya][aya][aya][aya][aya][aya][aya][sym][aya][aya][aya][sym]
+
+-------------------------------------------------
+[sym][aya][aya][aya][sym] {
+[sym][aya][aya][aya][aya]
+[sym][aya][aya][aya][aya][aya][aya][aya]
+[sym][aya][aya][aya][aya][aya][aya]
+[sym][aya][aya][aya][aya][aya][aya][aya][aya][aya][aya]
+}
+
+
+--------------------------------------------------
+
+[aya][aya][aya][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][aya][aya][aya][aya][aya]
+
+------------------------------------------------------
+
+[[Valens][Sareon]]::[Varus][Ouronos][Kalimon][Artorias]
+                           [Rygel][Hydraemon][Syleyn]
+                    [Dionos][Synarius][Katrinae][aya][aya]
+                    [aya][aya][aya][aya][aya]
+                    [aya]::[aya][aya][aya][aya]
+
+---------------------------------------------------------
+
+[Alexios]::[Effelion][Artorias][Coronis][Holosyn][Alexiad][Ryu]
+           [Adrion][Leithian][Endza][Asha]
+                  [Eos][>][aya][aya][aya][aya]
+           [aya][aya][aya][aya][aya][aya]
+	   [aya][aya][aya]
+	   [aya][>>][aya][aya][aya]
+
+-----------------------------------------------------------
+
+

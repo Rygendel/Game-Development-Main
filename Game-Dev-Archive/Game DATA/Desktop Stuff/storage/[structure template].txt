@@ -1,0 +1,31 @@
+[Struct Name]:
+--------------
+	[Things]::
+	[Resources]::
+	[Economic Factors]::
+	[Special Modifiers]::
+	[Ideas]::
+	[Items]::
+	[Units]::
+	[Currency]:
+	[Asphodel]::
+	[--points1--]::
+	[--thing1--]::
+	[--thing2--]::
+	[Production]::
+		[Alcohol]::
+	[Quality of Life]::
+	[Development]::
+		-> [Entertainment]
+		-> [Quality of Life]
+	[Population]::
+	[Girls]::
+	[Stats]::
+		[(points type 1) Generation]::
+	[-----]::
+	[Actions]::
+		-> 
+	[Relationships]::
+	[Abstract Aynu Actions/Things/Decisions]::
+		->
+...

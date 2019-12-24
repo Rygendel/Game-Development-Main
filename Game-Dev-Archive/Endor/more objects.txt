@@ -1,0 +1,34 @@
+[Regulus]::{
+		[Game]:: { > Can do anything and any [aynu-thing] you desire. Can create any reality you want. Can do/have/[aynu-concept] any [aynu]/[Adrion]/[Iulion]. Can do anything to achieve [Elysion]. Can grant and create any [Iulion]/[Adrion]. Can be used to game-dev any kind of game or [aynu-game] you desire and set the game-state to anything you want. {... more to develop; develop more code/text/data/aynu-data and [aynu]/[aynu-things] for this object (and others, among other things)...}
+			> Can create and game-develop any kind of game-object, [Adrion], [game-thing], [aynu], [aynu game-thing], ..., [more to develop], and any other kind of [game-thing or aynu-game-thing] that can be desired/used/needed/wanted/[aynu-concepts] by any kind of player. 
+			> Can create or game-dev and kind of [game-thing]/[game object]/[Rygel]/[aynu]-[game]-thing
+			> [aynu concept] [aynu-thing]
+			> [aynu-concepts]/[aynu-things]
+			> [aynu][aynu][aynu]...
+			> Can [game-dev] any kind of [Iulion]
+			> Can do anything to achieve [Elysion]/[Effylion]/[the ultimate thing I want from game-dev and game-possession]
+
+		{this is the [ultimate game object/struct/[aynu]/[Iulion]/[Adrion]/[Elu]/[Sylyn]/[collectible object]/[Rygel]] and write all the data/info/[aynu]/[aynu-code]/[things] necessary and desireable in order to make it the [ultimate game object/struct/[aynu]/[Iulion]/[Adrion]/[Elu]/[Sylyn]/[collectible object]/[Rygel]] }
+
+			}
+		
+		[develop other data fields]
+}
+
+
+
+
+
+[Shatter Shot]::{
+			[Game]:: { > Deal 100 damage for each icon you generate. }
+}
+
+
+[Retrogrador]:: {
+			[Game]:: { > Exchange icons with your opponent }
+}
+
+
+[Kentaurus]::{
+		[Game]::{ > Copy any ability/thing/[Rygel]/[object]/[move]/power/[thing]/[aynu-thing]/[Adrion] of any thing in the game. Pay only [10 Des Icons]. }
+}

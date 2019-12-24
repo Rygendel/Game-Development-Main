@@ -1,0 +1,20 @@
+Pet-Structs (working name)
+(design pet-structs here)
+
+- Develop, game-create, and make [pet-structs] the main type of game-structs/game-objects/[aynu]/[Rygel]/[aynu-game-struct-thing]/.../[more to develop] that players try to collect, train, acquire, [aynu-game-play], do [any aynu-game-thing imaginable], [aynu-game-world-thing], [aynu-game-play-theory-thing], [aynu-game-Elysion-thing], [aynu], [pure-aynu-coded-game-thing], develop, [and anything else in the game], …, [more to develop], and game-play with
+
+[write a bunch of proper game-development things, as well as pure-aynu-things and pure aynu-theory-things and pure-aynu-game-dev, and any other kind of pure-aynu game-things]
+
+[write more notes on pet-struct game development (including pure aynu) here]
+
+[more to develop]
+
+
+--------------------
+
+
+[Write clean game-development, game-design, game-creation, game-coding, and game-implementation of pet-structs here]
+
+
+
+

@@ -1,0 +1,58 @@
+Mechanics - Item/object/struct/rygel Mechanics
+
+[create everything necessary to create and game-dev all item, object, struct, and Rygel mechanics in the game]
+
+[base item mechanics off of Neopets]
+
+Basic Mechanics:
+
+[add basic description and code/game-dev-writing describing how the different classes of items work, and all the different game-systems, game-play mechanics, [aynu], [aynu-theory-things], …, [more to develop], and anything else that affects, involves, interacts, [game-play-with], [game-world-affect], [aynu-theory-thing], …, [more to develop] with items/game-objects/structs/Rygel/[aynu-game-structs] ]
+[describe how items work: designed to make the item system in the game incredibly flexible and allow for any kind of item/struct/object/Rygel to exist in the game and allow any kind of game-dev-thing, gameplay, game-interaction, open-world-sandbox-interaction, and any other kind of thing to be possible with certain items under certain circumstances by players who own those objects or follow certain game-systems/mechanics] -> write the code and game-dev-writing to create the item game-mechanics and game-systems that match this description
+
+-game-objects have a physical presence in the game-world and have an interface that allows players to interact with them according to their mechanics
+-every game-object has its own set of mechanics/systems/game-dev-things (or aynu-versions) that govern how the player may interact with it (or for pure aynu-things, the game implements aynu-theory versions of game-dev-things and game interactions or game-play)
+-develop these mechanics concretely here, including all mechanics, game-systems, [aynu-game-dev-things], [game-dev], …, [and more to develop] governing storage, acquisition, usage, interaction, game-play-with, game-dev-theory-things, game-play-usage, trading, player-object/item/struct/rygel game-play/interaction (or aynu-theory game-dev-play),  [aynu-game-theory-things], [aynu-game-fun-play], [aynu-game-play-things done with the objects to have [aynu-theory-game-fun/Elysion] with them], game-theory things, [aynu], [aynu-coded-game-things], [aynu-game-dev-things], …, [more to develop], and anything else about items/objects/structs/Rygel (or aynu-theory-versions or game-theory versions)
+
+
+- write code, game-dev-writing, [aynu-game-dev], ..., [more to develop] to create, game-dev, aynu-game-create, ..., [more to develop] mechanics, game-systems, game-dev, [aynu-game-theory-things, ..., [more to develop] (and aynu-versions) for using items, game-objects, game-structs, Rygel, ..., [more to develop] (or aynu-versions)
+
+
+- develop here [and this is] mechanics, game-dev, game-systems, ..., [more to develop] for the data-sheet for items/game-structs/objects/Rygels/[aynu]/.../[more to develop] (or pure aynu-versions), including the data it can contain, pictures, game-assets, code, symbols, game-dev-code, game-mechanics code, stats, game-dev-data/information/code/writing, writing, game-dev-writing, [pure-aynu-writing], descriptions, data-values, [aynu], ..., [more to develop], and anything else (or pure aynu-versions)
+
+
+
+
+[develop game-objects further]
+…[more to develop] (and aynu-theory-things)
+
+
+Trading:
+
+[describe how trading works]
+
+------------------------------------------
+
+Notes:
+
+
+All game-structs, [aynu-things], Rygel, items, and any other game objects, structs or [aynu-items, objects, or game-structs], ..., [more to develop] (or aynu-versions), or anything else can be bought, sold, traded, [game-item/struct/Rygel/object-mechanic], [game-dev-mechanic], [thing], [item/object/struct/rygel-game-thing/mechanic/system (or aynu-version)], …, [other aynu-theory-mechanics], [aynu], [aynu-game-theory-thing], [aynu-game-dev-thing], [game-mechanic], [game-dev-thing/system], [aynu-game-system/mechanic], …, [more to develop], and there is a full fledged market and economy for these things.
+
+Players can sell things in their own shop or trade/auction them off through a variety of venues and mechanics. Can gift objects to other players or exchange them for currency or other things of value. Players can trade, buy, and sell virtually anything, and [more to develop].
+
+-similar to Neopets implementation of trading items and market-economy (but includes pet-structs and any other game-struct, and aynu-versions/things)
+
+[Code and explicit construction of trading and item/object/struct/rygel mechanics]:
+
+-players can deposit things in their shop and then set a price. Other players may browse shops and purchase them for the specified price
+-players may use the auction house to start a bidding process for an item
+[develop mechanics and code to implement, create, and game-dev trading and market-economy and resource mechanics/systems here]
+
+[game-dev things, code, [aynu-writing] and any other things to fuly game dev all [item/object/struct/Rygel mechanics]
+
+
+
+
+
+
+
+

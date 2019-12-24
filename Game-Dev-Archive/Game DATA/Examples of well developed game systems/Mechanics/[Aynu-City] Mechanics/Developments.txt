@@ -1,0 +1,27 @@
+Development types:
+
+
+Income:
+
+
+
+Production:
+
+
+
+Resource Generation
+
+
+
+
+Growth
+
+
+
+
+Automata Support
+
+
+
+
+Defenses

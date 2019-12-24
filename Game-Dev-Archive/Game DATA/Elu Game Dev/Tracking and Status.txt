@@ -1,0 +1,6 @@
+This folder contains backups of files developed on google drive: Namely files pertaining to Game Dev, Elu objects, and Feanor, under the name "Developing Game mechanics".
+
+
+updated:
+
+January 15, 2016

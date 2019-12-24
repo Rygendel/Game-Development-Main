@@ -1,0 +1,81 @@
+[Ultimate Aynu-things development notes (the pure aynu-things that by creating, developing, game-developing, controlling, possessing, and printing out, cause me to achieve all of my aynu-desires/desire/Elysion and allow me to achieve the ultimate thing I want from game-development and achieve the ultimate-game-aynu-happiness]
+
+[ultimate aynu-thing development mechanics: apploes equally well to game-objects/Rygel/manifest-things, game-world-things, [Adriond], [aynu-things], ..., [more to develop], and anything else in the game world as well as game-play mechanics/systems/game-dev-things, ..., [Iulion], (more to develop), and many other things.]
+
+
+-------------------------------
+--------------------------------
+E-mail Notes (to refine, feel free to edit as desired and even delete entirely):
+
+-----------
+1.
+
+Develop [class of] ultimate aynu-things (as described in the "single sheet" text and file.
+
+Develop stats for pet-likes, and develop data components, data-structures for stats
+
+ex. Iconos, other stats, pure aynu stats
+
+-> develop mechanics page/engine for aynu stats purely in aynu
+-> use pure aynu data-structures for pure aynu stat/data-components
+
+
+
+ex. Data component:
+
+[Value Description]
+
+
+
+[Mechanics that process and use the Value and how it's used, everything else]
+
+
+-----------------------------
+2.
+
+-> compose pure aynu [game-thing-mechanics-engine-system-dev] for pure aynu [struct-components/things]
+
+-> develop the [pure aynu] ultimate aynu-thing [or class of things]; indicate its (their) meta-data, game-data required for interpreting and providing a foundation and platform for the rest of its game-dev, [aynu-data], [aynu-code], and all the rest of its writing, write data to create other pure aynu [game-thing-mechanics-engine-system-dev] and gameplay or game-dev things it depends on and interacts with (possibly included in  the game's mechanics section; indicate that they are a type of Rygel, aynu-struct, game-struct, and aynu-object and can be interacted with and game-play dev'd with just like any other item, object, rygel, struct, and has its own set of game-play mechanics, systems, engines, game-play, game-dev, [Iulion], [Adrion], ..., [more to develop] and anything else (or aynu-versions)...
+... (more to develop)
+
+- create an entire pure aynu [game-thing-mechanics-engine-system-dev] and gameplay or game-dev system dev-sheet and create game-play mechanics, systems, engines, game-play, game-dev, object/Rygel mechanics, struct-mechanics, [Iulion], [Adrion], ..., [more to develop] and anything else (or aynu-versions) for it, in the appropriate locations (probably contained in the game's mechanics/things folder)
+
+indicate that it has Rygel/object mechanics
+
+- write data to create other pure aynu [game-thing-mechanics-engine-system-dev], gameplay, game-dev, ..., (more to develop), ..., and things it depends on, has, possesses, ..., (more to develop)
+
+
+
+-----------------------------------
+3.
+
+Create pure aynu game dev folder and create game-dev and game structures in there using pure aynu and aesthetically pleasing document (find a good template to create data sheets for things)
+
+- pure aynu: create ultimate [game-dev-thing] that is/has everything I desire from game dev, use things from [ultimate aynu-thing] and many other places for it (that I developed partially in pet-like structs folder]
+
+
+
+
+
+----------------------------------
+4. (physical notes, but in same category/edit/deletion schema)
+
+- create pure aynu game in pure aynu symbols
+   -> use a special structure for this game and then print it out with meta-data to preserve this structure
+
+-> create special data-sheets for all things in the game and game-dev-things
+   -> use a nice looking and special document/file template and structure for the things in the game
+   -> all the things in the game have a special data-sheet document/file template and structure, though different types/classes of things may have a different template/structure/data-values/data-structure
+    -> create a special data-sheet with a beautiful and special structure for all things in the game (or part of the game/mechanics/systems/features/game-dev)
+   -> need these document/file structures to be very well designed and aesthetically pleasing: make them beautiful and have a wel designed layout and structure
+    -> use special symbols that look good and make the documents look good; each symbol has its own special aynu-code-value and special things that it possesses and adds to the document
+        -> what the symbol adds depends on how it is used in the doc and how it is combined with other symbols and embedded/interacts/combines in the data-structure, and how it fits into the data-structure, much like regular coding constructs 
+	-> there are well-defined rules and specifications that can be used to determine the meaning/creation/code-data-creation/code-thing-creation/[thing made from the aynu-symbol-data-structure] of code/documents using the symbols and the piece of code/aynu-code-thing/aynu-thing/code-document-file-thing created from the symbols in the data-sheet
+
+
+
+
+
+-----------------------------------
+-------------------------------------
+

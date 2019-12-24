@@ -1,0 +1,77 @@
+To do:
+
+Develop the various objects and the information.
+
+Discuss how special abstract code/language/symbols/{other things} are used to construct special objects, do anything, endow objects with abstract things, and do anything, grant anything, create anything.
+
+Discuss how special information code can be used to build up data, information, and special abstract properties to make objects, Esdraelon.
+
+Discuss how to generate, acquire resources.
+
+Develop the things which modify, code, and otherwise determine every aspect of the object, and abstract things and aspects.
+
+ Develop the concepts such as Aeron/Aeonar that make that affect every aspect of the object. These concepts often extend concepts such as goodness, greatness, desirability, information, usefulness, wish, keep, possess, or are even utterly new concepts beyond our understanding. These things can be encoded in the object, and how they affect the object. They endow the object with these things, and things beyond our understanding.
+
+Special codes and symbols, structures, and abstract things that determine the objects. These things are encoded in the sheet for the item which contains all of its (abstract information). 
+
+Develop the various kinds of objects, the various things that make them unique, structure, process, action, characteristics, develop, useful, desirable, interact, essence, soul, abstract information, properties, desire, haelyon, draemon, and many other things and abstract, divine, transendent, aeron, aeonar and symbolic properties.
+
+
+Sacred Artefacts:
+
+
+
+Tirions:
+
+[Need to create data structures, information, and methods of encoding abstract things for this]
+
+[Need to determine properties, both physical and abstract]
+
+[Need to determine all things, uses, and more, both physical and abstract]
+
+Sirions:
+
+
+
+
+Esdraelon:
+
+Esdraelon are a special class of classes of objects. This allows players to create their own classes of objects with any sort of things. They can create their own abstract systems, information, structures, objects, things, reality, or anything else. They can transcend anything, and be anything the players want them to be.
+
+[Need to determine structure, encoding, abstract properties, mechanisms, and more]
+
+[more to add on the Esdraelon]
+
+[Describe structure, actions, interactions, abstract things, development, evolution, and many other abstract things]
+
+Arcturon:
+
+---------------------
+Object Mechanics:
+
+(need to outline mechanics behind objects further)
+
+Regulon: aeron extending notions of possess, ownership
+
+Aleria: aeron extending and transcending notions of desire, wish
+
+Things to describe:
+
+- properties, abstract characteristics, things
+- Reasons for Owning Objects:
+ - there are many, motivated by use, practicality, desirability, abstract concepts
+
+- Uses, Desire,
+
+- Special Abstract Things (Properties, information
+
+- desire, wish, special abstract things extending these things
+
+- mechanics
+
+- data, special abstract information, aeternal glyphs
+
+-discuss meanings, why we want them, uses , how to earn things, purchasing, purpose, special abstract extensions of all these things and how they are encoded
+
+... to be continued
+--------------------------

@@ -1,0 +1,10 @@
+Need to design the template and format, including files/folders, for creating games completely encoded in aynu, that will do everything I want.
+
+
+
+perhaps begin with a folder encompassing a category of "game thing" that I want to create, and create files for
+some ideas:
+-> general outline and complete description of mechanics; including how they can affect data of other things/accounts and interact with other game-things
+-> writing the code to actually implement it and create it; make its "game engine"
+-> create a folder of data files to record concrete instances and create actual things of this category in the game world; can add anything else about the game-things to this data folder; can record any and all data about these objects in the game world, and any additional information required to implement/create their mechanics and existence ; may also add copies of these objects to account folders to indicate the account possesses them
+-> [more as I think of them]

@@ -1,0 +1,18 @@
+[Omnitron]:: {
+		[Descr]:: {can be trained and [coded/aynu-coded] to do any kind of [thing]/[work]/[task] (for your base/civ/empire structure) to an arbitrarily high level of efficiency.
+		[Game]::
+		[stats]:: { [production efficiency]::
+			    [Gathering Efficiency]::
+			    [Intellect]::
+			    [Creativity]
+			    [attribute]::
+			    [thing]::
+			...
+			...
+			.
+			}
+		[things]::
+		...
+		.
+		.
+}

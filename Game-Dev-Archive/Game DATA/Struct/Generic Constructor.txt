@@ -1,0 +1,75 @@
+General Outline for Constructing Things:
+
+-----------------------
+[thing]
+
+[structure]
+
+-----------------------
+[thing]
+
+[info]
+
+-----------------------
+[thing]
+
+[aynu]...
+
+-----------------------
+.
+.
+.
+
+
+
+<..> [thing] {
+----------------
+[thing][thing]::
+
+[aynu]...
+----------------
+[thing][thing]
+
+[aynu]
+----------------
+[category of thing][descriptor]
+
+[aynu]...
+----------------
+[category of thing]:
+
+[aynu]...
+----------------
+
+}
+
+
+Categories/Types of Titles/Things/Categories:
+
+[Category]
+[thing]
+[aynu]
+[aya]
+[aynu][aynu]...
+[Encoding Symbols]
+[Special Encoding Objects]
+[Basic Structs]
+[Special Structs]
+[Special Things]
+[Construction Mechanics] (for special structs)
+[Possession Mechanics]
+[Interaction/Use/Game play mechanics]
+[Transcendental Aynu things/properties]
+[Aynu Mechanics]
+[Aynu Things]
+[Special Items]
+[Aynu Items]
+[Collection]
+[Acquiring objects]
+[Happiness/satisfaction/(transcendental good thing) from simply possessing certain aynu-things or aynu structs]
+[(aynu-created concept expressing utter happiness/joy/fulfillment/fun-game-play/the most basic form of feeling good/happiness/enjoyment derived from playing games) from simply possessing certain aynu things or aynu structs] 
+[(the best thing that I can't describe in words) derived from simply possessing certain aynu-things or aynu structs]
+[(Gameplay mechanics of various fun games built using the constructor) that can be engaged with or played with using these (aynu/aya) (things/structs)]
+[properties that allow aynu-things to engage in or participate in various gameplay mechanics]
+[properties that give aynu things uses/value/desireable/[abstract thing] traits]
+

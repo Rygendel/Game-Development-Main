@@ -1,0 +1,26 @@
+- Players will have a character in a 3D game world that has the ability to explore the world and interact with things, and engage in actions/activities in the world
+
+-can travel across vast landscapes, terrains, and environments; can do so by walking or in a vehicle, flying (similar to World of Warcraft world)
+
+-all objects, including aynu-objects, will exist and be embedded in this world, and have physical manifestations that can be interacted and game-interacted with 
+
+-can learn and develop skills in the game which they can use in the game to do things and engage in gameplay
+
+-players will focus on building a base which they can use to engage in empire/economy development gameplay; their base is the capital and headquarters of an economy/empire they control, build, develop, and run
+	- can add buildings/structures to their base to increase output, make things, defend the base in base-raiding gameplay and many other things
+	- there are survivalist/base-raiding gameplay where teams of players can fight wars between themselves; try to raid/siege the opposing team's bases using their own forces of units
+	- good players can earn prizes, special units
+	- units are like items, can also be developed for use in multiple raids; sort of like pets
+	- there are special parts of the base that are not affected by raids/siege gameplay
+
+
+-there are also EVE style mechanics where players can pilot ships, train skills, engage in space combat, mine areas for resources and manufacture/build tech/things from blueprints, and many other things
+
+
+...(develop many other aspects of the main endos Gameplay; character development, Sylyn/Elu/Endos TCG/CCG and object collection/desire mechanics, base/empire/economy/corporation mechanics, EVE mechanics, and many other things)
+
+...(many other things to develop, including pure aynu things)
+
+
+(develop pure aynu components of Endos game, and develop a system for developing them)
+	

@@ -1,0 +1,22 @@
+- need to design data sheet; how players create data components and design/create the systems those data components interact with
+
+
+
+
+Basic Data Component:
+Everything needed to determine the object and its gameplay data/game-world components are collected into the data sheet.
+
+The data components determine everything about the object, make up and determine the object and its game-things, how it works within the gameplay systems, and anything/everything else.
+
+[Data Label-type 1] 
+<Additional meta-data necessary to determine how the component and its particular values interacts with and affects the game> 
+:: 
+[Data values]
+::
+
+
+[Data Label-type 2] :: [Data values]
+
+
+----------------------
+[More notes about struct class creation]

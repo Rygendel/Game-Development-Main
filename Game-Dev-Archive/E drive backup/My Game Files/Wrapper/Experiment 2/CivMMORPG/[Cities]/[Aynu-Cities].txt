@@ -1,0 +1,28 @@
+- "cities" is just a working name, will rename them to something else to emphasize that they are more generic; a more abstract object that can be developed and built-up, grown, and can evolve; can also be traded and used like an object, can project power and effects, and can do anything much like items
+- the basic components that make up a civ empire; gameplay focuses on acquiring, building, growing, developing, and using/game-playing/game-using/[doing things with] Aynu-cities
+
+[Aynu-city gameplay]
+- cities can be traded and sold; treated like objects
+- more abstract than cities; need to focus on developing them and their meaning
+- these are the ultimate objects; many different base types of cities
+- can grow naturally as a result of the player's work and development; grows and performs some things/tasks on its own
+- automata and units can be added to citites and specific buildings/buildable-structs and work within them according to their programming and specification and instructions you give them, and can continue their work on their own automatically and adjust and carry out tasks/actions on their own using an AI
+
+- similar to pets/poke-structs; there are many different base classes of cities, each with their own focus and specialty, players need to decide what things they want to focus on and build the cities that are best at those tings and develop them in a way that optimizes for what they want
+
+[ really need to focus on developing these aynu-cities and giving them abstract-aynu-fun gameplay, a rich theory, and fun game mechanics/systems/models to motivate players to want to acquire and build cities that they want/desire and are good at the game in ways they desire]
+
+
+Classes of Citites:
+
+[Abzu]:
+	[production oriented; good at making certain kinds of things]
+
+[Enki]:
+	[good at making certain kinds of units and training them]
+
+[Infernus]:
+	[flame-based buildings, units, things]
+
+[Engaia]:
+	[grows quickly, focusses on supporting and accomodating many automata/units/population]

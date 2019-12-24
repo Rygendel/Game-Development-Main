@@ -1,0 +1,51 @@
+Embedded in a fully 3d game universe with a neopets-like basis. Players can explore the world and develop many different kinds of things. One thing they can develop is their "base-empire". Which consists of a series of abstract "base structures" that make up an empire. They can include "building structs/objects" and contain special objects that contribute to the base in some way. Some of these things can be very expensive to make or acquire, and possessing them in your base can be a show of wealth; can include a gallery of special, rare, and powerful objects/artifacts that you collect and store in your base. Can add special "building structures" and items to your base to contribute to it. Can acquire automata with their own stats, powers, abilities, requirements, behaviours etc. to run your base: they are a kind of "pokestruct". Some automata/units can be good at combat (such as the dracolith) or have special utility functions (such as [worker-type]) or have special abstract or aynu things (such as the [aynu-thing] which has/is [aynu-description]).
+
+
+Structs:
+
+
+[Nerva]::{
+		[cost]::
+		[stat]::
+		[thing]::
+
+}
+
+
+
+
+[Azrafel]::{
+		[cost]:: infinity
+		[stat]:: inifinity
+		[thing]:: {greatest}
+		...
+		.
+		.
+
+}
+
+
+
+
+[Invictus]::{
+		[Powers]:: {
+				[Romenna]::{ }
+		}
+
+}
+
+
+[struct name]::{
+
+		[struct data and data structures]
+		[need to create structure, format, and the type/structure/[thing] of data and aynu-code that goes here]
+
+}
+
+
+
+
+
+
+
+[Ships]:

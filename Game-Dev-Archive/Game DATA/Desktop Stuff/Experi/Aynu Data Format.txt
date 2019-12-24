@@ -1,0 +1,31 @@
+Formats for Data Components:
+-----------------------------
+
+1. 
+
+[System/Mechanic/thing data]::[data]
+
+-----------------------------
+
+2.
+ [system/thing] {
+	[data]
+
+}
+
+---------------------------
+
+3.
+
+[sym1] [Specify meta-data that gives everything else meaning] [sym1]
+[sym2]
+
+[data][aynu]...
+.
+.
+.
+
+[sym2]
+
+
+----------------------------

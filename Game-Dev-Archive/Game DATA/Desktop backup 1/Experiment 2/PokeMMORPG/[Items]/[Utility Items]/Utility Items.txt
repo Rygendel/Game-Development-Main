@@ -1,0 +1,19 @@
+Utility Items
+
+[Grand Desk]:
+[Type]: Base Furniture
+[Descr]: A desk for your base.
+
+[Wayportal Stone]:
+[type]:
+[Descr]:
+[Effect]: Set up at a location to allow you to warp back to that location later. Only one wayportal location can be open at a time. Select in your inventory and choose the appropriate command from the command menu to use. The commands are:
+	- Set up wayportal: create a wayportal at your current location. Automatically destroys any existing wayportal
+	- warp to: travel to the location of your current wayportal. Does nothing if you do not have a wayportal set up.
+	- take-down: Take down any wayportals you currently have
+
+
+[Cyclone]:
+[Type]: Skill gem
+[Descr]:
+[Effect]: Deals [x] damage for each icon generated and on each hit. Number of hits is determined by [formula in terms of speed]. And damage is determined by [formula in other stats, probably strength].

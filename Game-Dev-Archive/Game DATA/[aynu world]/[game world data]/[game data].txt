@@ -1,0 +1,12 @@
+(encode information about all for the many different things in the world, like storyline, characters, players, game concepts/mechanics/components, and anything else)
+
+[aynu-storyline]:
+
+[aynu-races]:
+
+
+
+[aynu-empire-structs]:
+
+
+[aynu player-homes/possessions/inventory/property/holdings/stats/[data sheet]/[account]]:

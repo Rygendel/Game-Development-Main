@@ -1,0 +1,1 @@
+[Folders and documents with file-structures developed entirely in aynu which work together to create the game and game-dev]

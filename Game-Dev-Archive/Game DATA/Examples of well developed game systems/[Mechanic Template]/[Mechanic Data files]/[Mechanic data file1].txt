@@ -1,0 +1,2 @@
+[Add anything else that I want to these data files for the mechanic, like collections of things/objects specific to the mechanic]
+[add more data about the mechanic]

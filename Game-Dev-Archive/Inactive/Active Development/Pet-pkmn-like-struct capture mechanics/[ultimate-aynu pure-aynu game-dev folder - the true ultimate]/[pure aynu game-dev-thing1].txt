@@ -1,0 +1,11 @@
+[Use this as a basis for developing a pure aynu game-dev-thing using aynu symbols/code/writing. Eventually move this into a word processor and use a nice and aesthetically pleasing/beautiful document and file template/structure to encode this piece of the game and make it into one of the [aynu-ultimate aynu-things I want/desire/Elysion from game development that cause/[is a piece of the puzzle to create/make] me to achieve all of my game-dev-desires/goals/Elysion ... -> need to create a label/name for this and use it through-out my game-dev-things]/Eros ]
+
+[write things about pure aynu game-development here, including game-system, game-mechanics, game-dev-things, roleplay, plot, game-features, sub-games, game-data/stats, [aynu-game-things], ..., [more to develop], ..., game-world, game-objects, game-thing, [aynu-ultimate aynu-things I want/desire/Elysion from game development that cause me to achieve all of my game-dev-desires/goals/Elysion ...], Rygel, [Iulion], [Adrion], [aynu][aynu], ..., (more to develop), ..., (and aynu-versions) ]
+
+-> this includes everything about the game-dev-thing needed to understand, encode, implement, create, [aynu-create], ..., [aynu-theory-concept], and [anything else]/[aynu-anything-else] it in the game, including its game-engine/[aynu-game-engine] 
+-> entirely self-contained 
+
+
+[aynu-ultimate aynu-things I want/desire/Elysion from game development that cause me to achieve all of my game-dev-desires/goals/Elysion ...(copy/paste/write more here)] = Eros
+
+[more to write]...

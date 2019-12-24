@@ -1,0 +1,27 @@
+[Describe Struct Mechanics]
+
+[outline the different mechanics, systems and models that interact with the struct object to create its gameplay]
+- need to design a nice format for the struct, and for the documents describing, implementing, and storing the struct information
+
+
+---------------------------------------------------
+[Struct Template for info sheet]:
+
+
+[Name]:
+[Struct data Components]
+
+
+--------------------------------------------------------------
+[Outline of struct data components and relevance to gameplay]:
+--------------------------------------------------------------
+- include development mechanics, ways different components can be swapped out or combined, can use a "socketing" mechanic for adding and removing struct components 
+
+
+[Data component 1]:
+
+
+
+
+
+[Data component 2]:

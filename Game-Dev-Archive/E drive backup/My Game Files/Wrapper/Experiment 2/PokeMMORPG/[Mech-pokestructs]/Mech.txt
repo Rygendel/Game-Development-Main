@@ -1,0 +1,16 @@
+Like pokestructs, but stronger emphasis on development, customizability, and extensibility. Basic idea revolves round "machine" type objects that can be reprogrammed and have objects added/attached to them (peripherals) and "sotware" features added to them to give them new things/abilities. These follow well defined mechanics, but allow for virtually anything imaginable to be created.
+
+-> begin with a core objects, acquire the things needed to develop and add features/things to it.
+-> need to outline mechanics, components, research and blueprints for creating things that can be addded; need to design more gameplay mechanics and models/systems and add them and files/folders
+-> need to create concrete things
+-> make these the ultimate gameplay objects with the ability to simulate any other gameplay; can create mechs that follow any kind of gameplay structure/model, and can do/be any kind of thing inside the game world
+	-> ex. can create civ-like gameplay, aynu-object gameplay, aynu-objects can be simulated
+
+- make the mech-struct system the most general thing possible; capable of simulating any gameplay
+	-> but pre-designed "cores" simulate certain kinds of gameplay
+	-> civ, pokestructs are examples of classes of cores
+- create mechs and components for anything; capable of any game-thing and doing/being any game-thing
+- mechs can be built and programmed for any thing and any use
+- can function as a kind of secondary game-development mechanic 
+
+-mechs and pokestructs have types, get bonuses for using things that match their type

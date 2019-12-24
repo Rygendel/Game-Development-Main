@@ -1,0 +1,12 @@
+[Regulus] :: {
+
+[make this the ultimate thing, copy all the best code from all sources]
+[make this the greatest arch-struct in the game]
+[give this thing the ability to do/be/[aynu]/[aynu-theory-thing] anything/Rygel/[Adrion]/[Iulion]/.../[more to develop]]
+[make this the greatest and most aynu-desired thing]
+[copy all the good code here, including code about being able to create your own game-universe, code describing the [aynu-ultimate aynu-thing I desire from game-development]
+
+[more to develop] - need to actively work to copy all of the good stuff over from all sorts of things, need to go back to old documents and copy the code over, make this a repository of all the best things I have ever written and will ever write (need to add and develop future good writing/code/data/development/things/(aynu-things/versions)/[more to develop] here)
+
+
+}

@@ -1,0 +1,183 @@
+General Format for Creating New Classes of Struct:
+
+- players will be able to create and specify new kinds of struct-game systems
+- players will be able to create and develop structs and use them to engage in gameplay/combat/competitions as specified by the game mechanics
+
+- specify the properties and things the structs can acquire or possess
+  - such as, for example, classes, items, things, special abstract things, sub-structs, special abilities, tech, passive traits, etc
+- specify how those things are encoded/encapsulated (could be using aya)
+- specify how those things interact to create a system of gameplay
+- can specify any objects/structs/items within the game that players will want or desire to possess, and the reasons for wanting to acquire them
+
+
+
+- there are some special struct-game system
+(need to develop the main struct-game system)
+(especially focus on building structs to create aya-things, which is the main goal, then build structs for other [abstract goals])
+(building aya-structs is the main concrete goal and desire, but there will also be [goals/gameplay that transcend description] whose mechanics I will encode using aya)
+(the game itself will be encoded using aya)
+  - the main one is where players try to build the struct that is the best at doing one or more of the following things (and then players actually do these things)
+    -> production
+    -> generating money
+    -> fighting
+    -> constructing aya-things
+    -> exploring new areas
+    -> generating influence
+    -> Crafting or doing special [hobbies], [quests], [actions]
+    -> special abstract goals
+    -> (many other abstract things)
+    -> Coronis
+
+
+
+-General template for creating games/things/role-playing, non-linear, utterly free, open-ended, free world, fantasy worlds/alternate universes/worlds/MMORPGS/[abstract fun "sandbox", persistent world RP games] based on aya-encodings:
+- [typically there is no fixed, limiting, set of actions and players will be free to explore and engage in the world in any way they desire that is allowed by the specified game mechanics]
+(create a system for creating games encoded with the aya, and encoding, gameplay, structs, development, and all the things within the game using aya, and maybe even create a few game accounts encoded with the aya)
+
+Game: [name]
+Mechanics: [aya][aya]...
+(create Lists of things involved in the game, specify the format for the objects in the list of things)
+-------------------------------------
+[Description of Game World]:
+
+[aya][aya][aya]...
+-------------------------------------
+[Description of Game reality]:
+
+[aya][aya]...
+-------------------------------------
+[Description of Movement/Exploration/Interaction within the game world]
+
+[aya][aya]...
+[aya][aya]...
+-------------------------------------
+[Description of Game Concept/Theory/Component]
+
+[aya][aya][aya][aya][aya]...
+-------------------------------------
+[Storyline/Plot/Non-player Character interactions]
+
+[aya][aya][aya].....
+-------------------------------------
+[Description of Combat, sub-games, special activities, and anything else]
+
+[aya][aya][aya][aya]...
+[aya][aya][aya]...
+-------------------------------------
+[Player outline]:
+
+[aya][aya][aya]....
+-------------------------------------
+[Further things that you want/need to specify about the game]:
+
+[aya][aya][aya][aya][aya].........
+-------------------------------------
+[Type of Game Mechanic/Gameplay Concept]
+
+[things]...
+
+--------------------------------------
+[Roleplaying/Fantasy/Player Relationships]:
+
+[aya]...
+--------------------------------------
+[One possible gameplay Goal]:
+
+[aya][aya][aya]
+--------------------------------------
+[Abstractly Fun things to do in the game]
+
+[aya][aya]....
+--------------------------------------
+[Abstract Class of properties of the game]:
+
+[aya][aya]
+--------------------------------------
+[Abstract Class of Properties/Mechanics/Gameplay of the game]:
+
+[aya][aya]
+--------------------------------------
+[Abstract Class of Mechanics/Gameplay of the game]:
+
+[aya][aya]
+--------------------------------------
+[Special class of objects in the game and the reason you want to acquire them]:
+
+[aya][aya][aya]......
+--------------------------------------
+[Abstract Class of Mechanics/Gameplay of the game]:
+
+[aya][aya]
+--------------------------------------
+[Abstract Class of properties/[fun things]/Mechanics/Gameplay of the game]:
+
+[aya][aya]...
+--------------------------------------
+[Abstract class of [Fun things to do] in the game]
+
+[aya][aya]....
+--------------------------------------
+[Abstract class of [Fun things] in the game]
+
+[aya][aya]....
+--------------------------------------
+[Class of things]: [aya][aya]
+[descr]:
+[Info]
+[template]:
+[things]:
+[things]:
+
+[things name]:
+[property of thing]:
+[property of thing]:
+
+[things name]:
+[property of thing]:
+[property of thing]:
+----------------------------------------
+[Class of Game Structs]: 
+[descr]
+[system/mechanics for developing these structs]
+[template]...
+[things]
+[things]
+[gameplay/mechanics]:
+[things]:
+
+[struct-component name]:
+[property of thing]:
+[property of thing]:
+
+[struct-class name]:
+[property/thing]:
+[property/thing]:
+--------------------------------------
+[Class of things]: [aya][aya]
+[descr]:
+[Info]
+[template]:
+[things]:
+[things]:
+
+[things name]:
+[property of thing]:
+[property of thing]:
+[property/thing]:
+[property/thing]:
+
+[things name]:
+[property of thing]:
+[property of thing]:
+[property/thing]:
+[property/thing]:
+
+---------------------------------------
+[Class of Collectible objects]: [aya][aya]
+[descr]
+[Info]
+[template]:
+[things]:
+[things]:
+
+[thing name #1]:

@@ -1,0 +1,14 @@
+Telamon:
+
+
+Tyrael:
+This category adds many abstract concepts to an object, which extend the notions of desirability, usefulness, value, wish, good, great, and many other good notions.
+
+Tyrael is a component of items, special objects, esdraelon. Adds aeonar, aeron. (It has uses). (Having some Tyrael can be desirable.)
+
+[add a better description, experiment with other descriptions and encoding]
+
+Tyrael: Encoded using special symbols and language.
+
+
+[Develop and encode special things that encode structure, abstract things, actions, theory, evolutions, interaction, desire, tyrael, abstract desirability, other abstract things that are good and that I need to come up with, special things that can be added and developed, more things which can be made by the owner]

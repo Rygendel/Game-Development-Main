@@ -1,0 +1,1 @@
+- use this template as a basis for creating all other game components, systems, models, things, mechanics, structures, etc, and anything else

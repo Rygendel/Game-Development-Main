@@ -1,0 +1,33 @@
+Abstract Stat Mechanics:
+
+
+Icon Stats:
+Stat values associated with special symbolic objects. Values determined by the type and number, and sometimes other structural factors. Special functions or computations can be applied to determine their effects/values in different states/situations/games, can be used for a variety of different games-play things.
+
+
+
+ex. icon types: [fire], [desire], [want], [aynu], [aynu], [tyrion], [formenos], [effylion], [girl], [girls]
+
+
+Value stats:
+
+"Scalar" Type values typically divided into four components:
+
+ - base value(s)
+ - multiplier(s)
+ - secondary parameters/modifiers
+ - special functions/modifiers to be applied
+
+special functions can take any form, for examples f(x) = y if x has a certain value, and f(x) = z in other cases.
+
+Effects/values are typically computed by adding/combining base values, scaling/modifying them with the multipliers, combining them with any additional secondary parameters/modifiers, and then applying special functions/computations to them.
+
+
+example:
+
+base value: 80
+Multiplier: 1
+Special modifier: add 100, before applying special functions, priority 1, (other info ...)
+Special function: f(x) = 1000 if x > 100, f(x) = 0 if 0 < x <= 100, and f(x) = -1000 if x < 0
+
+Then calculating its effect: = f(80 x 1 + 100) = 1000

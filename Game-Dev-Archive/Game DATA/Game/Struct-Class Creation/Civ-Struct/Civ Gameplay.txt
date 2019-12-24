@@ -1,0 +1,12 @@
+Main civ gameplay:
+
+Civ-structs will exist on a map and most game-play takes place on the map. Civ-struct cities exist at locations on the map, and units and things can move around in the map. Units can also engage in turn based and real-time battles/actions in the map, and do things in the game-world.
+
+They can compete to try to become the most powerful structs, or compete to do/be certain things, or compete in different kinds of things. Players can fight for control of things, fight to do certain things, compete in competitions, try to do certain things, engage in plots, stories, games, and many other things
+
+
+[Outline civ-struct gameplay further, encode some of it in aynu]
+
+
+- like civ 5, players develop their civilization and that allows them to compete with other civs to complete certain objectives or to compete in certain competitions/battles/games/things. These developments can allow them to participate in certain [game-play things].
+

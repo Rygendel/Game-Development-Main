@@ -1,0 +1,1 @@
+Different Classes of Objects and Characters that exist in the game world, includes components used to develop structures, types of characters, objects within the game-world, and much more, virtually anything.

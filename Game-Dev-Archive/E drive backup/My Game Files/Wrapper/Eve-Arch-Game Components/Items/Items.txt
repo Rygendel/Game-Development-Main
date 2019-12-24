@@ -1,0 +1,46 @@
+- base items around, Neopets, EVE online, Path of Exile, and many other games
+- items can have different schemas based on what they are intended for
+- different items can be directly relevant to a particular subgame e.g. the Pokemon-like subgame, EVE Online-type subgame, Neopets-like subgame, etc, but all exist within the arch game and can be traded and manipulated within the larger arch-game
+	-> this leads to the different schemas and classes of items that exist within the game
+-tags: items can contain special pieces of data called tags that give the object special things/actions/powers depending on which tag it has:
+	-> e.g. items with the "food" tag can be eaten, giving special effects depending on the item's properties
+	-> Space-ship items can be boarded and piloted; they create a new environment the player can explore within the ship; can be piloted, can support multiple players inside the ship using features such as special rooms, can contain many rooms, areas, guns, decks, etc; can carry cargo, and do many other things
+
+- a major component of gameplay involves trying to collect certain items; players can try to collect certain items based on criteria they decide and desire, and players can display these items in their gallery or store them away in their safety deposit box
+- players who collect a sufficiently large quantity of a certain class of item can receive rewards
+- many items have hidden uses
+- players whose item collection achieves certain criteria can acquire special rewards and things; there are also competitions between different item collections to see which one is the best based on certain criteria (the criteria is determined by the type of competition you enter) and there are game-play rewards and effects for winning
+- players can try to collect certain items they desire based on certain criteria
+- example: players can try to collect all items with a certain tag or certain set of tags (e.g. plushie, {apple, food})
+
+
+Some Items:
+
+Ring of the Lost
+- does what you want it to
+- takes you where you need to go
+
+
+
+Vastel's Earrings
+
+
+
+Komputer
+- does what its software tells it to
+- craftable and developable mech with its own stats; computers can have their hardware and software components modified and developed
+	-> CPU
+	-> Memry
+	-> Hard Drive
+	-> Software Powers:
+	-> Peripherals
+
+
+Mecha-Boots
+- mech leg-gear that can give you super powers and speed stat
+- many variations, and is developable
+
+
+
+[Work Desk]
+- a desk for your base; can sit at it and do your work; features many drawers and storage areas for you to safely store your things and projects

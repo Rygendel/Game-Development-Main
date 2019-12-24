@@ -1,0 +1,9 @@
+Homes and Guilds:
+
+Each player can purchase property on which they can purchase and customize a home. Homes can be used for many things, including storing items.
+
+Building and Customizing Homes:
+-------------------------------
+
+
+Each player can be a member of at most one guild, or set up their own guild.

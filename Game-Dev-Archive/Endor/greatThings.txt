@@ -1,0 +1,603 @@
+
+
+
+This is the basis of creating many kinds of things in the game. Need to clean this up, split up the different types of objects, and make a good system for objects to be created and to be gameplayed with.
+
+Tags: Pieces of data attached to a thing that can give it special properties. Some things only affect things with certain tags. Tags can give the object/thing special mechanics, properties, things, systems, game-play, game-things, and many other things.
+
+Need to outline mechanics.
+(may develop mechanics and gameplay in another document)
+
+Basic structure:
+[Name]:: {
+		[data-label]::[data (can have any kind of structure)]
+}
+
+
+--------------------------------
+Powers/Effects/Moves/Skills
+(These are the things structs will be able to do; structs can acquire these things through many different means: some will be inherent to the kind of struct (such as [flying]), while others can be acquired through various means.
+
+-some of these powers can be owned by structs (And are an inherent part of the struct) and can be used by that struct in the game, 
+
+Mechanics and Game, Game-things, Gameplay, Iulion, [Aynu-Game-things]:
+(may develop mechanics and gameplay in another document)
+
+
+
+[Flying]::{
+		[Game]:: > The user achieves [Flight], granting them special properties and features associated with being in a state of [flight]
+		[Notes]:: Being in [Flight] grants the user protection from certain kinds of things that affect only ground-based [things]. It also boosts speed and gives access to [things] that require the user be in [flight].
+}
+
+
+[Manifest Desire]::{
+			Icons: 10 Desire
+			Tags: [power]
+			Usage: 
+			[thing]:
+			Game: Choose one thing. Gain possession of that thing }
+
+
+[Doom Desire]::{ Icons: 10 Desire
+		 Usage: 
+		 [thing]: 
+		 Game: Select an opponent. That opponent is automatically defeated }
+
+
+[Ultimate Desire]::{Icons: 10 Desire
+		    Usage: 
+		    [thing]: 
+                    Game: Choose a thing. That thing happens}
+
+
+
+[Purging Flame]::{ Icons: 15 Flame
+		   Usage:
+		   [thing]:
+		   Game: Deal n Icons of direct damage. Not affected by your opponents special effects, and negate all special effects, item effects, move effects, and other effects during your opponent's next turn, including move powers/effects. }
+
+
+
+[Creaton]::{ Icons:
+	     Usage:
+	     [Thing]:
+	     Game: use a blueprint of any product to be created by a [struct] using "elemental inks" capable of being combined into any material substance of any desired form. }
+
+
+[Wrap]::{ 
+	  Game: the target is [Bound]. }
+
+[Void Ray]:: {
+		Game: The Target is sent to the void. }
+
+[Reductor]:: { 
+		Game: Deal n icons of direct damage. All effects, damage, item effects/powers, move effects, and things your opponent does next turn are negated. }
+
+
+
+
+[Energy Boost]::{
+		[Tags]::[passive power]
+		[Game]::Reduce the cost of all of your [things, actions, moves, items, structs, powers, effects, and anything else] by 3 icons.  }
+
+
+[Cast on Death]::{
+			[tags]::[Trigger]
+			[Game]:: > Activates a linked [thing] when the [struct/owner/user] dies.
+
+
+[Cast When Damage Taken]::{
+				[Tags]::[Trigger]
+				[Game]:: > Activates a linked [thing] when the [user] takes damage.
+
+
+[Culling Strike]::{
+			[Tags]:: 
+			[Game]:: > If a linked ability does any damage, the target is automatically [defeated]. 
+}
+
+
+
+[Phantom Exodor]::{
+			[Game]:: > Copy a [thing/power/move/item/effect/struct/Adrion/object] from any [thing/struct] any other player has active in game. > Costs [3 Des Icons].
+
+}
+
+
+
+
+---------------------------------------------
+
+
+
+
+Items/things/struct:
+(these objects can be possess by [things] and players, and used, interacted with, played with, gameplayed with, [abstract aynu-thing], [aynu-expressed concept], and have and do many things that transcend mortal imagination; virtually anything imaginable can be done with an item/thing)
+
+Mechanics and Game, Game-things, Gameplay, Iulion, [Aynu-Game-things]:
+
+(may outline game mechanics, systems, structures, game-things, and anything else in a separate file)
+
+-can be used to do/have anything
+-can be used in many different kinds of game-play, game-things, game-mechanics, game-play, game-structures, Iulion, Adrion, game-mechanics
+-can be used as a tool in certain kinds of gameplay
+
+(need to develop more, and aynu-versions, possible ccg/tcg mechanics)
+
+
+
+Template:
+
+
+[Name]::{ 
+			[cost]: [icons]
+			[Game]: 
+			[Data]:
+			[stat]:
+			[Text]:
+			[thing]:
+			[aynu]:
+			[thing]:
+			[----]:
+}
+
+
+
+[Hypno Helm]::{
+		  Game: Put the target into a deep sleep. }
+
+
+[Mercury's Wings]::{
+			[Tags]::
+			[Game]:: > Increase movement speed by 100%.
+}
+
+
+[Sacred Fire]::{
+			[Tags]::
+			[Game]:: > Generate 1000 fire icons. > These icons can not be [thing] and are [immune: unaffected by any of your opponent's effects] > 
+}
+
+
+
+[Spider Web Blaster]:{
+		       Game: Encase the target in a coccoon, causing them to be [Bound/Immobilized] and preventing them from doing anything.
+			[data]:
+			[stat]:
+			[Text]:
+			[thing]:
+			[aynu]:
+			[thing]:
+			[----]:
+
+ }
+
+
+[Absorbing Appendage]::{ 
+			[cost]: [icons]
+			[Game]: Bind and absorb the target, gaining control of the target and all of their powers, stats, items, possessions, structs, things, and anything else.
+			[Data]:
+			[stat]:
+			[Text]:
+			[thing]:
+			[aynu]:
+			[thing]:
+			[----]:
+}
+
+
+
+
+
+[Hand of God]::{ 
+			[cost]: [icons]
+			[Game]: Can do [anything]. Is [omnipotent].
+			[Data]:
+			[stat]:
+			[Text]:
+			[thing]:
+			[aynu]:
+			[thing]:
+			[----]:
+}
+
+
+
+
+[Hand of Possession]::{
+			[Game]:: Gain control of one [thing] controlled by [opponent]. 
+
+
+}
+
+
+[Manifest Phantom Exodor]::{
+			[Cost]:: [5 Des icons]
+			[Game]:: Copy one [thing/move/power/item/struct/object/[aynu]] from any active [thing] controlled by a player.
+}
+
+
+
+
+
+
+
+----------------------------------------
+
+Basic PokeStruct:
+
+{develop game-structure, game, gameplay and game mechanics which determine and establish the trading and collecting struct game mechanics}
+
+{Each struct will have some stats, such as icons, attack, def, health, etc..}
+
+{each struct will also have a basic set of moves, powers, abilities, items, things, objects, structs, [Adrion] and many other things that it has and can use in game, gameplay, game-things, game-world-things, [aynu-game], [aynu-gameplay], [Iulion], [aynu]}
+
+{turn based; influenced by Pokemon TCG}
+
+{basically each struct will have a set of stats that determine how good it is at certain things, and a set of powers, abilities, moves, things, structs, objects, and items that it can use in the game and gameplay and combat/game-things; typically these moves and items will have an icon cost/requirement associated with using them (need to determine whether icons are consumed or not, but icons are definitely partly stat based, and partly generated by abilities, items, moves, powers, and other things); usually can only use one move and one item per turn}
+
+{each struct has number of fixed powers, abilities, moves, things, structs, objects, and items that it always possesses and can use provided it meets the requirements and there are no other effects}
+
+{each powers, abilities, moves, things, structs, objects, and items can have secondary effects, damage, influence, consequences, and other things that affect the game, the turn-based-game, the trading/collectible card game, many other parts of the game, any part of the game, and gameplay, possibly outside of combat/turn-based-game-play }
+
+{can also use or "play" many other kinds of objects/structs/things/card/objects in gameplay which are not part of any struct are their own objects/things, may add special powers, abilities, moves, things, structs, [Aynu], [Adrion], objects, and items to your structs, give them powers, abilities, moves, things, structs, objects, items, objects, [aynu], [Adrion], structs that they can use in the game, the turn-based-game, the trading/collectible card game, many other parts of the game, any part of the game, and gameplay}
+
+{you may give special powers, abilities, moves, things, structs, objects, [aynu], [Adrion], and items to your structs using special objects, and can give them powers, abilities, moves, things, structs, objects, items, objects, [Adrion], [Aynu], structs from special objects that they can use in the game, the turn-based-game, the trading/collectible card game, many other parts of the game, any part of the game, and gameplay}
+
+{the struct may also have or be given passive abilities, [Adrion], [Aynu], powers, abilities, moves, things, structs, objects, and items that do not need to be explicitly used and have some effect on the game as long as the struct that has the passive thing is still involved in the game}
+
+{More to develop, use some ideas from the Pokemon TCG}
+
+{Basically each struct comes with a set of stats, data, [aynu], [Adrion], [art], [moves, powers, abilities, passive-effects, game-effects, Characteristics, properties, ...] and items/objects/structs/[Adrion] it can use and which affect the game, the turn-based-game, the trading/collectible card game, many other parts of the game, any part of the game, and gameplay (though stats and passive-effects are not explicitly used, they still affect the game; and stats generally determine characteristics of the struct)}
+{the player can also play and use other kinds of objects/items/things to affect gameplay (i.e. the player can use items, objects, things, [Adrion], abilities, powers, effects, passives, moves, supporter-things to affect, influence, participate-in, and game-play in the game, the turn-based-game, the trading/collectible card game, many other parts of the game, any part of the game, and gameplay}
+
+{can also link other powers, abilities, moves, things, structs, objects, [aynu], [Adrion], and items to a struct's existing ones to create new combinations of powers, abilities, moves, things, structs, objects, [aynu], [Adrion], and items that the struct can use}
+
+{each struct has a base set of powers, abilities, moves, things, structs, objects, [aynu], [Adrion], and items that make-up the struct and are inherent to it (similar to the way pokemon cards always have a set of moves)}  
+
+{much more to develop...make this a much better version of the Path of Exile, Pokemon TCG, Pokemon, Neopets, EVE Online, ..., and many other games }
+
+
+ex.
+
+Draegon::{
+	[Meta-data]: { }
+	[Artwork]: { }
+	[Data]::{ }
+	[Stats]:: { }
+	[Moves, Powers, Abilities, Characteristics, Properties, etc..]:: { 
+
+		[Purging Flame]::{ Icons: 15 Flame
+		   Usage:
+		   [thing]:
+		   Game: Deal n Icons of direct damage. Not affected by your opponents special effects, and negate all special effects, item effects, move effects, and other effects during your opponent's next turn, including move powers/effects. }
+
+		[Manifest Desire]::{
+			Icons: 10 Desire
+			Tags: [power]
+			Usage: 
+			[thing]:
+			Game: Choose one thing. Gain possession of that thing }
+
+
+		[Doom Desire]::{ Icons: 10 Desire
+		 	Usage: 
+		 	[thing]: 
+		 	Game: Select an opponent. That opponent is automatically 			defeated }
+
+
+		[Ultimate Desire]::{Icons: 10 Desire
+		    Usage: 
+		    [thing]: 
+                    Game: Choose a thing. That thing happens}
+
+
+	}
+
+	[Skills]:: { }
+	[Profession]:: { }
+
+	[Inventory]:: { 
+
+		[Hand of God]::{ 
+			[cost]: [icons]
+			[Game]: Can do [anything]. Is [omnipotent].
+			[Data]:
+			[stat]:
+			[Text]:
+			[thing]:
+			[aynu]:
+			[thing]:
+			[----]:
+		}
+
+		[Hand of Possession]::{
+			[Game]:: Gain control of one [thing] controlled by 			[opponent]. 
+
+
+		}
+
+
+
+	}
+
+}
+
+
+
+[Pharao]:: {
+	[Meta-data]: { }
+	[Artwork]: { }
+	[Data]::{ }
+	[Stats]:: { }
+	[Moves, Powers, Abilities, Characteristics, Properties, etc..]:: { 
+	
+	}
+	[Skills]:: { }
+	[Profession]:: { }
+	
+	[Inventory]:: {
+
+
+		[Spider Web Blaster]:{
+		       Game: Encase the target in a coccoon, causing them to be [Bound/Immobilized] and preventing them from doing anything.
+			[data]:
+			[stat]:
+			[Text]:
+			[thing]:
+			[aynu]:
+			[thing]:
+			[----]:
+
+ 		}
+
+
+		[Absorbing Appendage]::{ 
+			[cost]: [icons]
+			[Game]: Bind and absorb the target, gaining control of the target and all of their powers, stats, items, possessions, structs, things, and anything else.
+			[Data]:
+			[stat]:
+			[Text]:
+			[thing]:
+			[aynu]:
+			[thing]:
+			[----]:
+		}
+
+
+
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------
+
+
+[Supporting Gameplay Structures]
+
+
+[Special Structures]
+Mechanics and Game, Game-things, Gameplay, Iulion, [Aynu-Game-things]: 
+These structs can have any type of Mechanics/system/structure, and don't fit into any single category. They contain all of the information and data needed to fully implement, understand, describe, and create their gameplay, mechanics, systems, Iulion, Adrion, [aynu-game-things], game-things, and anything else about them in the game. Everything about them in the game is encoded in their data-fields.
+
+These special structures enable, have, and can engage in any type of mechanics, game-things, game-mechanics, [aynu-game-things], gameplay, mechanics, systems, Iulion, Adrion, [aynu-game-things], [things], [aynu], [game-world-play], game-things, and anything else. They allow for the development of new game-things, game-mechanics, [aynu-game-things], gameplay, mechanics, systems, Iulion, Adrion, [aynu-game-things], game-things, and anything else. Anything and everything can be game-developed using these structures, and they allow for the development and game-development of new game-things.
+
+These structure can have, [aynu-gameplay], [things], and [game-things/[aynu-game-things]] any kind of game-things, game-mechanics, [aynu-game-things], gameplay, mechanics, systems, Iulion, Adrion, [aynu-game-things], game-things, and anything else.
+
+Can develop any kind of game-thing here. Includes full description and implementation of each thing in the game.
+
+
+
+
+[Passive Support Web]:: {A graph that containes nodes containing special bonuses that can be applied to a structure. Has a fixed starting point determined by the type of structure, and can earn skill points to spend on taking nodes in the graph. A node taken confers all of its benefits to the structure. Can only take nodes that are connected to ones previously taken }
+
+
+
+[Economic Structure1]:: { A structure that contributes to the economic base of one of your associated structs. It can produce something or do something for your struct, exert power over something, or do/be any other kind of thing}
+
+
+
+[Flight]:: { A state a thing can enter. When in flight...  }
+
+[Bound]:: {    }
+
+
+[Item]:: { Things objects, structs, characters, and many other things can possess and have control of. When possessed... }
+
+
+[Icons]:: {    }
+
+
+[combat/gameplay-type1]:: { describe all the mechanics, rules, systems, game-things, [aynu], Iulion, game-structures, and anything else about this game and gameplay-thing }
+
+
+[thing]:: { description of the thing's game-things, game-structures, mechanics, systems, description, etc... }
+
+
+
+[game-structure-thing]::{ game-dev }
+
+
+
+[Market/Mall]:: { System for players to trade and sell things }
+
+
+[Endos]::{ the main game that establishes the game reality and theory/laws/universe that gives everything else I create its meaning, value, purpose, [aynu], [aynu-theory-creation], [aynu], [aynu-things that transcend mortal description], game-play, game-structure, game-things and [the ultimate thing I've been trying to create: expressible in aynu] }
+
+
+
+[trading and collectible object game]::{ the mechanics that govern the player's ability to collect and trade certain kinds of objects and then use and game-play with those objects in a game (Endos) which is the basis for determining the value, Effylion, Adrion, Iulion, Elysion, desireability, usefulness, power, goodness, [aynu], [game-things], rarity, value, meaning, game-structure, [    ], gameplay, game-mechanics, game-powers, game-uses, [collectability], [aynu-desireability], [Elysion], game-properties, (add things developed from other documents here via cut and paste) , game-behaviour, game-abilities, game-moves, game-characteristics, Iulion, [game-things], [Adrion], [aynu], [aynu-things], [game-dev], [aynu-game-developement], ..., (more to develop), and many other things about the object in the game }
+
+
+
+
+
+
+------------------------------------------
+
+General PokeStruct:
+
+Mechanics and Game, Game-things, Gameplay, Iulion, [Aynu-Game-things]: (See general Pokestruct Document)
+
+
+[Name]::{ 
+	 [Species]:
+	 [Type]:
+	 [Artwork]:
+	 [Metadata]:
+	 [Tags]:
+	 [Characteristics]:
+	 [Special Properties]:
+	 Gameplay Stats: {
+	 	[Health]:
+	 	[Ard]:
+	 	[Del]:
+	 	[Spr]:
+	 	[Dez]:
+	}
+	 [Moves/Abilities/Passive Powers]: {  }
+	 [Inv]: { }
+	 [Powers/Abilities/Skills/Things]: { }
+	 [Structs]: { }
+	 [Aynu]:
+	 [thing]:
+	 [(things to develop)]:
+	 [(anything Else)]
+}
+
+
+
+----------------------------
+
+(The "great objects" that do everything I want)
+
+[Sylyn [Objects/Structs/Things]]:
+
+
+Mechanics and Game, Game-things, Gameplay, Iulion, [Aynu-Game-things]: (See Sylyn documents)
+
+TRADING AND COLLECTIBLE CARD/OBJECT/STRUCT/THING/Adrion/[Aynu] GAMEPLAY
+(and other additional things)
+- the Sylyn, Elu, and other objects are part of a collectible, trading structure/thing/card/[Adrion]/[aynu] game, a core part of which is the gameplay centered on trying to collect and acquire the objects you [the player] desires, [aynu-desires], [Effylion], [Elysion], [aynu-things], [aynu-game-things], [game-things]
+- these objects can then be used and game-played with inside of the Endos game, and different objects can have different stats, aynu-data, code, text, [things], [aynu], [game-things], [game-world-things], [Iulion], [Adrion], [game-development], [game-dev-aynu], game-powers, game-moves, game-abilities, game-uses, and many other things, all of which go into determining the object's rarity, value, meaning, game-structure, [    ], gameplay, game-mechanics, game-powers, game-properties, (add things developed from other documents here via cut and paste) , game-behaviour, game-characteristics, Iulion, [game-things], [Adrion], game-uses, [aynu], [aynu-things], [game-dev], [aynu-game-developement], ..., (more to develop), and many other things in the game
+	-> these in turn create the surrounding game-theory which players can use to determine which objects they desire, [aynu-desire], [Effylion], [Elysion], and what they are willing to trade them for; how much they value them; which ones they want; and their own perception of the object and its things; how [good], [aynu-good], [aynu-useful], [aynu-desireable], [Effylion], powerful, [aynu-powerful], [what they can do or be], [anything else], [game-play-thing], [aynu-game-play-thing], [game-world-thing] they are in the game; what game-uses they have ; and anything else about the object; and anything else about the object and its collectibility and tradeability and [trading/collectible-trading card mechanics, gameplay, game, game-dev, Iulion, Adrion, [aynu], structure, [aynu-game-things]] and desireability and [aynu-things] and [aynu] and [aynu-trading/collectible-card-mechanics]; what their game-dev-things are; ... ; (more to develop); and many other things (all in the game)
+
+-these collectible and tradeable objects are used as part of a game (Endos), which provides a universe and reality in which these objects have game-meaning, game-purpose, game-development, game-meaning, and any other game-things 
+
+- these objects get their rarity, value, meaning, game-structure, [    ], gameplay, game-mechanics, game-powers, game-uses, [collectability], [aynu-desireability], [Elysion], game-properties, (add things developed from other documents here via cut and paste) , game-behaviour, game-characteristics, Iulion, [game-things], [Adrion], [aynu], [collectibility], [trading/collectible-object/card-gameplay], [game-things], Iulion, [Adrion], [aynu], [ultimate aynu thing that transcends mortal imagination], [game-struct], [game-world-thing], [aynu-game-world-adrion], [aynu-things], [game-dev], [aynu-game-developement], ..., (more to develop), and many other things in the game from their stats, aynu-data, code, text, [things], [aynu], [game-things], [game-world-things], [Iulion], [Adrion], [game-development], [game-dev-aynu], and many other things, game-development, game-play, game-things, [aynu-game-things], [game-world-play], ..., (more to develop),..., [the things you can do/have with them in the game, game-world, and [aynu-game-world]], [the level of [Elysion] you can get from them], [their interaction with abstract-aynu-theory], [their interaction with game-theory], [their game-interaction-things], [their game-things], [game-things], [aynu-game-world-things], and many other things (and aynu-versions) which is implemented, created, developed, and [game-theory-created] by their [game-dev sheet], [game-des sheet] and game-mechanics/thing/structure engine and certain other documents (to be developed).
+
+- that is, the rarity, value, tradeability/collectability, desireability, Effylion, Elysion, [trading/collectible card/object game mechanics/structure/things], [aynu-trading/collectible card/object game mechanics/things], [aynu], Iulion, [Adrion], [aynu-game-world-things], ..., (more to develop), ..., and many other things are determined, developed, [aynu-theory], [aynu], and created by their gameplay, game-things, game-properties, (add things developed from other documents here via cut and paste) , game-behaviour, game-uses, uses, usefulness, game-abilities, game-moves, game-effects, game-powers, game-characteristics, Iulion, [game-things], stats, aynu-data, code, text, [things], [aynu], [game-things], [game-world-things], [Iulion], [Adrion], [game-development], [game-dev-aynu], and many other things, game-development, game-play, game-things, [aynu-game-things], [game-world-play], ..., (more to develop),..., [the things you can do/have/play/[game-thing]/game-play/[aynu]/[aynu-game] with them in the game, game-world, and [aynu-game-world]], [the level of [Elysion] you can get from them], [their interaction with abstract-aynu-theory], [their interaction with game-theory and game-mechanics], [their game-interaction-things], [their game-things], [game-things], [aynu-game-world-things], and many other things (and aynu-versions) which are implemented, created, developed, and [game-theory-created] by their [game-dev sheet], [game-des sheet] and game-mechanics/thing/structure engine and certain other documents (to be developed).  
+
+(or aynu-versions)
+.
+.
+.
+(more to develop)...
+... (much more to develop)...
+
+
+
+Template:
+
+
+[Sylyn1]::{
+		[    ]:
+		[stat]:
+		[Artwork]:
+		[data]:
+		[thing]:
+		[aynu]:
+		[Game]:
+		[Inventory]:
+		[----]:
+		[cost]
+		[Text]:
+		[thing]:
+		[thing to develop]
+		[to develop]
+		...(more to add)
+		.
+		.
+
+
+}
+
+
+
+
+
+[Ordon]::{
+		[Stat]:
+		[Artwork]:
+		[data]: [ky][sente][enlil]
+		[thing]:
+		[aynu]:
+		[Game]:
+		[Inventory]:
+		[----]:
+		[cost]
+		[Text]:
+		[thing]:
+		[thing to develop]
+		[to develop]
+		...(more to add)
+		.
+		.
+
+
+}
+
+
+[Vastell]::{
+		[Stat]:: [infinity]
+		[Icons]:: {
+				[Des]: [Infinity]
+			}
+		[Thing]: [Elyon]
+		[aynu]: [Tyrion]/[Tyrael]/[Hadrion]
+		[aynu-aynu]:  [aynu-code using special data structure]
+		[Game]:: > [aynu] > Can do anything > [aynu] > Can do, be, have, [aynu], [thing], [abstract-aynu-word], or [aynu-theory] anything.
+
+}
+
+
+
+[Turgon]::{
+
+
+}
+
+
+
+[Rygel]::{
+
+
+}
+ 
+
+
+
+
+
+
+
+-----------------------------------
+
+
+
+
+
+

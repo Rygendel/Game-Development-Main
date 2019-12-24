@@ -1,0 +1,50 @@
+[Work on actually creating the great aynu things; can form the basis of the megas, great objects that can do and are everything I want]
+[merge these things with the ultimate and greatest objects coded entirely in aynu]
+[write aynu-code to encode all the abstract-aynu mechanics/theory/purpose/meaning/powers and other [abstract-aynu-things] and game-things about these aynu-things that I desire; this results in the creation of a game-system involving these aynu-things that I enjoy and find interesting; motivates collecting, possessing, useing, [doing aynu-things with], and game-playing with these aynu-things]
+[the aynu-code creates the ultimate game-world I want and makes these aynu-things the ultimate things I want to possess and game-play with within this world]
+
+Outline
+
+
+Description:
+[aynu-coded description of game mechanics, models, systems, world, effects, powers, values, any-thing, things, etc]
+
+
+Components
+
+[name]:
+Self-descriptive
+
+[Artwork/Appearance]:
+
+[aynu-stat1]:
+[aynu-coded description of game mechanics, models, systems, world, effects, powers, values, any-thing, things, etc]
+
+
+[aynu-stat2]:
+[aynu-coded description of game mechanics, models, systems, world, effects, powers, values, any-thing, things, etc]
+
+
+[aynu-stat3]:
+[aynu-coded description of game mechanics, models, systems, world, effects, powers, values, any-thing, things, etc]
+
+
+[aynu-stat4]:
+[aynu-coded description of game mechanics, models, systems, world, effects, powers, values, any-thing, things, etc]
+
+
+
+
+
+
+
+
+
+[Catalogue]
+
+
+[name]:
+[aynu-stat1]:[aynu-code]
+[aynu-stat2]:[aynu-code]
+[aynu-stat3]:[aynu-code]
+[aynu-stat4]:[aynu-code]

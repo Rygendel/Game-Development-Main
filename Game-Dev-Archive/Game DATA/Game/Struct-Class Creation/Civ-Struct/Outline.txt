@@ -1,0 +1,41 @@
+Outline of civ-empire mechanics:
+
+Need to design the various components of game-play and mechanics; need to explicitly and actually create the game. Need to focus on making civ-empire and Mech games.
+
+- a lot like civilization V and illyriad, but with an mmorpg component, players develop a permanent civ within an open world; their leader is their arch-game-character
+
+- units and automata have a pokemon/neopets-like mechanics to them
+
+- items have a neopets and Path of exile-like mechanics to them; you can find items by participating in game-play, can find things/items that drop from defeated enemies in the wild or by doing special things, can find items randomly on the ground in the game-world
+	-> same-goes for aynu-things and aynu-struct-items that I desire and want and do everything I want
+
+
+
+
+Objects:
+
+- civs
+- buildings
+- cities
+- items
+- units
+- [aynu-things]
+- special powers
+- ...
+- [things]
+- world
+
+
+
+
+Additional mechanics:
+
+- special bases
+- game-battling
+- trade and economy
+- production/item-creation and acquisition
+- item use and game-playing
+- population and automata-management
+- unit game-battles
+- turn-based unit-team battles
+- real time character combat and exploration, gameplay (Action RPG)

@@ -1,0 +1,53 @@
+Classes of things to develop:
+
+-> some objects are fully developed for you
+-> some objects are completely designable/constructible by the player
+-> some objects are partly constructed, allow some customization/building/development by the player
+
+- include supported abstract actions/operators in data fields
+- specify the abstract class/theory which endows the encoded stuff with value and a theoretical purpose/meaning
+
+- there are infinitely many other classes of
+- abstract class data provides the structure for the data following the "::", and gives it a descriptive framework that allows for the data to have meaning and to be interpreted, understood, processed and given all sorts of things including abstract value/meaning/purpose/desirability/utility/good/properties/things 
+
+- different kinds of things will allow different kinds of operations, actions, structure, [Erion] - {abstract operations/actions/effects}
+
+- Components of the Theory of Structs:
+  -> Abstract Classes
+  -> Concepts
+  -> [Aros - concrete components that determine the object, and how they interact with concepts and what {Qualities} they possess, and much more]
+    ->such as [Alexios], [Arion], [Orpheus]
+  -> Aya - used to actually build the objects
+
+  -> Every combination of Aya interacts with the concepts and qualities in a different way
+  -> together, the aya and class data of an object are [given things which transcend our understanding, but can be approximated by essence, structure, power, form, attributes, meaning and value and any thing, including things which transcend our understanding] by the concepts/theories/qualities/Tyr
+
+  -> aya-data causes the structs to interact with the Tyr in different ways
+  -> the Tyr gives the aya-data things which transcend our understanding
+  -> in some cases you can assign a value to how the object interacts with a Tyr or Tyr-os -> produce stats (use summary stats and numbers/single aya to summarize value, make it easier to process for the player, and simplify determining which objects are good/better, and how they compare)
+
+  - abstract
+
+General Abstract Struct
+Tyrions
+------
+Eredar
+------
+Template for development:
+
+>> <abstract class data> Eredar [-name-] {
+	[Alexios] <abstract class data> ::
+	[Orpheus] < > :: 
+	
+	[Avalon] < > :: [syr5943]
+
+  }
+
+
+Draemon
+High Structs
+- stats and effects/abilities
+- types, development trees
+Sirions
+
+...

@@ -1,0 +1,74 @@
+(eventually build these into the core components of gameplay - acquiring, possessing, developing and using/interacting/(other/abstract things) will be a major component of the game. requires strategic decision making and skill, time, and investment to acquire and use these things)
+
+(can be used to acquire wealth, achieve various goals, create various programmable objects like Sirions, Draemon, acquire Tyrions, achieve various goals, participate in quests/story/interactions, combat things)
+
+(these structures are used to build a (Draemon?))
+
+
+[Altaeramon]: Control. Responsible for many major controlling factors.
+(info)
+{Themae}
+(notes)
+(): [andromeda] - [leithian] - [sora] - [lena]
+thing::
+
+struct [name] {
+
+  [thing]::[[  ]]
+
+  [Val] ::
+
+}
+
+
+[(Element)-Generator]:
+
+
+[(Object)-Forger]: (makes certain types of structures)
+[Aelios]: [Asturias] - [Tur]
+
+[(scribe-like thing)]: (records and develops information)
+
+
+[Tyrion -forger]:
+
+
+[(trader/market-like thing, used to acquire goods)]
+
+[(unit maintainer)]
+
+
+[(resource-generator)]
+
+
+[(storage)]
+
+
+
+[(happiness-thing)]
+
+[(thing related to abstract things)]
+
+
+
+
+[(things)]
+
+
+
+[(things used to achieve other things)]
+
+[Noros]: Basic "population"/units. Many different types, can specialize and acquire different things/skills which are useful.
+
+[Flora]: Main "processor" used to carry out instructions.
+
+Pseudo-Resources:
+[Musae]: Main thing used to keep Noros "abstractly happy" (eros) 
+
+Key Resources:
+
+[Kir]: Basic "food" resource. Used to supply and maintain Noros.
+[Euron]: Basic abstract store of value. Used to acquire things and store wealth.
+
+
+

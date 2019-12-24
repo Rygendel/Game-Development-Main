@@ -1,0 +1,88 @@
+---------
+Adunai:
+---------
+
+
+General Description:
+---------------------
+Special objects which are extremely difficult to acquire. They are among the most powerful and abstract entities in the game, and can be used for essentially anything. They can also be specialized, customized, and personalized by the owner. They also have special transcendental properties which are encoded by special scripts and the aeonar.
+
+
+They can also be created and customized. Players may also create and customize their own Adunai. There are also special transcendental and modifiable adunai.
+
+
+
+
+
+Template:
+
+{Name}
+
+Descr: {}
+Stat: {}
+Esdraelon: {}
+Elegon:
+Faedralon:
+Ascalon:
+Escamor:
+Skylon:
+Aeonar:
+Tyrael:
+Effect:
+Commands:
+Usage:
+Picture:
+
+
+
+----------------------------
+Descriptions and Properties:
+----------------------------
+
+Descr:
+
+Stat:
+
+Esdraelon:
+
+Elegon:
+
+Faedralon:
+
+Ascalon:
+
+Escamor:
+
+Skylon: Things encoded and modifications made by the owner.
+
+Aeonar:
+
+Tyrael: Encodes the special transcendental aeonar.
+
+Effect:
+
+Commands:
+
+Usage:
+
+Picture:
+
+
+
+
+
+Catalogue:
+
+{Galtheron}
+
+Descr: {}
+Stat: {}
+Esdraelon: {}
+Elegon:
+Faedralon:
+Ascalon:
+Escamor:
+Effect:
+Commands:
+Usage:
+Picture:

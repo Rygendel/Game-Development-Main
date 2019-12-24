@@ -1,0 +1,19 @@
+[Notebook]
+
+
+
+[Memento]
+
+[Constructor]
+
+[Power-Node]
+
+[Programming Chip]
+
+[Book]
+(info):
+(stats):
+(notes):
+{Themae}:
+
+[Elemental Staff]

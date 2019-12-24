@@ -1,0 +1,68 @@
+Gameplay:
+
+- Continuous storyline development
+- players will be free to explore, live their own life/purpose
+- players can pursue [abstract desirable] life/purpose/goal/meaning/essence
+- free to explore and have adventures in the world
+- can play solo, interact in many ways with other players, characters, things, worlds
+- can do whatever they want
+- full freedom
+
+Character Gameplay
+
+
+
+Pet Gameplay
+
+
+Metagame:
+
+
+Sub-games:
+
+
+
+Gameplay arising from Esdraelon:
+Some esdraelon can be used to engage in many kinds of activites, games, Turamon (abstract actions/games/persistent activities). These can be cumulative, and take place in their own persistent world/special world.
+
+
+Games:
+----
+One Idea: Partially pre-prepared combatants (esdraelon). Characters develop and position during battle, use abilities, and generate income which can be further spent to acquire better abilities. 
+
+Characters can also acquire permanent upgrades, which can then be used in combat. Turn based.
+
+Can be equipped with item. Can acquire territory, items, special objects. Requires considerable skill and strategy. Many types of strategy, such as brute force, intellect/research, technology, magic and much more. Can construct new objects that you can keep.
+
+Can build a team with specialized roles, strategy, roleplay.
+
+A wide variety of information, data, and abstract concepts extending information and data are involved in the game mechanics.
+(information to be determined)
+
+------
+
+Turn-based card game
+-------
+
+Create and Develop (including Esdraelon):
+
+-----
+
+Valeion (abstract aeron extending, and greater than, creation, possession and development):
+--------------
+
+
+
+----------------------
+Turn based RPG, involves exploring, puzzles, treasure hunting, clue and storyline, monsters, developing characters, items, special objects, abstract things, acquiring things, and much more.
+
+----------------------
+
+Combat decks
+
+Consist of a wide array of things, creatures, many things...that contribute to actions, daily exiastence, combat, games, and much more. Can be modified, developed, expanded, collection.
+
+-----------------------
+Turn based gameplay involving structs:
+
+Players can build a system of structs, and the structs interact with each other and do things to beat the opponent in some way. The struct's properties give them effects which influence battle. This can include things like building other objects to help them in battle, interfere with their opponent, attack, etc.

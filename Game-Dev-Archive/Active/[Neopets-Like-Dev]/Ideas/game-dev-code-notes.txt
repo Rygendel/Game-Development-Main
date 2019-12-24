@@ -1,0 +1,27 @@
+Game Dev Code Notes:
+ 
+- all game-dev-code has inherent value and meaning: requires no external engine or reference frame to give it anything. It is completely self-contained (meaning I can just write the code using pure aynu and it will automatically have the desired effect/power/meaning/value/code-things/game-code-engine-things)
+ 
+Could also code a game-dev-code compiler/interpreter/game-dev-engine in pure aynu -> this will form the basis for giving any pure aynu game-dev-code its game-dev-meaning (but it already has inherent meaning, so this should be unnecessary)
+ 
+ 
+ 
+ 
+ 
+[more notes to be added and print this as my first print job for testing]
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Pure Aynu game-dev-code game-dev-engine
+ 
+[aynu][aynu]....
+.
+.
+.
+[Tyrion][Ereinion]>>[aynu]
+ 
+[more aynu data/code-structures here]

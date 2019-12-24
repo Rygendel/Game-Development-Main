@@ -1,0 +1,12 @@
+
+[aynu]
+
+[aynu-key] [aynu] (aynu, aynu, aynu) : {
+	for aynu in aynu:
+		aynu.aynu.aynu = aynu -> aynu
+		aynu::aynu(aynu) | aynu
+	[ell] aynu [eru] aynu::
+		kyr >> [eridu] // [enlil]
+
+
+}

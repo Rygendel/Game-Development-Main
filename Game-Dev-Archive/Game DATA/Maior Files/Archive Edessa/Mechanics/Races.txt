@@ -1,0 +1,94 @@
+Catalog of Races:
+----------------------------------------------
+
+------------
+Human:
+------------
+
+Overview:
+---------
+
+
+Bases stats:
+
+
+Warrior:
+-------
+Health:
+Stamina:
+Strength:
+Agility:
+Dexterity:
+Intelligence:
+(Mana):
+
+Warlock:
+-------
+Health:
+Stamina:
+Strength:
+Agility:
+Dexterity:
+Intelligence:
+(Mana):
+
+
+Features:
+
+
+Starting Gear:
+
+---------------------------------------------------------------------------------------------------
+
+-----------
+Andraenor:
+----------
+
+General Description: A highly intelligent and creative race. Generally of moderate physical build. They are often concerned with deepening their understanding of the universe, or attempting to devise new and more wondrous creations. 
+
+Bases stats:
+Health:
+Stamina:
+Strength:
+Agility:
+Dexterity:
+Intelligence:
+(Mana):
+
+Additional Bonuses:
+
+
+
+---------------------------------------------------------------------------------------------------
+
+Sanorae:
+
+General Description: A powerful race of earthen giants. Their society is highly reclusive, and built into the formidable Talfuin Mountains.
+
+Bases stats:
+Health:
+Stamina:
+Strength:
+Agility:
+Dexterity:
+Intelligence:
+(Mana):
+
+Additional Bonuses:
+
+
+---------------------------------------------------------------------------------------------------
+
+Ramaen:
+
+
+Bases stats:
+Health:
+Stamina:
+Strength:
+Agility:
+Dexterity:
+Intelligence:
+(Mana):
+
+Additional Bonuses:

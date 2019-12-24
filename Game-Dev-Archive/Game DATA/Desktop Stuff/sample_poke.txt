@@ -1,0 +1,148 @@
+Altaria-Mega (F) @ Altarianite  
+Ability: Pixilate  
+Level: 50  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Dragon Claw  
+- Flamethrower  
+- Dragon Dance  
+- Draco Meteor
+
+
+
+
+-----------------
+
+Altaria-Mega (F) @ Altarianite  
+Ability: Pixilate  
+Level: 50  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Dragon Claw  
+- Flamethrower  
+- Dragon Dance  
+- Draco Meteor  
+
+Sableye-Mega (F) @ Sablenite  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 252 Atk / 252 SpD / 4 Spe  
+Jolly Nature  
+- Dark Pulse  
+- Nasty Plot  
+- Power Gem  
+- Magic Coat  
+
+Hoopa-Unbound (F) @ Choice Specs  
+Ability: Magician  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Destiny Bond  
+- Nasty Plot  
+- Psychic  
+- Hyperspace Fury
+It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form. In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.
+
+Altaria-Mega (F) @ Altarianite  
+Ability: Pixilate  
+Level: 50  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Dragon Claw  
+- Flamethrower  
+- Dragon Dance  
+- Draco Meteor  
+
+Sableye-Mega @ Sablenite  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 252 Atk / 252 SpD / 4 Spe  
+Jolly Nature  
+- Dark Pulse  
+- Nasty Plot  
+- Power Gem  
+- Magic Coat  
+
+Hoopa-Unbound @ Choice Specs  
+Ability: Magician  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Destiny Bond  
+- Nasty Plot  
+- Psychic  
+- Hyperspace Fury  
+It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form. In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.
+
+Jirachi @ Choice Specs  
+Ability: Serene Grace  
+Level: 50  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Wish  
+- Moonblast  
+- Doom Desire  
+- Last Resort  
+Jirachi will awaken from its sleep of a thousand years if you sing to it in a voice of purity. It is said to make true any wish that people desire. A legend states that Jirachi will make true any wish that is written on notes attached to its head when it awakens. If this Pokémon senses danger, it will fight without awakening.
+
+---------------------------------------
+
+
+
+[Abstract theories/concepts that create things of [value/want/desire/purpose/meaning/[transcendental great notions]]:
+
+Special abstractions that help to formalize and encode notions that justify the player's reasoning/theory about how a component fits into gameplay and things like power, value, meaning, purpose, desireability, want, attractiveness, goodness, and many other things, including [special transcendental notions]. These special abstractions have special components that are [beyond our understanding] and it is these transcendental components that ultimately motivates me to want to acquire them and use them in game/[game-play + game-battle/compete with them] to make me [abstract concept here, the things I'm talking about, ex happiness that comes from having and playing with hot girls, abstract game-playing fun/happiness]
+
+[more as I come up with it, these need to form the ultimate backbone to the theory of the games I am creating to ensure they are everything I want them to be]...
+
+
+- Collection and use of items (and their effects and use in various situations, use/powers/value in the game world) as in Neopets
+
+- provides the theoretical basis for creating things that players want to get, create, craft, acquire, win, etc.
+
+-ex. stocks/shares: represent units of ownership/power over special powerful entities/corporations that do/have/[abstract concept] special things or have special values/power/things ex shares of a corporation that makes something or does something desireable/necessary/useful/[game-play mechanics-useful], provides a good/fun/important/powerful/game-play useful/good/powerful service, value is determined by how valuable the entity that stock belongs to and gives ownership/power in
+
+
+-------
+Components/Mechanics of Civilization style long term, persistent world sandbox mmorpg strategy game
+
+- civ-nodes/tiles: basic "territory" unit object/structure, nodes/tiles acquired contribute to your empire in some way, and you can develop them and assign automata/things to them to make them better; some can have special effects/text/data/info that make them special
+
+- your empire will possess a set of nodes/tiles, each with its own data, which can be developed, have structs/objects added to them, contain special innate resources/things you can farm/acquire, have special powers/effects, possess special things you can use, and virtually anything else
+
+ex. Basic "Production/Currency" tile: generates n production and m wealth
+
+Structure:
+[basic tile identifier] <type> {
+data
+} 
+
+
+-------------------
+Game Creation Mechanics:
+
+- allows the player to create any kind of game/world using any kind of gameplay system/mechanics/objects they desire, and control their game, create instances they desire
+
+Objects:
+
+- game creation core
+- blank game object template
+- game system generator
+- game mechanic-creating core
+
+Mechanics:
+
+- create game engine using special objects, system
+- create game objects/systems/mechanics/player-characters/other-characters/story/world/[anything else]/[any transcendental/aynu thing] using the right objects and game-creation mechanics
+
+
+
+ex. can create first-person open-world sandbox shooter MMORPG like "Destiny"
+- can create physics/reality/life/[world where you can and are free to do anything imaginable] open-world sandbox like "Garry's Mod"
+- can create strategy game like "Civilization" series
+- can create any [transcendental/aynu game], including those that go beyond mortal comprehension, and whose fun-level is beyond anything describable

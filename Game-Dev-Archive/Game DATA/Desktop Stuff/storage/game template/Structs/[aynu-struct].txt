@@ -1,0 +1,11 @@
+[aynu-struct] {
+
+	[aynu-thing]::{
+		
+		
+	}
+
+	[aynu-thing]::{          }
+
+
+}

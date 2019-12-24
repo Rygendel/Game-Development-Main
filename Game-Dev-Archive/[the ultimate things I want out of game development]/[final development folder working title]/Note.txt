@@ -1,0 +1,13 @@
+Put all finished documents here; collect all game-dev files and documents that will exist in the final pure aynu game, and all game-data and game-files like account data, and put them here.
+
+
+
+This folder will become the final version of the game.
+
+
+This folder will also contain a schema or system for developing any kind of game or game-thing and a basis for any kind or type of game-development; provides a thing that will allow anyone to create any type of game or game-thing, including pure-aynu games and game-objects.
+
+
+
+
+Recall: this game will have a Pokemon, Neopets, PoE, EVE, Civilization, Illyriad, and [many other games], and Neopets-like base with a free economy, an ability to freely trade objects, and a fully 3D world where players will be able to engage in many different types of gameplay. These include warfare, space-warfare, base building, civ-empire development and competition, ..., (more to develop), ..., and virtualy any other kind of game, including any pure aynu-games. Can also play pure-aynu-games and collect pure-aynu-objects that can be used in the game. Can also play player-developed games and player-created/developed games. Can interact with and engage in [aynu-gameplay] with player developed standard games and pure-aynu-games. Can possess and game-play with player created objects/structs and [pure-aynu objects/structs like Elu, Sylyn, Feanor, etc.]. Players can develop their own objects/structs, including pure-aynu objects/structs, and these are fully integrated into the game-world and can be interacted with and game-played with just like any other objects/structs (including the ability to sell and trade them). 

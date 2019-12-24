@@ -1,0 +1,3 @@
+[Design everything about collectible object's game mechanics and game-dev]
+[Game-dev all game-things about the collectible objects in this document]
+[Game-dev all [Iulion]/[Adrion]/[Game-dev]/[Aynu-game-things/concepts] for the collectible objects, including Regulus]

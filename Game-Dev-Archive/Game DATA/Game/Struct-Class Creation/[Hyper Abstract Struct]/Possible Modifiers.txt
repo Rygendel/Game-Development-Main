@@ -1,0 +1,31 @@
+- game-data-things that can be added to game-things and game-structs
+- special game-things that can be added to game-structs to give them special game-things and game-powers/value/effects/purpose/[abstract-good-usefule things]/uses
+- effects that can be crafted onto components
+- can include any kind of thing/effect/power and can be intended for a specific range of structs:
+
+
+
+List
+
+Civ-struct:
+
+- [x] boost in production
+- [x] boost in population growth
+
+
+
+
+Battle-struct:
+
+- [x] boost in [type] damage
+- [x] boost in [type] defenses
+- [x] increased value of items found
+- [x] boost to [game-play stat]
+- [special effect]
+
+
+
+Hyper abstract struct:
+
+- [abstract game-thing/effect]
+- [x] boost to [thing] 

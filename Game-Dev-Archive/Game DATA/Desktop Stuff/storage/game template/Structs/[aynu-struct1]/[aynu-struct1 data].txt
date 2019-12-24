@@ -1,0 +1,1 @@
+[Encode concrete and aynu data about game structs and their gameplay]

@@ -1,0 +1,148 @@
+Characters:
+-----------
+
+Each player may hold up to ten characters, but may designate a single "main" character which receives a number of bonuses. Characters each have a single race and class, two subclasses, and a variety of abilities, spells, moves, hobbies, professions, talents, interests, skills, etc. Characters may also own items, a home, a shop, pets, Aercyons, Sirions, Tirions, etc. The appearance and other traits can be customized.
+
+Races:
+------
+
+Human: 
+  Overview: Well-balanced. 
+  Racial Characteristics: 
+
+Wolvar
+Orioni
+Eridani
+Draconid
+Half-Giants
+Norid
+
+
+
+
+Class:
+------
+
+Each character belongs to a specific class and up to two subclasses. The types of classes are:
+
+Warrior (physical)
+
+Magus (caster)
+
+Paladin (physical/holy)
+
+Warlock (caster/demon)
+
+Daemon
+
+
+Stats:
+------
+
+All characters have the following stats:
+
+Health
+Power
+Strength
+Intellect
+Agility
+Speed
+Stamina
+Dodge
+Parry
+Critcal Strike
+
+Creativity
+Will
+Des
+
+-----------
+Attributes:
+-----------
+
+Estell:
+
+Talents:
+
+Skills:
+
+Interests:
+
+Professions:
+
+
+
+
+
+
+Inventory, Bags, and Safety Deposit:
+------------------------------------
+
+Items can be stored in an inventory stored at home, bags that are carried with the character, and a safety deposit at the bank.
+
+
+
+
+Abilities:
+----------
+
+All characters can acquire various abilities.
+
+
+
+Spells (casters) or Moves (physical):
+-------------------------------------
+
+Caster classes have spells, and physical classes have moves.
+
+
+Hobbies, Interests, Professions, and Galleries:
+-----------------------------------------------
+
+
+
+
+
+
+
+
+
+Aercyons:
+---------
+
+
+
+
+
+
+
+Sirions:
+--------
+
+
+
+
+
+
+Tirions:
+--------
+
+
+
+
+
+
+Homes:
+------
+
+
+
+Description:
+------------
+
+Characters may set a personal desciption.
+
+Backstory:
+----------
+
+Characters may create their own background story.

@@ -1,0 +1,37 @@
+Professions and Hobbies:
+
+Professions and hobbies are part of a number of non-combat oriented features. Hobbies such as collecting, caring for pets, learning specific skills, and creating objects provide an additional pursuit for players. Often, developing ones hobby or profession can provide a number of benefits for the player, such as increased gold and currency production, the acquisition of new abilities, etc.
+
+
+Major Professions:
+
+Alchemy:
+
+Enchanting:
+
+Engineering:
+
+Designing:
+
+Inscription:
+
+Desforging:
+
+
+
+Minor Professions:
+
+First Aid:
+
+Archeology
+
+
+
+
+Hobbies:
+
+Creative Writing
+
+Collecting []
+
+Creating []

@@ -1,0 +1,12 @@
+Mechanics - Game-Objects (including pure aynu development)
+
+[final document for writing all game-dev (including pure-aynu) and everything about items, Rygel, game-objects and game-structs, ..., more to develop (and aynu-versions)]
+
+[I can’t ever express what I want in english, so write everything about and necessary to create, game-create and implement (and create the necessary game-engines for ) item/game-object/Rygel/[aynu-game-struct]/[game-things]/[Adrion]/[Iulion]/.../[more to develop] mechanics, game-dev-things, [pure-aynu-game-dev], [game-world-things], [aynu-game-theory-things], [game-universe-things], game-things, [game-object-things], [game-structure-things], [game-world-properties], [game-world-existence], [game-world-assets], [game-object-assets], [artwork], [aynu-game-object-assets], [aynu-game-thing-assets], [persistent-world-things], [game-properties], [game-behaviours], [game-theory-mechanics], [any game-thing imaginable], [game-elysion-possibilities], [game-world-effects], [game-engine-things], [game-powers], [game-objects-interactions], [game-world-effects/interactions/powers/things/[aynu]], [game-theory-interactions], [game-world-theory-things], [aynu-game-theory-interactions], [aynu game-theory-object-usage/game-play-things/effects], [aynu][aynu] , [game-theory-universe-systems/mechanics/forces/powers/possibilities], game-systems, [Iulion], [aynu], [aynu-aynu-...], …, [more to develop] (or pure aynu-versions) using pure aynu game-dev-code/writing/symbols for items/game-objects/Rygel/[aynu-game-struct]/[game-things]/[Adrion]/[Iulion]/.../[more to develop]
+
+]
+
+[includes all information, game-world-things and usage mechanics about objects in the game]
+
+
+

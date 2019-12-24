@@ -1,0 +1,29 @@
+{
+[object name]::
+[Object class and meta-data]:: { }
+[Data field]::
+[Data field2]::
+[Aynu-data]::
+[data-subclass]::{ }
+
+[special data]::
+
+
+
+[Any additional data that doesn't fit into any category]::
+
+[special data types/fields]
+
+[special additional things that can take on any sort of form/structure/model/formula]
+
+[thing]::
+
+[aynu-things]::
+
+[ ... ]::
+.
+.
+.
+
+
+}

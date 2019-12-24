@@ -1,0 +1,22 @@
+Classes:
+Players can choose from one of several classes. Each class has its own basic set of properties. Each class has its own development graph, where players can spend points to acquire things on the graph. Each node represents a modification to your character, and the only requirement is that the player's graph is connected. (similar to Path of Exile). The graphs contain an extremely large number of nodes, and acquiring points becomes exponentially more difficult later on. Players will not be able to acquire the vast majority of things on the graph, and so will have to make decisions on how to spend points wisely and based on their own desires. Different choices of nodes can allow for different types of play, and can have different effects on gameplay. This allows the player to develop many different kinds of play styles, and ensures that no two players of a single class are exactly the same or play the same way, or that it's very rare. This also allows players to specialize and focus on the area of gameplay that they want. The abilities on the tree don't all necessary apply to combat: some give additional stats, some help with acquiring aya-things and aya-structs, some help with acquiring items, some give special abilities, properties, or effects useful in combat or in the persistent world. Some things in the tree are useful in the persistent world, useful for personal pursuits, skills, goals, professions, hobbies, achievements, desires, special things, special tasks, and anything else. This allows players to focus on the area of gameplay that they desire, and allows for many new kinds of gameplay to develop.
+
+Types:
+There are several different types of combat, including two main kinds: turn based (using structs/pets) and real time (using player character).
+
+Items:
+There are two types of items useful in combat: standard and [deveros].
+
+[deveros] items come in one of several rarities, which roughly indicate how good they are to start off. Players can use several kinds of things in order to upgrade their [deveros], add abilities or effects, improve their stats, add special properties, or add/do anything else. Examples include:
+
+- Development is similar to that of battle structs for any other type of combat (including turn-based and real-time modes)
+
+
+[Flaming Essence]: Add one icon of fire damage to to a weapon.
+[Wings of Mercury]: Add ability: on use, increase movement by 200 for the duration of battle. Also increases movement speed in the persistent world.
+
+[deveros] can also contain sockets to allow for special kinds of gems to be added to modify the object.
+
+
+
+Abilities:

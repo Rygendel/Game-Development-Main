@@ -1,0 +1,42 @@
+class of structs where I test out many different kinds of mechanics; can modify and develop any kind of game mechanics/model with these structs; and players can use these strucst to develop their own kinds of games:
+
+Similar to mechs.
+
+- can interact with any objects, but there are special objects that are designed specifically to interact with these structs
+- need to work on designing these object further; design interesting gameplay and mechanics
+
+Many different types of "basic nodes"; each class has its own inherent properties and ways of being acquired. Can add special things to them or develop them in a variety of ways including:
+
+- passive dev tree
+- research/
+
+
+
+Components:
+
+- [Power boost]
+
+- [aynu-thing]-creator
+
+
+- [population]-support facility
+
+
+
+- [Great weapon]
+
+
+- [thing that does some thing in the game-world]
+
+
+- [any thing imaginable]
+
+
+- [....]
+
+
+-[thing that does some game-play thing]
+
+
+
+- [thing that contributes to and affects game-play-battles/games in some way]

@@ -1,0 +1,84 @@
+[Struct-name]:: {
+
+
+
+
+  [component]::{things}
+
+
+  [stats]::{
+	[sym][sym][sym][sym]::{[value]}
+    
+	[Icons]:: {
+    	[Des]::
+    	[Dyus Pater]::
+
+
+	}
+  }
+
+
+
+
+  [aynu-game-thing]::{ }
+
+
+
+
+  [game-abilities]
+
+
+
+
+  [Gear/Possessions/Equipment/[things]/[things it owns]]:: {
+
+
+	[Dragon Balls]
+
+
+	[Anarion]::
+
+
+	[thing-with-cool-name/aynu]:: {
+
+
+  	[Icon/stat requirements]
+
+
+  	[Game-mechanics/effects/powers/[things]/systems/[game-play-things]/[game-things]/[aynu-game-things]/[game-dev]/[aynu-game-dev-things]/.../[more to develop]]
+
+
+  	[mechanics/systems/game-dev-things]
+
+
+  	[aynu][aynu][aynu-sym]...[aynu]:: { }
+
+
+   	[aynu-game-things]
+
+
+   	[stats]
+
+
+   	[aynu-game-data]
+   	[aynu-game-dev-things]
+   	[aynu-game-desire-things]
+   	[aynu-elysion/[aynu-concept-desire-things]]
+   	[aynu-things that do everything I want from game-dev]
+
+
+
+
+
+
+
+
+	}
+
+
+  }
+
+
+
+
+}

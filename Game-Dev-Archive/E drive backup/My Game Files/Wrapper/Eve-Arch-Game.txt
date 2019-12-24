@@ -1,0 +1,25 @@
+Design the arch-game based on EVE Online. Use data from Eve, including items, as a basis for the arch game. Code engines that do things similar to Eve. Design a space world similar to Eve, and players can engage in the same kinds of activities and gameplay as they do in Eve, and more.
+
+- however, may start with a Pokemon/Neopets like game base on a single world, use Eve for the rest, or have players choose to live in the pokemon/neopets arch-game or the Eve-arch-game, with the ability to interact between the two and exchange items and things; can even have one as a subgame of the other depending on which you choose as your main.
+
+	-> start simple, with a neopets-like basis eventually expanding to encompass a pokemon-like component as well and eventually an EVE online structure
+
+
+- can fight for control of worlds with special things in them
+- build massive corporations and social structures that can go to war
+- use blueprints to build ships and other mechs, including ground forces
+- engage in character vs. character combat or ship combat (space and planetary combat)
+- build bases on planets you control or in orbit, mine valuable things from them
+- players can create defenses for their planets and bases/colonies, and fight other players for control; there are also "ultimate defenses" that are unbreachable which players can set up at great cost on a few planets to create "safe havens" for themselves and their stuff, and can (and should) store most of their stuff in these safe havens
+
+- on a large scale, player alliances and forces can fight for control of star systems
+
+
+
+- combat types: 
+	-> icon turn-based
+	-> character battling Path of Exile Style
+	-> Mech Battles in real time using their own powers, abilities, stats, items, gear, aynu-things, etc.
+	-> General Mech
+	-> Turn based civ-empire strategy
+	-> Ship battles (similar to Mech, possibly even a subclass)

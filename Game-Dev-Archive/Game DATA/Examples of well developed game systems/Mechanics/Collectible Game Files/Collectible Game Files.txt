@@ -1,0 +1,34 @@
+- collectible files that players can collect, develop, and use in gameplay
+- ultimately all objects can be built into this mechanic
+- this mechanic will do everything I want; everything I desire to possess and that will make me [abstract-aynu-happy/satisfied] will work under this mechanic, and this mechanic will give the things everything I want/desire/[abstract desire] and will be sufficient to fully create the things I want and give them an interesting gameplay that makes we want to have/collect them and gives them value/[Adrion]/powers/[things]/abstract-aynu-things
+- this mechanic will be omnipowerful and omnipresent; it will be powerful enough to do everything I want, and will be sufficiently powerful enough to create the gameplay models/systems/[Adrion]/formula/mechanics/things that I want and need to determine how the [ultimate aynu-objects work]: this forms the theory and mechanics of the things that will [do/be the ultimate thing I want and will give myself] and will create/form the ultimate gameplay mechanic
+
+- this will be the [abstract ultimate-aynu game mechanic]; all the things I desire will ultimately be desireable because of their interactions with this game mechanic and having/playing-with them will make me ryku
+- this mechanic will form the system that gives the [ultimate aynu-things] the ultimate [game-play mechanics/theory/[Adrion]/powers/game-things] that makes them desireable and motivates collecting and game-playing with them; different things will have different mechanics; some will be better or more valuable than others; others will just do different things and different kinds of players will want to get them for different reasons based on their own desires or way of playing the game or the way they want to play with this mechanic [can get more abstract fun by playing with certain kinds of things that utilize and focus on different components of this mechanic or engage with it in different ways; all determined by the player's desires] 
+- I will [achieve my ultimate satisfaction/[ryku]] by acquiring/collecting objects I [abstract want and enjoy abstract-playing with] based on their interactions with these mechanics and then game-playing with them by playing/using them in the actual game/game-engine (these data files are part of the game world and have an existence within them)
+	-> objects are these game files
+
+[need to figure out more things to use to describe this, give it all the best things; this will be the ultimate mechanic that will do everything I want and more]
+[any mechanic, including abstract-aynu-mechanics, can be created from this mechanic, especially mechanics dealing with objects, gameplay with those objects, trading, collecting, selling, and general market-economy mechanics, and anything else (ex. sandbox, open-world, MMORPG, strategy, Garry's Mod-like, Rust-like, EVE-like, Neopets-like, Path of Exile-like, Civ-like, EU4-like, and any other game-like, etc.)]
+
+
+
+[note to self: find a word to represent my ultimate purpose/goal/thing that I have always wanted and seek by creating this game; it is the ultimate happiness and permanent satisfaction that allows me to go do other things while feeling satisfied that I have this thing: for now call it "ryku"]
+
+- need to design their structure; similar to a character developer MMORPG and pokemon; basically each file corresponds to a struct; can train the struct and its stats to make it better at things; can collect, trade and sell them
+
+
+--------------------------
+[Actual mechanic description/data/[Iulian]/engine/[Adrion] and implementation; everything needed to fully describe, understand, and encode it; can be fully reproduced from this data; encoded in aynu-code]
+[Develop the collectible game files, their mechanics, data, structure, [Iulian], gameplay, [Adrion], and everything about them ]
+[Develop a system for players to create their own version of the Collectible Game file systems that suits their own desires and the kind of game/game-world/game-things they want and would find ryku by playing and being good at and collecting certain objects in and getting certain things/[Adrion]/states/data/files/game-things/[abstract aynu-game things] in]
+[Develop the actual gameplay, [Iulian], story, gameworld, and all of the other things needed to give the files meaning, [Adrion], value, purpose, [abstract aynu-things], [interesting aynu-theory], [Orpheus], [things], ryku, [abstract aynu-concepts], [concepts], [things], and any other thing; create an immersive gameworld of which these game-file-things are just one thing]
+[these game-file-objects have important purpose/value/[Adrion]/meaning/use/[Iulian]/game-play in the game world, and their precise powers in the game determine the reasons players use them in gameplay and the way they use them]
+
+
+
+[aynu-coded description, game-mechanics, structure, data, things, game engine, [abstract aynu-things], [aynu-things], [aynu-data], [aynu], [Iulian], [Adrion], etc, and anything else]
+
+[Ultimately, I will only be able to express these collectible game files using aynu; write everything about them, including their engine, [Iulian], mechanics, [Adrion], [aynu-things], structure, data, things, etc, and anything else, using aynu-code but with additional english and regular code used to approximate the aynu-concepts expressed in the aynu code and help give an idea]
+
+

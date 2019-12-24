@@ -1,0 +1,18 @@
+The Base types of Mechs:
+
+this is the "pokemon/neopets" like base to Mech game-play. Different types of "basic" mechs which can be developed and built for any game-play role. Each has their own set of stats, possible things it can acquire, paths of development, special data things and attributes, abstract aynu-things, and much more.
+
+
+[Name]: Dracolith
+[Base stats]:
+	[power-thing]
+	[stat]
+	[thing]
+	[Sockets]: lvl 1: 5
+		   lvl 2: 1
+[Info]:
+	[special thing]
+	[power]
+	[special effects]
+[aynu-things]:
+	

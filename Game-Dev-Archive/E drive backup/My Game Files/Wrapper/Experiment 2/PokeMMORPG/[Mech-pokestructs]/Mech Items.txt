@@ -1,0 +1,59 @@
+Items:
+
+
+[Thing]:
+[Type]:
+[Descr]: (description)
+[Effect/Power]: (does things in the game)
+
+
+
+[Mech-cannon]:
+
+
+
+[Random Items]:
+[Type]:
+[Effect]: [Random]
+
+
+
+[Grappling hook]:
+[Type]:
+[Descr]: Used to scale tall obstacles
+
+[Web-Shooter]:
+[Type]: Utility and Weapon
+[Descr]: Create webbing to coccoon targets or create web lines to swing.
+
+
+[Cyclone]:
+[Type]:Skill
+[Descr]: Generate a cyclone to suck in and defeat your foes.
+
+
+
+[Absorption Tube]:
+[Type]:
+[Descr]: Can bind and consume/absorb and suck in a target
+[Effect]: - absorb foe
+          - gain their powers
+
+
+[Socket Extender]:
+[Type]:
+[Descr]: Adds an extra socket
+[Effect]: Takes up one socket, adds two
+
+
+[Great Object]:
+[Type]: [Greatest]
+[Descr]: [Greatest]
+[Effect]: [Greatest]
+[thing]: [Greatest]
+[Aynu]: [Greatest]
+
+[Asphodel]:
+[Type]:
+[Effect]: [Anything]
+[thing]: [Anything]

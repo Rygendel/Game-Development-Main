@@ -1,0 +1,65 @@
+Character Name: Sirion
+Character Class: Mage
+Base Stats: 
+
+Health:
+Attack Power:
+Spell Power:
+Intellect:
+Physical Resistance:
+Fire Resistance:
+Nature Resistance:
+Frost Resistance:
+Dodge:
+Will:
+
+
+
+
+
+
+
+
+
+
+
+Gear:
+-----
+
+
+
+
+
+
+
+Inventory:
+----------
+
+
+Item Name:
+Quantity:
+Information:
+Notes:
+
+
+Item Name:
+Quantity:
+Information:
+Notes:
+
+
+Item Name:
+Quantity:
+Information:
+Notes:
+
+
+
+Pets:
+-----
+
+
+Pet Name:
+Stats:
+Information:
+Notes:

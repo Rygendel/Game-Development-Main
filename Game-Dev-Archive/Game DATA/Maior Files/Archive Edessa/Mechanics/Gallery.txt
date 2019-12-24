@@ -1,0 +1,4 @@
+Gallery:
+
+
+Galleries are locations where users may safely store and showcase their special collections of items. Each user may own a gallery.

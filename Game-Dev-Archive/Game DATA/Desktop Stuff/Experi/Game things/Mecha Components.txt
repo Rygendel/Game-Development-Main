@@ -1,0 +1,56 @@
+Liger Claw Blades:
+Descr:
+Image:
+Game: - adds the ability to perform special attacks. Unique to Ligers
+
+
+
+
+
+
+Treasure Seeking Apparatus:
+Descr: Improves the ability of a mech to discover rare loot.
+
+
+
+
+Game-World Creator:
+
+
+
+
+
+
+
+Hyperdrive Engine
+
+
+
+
+
+
+
+Vastel
+
+
+Magon
+
+
+
+
+Megara Core
+
+
+[Aynu-thing] Creator
+
+
+
+
+[resource]- extractor
+
+
+
+[civ-empire] Management Unit
+
+
+[object]- Production Core

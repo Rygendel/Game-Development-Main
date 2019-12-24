@@ -1,0 +1,15 @@
+Struct Management/Development mechanics:
+
+Mechanics for managing your Empire Struct:
+
+[Struct Managers]:
+
+
+
+[Special Currency]: (used to purchase things/actions/do/be/help/manage for the empire)
+
+
+[Special Resources]: (used to support various components)
+
+
+[Aynu-described mechanics]

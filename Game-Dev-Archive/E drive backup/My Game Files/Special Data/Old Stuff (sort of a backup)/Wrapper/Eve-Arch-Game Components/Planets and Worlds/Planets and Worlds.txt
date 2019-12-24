@@ -1,0 +1,3 @@
+- different celestial bodies that players can control and use
+- often part of a star system or other cosmic system
+- players can also build megastructures

@@ -1,0 +1,6 @@
+(write code for game using aynu-things/symbols/code)
+-----
+[Aynu][Aynu]:
+
+
+[aynu-code]

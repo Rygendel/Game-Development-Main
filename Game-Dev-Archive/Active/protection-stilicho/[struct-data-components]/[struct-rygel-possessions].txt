@@ -1,0 +1,10 @@
+[Complete description and implementation of [Struct-Rygel-possessions] and their game-mechanics/systems/code/writing/things/types/powers/[aynu-things]/[aynu]/[aynu]/.../[more to develop]]
+
+
+[These are [abstract-transcendental-aynu-theory-item-things] that can be given to structs to give them [abstract-aynu-theory-things]]
+
+[they work like items/Rygel and have all of their base mechanics/systems/things]
+
+[encode everything about them using pure aynu-code/writing with special structure and format and symbols]
+
+[these work like items that can be given/equipped and removed from the struct: it can use/have the items and gain/use/have/possess/be/[aynu]/[aynu-theory-concept]/.../[more to develop] things/powers/[abstract-transcendental-aynu-things]/[aynu]/[aynu-things]/[game-dev-things]/.../[more to develop] from them in the game when possessed/equipped]

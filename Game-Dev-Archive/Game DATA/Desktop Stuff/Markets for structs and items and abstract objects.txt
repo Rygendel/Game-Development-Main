@@ -1,0 +1,3 @@
+[Markets for structs and abstract objects]
+
+[Develop using pure aynu theory and code] 

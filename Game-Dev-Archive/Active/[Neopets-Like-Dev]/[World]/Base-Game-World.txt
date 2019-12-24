@@ -1,0 +1,4 @@
+- can include different kinds of worlds/game-universes and the ability to transfer things between them
+- can include Neopets-like map, space exploration, or Illyriad-like tiled map with things on it
+
+- can include a fully 3D world like World of Warcraft or most other MMOs where the player can use a 3D character to walk around and do anything they can do in real life (like "Second Life"/"Virtual Reality")

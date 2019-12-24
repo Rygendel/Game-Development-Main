@@ -1,0 +1,42 @@
+There are any different types of resources and currency. They can be used/spent to make things, purchase things, get things, get [Adrion], develop things, do things, [game-things], and virtually anything else.
+
+Resources or currency may be required for certain things, for certain recipes, or certain formulas.
+
+May need certain types of currency to buy certain developments.things/[adrion] or do certain things.
+
+Resources may be required for a recipe to make certain things/[adrion] or to trade for them or used in some other way to get certain things/objects/adrion/game-things.
+
+- some resources and currency are used for certain mechanics/models/systems/formulas/[Iulian]
+	- ex. administrative points can be spent to develop/administer your civ-empire in the Civ-empire building game
+
+- some resources/currency can be earned in one mechanic/model/system/formula/[Iulian], and spent in another
+	- some are earned and spent within the same mechanic/model/system/formula/[Iulian]
+		ex. - Crafting resources can be farmed from the game world, and used in the crafting mechanic
+		    - icons are generated and spent in combat; they do not persist outside of it
+		    - Energon can be acquired outside of combat and spent for combat things
+
+- most resources are persistent; some are generated temporarily and disappear if unused (ex. icons)
+
+
+
+----------
+Types of Currency, their uses, and mechanics
+
+[Aurelius] :: The most precious type of resource. Can be used to do anything, satisfy any kind of desire/want. Players will want to acquire as much of this as possible. Can be spent to do anything in the game. Is an abstract store of [abstract wealth]. Always has value. The more you have, the more [Ryku] you are and the more [abstract aynu-concept]. Can only be fully decribed using aynu: [aynu][aynu][aynu][aynu][Ryku][Ilion][Aurelius]
+
+[Aria]::Universal Currency/Resource. Can be used in place of any other kind of currency/resource at a rate of 1:1.
+
+[Woddan] :: Basic raw resource used for crafting. Analogous to wood. Easy to shape and mold
+
+[Lithia] :: Similar to hard stone. Used for crafting
+
+[Styria] :: Raw resource for crafting. Analogous to steel. Extremely strong, holds shape once forged. Malleable, ductile, sculpable.
+
+[Mythos Points] :: 
+
+
+[Dev Points] ::
+
+[Adventure Points] :: 
+
+

@@ -1,0 +1,25 @@
+Combat determinants:
+
+Tentative mechanics:
+
+There is a mixture of Warcraft's inflating scale of combat to Neopet's fixed scale. This may be changed later. Most weapons, abilities, items, and objects are fixed in their contributions and scale. Hence these combat items and abilities have fixed utility.
+
+ Meanwhile, body armour and player stats and innate factors can increase with expansions, and over time, resulting in some amount of inflation in the scale of combat.
+
+
+The highly complex system of both character, ability, stat, talent, skill, items, weapons, and armour allows for a high degree of customization of combat. This means that players are extremely flexible in terms of strategy and gameplay. Abilities and actions can be customized to a significant. Items can be used, adding another layer of strategy.
+
+- abilities and actions can be learned and customized as players level and progress through technology and knowledge trees
+- limited amount can be learned and used, players have to choose wisely and earn the ability to learn and use them
+- abilities and actions can be modified using special mechanics
+
+- items can be acquired, stored in bag and used during combat
+- these are distinct from armour and weapons carried directly on the character
+
+- skills and talents are additional traits that can affect many things regarding the game, not just combat
+
+- azralon (abstract aeonar) is an additional factor innate to characters that can affect many components of the game 
+
+- daelon (abstract aeonar) is a factor innate to characters that can affect many things regarding the game
+
+- character stats are used to determine the effects of many things, including abilities, weapons, items, skills, and more

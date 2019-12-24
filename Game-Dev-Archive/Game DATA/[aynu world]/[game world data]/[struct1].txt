@@ -1,0 +1,5 @@
+[aynu struct]::
+{
+[formatted aynu-code goes here]
+
+}

@@ -1,0 +1,46 @@
+- the ultimate class of game-structs that do everything I want them to, and make me happy and game-play-fun-satisfied, and give me all the [abstract-aynu-things] I desire/want, and achieve everything I desire and achieve all of the game-play things I want
+- [thing that I want that I achieve by giving myself and possessing structs in this class]
+- [more things that I want that I get by possessing some of these structs]
+- [the game-model-system interactions of the structs in this class that I want will be enough to ensure the greatest game-play-fun-happiness is had by their possessor/user, and are therefore the most valuable/greatest/[abstract greatest/most valuable] things in the game]
+
+-ultimately standard words are sufficient and I will need to encode everything in aynu, and I need to create the things I want with the aynu-code-things I want and need to decide how to determine which aynu-things I want and transcendentally desire/game-play desire and will make me abstractly game-play-happy-good]
+- the aynu will be able to encode anything anybody could possibly want or think of for the game, and everything I want or think of or think is a good idea for the game will be encoded in the aynu
+- all game things can and will be encoded by the aynu, and this will include a wide range of game-things, including things that may not be as good/useful/valuable as others, or good for different things
+
+- there will be many different kinds of megas, with different properties/reasons/purpose/value/things/uses for players to want them
+- there will be a small subclass of them that I desire; and a small subclass of them that are among the greatest and most powerful things; the rest vary in many different things
+- need to encode them using aynu in an aesthetically pleasing way; design a nice "megas info sheet" giving all the different components of each megas that determine its game-play-things
+
+
+- need to do the following: create an overall description of the struct class and game-system/world/reality, including mechanisms for combining/developing them as well as long-term, indefinite-term/continuous/open growth/development gameplay: do this using aynu
+- design the game-engine that implements the game and structs: using aynu
+
+- design a nice format for the data-sheets
+
+- create actual structs/game-things/game-components with their base-data-components already determined and possibly with some other game-data-component-things determined/created; give myself the game-structs I desire, partially developed and with further data to indicate the system/possibilities for long-term development and how to get there; outline any information I desire about long-term development/gameplay
+
+- mostly use aynu
+
+- also make them among the greatest, most valuable, and most powerful structs (in particular the structs I want and give myself); In particular the structs I want and give myself will be among the most powerful, valuable and desireable, and will be among the greatest stores of wealth and abstract-wealth in the game; is one of the most expensive things in the game; possession of the object alone is enough to guarantee you are the wealthiest player in the game
+
+- give them the "ultimate desired description/code/properties/things" (add more on this later; ultimately can only be described with aynu)
+
+
+- actually spend less time desribing them; just create them and the game-world/game-engine and game-model-systems and give myself the best and most desireable/greatest things that I want according to the game-system-world-model; ensure I create things I want in a way and for reasons that transcends description but are determined by the game-play-world-systems-model-mechanics, anbd then give them to myself
+
+- create things that I want because of the game/game-things/game-engine/gameplay/game-fun-play/world/system/model and give them to myself
+
+- an object's game-things are determined by the game and in particular its game-play engine; this determines what objects players try to acquire and what game-things they can do with them
+
+[An example of some of the "best description/text"]:
+
+Also need to create "greatest desired descriptions": texts/code that describe/encode/implement the objects that I desire for myself and wil be among the best, most valuable/powerful/desireable/greatest objects in the game and make the owners the wealthiest and most game-fun and game-best players in the game, and achieve the game-play-best things in the game. They will be unique, and I will possess them.
+-> in essence, these descriptions will create the "best items/things/game-structs" in the game that I will give to myself -> they will be items, Mechs, and the best of them will be Megas.
+-> these descriptions/code will, when attached to a game-struct, be the ultimate thing I want
+-> [they will do the ultimate, freest things]
+-> these codes/texts will do [aynu-encoded-thing]
+-> some of these texts/code will be in aynu, but will still be among the the greatest/most-powerful/valuable objects/structs in the game (aynu-encoded objects can vary greatly in terms of their game-effects, powers, value, utility, properties, attributes, things, essence, game-play, game-things, game-system-models, and anything else)
+
+
+
+- [ add more of the best descriptions/text here as I come up with them, take them from different sources]

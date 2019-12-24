@@ -1,0 +1,12 @@
+- create symbols for encoding aynu and find a word processor that I can use to write documents using them
+- create files to encode the game-systems, mechanics, and game-dev that apply to these objects and everything needed to give them fun game-dev and game-play (and the pure aynu-versions of these concepts)
+	-> these files are then used to interpret the individual game-object's aynu-code in the game and gives it all of its game-things, [aynu], [Iulion], [Adrion], properties, game-powers, [aynu-game-things], [aynu-game-dev], [aynu-gameplay], [aynu-game-things-[aynu]], [aynu]-[game]-[things], and anything else about the object in the game
+...[more to write and do]
+	-> include a file for each game-stat and aynu-game-stat: each such stat/data can give the object some kind of game-things, [aynu], [Iulion], [Adrion], properties, game-powers, [aynu-game-things], [aynu-game-dev], [aynu-gameplay], [aynu-game-things-[aynu]], [aynu]-[game]-[things], or anything else about the object in the game, and these files provide the game code "engine" that determines what the actual value of the stat does for the object and what kind of game-things, [aynu], [Iulion], [Adrion], properties, game-powers, [aynu-game-things], [aynu-game-dev], [aynu-gameplay], [aynu-game-things-[aynu]], [aynu]-[game]-[things], and anything else about the object in the game that stat value gives the object
+.
+.
+- design format for game object data sheet
+actually create
+
+
+[copy stuff from previous development efforts for the ultimate aynu-coded things and ultimate things I want from game-dev/[aynu-game-development]] 

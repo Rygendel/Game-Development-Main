@@ -1,0 +1,34 @@
+- Create Game System: item/struct/object/thing value
+- Item/struct/object/thing value is determined by many factors, expecially their usefulness in game-play and any other game-play things, but also by special factors (like combat usefulness) and aynu-factors.
+
+
+- Create Game System: Item/struct/object/thing mechanics/model/system/game-things
+- Create the game engine, game-things and implementation of items/structs/objects/things/game-things and their models/systems/game-actions/game-things/mechanics/game-existence/game-[everything] using special code and aynu
+
+
+- create the game system to manage different types of structs, including their format, game-play styles, combat, desireability/game-desires, game-things, game-interactions, game-inventory, game-world-effects, and anything else I can come up with/want; come up with ways to expand/develop both structs and their game-play and game-things; come up with different mechanics for struct development/crafting; structs can have any sort of mechanics added to them; develop mechanics for the rules/game-laws/constraints governing struct interactions and game-play/effects, as well as rules specific to each class of struct
+
+
+- create game system: Struct combat/competition/Game-play-battles:
+- create the game-system/models/mechanics and engines that determine and implement combat/competitions/battles/game-play between different structs. A struct's usefulness/power/goodness/greatness/viability in a game-play-battle is determined by a number of factors and systems determined and implemented by the game-play-engine, and by its interactions with them. These factors (that determine how game-play battles work and how structs perform within them) and the theory/mechanics/formulae/model behind them are outlined in files describing the game-play system
+
+- a struct's viabiity/power/skill/things in a particular type of game-play battle are determined by its interactions and effects with the game-play-battle's engine/system/model
+
+- there are many different types of game-play battle systems such as turn-based civ-empire strategy, real-time strategy/dev (like Illyriad/Distant worlds), turn based pokemon/neopets style battles, real-time combat with many factors (like Path of exile), and many other types of systems/models, including abstract aynu-developed/encoded systems.
+
+
+- create game-play system: Game-world/reality
+- create a system and engine which implements the game-world and reality, including its laws, they way different objects in the system can interact, and any other features of the world, including aynu-features
+- allow for roleplaying and relationships, interactions between different players in an open, common, sandbox universe
+
+
+
+-create game-play system: [aynu-system]
+
+
+
+- create game-play system: [...things]
+
+- create things and game-things/systems/models/worlds/[abstract things]/structs/classes/objects/[things]/[...]/[] encoded only in aynu that I want and do everything I want them to
+
+- create things that can do everything on this TODO list

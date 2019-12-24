@@ -1,0 +1,5 @@
+-> account data and basic account structure
+-> game mechanics
+-> game-world
+-> pet-structs and other structs
+-> items and special objects that I desire and want players to try to acquire and collect

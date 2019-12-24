@@ -1,0 +1,95 @@
+- develop better framework for game-development
+
+- develop game world, structures, use neopets/pokemon/Dungeons and Dragons like base for development and adventure:
+
+- game world gameplay/plot/roleplaying freedom/style comparable to D&D/campaigns -> but exist in a persistent world and a fully 3D world -> results of campaigns permanently affect your character/game-account -> can gain valuable/special things from completing certain campaigns
+  - campaigns have special rewards you may be able to get from them
+
+-> add in a neoquest style game-component with rewards
+
+Need to fully develop:
+[Main Game structs/pets]:
+
+[components]:
+
+[stats]: [trainable/developable values that give the struct things]
+
+[possessions/gear/things]: [items/game-things/structs that can be given to the pet-struct which it can then make use of and use its game-things as indicated][these things can be de-equipped and traded/market/economy-mechanics interacted/action]
+
+[abilities/powers/things/[aynu-things]]
+
+[special game-dev-things]:
+
+[aynu-things]: [special aynu-things that have special aynu game-mechanics/systems/things][more to develop]
+
+[story/other/special things/misc/notes/desires/[special-struct-things]/[aynu-imagine-desire-things]/personality/relationships/[anything]/[aynu-any-aynu-thing]/.../[more to develop]/[anything else aynu-imaginable]/[aynu]/[ultimate-aynu-thing]:
+[anything else including special aynu-desires/ relationships, roleplay, game-things, [aynu-game-world-things], [aynu][aynu]-[aynu], and any other things the player wants, imagines/desires/[aynu-imagines/desires/Elysion/[aynu-thing]/.../[aynu]/.../[more to develop]]
+
+[ultimate aynu-thing]:
+
+...
+
+[aynu-free-development]:
+
+...
+
+[more to develop]
+
+
+
+----------------------------
+
+- create multiple classes of structs/[game-things/aynu-data/document-structs] and [extremely aynu-fun/open/complex/game-mechanics/system-detailed/[many other good descriptors/things for gameplay] gameplay to go with them] and create free-form structs with powerful and desireable gameplay to go with them
+
+- allow players to develop their own structs and gameplay to go with them
+
+--------------------
+
+- develop game-coding document and framework for game-development:
+
+  - game coding template and document-structure to allow for the development and coding of any game (can write anything about the game, create things, accounts, components and anything else for the game)
+
+Hyper-rough example:
+
+-------------------------------
+[Game]
+
+[game-component-structure]
+
+[game-data-structure]
+
+[things][things]
+
+-----------------------------------
+|                                 |
+|                                 |
+|                                 |
+-----------------------------------
+
+[data-structure-thing for developing game-component code]
+
+[aynu-code-created game-structure-thing for game-dev]
+
+
+
+[Create [free ultimate aynu-objects] that are stand-alone aynu-game-struct-things that can be integrated into any game and be the [ultimate aynu-things I aynu-ultimate-desire] and [do all of the aynu-ultimate things I desire and have yet to code/develop] and [Aynu-ultimate-things that I have yet to code and is the ultimate goal/desire/[elysion]/[aynu-thing]/[aynu][aynu] thing I want from game-development] and [aynu-more to develop], ..., [more to develop] and any other things I want ( or any other player for that matter) in any game I develop]
+
+- they will stand alone things that will do/be/have/[aynu]/[thing]/[sym]/[aynu-theory-concept] [all the [aynu-elysion] things I want from game-dev that I need to find a code encoding for] in any game that I or anyone else develops 
+  - [they can be made part of any game and do all of the [[aynu][aynu]-things I aynu-desire/[elysion]/[more to develop] ] ]
+
+- basically, create a framework for developing the game-structs and game-things I want to possess and which are the ultimate things that will make me happy and achieve all of my game-dev-goals and [aynu]/Elysion/[aynu-game-dev-things] by possessing them and in theory being able to do anything I want with them in any game, but without the need to develop an explicit game: - I only need to develop the [aynu-game-structs]/[game-things] and a framework/base-document to encode all things about them and their [game-engine/code] that gives them all of the desired things and meaning/[aynu-meaning/things/[powers]/[theory]/[things]/[aynu-things]]/[aynu]/[aynu-game-properties/abilities/[things]/[possessions]]
+
+ - only need to develop things that are directly part of the game-structs and their gameplay/[game-things]/[game-engine/system/mechanics] and nothing else
+
+- can be integrated into any game and any game-dev
+
+- create modular components for games
+
+
+
+
+
+
+
+
+

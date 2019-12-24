@@ -1,0 +1,22 @@
+Need to prepare a system for "finalising" game development documents: these are the documents that can be printed out and stored as a permanent part of the game.
+
+-> Main things I need to print out:
+   -> my account and game data
+   -> objects/Rygel/inventory
+   -> structs
+   -> [the ultimate object(s)/Rygel] and [the ultimate thing I want from game development]
+   -> pure aynu encoding of the game, game-dev, game-world, and everything in it (including abstract game-dev things)
+
+
+- need to begin working on actually doing this (preparing and printing out a core set of documents)
+-> migrate all game files to cloud storage and other media for long term archival
+   -> need to find a good system and medium/means of long term and indefinite archival of the digital data
+   -> use multiple media, at least one of which is cloud storage (store on a company's service that will hopefully keep it indefinitely)
+   -> at least one media needs to be something I control, and one is an external cloud service maintained by others
+
+
+- Begin writing [ultimate game things/objects/rygel/structs] using special symbols/code and using special structures/file-structure/data-structure
+  -> write several different things and types of things that I consider to be the [ultimate things] I want out of the game and which give me [Elysion]/[ultimate desired thing] when I possess them
+  -> encode everything about the game and all my account data and the objects/things/structs/Rygel I hold dear/love and which give me [Elysion]/[Effylion]/[ultimate thing I want out of game-creation and game-dev]
+  -> encodes all game systems, mechanics, structures, features, properties, world, things, [Iulion], [Adrion], ..., [more to develop], ..., Rygel, objects, story, relationships, roleplay, plot, story (and aynu versions)
+

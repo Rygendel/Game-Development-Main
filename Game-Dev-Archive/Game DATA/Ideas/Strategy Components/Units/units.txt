@@ -1,0 +1,3 @@
+- different classes of units
+- can have varying attributes, inventories, skills
+- some can be programmed to perform certain tasks

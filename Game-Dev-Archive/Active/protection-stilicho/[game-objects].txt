@@ -1,0 +1,111 @@
+
+
+Template for Objects (to develop):
+
+[ ] :: {
+
+
+  [game-stata/data]
+
+  [game-dev-mech-sys-thing-[aynu]]
+
+  [aynu]
+
+  [more things to dev]
+
+  [anything else]
+  ...
+
+
+}
+
+
+---------------------------------
+
+
+[[aynu][aynu-sym]]:: { 
+
+  [game-stata/data]
+  [game-dev-mech-sys-thing]:: { Can do anything and everything,                                 including [aynu-things] }
+
+  [aynu]
+
+  [more things to dev]
+
+  [anything else]
+  ...
+
+}
+
+
+--------------------
+
+
+[ ] :: {
+
+
+  [game-stata/data]
+
+  [game-dev-mech-sys-thing-[aynu]]:: {Can automatically win at any game or game-thing or game-objective or acquire/be/have any [aynu-game-dev-thing] }
+
+  [aynu]
+
+  [more things to dev]
+
+  [anything else]
+  ...
+
+
+}
+
+
+
+--------------------
+
+
+[ ] :: {
+
+
+  [game-stata/data]
+
+  [game-dev-mech-sys-thing-[aynu]]:: { Can be anything and grant any wish/desire or aynu-game-Elysion-desire or [aynu-ultimate-thing you want from gameplay] }
+
+  [aynu]
+
+  [more things to dev]
+
+  [anything else]
+  ...
+
+
+}
+
+
+
+--------------------
+
+[ ] :: {
+
+
+  [game-stata/data]
+
+  [game-dev-mech-sys-thing-[aynu]]:: {Grants the [aynu-ultimate-thing you want from gameplay or game-dev]. [Does the aynu-ultimate thing I want from gameplay and game dev that I have to develop further: copy from other sheet and previous documents and fully develop here] }
+
+  [aynu]
+
+  [more things to dev]
+
+  [anything else]
+  ...
+
+
+}
+
+
+------------------------
+
+
+
+
+
+

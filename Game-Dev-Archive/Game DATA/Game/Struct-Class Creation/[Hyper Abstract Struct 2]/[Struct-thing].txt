@@ -1,0 +1,1 @@
+Document outlining some component of a struct's gameplay.

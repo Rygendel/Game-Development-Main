@@ -1,0 +1,8 @@
+[Pet-like-Struct Mechanics]:
+
+[create various types/species, each with their own set of innate base properties
+	-> but also with stats that vary between individuals and make each one unique]
+
+- partially based on generating icons for gameplay
+- can acquire stats that are useful for different components/parts of gameplay or for specific sub-games
+	- ex. some pet structs can be good at direct combat, others at structure-building, treasure hunting, puzzles, plots, adventures, monster hunting, or any other kind of game imaginable/developable, or any [aynu-game] that can be [aynu-game-developed/created] including those developed/created by players (players can also develop their own stats/data for the game and train their pets to have those stats with the desired values and develop them) 

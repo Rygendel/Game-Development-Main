@@ -1,0 +1,33 @@
+[sym][sym]....
+
+
+
+
+
+[sym][sym][sym] [sym][sym][sym][sym][sym]::{
+
+
+}
+
+
+
+var xanarion koriae ho megas eltell ho baeryl in cursus honorum
+
+
+Find a nice way to write values/data for the objects. Also write the code documents used to give them game-meaning, game-things, and game-development. Everything is pure aynu; the game is a pure aynu-game with pure aynu game-dev.
+
+Need to develop object data/stat/thing components, fields, [aynu-term], systems, values, parameters, and meaning.
+
+Need to develop the [thing]/data/stat fields/components/[aynu-term] and their values, systems, meaning, game-dev, etc. May give each component its own document or put them all in one. Will use pure aynu code to develop them.
+
+For example (examples of fields/component/[aynu-term] and their values):
+
+[thing]:: { 9879434 / 89798724 / 32804928 }
+
+[thing]:: var xanarion koriae ho megas eltell ho baeryl in cursus honorum
+
+[thing]:: symbols...with formatting/structure symbols/spacing/things
+
+[thing]:: { [aynu] / [aynu] / [aynu] }
+
+[thing]:: [aynu]... with formatting/structure symbols/spacing/things

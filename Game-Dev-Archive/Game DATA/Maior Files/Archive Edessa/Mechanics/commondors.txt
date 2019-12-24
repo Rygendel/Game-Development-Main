@@ -1,0 +1,5 @@
+Commondors:
+
+can be used on codines, codable objects, sirions, cyonion, cyrenion
+
+if - conditional statement

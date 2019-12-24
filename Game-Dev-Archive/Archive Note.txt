@@ -1,0 +1,1 @@
+This should be the single point of storage for all game-dev files I want to store. A subset folder may be used to indicate printing stuff. However, this should be the ultimate repository for all files to avoid confusion.

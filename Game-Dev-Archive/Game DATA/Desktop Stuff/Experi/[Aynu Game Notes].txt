@@ -1,0 +1,13 @@
+[Aynu]:
+
+(this will form the basis of a wiki outlining the [pure aynu game], and will itself be written in aynu)
+(this will include an encoding and complete description of all the aynu-things, aynu-game-mechanics, and aynu-game systems within the game)
+
+Note 1:
+
+[aynu]...
+
+
+================================
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+================================

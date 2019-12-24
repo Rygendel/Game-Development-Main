@@ -1,0 +1,1 @@
+Outline the game-thing's system, mechanics, structure, data, and interactions with the game world and other things/systems/mechanics

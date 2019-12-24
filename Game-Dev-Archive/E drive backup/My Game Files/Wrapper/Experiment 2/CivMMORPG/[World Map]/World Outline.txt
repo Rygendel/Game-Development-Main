@@ -1,0 +1,5 @@
+Civ-type world outline
+
+- map consists of tiles/nodes that have their own properties; control over these tiles/nodes can be exerted by cities
+- cities can build or develop tiles, exploit their properties, extract resources, place units on, and do many other things with tiles they control
+- tiles can also be used to build or expand cities; which can eventually expand into and make special use of adjacent tiles

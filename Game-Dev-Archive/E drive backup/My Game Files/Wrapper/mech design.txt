@@ -1,0 +1,254 @@
+Can design mechs with any structure, things, models, powers, game-play mechanics, game-structure, game-stats, and anything else.
+
+Can design structs in any format
+
+Can design many different kinds of structs.
+
+Have total freedom in designing structs, can make them be or have anything. 
+
+- each version of each type of mech has its own "Individual values" that are randomly generated, affect the mech's game-play, game-things, and powers, and make different mechs different; can try rng abuse
+
+- include many different stats and data components and restrictions and special data-components (like move or mod pool) to distinguish between different classes
+
+- mechs can have many different formats, structures, models, or schemas to their stats and data components
+	-> though members of a single class of mechs will always have the same format/structure/model/schema
+	-> players can create mechs that belong to a well defined
+
+- [the ultimate description that transcends my ability to put into words, but roughly speaking expresses the fact that you can create any thing, including any aynu-thing, you want in the form of a mech]
+
+- can create, develop, and build mechs according to a schema or class
+- can create "free-form" mechs, where if you can describe it, it's a mech, but those require incredibly rare and valuable objects in order to make them
+- can get the components you need to create a mech that is and does the things you want (eg. build a struct that does something in the game world that you want, create a struct that you can use to play a game that you want or find fun)
+
+- Mechs can be almost anything and there are many systems that can be utilized to build different kinds of mechs
+
+- can craft or develop things like stats, item things (properties that affect interactions, usage, possession, etc of items), powers, appearance and aesthetics/attractiveness/coolness, data, effects, utility, and anything else you can describe.
+------------------------------
+- need to create design general mechanics for:
+	-> acquiring mechs/structs
+		-> initialization
+		-> the actual layout and general structure of each class of mechs/structs
+			-> create a catalogue of all the different types of structs/mechs for each class
+		-> how to create things of a specific class and type
+	-> developing structs
+		-> what kinds of mechanics you can use to develop them, and which classes of structs/mechs cna use which mechancis
+	-> game-play
+		-> for each class of structs, specify the main kinds of gameplay systems it interacts with and can be used for
+		-> outline their "physics" within the game world, what things they can do, their powers, effects, things, [abstract things], and anything else
+
+---------------------
+Some designs:
+[Mech]:
+
+[Data]:
+[things]:
+Seed:
+Vals:   []:
+	[]:
+	[]:
+	[]:
+	[]:
+	[]:
+	[]:
+	[]:
+Stats/things:   []:
+		[]:
+		[]:
+		[]:
+Powers: 
+Effects:
+[Detailed Mechanics/System]:
+
+
+
+Design: - mech based on coccooning foes
+	- mech based on letting you do things in the shared, persistent, open game-world
+	- mech based on consuming and absorbing beings and gaining things from them
+	- mech based on [thing]
+	- mech based on [aynu-thing]
+	- design class of [poke-combat mechs]
+		- has set of compatible components, items (determined by stats), moves, effects, things, etc
+	- design class of [special gameplay genre] mechs
+	- design mech that focuses on gaining different forms it can transform into, each with different powers/things; create a shapeshifting mech
+	- create a breeding mech
+	- create a mech that collects things
+	- create a mech that captures beings and keeps them as pets
+	- design mech based on [description]
+	- design mech: [description]
+	- design a mech that is good at crafting things and doing a wide variety of skill-based tasks
+	- design a mech and a pokestruct based on gengar (that is "Gengar-like"): that is, it is good at "material removal" and "trap and destroy" tactics; can use abilities that can trap and automatically defeat any foe in any type of combat/competition/game-thing/game-activity/game
+
+
+Generic Template:
+
+[name]:
+[meta-data]:
+[descr]:
+[stats - no set collection of stats, contains any and all data needed to completely describe the object and its in-game powers/things]:
+	- [stats and outline, description and construction of mech-data]
+	- [all things necessary to implement and create the struct and its things]
+	- some stats/data can be created specifically to construct the mech
+
+
+
+
+[Item]:
+[stat]:
+[descr]:
+[Effect]: - [mod]
+	  - [mod]
+
+
+
+Simple Mech:
+[Picture]
+[data]:
+[stats]:
+
+
+
+-------------------------------------------------------------
+
+[Poke-Mech]:
+
+[Name]:
+[Species]:
+[Equipped Items]:
+[Picture/Artwork]:
+[Descr]:
+[Txt]:
+[Tags]:
+
+[Type]:
+[Natura]:
+[Char]:
+[Atk]:
+[Def]:
+[Sp.A]:
+[Sp.D]:
+[Spd]:
+[stat]:
+[thing]:
+[Aynu-thing]:
+
+
+[Effects]:
+[Powers]:
+
+[Move-Pool]:
+
+Other Underlying Mechanics:
+
+- meaning and game-function of each stat
+Battling
+Individual Values
+Training/Ev Values
+Type interactions
+Natura
+Item Usage
+- [system name]
+...
+
+--------------------------------------------------------------
+
+[Impera-Mech]
+
+[Leader]:
+
+[Type/Race]:
+
+
+Provinces:
+Each province has a collection of cities, combining cities into provinces gives you extra things like control over some areas
+
+Cities:
+Each city has the following
+
+[City name]:
+
+[City Location]:
+
+[City stats]: -> size
+	      -> automata
+
+[Descr]:
+
+[Txt]:
+
+[...thing]:
+[stat]:
+[stat]:
+[stat]:
+...
+
+[Powers]:
+
+[Artwork]:
+
+[Specialists/Great Automata]:
+
+[Units]:
+
+[Population]:
+	[Breakdown by type]:
+
+[Resource Generation]:
+	[Breakdown]:
+
+[Production]:
+
+
+[Buildings/Developments]:
+
+
+[Artefacts/Possessions]:
+
+
+[Research]:
+
+
+[Great Discoveries]
+
+[Relations]:
+
+[Power projection capabilities]:
+
+[Aynu-things]:
+
+Other underlying mechanics:
+- meaning and game function of each stat
+- [system name]
+- [system name]...
+
+[things]:
+
+---------------------------------
+
+[Abstract great and desireable struct that is transcendentally fun and everything I could ever want]:
+
+[name]:
+
+[things]:
+[  ]:
+...
+.
+.
+.
+
+Underlying Mechanics/Systems
+
+- meaning and game function of each stat
+- [system]
+- [system]
+
+----------------------------------
+[thing]:
+
+
+
+
+
+
+Underlying Mechanics:
+
+- [values and effects of stats]

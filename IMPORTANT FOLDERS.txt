@@ -1,0 +1,6 @@
+These are the important folders:
+
+- Game-Dev-Archive
+- Clean-Game-Dev
+- prep-for-game-dev
+- Models

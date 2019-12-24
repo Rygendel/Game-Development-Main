@@ -1,0 +1,48 @@
+This will specify how players can create the classes of objects that inhabit their world, and later how to create specific instances of them. This will include how to include data that indicates how structures interact with any game-systems or theories/mechanics the player creates in order to create an interesting game using the structs.
+
+
+Mechanics Details:
+	Current idea:
+		- players will acquire special objects, and using special code and by following special actions/recipes, players will be able to craft classes of game-structs, as well as craft the means of creating/catching/possessing/acquiring specific types/instances of these game-structs
+		- players will be able to determine all meta-data about the class as well as systems for the data specific to a particular instance such as type, stats, effects, powers, possessions, things, [special abstract things], special things, etc...
+		- players will be able to create meaningful ways in which members of the struct class can interact with various game systems, including what data-values the game-struct instances may have and what they mean in the context of the relevant game-system, mechanics, and theories/concepts
+		- they can also develop other special mechanics regarding the structs such as "game-world" interactions, trading/market, special powers, [abstract desires satisfied by possessing them], [what types of players will love/want which types of structs], special "hobbies" related to collecting/creating structs, [abstract hobbies/interests in collecting/creating/developing certain kinds of structs], [abstract things related to collecting, possessing, developing, and game-playing/game-role-playing with certain structs], and much more (virtually anything)
+		- [special abstract-aynu things]
+		- [aynu][aynu]...
+		- [raiku][toleressea][pharon]
+		
+		- can develop many different kinds of game-play using the structs and their game systems, including "persistent, permanent open world with freedom to explore and do all sorts of things as one sees fit, including things that transcend our imagination and can only be encoded with the aynu", 
+
+		- examples of gameplays you can design include MMORPG, persistent strategy/civilization/structure/system-building (like illyriad, neopets-habitarium), Neopets-style-persistent-account-development (with many different aspects such as developing your pet-structs, [...]-structs, ,home-structs, shop-structs, [any type]-structs or any kind of [things]-struct, acquiring items/things you desire, and participating in plots/events, special games, constantly-added-new-features with any kind of mechanics/things, participating in contests or special games/events/things which can give you special rewards for certain things, developing collections, exploring the world, newly-developed-things, participating in competitions/activities/hobbies/[arts-stories competitions], roleplaying/adventure, [constantly added things to achieve/do/acquire/compete], [aynu-things], [abstract things beyond understanding; encoded in aynu], [things], etc)
+		- most things are itemized, can develop a fully working economy with free trade/exchange
+		- can develop game-state, computation-engine
+
+
+
+
+
+
+ex.
+Basic extendible struct:
+
+<struct class> [struct] {
+
+	[data-class tag] < relevant game-systems/mechanics data > :: { 
+	[data values, which indicate and endow it with game-attributes/stats/things and any other data relevant to determining the struct and giving it any game-things it has, its "essence" or any other things about it, possibly including sockets/places for further development within the context of the game-systems/mechanics/theories/concepts] 
+	[this data makes up and determines/creates the struct, and in fact "is" the struct, the struct is the data-structure and is made up from the data in the same way a person is made up from cells or any object is made up from atoms and everything about them determined by them and their structures]
+	[the structure and presence of the data and their interactions with the game-systems/mechanics determines the object and "makes it" in the same way atoms make up an object and their structure determines it]
+	[there are also many other things to the struct data that transcend mortal description and imagination and can only be encoded using the aynu: I have tried my best]
+	[the ultimate abstract things, encoded in aynu]
+	[encode the things I want that go beyond anything I could write in words, using the aynu]
+	[anything else I want]
+	[anything else desired, that go beyond mortal description]:
+	[aynu][aynu][aynu]
+	[raiku][azrafel][tyrael][tyrion]
+	[more things about the struct data as I come up with them, compile earlier work]
+	
+
+	}
+			
+
+
+}

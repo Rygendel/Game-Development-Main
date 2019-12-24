@@ -1,0 +1,229 @@
+How to Build Structs: An outline
+
+Generic Struct
+
+- used to build systems of structs
+- used to specify the nature of the structs themselves, the things they interact with and the things used to build them
+- specify the properties, uses, desireability, value, meaning, purpose, [transcendental things], anything, of the structs
+
+Components:
+
+----------------------------------
+[Concepts]:
+
+(can use aynu-concepts to describe these)
+
+----------------------------------
+[things]:
+
+[Descr]: [aya][aya][aya]
+
+[List]:
+
+----------------------------------
+[Building Structs]:
+
+
+----------------------------------
+[Construction Mechanics]:
+
+
+----------------------------------
+[Game Mechanics]:
+
+
+----------------------------------
+[World Interactions]:
+
+
+
+----------------------------------
+[Rarity/Value]:
+
+
+
+----------------------------------
+[Powers]:
+
+
+
+
+----------------------------------
+[transcendental things]:
+
+
+----------------------------------
+[Desireability]:
+
+
+
+----------------------------------
+[Collectibles]:
+
+
+
+----------------------------------
+[other things...]
+
+
+
+
+-----------------------------------
+[Special Mechanics]:
+
+
+
+-----------------------------------
+[Items]:
+
+
+
+-----------------------------------
+
+
+
+The structs themselves can't truly be described or comprehended other than through their aya-data and aya-structure. We can describe how they are built and what they are using the aya.
+
+Examples:
+
+[thing] {
+ > [aya] [aya] [aya]
+ >       [aya] :: [aya]
+ >       [aya] > [aya]
+    >> [aya] [aya] [aya] [aya] [aya]
+    >> [aya] [aya] [aya] [aya] [aya]
+    >> [aya] [aya] [aya] [aya] [aya]
+    >> [aya] [aya] [aya] [aya] [aya]
+ > [aya] - [aya] - [aya]
+ > [aya] / [aya] / [aya]
+ > [aya] [aya] [aya] [aya] [aya] [aya] [aya] [aya] [aya] [aya] [aya] [aya] [aya] [aya]
+...
+
+}
+
+
+List of major formats:
+
+- [class]::[aya][sym][aya][sym][aya][sym][aya]...
+
+- [aya][aya][aya]...
+
+- [aya][sym][aya][sym][aya][sym]...
+
+List of examples:
+
+<class> [name] {
+
+[[Valens][Sareon]]::[Varus][Ouronos][Kalimon][Artorias]
+                           [Rygel][Hydraemon][Syleyn]
+                    [Dionos][Synarius][Katrinae][aya][aya]
+                    [aya][aya][aya][aya][aya]
+                    [aya]::[aya][aya][aya][aya]
+
+[Alexios]::[Effelion][Artorias][Coronis][Holosyn][Alexiad][Ryu]
+           [Adrion][Leithian][Endza][Asha]
+                  [Eos][>][aya][aya][aya][aya]
+           [aya][aya][aya][aya][aya][aya]
+	   [aya][aya][aya]
+	   [aya][>>][aya][aya][aya]
+           
+[Exark][aya]::[aya][aya][aya][aya][aya][aya][aya][aya][aya]
+
+[[Saida]::[Eredar]::[Acheron][Dionos]]::[Arkon][Eros][Saron]
+
+[[aya][aya][aya]][sym][aya][aya][aya][aya]
+
+[aya][aya][aya]::[aya][aya][aya][aya]
+[aya][aya][aya][sym][aya][aya][aya][aya][aya][sym][aya][aya]
+[aya][sym][aya][aya]
+
+
+[[aya][aya][aya][aya]] [sym] {
+::[aya][aya][aya][aya]
+::[aya][aya][aya][aya][aya]
+::[aya][aya][sym][aya][aya][aya][aya][aya]
+::[aya][aya][aya][>][aya][aya][aya][aya]
+::[aya][aya][aya][aya][aya][aya]
+:::::::[aya][aya][aya][aya]::[aya][aya]
+::[aya][aya][aya][aya][sym]
+[sym] }
+
+}
+
+[sym]
+[aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya]
+[aya][aya][aya][aya][aya][aya]
+[aya][aya][aya]
+[sym]
+
+(abstract class) [ -- ] {
+  
+  [thing]
+
+  [thing] <abstract class/descriptor info> :: { specify more here }
+
+  [thing] :: {possible abstract things}
+
+  [thing] :: {possible standard description, like it generates resources or makes something or does something good/desirable or is good/desirable in some way, has some property/thing, or something more}
+
+  [thing]:: {some things that it has, like Tyrions}
+
+  [thing]:: {programmed stuff, encoding, and system specification}
+  
+  ...
+
+  Summary Aya-values (like stats):
+  [thing] : [single aya] > [num] > [sym/num]
+  ...
+
+}
+
+
+Encoding Syms:
+(no description possible, adding words would only make it worse)
+(can't be described by mortal words)
+(used to build structures and objects, comes after ::)
+(basic things used to give meaning to all other things)
+(merge with catalog of aya)
+--------------
+[Eredar] (descr?)
+[Adriel] (RARE - abstractly good transcending comprehension)
+[Azrafel]
+[Rome]
+[Arkon]
+[Effelion] - (Greatest and most innately desirable, better than cute/hot girls)
+[Turalyon]
+[Anarion]
+[Rochelle]
+[Adrion]
+[Rorenos]
+[Isilya]
+[Dion]
+[Kadmos]
+[Julian]
+[Isilien]
+[Ioann]
+[Aurelius]
+[Nerva]
+[Hadrion]
+[Tyrael]
+[Tori]
+
+[Eru]
+Info:
+
+[Elu]
+Info:
+
+[Aylia]
+
+[Aryon]
+
+[Orpheos]
+
+[Avalon]
+
+[Alexios]
+

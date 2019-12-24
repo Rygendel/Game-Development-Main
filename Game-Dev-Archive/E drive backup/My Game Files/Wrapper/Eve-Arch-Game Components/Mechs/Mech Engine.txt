@@ -1,0 +1,13 @@
+import library-mech
+
+
+
+
+[aynu-key] [aynu] (aynu, aynu, aynu) : {
+	for aynu in aynu:
+		aynu.aynu.aynu = aynu -> aynu
+		aynu::aynu(aynu) | aynu
+
+
+
+}

@@ -1,0 +1,20 @@
+Neopets-like Characteristic:
+
+Can own home, and some of the non-battle oriented features.
+
+
+Uses some stats such as:
+
+Intelligence
+
+Creativity
+
+Dexterity
+
+
+
+Creating things:
+
+Can create things auch as codines and pursue professions.
+
+Things created can be used in a variety of places.

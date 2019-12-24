@@ -1,0 +1,10 @@
+List of points/currencies/resources, and the things they can be used to buy/acquire/do/[things that can be done or goals/objectives/things that can be advanced]
+Also how they can be acquired.
+
+-------------------------------------
+
+[currency1]:
+
+[resource1]:
+
+[points1]:

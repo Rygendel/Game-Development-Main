@@ -1,0 +1,200 @@
+[Pet-Struct]-Mechanics/Systems/[Game-things]/[aynu-versions] Development:
+-------------------------------------------------------------------------
+
+[may end up copying this into the [pet-structs] main notes file, to ensure everything is ultimately kept in one file for easy printing out, which I need to do eventually]
+
+[develop a markup language for describing everything about the pet struct
+
+	-> describe and develop their (aynu) game-play/systems/mechanics/properties/things/[Iulion]/[Adrion]/[aynu]/[game-world-things]/[aynu-game-dev]/dev/.../[more to develop]
+]
+
+-----------------------
+System for developing and game-developing game things/play/systems/mechanics (and aynu-versions):
+
+[name and meta-data] {
+
+	[background context/data/description]:: {
+		- include any basic setup and framework files to establish the platform on which this thing is built
+		- can include library-things/references which allow you to import data/structs/mechanics/systems/things/game-dev/code from other things
+		- add any other things
+		[...more to develop...]
+
+	}
+
+	[active components/things]::{
+		- these are the main active code/data/things that create and implement the thing
+		- can use many different code styles
+		- can write/code anything necessary here to create and game-dev anything related to anything in the game
+		- can use this to develop [pure aynu-things] using [pure aynu code/systems]
+		- can include data, instruction code, methods, functions, and anything else required to create the system/mechanics/game-dev-thing
+		[...more to develop; I need to actually focus on fleshing this out and then using it to create things...]
+		
+		- use some inspiration from coding languages, including groovy/javascript/JSON
+		
+		{ Need to write some of the main coding styles here:
+
+			{[Pure aynu coding:: [aynu][aynu][aynu]...[more to aynu-develop] ]}
+		}
+
+	}
+
+}
+
+example (to develop):
+
+[thing] {
+
+	[platform] {
+
+	}
+
+	[code thing 1] {
+
+	}
+
+	[game dev 1]:: {
+		[code]
+
+		[function call] ( [param] : [value] |
+				  [param] : [value] )
+	}
+	
+	[data values 1]:: {
+		[data] [data]
+		[data] > [data]
+		
+	}
+
+}
+
+concrete:
+
+(to develop)
+(package these into code files and make them into code repositories)
+
+[Iconos] {
+
+	(basic outline (replace with actual game-dev): to do things, support items/gear/things,
+	to be able to use/[aynu]/[game-play]/[game-world-thing]/[abstract aynu-theory-concept]/[more to develop] items/objects/Rygel/[Adrion]/[aynu]/[aynu-thing]/[more to develop], use special abilities, stats, data, powers, ..., [more to develop], ..., or anything else in gameplay, game-dev-things, [aynu-game-dev-things], [aynu]-game-mechanics/systems/features/things, [Iulion], [game-world-things], [aynu], [aynu-aynu], thing-[aynu], ..., [more to develop], ..., (or aynu-versions), you need to generate enough icons of the right types; the "basic resource of gameplay, game-mechanics, game-systems, game-dev, [aynu-game-dev] and everything about the game")
+
+-> icon generation can be part of the basic stats of a [pet-like struct] (which can be improved and developed) and modified by items, gear, abilities, powers, ... (anything in the game really)
+
+}
+
+----
+
+[Pet data/stat mechanic 1] {
+
+}
+
+----
+
+[[aynu pet-like]-[struct] aynu-mechanic/game-dev-system 1] {
+
+}
+
+-----
+
+[ [aynu pet-like]-[struct] development kit/mechanic/system ] {
+
+}
+
+----
+
+[ [aynu pet-like]-[struct] game-world-dev/interactions/game-things/[aynu]/[aynu-game-things] ] {
+
+}
+
+---------------------
+
+[aynu-pet-like struct and items, structs, things, Rygel, objects, [aynu], [Adrion], [pet-like-structs], [aynu-game-structs], [aynu-pet-like-structs], [the aynu-ultimate [aynu-thing]...[from aynu-game-dev]...], and many other things and [aynu-game-dev-things] :: treasure/pokemon-go-hunting mechanics] {
+
+- develop a kind of treasure-hunting mechanic that encourages players to go out into the world and explore and try to acquire and capture items, structs, things, Rygel, objects, [aynu], [Adrion], [pet-like-structs], [aynu-game-structs], [aynu-pet-like-structs], [the aynu-ultimate [aynu-thing]...[from aynu-game-dev]...], and many other things and [aynu-game-dev-things]
+	-> can try to find and get/capture the rarest and most powerful things and train them up and make them more powerful for use in special [Iulion], [aynu], [game-play], [aynu] game-mechanics/systems/things, and many other game-dev-things (or aynu-versions); can collect them and trade/sell them with others
+
+}
+  
+
+-------------------------------------------
+
+[more to develop]
+
+[develop mechanic/system here: include everything to fully describe and implement the mechanic/system:
+  -> can plug this mechanic into the [pet-struct-system] either minimal or no code required to plug this mechanic into the pet-struct
+
+
+[also need to create a full system for the [pet-struct] to allow me to develop all of the items, universe, mechanics, entities, characters, story, roleplay, multiplayer, interactions, game-play-[aynu], [aynu-game-story-character-entities-relationship-universe-roleplay], Rygel, things, objects, (aynu) game-play/systems/mechanics/properties/things/[Iulion]/[Adrion]/[aynu]/[game-world-things]/[aynu-game-dev]/dev/.../[more to develop], and any other game-things or [game-dev-things] or [the aynu-ultimate [aynu-thing] I [aynu]/want/desire/[Elysion] from [aynu][aynu] game-dev-creation [aynu]...] for it and build these things up around it and for it in the game-world]
+
+
+- need to setup the pet-struct development environment and documents in such a way that I can easily upload it to an external storage, and easily print out all of the most important documents about [pet-structs] with enough meta-data to preserve the folder/file structure  
+
+- need to work on ensuring that all of the most important documents I care about and desire can easily be printed out and have all of their file/folder structure contained in the printed document for long term storage
+
+- combine all notes about the [pet-structs] into a single document that can easily be printed out; also create an account sheet that will hold all of my account data:
+
+[create a single sheet for the [aynu-ultimate [aynu-thing] that I desire/[aynu]/want/[Elysion] [aynu] out of [aynu][aynu][aynu] [aynu][aynu] [aynu]-game-dev-creation [aynu] [aynu]...[more to develop]] that contains all the [game-dev], items, universe, mechanics, game-play, game-systems/data, game-properties, game-features, entities, characters, thing-[aynu], [aynu], [aynu-game-dev-things], [aynu-objects/things], [aynu][aynu], story, roleplay, multiplayer, interactions, game-play-[aynu], [aynu-game-story-character-entities-relationship-universe-roleplay], Rygel, things, objects, (aynu) game-play/systems/mechanics/properties/things/[Iulion]/[Adrion]/[aynu]/[game-world-things]/[aynu-game-dev]/dev/.../[more to develop], ..., [more to develop], and any other game-things or [game-dev-things] or [the aynu-ultimate [aynu-thing] I [aynu]/want/desire/[Elysion] from [aynu][aynu] game-dev-creation [aynu]...[more to develop]] for it and built for it in the game-world using [aynu]-code/values/symbols/writing/data]
+
+
+[aynu][Askalon][Ascaflone][Tyrgon][Azrafel]...
+
+
+
+
+- develop a kind of treasure-hunting mechanic that encourages players to go out into the world and explore and try to acquire and capture items, structs, things, Rygel, objects, [aynu], [Adrion], [pet-like-structs], [aynu-game-structs], [aynu-pet-like-structs], [the aynu-ultimate [aynu-thing]...[from aynu-game-dev]...(the "single sheet" mentioned above)], and many other things and [aynu-game-dev-things]
+	-> can try to find and get/capture the rarest and most powerful things and train them up and make them more powerful for use in special [Iulion], [aynu], [game-play], [aynu] game-mechanics/systems/things, and many other game-dev-things (or aynu-versions); can collect them and trade/sell them with others
+
+
+
+-------------------------------
+
+[aynu-ultimate aynu-thing stuff (the "single sheet" thing mentioned above)]:
+
+-> apply this (stuff below and above) to multiple things in different ways, and also apply it to game-mechanics, game-dev-things, game-systems, game-world-things, and many other things/objects/Rygel/Iulion/Adrion in the game in different ways/schemas
+
+for the [aynu-ultimate aynu-thing]:
+
+- give it code/data/writing that:
+  - allows it to [interact-with]/[game-dev-thing]/[game-world-mechanic-thing]/[game-world-system-thing]/[game-play-interact]/[aynu] any game-things, Rygel, objects, [aynu], [aynu-game-things], items, thing-[aynu], [aynu][aynu], game-mechanics, game-systems/features, ..., [more to develop], and many other things in the best/[aynu-theory-concept]/[most-game-dev-desireable/elysion] way
+
+  - allows it to participate/be-part-of/[game-play-interact]/.../[more to develop] with any and all [game-play mechanics, systems, features, things, Rygel, objects, ..., [aynu], ..., more to develop] in the best/[best good thing]/greatest/[greatest-aynu]/Elysion/most-desire/most-good/high-impera/[aynu-theory-concept]/[aynu-theory-concept expressing the aynu-greatest and most desired/Elysion thing]/[aynu]/.../[more to develop] way possible
+
+- it will also be the best/[best good thing]/greatest/[greatest-aynu]/Elysion/most-desire/most-good/high-impera/[aynu-theory-concept]/[aynu-theory-concept expressing the aynu-greatest and most desired/Elysion thing]/[aynu]/.../[more to develop] thing for players to collect and will be a necessary part of any collection; players will want to collect this thing above all others and its collection-value is infinite
+   -> for 
+
+- allows it to game-play with any game-mechanics/systems/features and be the best/greatest thing at them
+
+- can do and be anything in the game, has all of the [aynu-greatest] things/abilitites/collection-things/properties/[aynu]/[aynu-game-dev-collection-things]
+
+- give it code/data to make it the [aynu-best/greatest/Elysionon/[most-desired-thing]/[aynu-most-elysion/wanted/desired]/.../[more to develop]] at every [aynu-game-thing], [Iulion], game-play-mechanic/system/feature/thing, game-dev-thing, [aynu-game-dev-thing], ..., more to develop, and anything else
+
+- make it the [aynu-best/greatest/Elysionon/[most-desired-thing]/[aynu-most-elysion/wanted/desired]/.../[more to develop]] collectible object; any collection that possesses it is automatically the [aynu-best/greatest/Elysionon/[most-desired-thing]/[aynu-most-elysion/wanted/desired]/.../[more to develop]] and most [aynu-valuable/aynu-rare/aynu-treasure]/[aynu]/[abstract-aynu-concept-expressing-the best possible thing a collection could be/have/[abstract-aynu-theory-concept-thing]]/[abstract-aynu-theory-concept-thing]/.../[more to develop]
+
+[more to develop about this being the best thing in the game at everything, including roleplay, multiplayer game-play, game-relationship-value, and the best thing of any collection and the rarest, best, most-powerful, greates, [aynu-greatest], [aynu], [abstract-aynu-theory-concept-thing] , [Regulus], [ the aynu-ultimate theory-concept expressing a theory-thing that transcends our notion of best or greatest; the greatest thing transcending our mortal understanding or imagination] and most valuable thing to collect (and aynu-versions); allows you to control another player, and many other things]
+
+
+- this is the [ultimate/most-valuable/best/greates/most-desireable/Elysion] thing to collect and makes any collection it is a part of the [ultimate/most-valuable/best/greates/most-desireable/Elysion]
+
+[need to develop more code/writing/game-dev describing and creating how this is the best collectable object, the best/greatest/[aynu-theory-concept expressing the best and most transcendental-des-Elysion thing]/[aynu]/[aynu-theory-concept]/[Escaflone]/most-desire/[most-valuable]/[elysion]/[aynu][aynu]/.../[more to develop] thing at every game-dev-thing, game-mechanic, game-system, game-feature, [Iulion], [Adrion], [game-object], [aynu-game-thing], [aynu-game-dev-thing], [thing-aynu], [collection-thing], [aynu-collecting-thing], [aynu-treasure-thing], [aynu-game-struct], [aynu-gameplay-thing], [aynu-game-pet-like], [aynu-thing-to-train/develop-game-play/competition-thing], ..., more to develop, and anything else (and aynu-versions)]
+
+[aynu code expressing all of the stuff above (about being the best thing at everything and collecting):
+
+[aynu][Salianerva][Regulus][Coronis][Darion][Menegroth][Formenos][Tyrion][Tyrael][Tyrios][...][more to develop]
+
+[more to code/structure/data]
+
+]
+
+- also: I need to give my account the only copy of this thing (the best Rygel-like things that is)
+
+
+
+---------------------------------
+
+
+
+[todo: write things that actually describe and create everything about the game and game-dev mentioned above:
+
+]
+
+[more to create/develop...]
+

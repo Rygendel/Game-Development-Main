@@ -1,0 +1,8 @@
+Struct Data-card: (need to design this format as per the aynu pokestruct file)
+
+[Name]:
+[game-data]...
+...
+.
+.
+.

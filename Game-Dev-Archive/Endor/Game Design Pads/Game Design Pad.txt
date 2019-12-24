@@ -1,0 +1,58 @@
+- write "world engine" which creates a 3D world in which all of the game objects and player's exist and have 3D models. Free to move around and interact with all objects in this world and do anything you want to in this reality. Can do all game-things in this 3D world.
+
+- develop base gameplay; which allows
+
+-includes basic "world-simulator" gameplay where players are free to engage in any kind of thing, Iulion, gameplay, roleplay, etc. in the game world
+
+-develop economy mechanics
+
+- Make Regulus into the "ultimate thing" I want to collect and own. Make it into the ultimate desire object: the thing that I want to possess and that makes me achieve [Elysion]/[ultimate thing I want] when I own it and can gameplay with it.
+
+- make Regulus into the [ultimate thing/Elu/Sylyn/Rygel I want/desire/[aynu-desire]/[aynu-transcendent-want/desire]/[aynu-transcendent-concept]] by giving it [game-things], [game-play-things], [game-world-things], [aynu-game-play-things], [aynu-game-dev], [Iulion], [Adrion], [aynu], [aynu-theory-thing], [aynu-things], [aynu-concept/theory-described things], ..., [more to develop], ..., and many other things that transcend mortal comprehension (and aynu-versions)
+	-> I will give it to myself and possessing/collecting and gameplaying/[doing aynu-game-things with it]/[engaging/[aynu-theory-things] in [aynu]/[Iulion] with it] will cause me to achieve [the ultimate thing I want from life/game-dev]/[Elysion]/[Effylion]/[the ultimate happiness thing I can't describe and which transcends mortal description and can only be encoded in the [aynu]]
+
+
+[write anything else about game-design here]
+
+
+[3D world MMORPG ("Second life"/EvE Online/[Immersive game world/reality]/[New Game Reality])
+
+[Creates a new universe/reality that players can find [transcendentally game-fun] to exist in and gameplay via their game-account][ this reality has its own game-dev and game-system and game-laws/nature/state/[existence-meaning] that creates the game-fun and makes it superior to regular reality]
+
+[find a way to describe the new game-world-reality/universe and what makes it a game, its game-dev, and what makes people want to play the game and game-play in it and engage in [game-Iulion-play] in it][what makes up the game]
+
+
+
+
+
+
+Base Building Design:
+
+(basic idea: develop a base structure that can do things in the game; develop it so that it can do/be/have/[aynu]/[aynu-theory]/[aynu-concept] the things/[aynu-things]/[Rygel]/[Iulion]/[Adrion]/[game-things]/[aynu-game-things]/[game-dev]/[more to develop] you desire in the game
+
+-> your main character is the owner/ruler of the base struct
+
+-> Build and develop a base "struct" > give/[develop]/[acquire]/[aynu-concept]/[aynu-thing]/[aynu-game-play-get/earn] it things/units/object/Rygel/Adrion to make it better in gameplay/[game-things]/[aynu-game-things]/[aynu]/[Iulion] and give it properties, abilities, powers, behaviour, structure, sub-struct, Adrion, [aynu], [aynu-game-things], ..., [more to develop], ... (or aynu versions) and make it better at certain Iulion/[gameplay] and make capable of [game-doing/[aynu-game-concept]] [game-things/[aynu-game-object/rygel]] the player [aynu-game-wants/desires and finds [aynu-ultimate-game-fun/effylion], give it ...
+	-> give it powers/[game-powers]/[abilities]/[game-things]/[game-behaviours]/[aynu-iulion-powers] so that it can do things you like/[desire]/[want]/[aynu-desire]/[aynu-game-want]/[aynu-game-concept-sym4] in the game or be able to achieve/[aynu-game-theory-sym78] certain kinds of [game-play-things]/[aynu-game-things-sym897]
+	-> can acquire and develop these things for your base by engaging in game-play and doing/playing/[being good at] [game-things] 
+	-> and then use it to engage/[play]/[aynu-play]/[aynu-game-play]/[aynu-game-things]/[aynu-game-dev]/[aynu-be-good] in gameplay (need to develop this gameplay)
+        -> can own many different kinds of game struct, and can trade/sell/collect them and engage in many other kinds of [object/Rygel] mechanics with them
+        -> structs can be developed along a particular theme/type/schema/[aynu-concept] and players can use many different types of structs in a variety of games/strategies
+           -> the theme/schema/type/[aynu-concept can determine what kinds of things it can do or is good at, and what kind of gameplay it can engage in or other [game-things] about it
+           -> players can try to collect/possess structs that follow a particular theme/type/schema/[aynu-concept] or collect many different types, and can try to focus at being good at [game-play] with a certain type/theme/schema/[aynu-concept] of struct
+
+
+-> can add/develop/acquire/game-play-earn/[aynu-theory-concept]/[aynu]/[aynu-game-play-earn] items/artefacts/Rygel/[aynu]/[---]/[Adrion]/[aynu-things]/objects/structs/[aynu-structs]/structures/[aynu-buildings]/(many other things or aynu-things) to your base to give it powers/features/abilities/[things]/[aynu-game-things]/[game-powers]/[aynu-game-things that transcend mortal description and can only be coded in aynu]/[aynu]/[aynu---]
+
+-> can have many active subcomponents and subfeatures such as an economy, military, society, units that have their own lives, automata that can have their own game-dev and game-lives, and many other things
+
+-> can interact with other player's game-structs, NPC, game-world-things, objects/Rygel in the game world (on a vast game map with beautiful/realistic terrain/environment)
+
+
+-> can acquire and develop stat components/categories which determine how good they are at certain things
+	-> example: can acquire "piloting" stat(s) and improve them to make a character that is good at piloting ships 
+	->
+
+
+
+

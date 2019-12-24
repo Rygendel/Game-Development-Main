@@ -1,0 +1,3 @@
+This is the arch-game system that allows players to create structures/objects and systems. These structures/objects are/have [the arch-thing: need to compile all my work so far to encode an expression that expresses all of the best things I want]
+
+(to be continued)

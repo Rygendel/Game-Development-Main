@@ -1,0 +1,10 @@
+
+- Persistent world exists online; allows you to store your account data online ("the cloud") where it will be safe and stored forever, and can receive updates and will be compatible with things in the future
+- can also make a local copy for yourself (one that you store yourself and have complete control over; can keep safe indefinitely)
+- online nature allows you to interact with other players, share the same game world with other and can do things and play with them, trade and engage in other activities, form social groups, and roleplay with each other
+
+
+
+
+
+

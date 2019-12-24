@@ -1,0 +1,8 @@
+Game Code Specification
+
+Specification for Code (including aynu-code/writing) and Engine (API) for Developing Everything about the Game
+
+
+Struct Coding:
+
+Struct Data Components:

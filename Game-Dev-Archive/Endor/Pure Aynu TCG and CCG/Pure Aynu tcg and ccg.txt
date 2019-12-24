@@ -1,0 +1,40 @@
+Aynu tcg/ccg
+
+(develop entirety of Aynu tcg/ccg base construction/game-dev here, may spread some additional/expansion game-dev, game-data, and other things to another file)
+(this includes the Elu objects and Sylyn objects (they are members of the tcg and can be collected, traded, tcg-game-played, etc.), is a part of Endos)
+
+[aynu-code to fully game-dev and game-create the Pure Aynu tcg/ccg, including and mechanics, system, structure, concepts, theory, world, universe, reality, Iulion, Adrion, [aynu], [Aynu-game-things], ..., (more aynu things to develop)]
+
+[develop everything about this game completely in aynu, similar to Sylyn]
+
+
+Developing Pure aynu game:
+- develop the components and things that make up the game and give it its gameplay, game-mechanics, game-world, Iulion, Adrion, and anything else: do this by creating documents and engines that run the game -> code these entirely in aynu
+
+-develop the objects that inhabit the game world and that players will want to try to collect and achieve happiness, [aynu-happiness], and [aynu ultimate goal] by possessing the things they desire
+
+-ultimately remove all english text and replace it with aynu-code/text/stats/data using aynu and [aynu-symbols]
+
+-ultimately combine all previous development pertaining to some kind of class of objects I want to collect and possess to achieve my [ultimate game-development desire]/[the ultimate goal]/[the ultimate thing I want to get out of developing this game] and combine it into one game similar to pokemon/neopets and Pokemon TCG that is embedded in an MMORPG (Endos) that focuses on "base"/civ/empire/economy development and character building, and uses features from Black Desert, EVE online, World of Warcraft, PAth of Exile, and many other games, as well as new things I develop, and things I develop entirely in Aynu and [aynu-code/text/symbols/data]
+
+
+[aynu][Iulion][Adrion]
+
+
+...(more to develop)
+
+
+
+
+Catalogue of Collectible/Tradable Objects/Cards/Things/Structs
+
+
+[things]::{
+	[format]
+	[aynu data thing1]:: {[ data ]}
+	...
+	.
+	.
+	(more to develop)
+
+}

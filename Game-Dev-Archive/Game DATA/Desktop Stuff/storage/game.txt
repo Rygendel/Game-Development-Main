@@ -1,0 +1,51 @@
+- players use/build structures (use abstract outline, use aya vals)
+- players develop some of their own structures, and win/acquire rare-pre-built structures with access to rare and special abilities/things/values
+- (use illyriad/(reward structs)?)
+- structures can do things, compete in games, etc, go on adventure, campaign, pursue purpose/meaning
+
+- can be combined, possess special things,
+- have value based on what they are, how they interact
+- can do useful things like generate/help build things the player wants such as Tyrions, resources
+- can be useful in combat
+- can be useful in many other pursuits/desires
+- development trees/structs
+- divided into special classes/creatures - have preset stats/features/rarity/characteristics, as well as development structs
+- can use some features from pokemon/neopets, but allow much more freedom in development
+- ex:
+
+- some structs are completely programmable
+  -- i.e. players can define and encode their theory, interactions, information, data,      interface, functions, operations, methods, structure, nature, etc. 
+  -- there are some pre-programmed structures that can be invoked (a sort of standard      library) and used
+  -- use well defined aya-based language
+- some structs are initialized from a choice of default basic/baby "creatures"/"template"/base builds -> they are then developed and customized to become unique, fulfill desires/goals
+- the creatures can be found and acquired by various means and with different initial features/characterstics/abilities - the type of creature also affects its development/ability to be developed in some ways
+- they can acquire and develop other structs/Tyrions, such as battle structs used in the main combat
+Things to develop:
+- Sirion (completely programable?)
+- Draemon (semi-programmable/creature-type struct that can be developed along well-defined tracks, can acuire special abstract traits/structs/things/tyrions/sirions)
+- Tyrion (used for item/abstract object structs)
+- ???
+
+
+Battle Structs
+
+- struct Malygos {
+  [thing]::
+  affylon:: Obliterate anything engaged by this object
+
+}
+
+- struct Nemesis {
+  [thing]::
+  [thing]::
+  Affylon:: Gain control of an object engaged by Nemesis.
+
+}
+
+
+- Machine-class things (Makine):
+  - can enter special states, receive instructions, can be programmed, execute tasks, become different things, produce and create different things
+  - various Makine possess different characteristics
+
+Battle Items and Battle Structs:
+Players can acquire generic classes of items or structs. These can be developed and modified using items or special powers/bonuses/rewards. Players can add special modifiers/effects, improve stats, and otherwise develop items/structs to do the things they want.

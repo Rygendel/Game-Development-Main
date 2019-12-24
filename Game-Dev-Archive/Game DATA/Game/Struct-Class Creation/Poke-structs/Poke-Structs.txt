@@ -1,0 +1,18 @@
+Like pokemon/neopets, but set in an open world where players can interact with the world and go on adventures, trying to collect structs and things they desire.
+
+There are many factors that distinguish each species; including possible development paths, values for stats, data-components, appearance, and many other things [to develop]
+
+
+Collectible struct:
+
+
+Base data:
+[level]: Determines the kinds of things it can do, used to meet level requirements.
+[attack]: [the base amount of damage dealt]
+[defense]:
+[power]:
+[trait]:
+[moves/powers]:
+[thing]: (epcial thing, each species has its own set of things it can have)
+[inventory]:
+[special features and species data]: (these help to differentiate the different species and make them collectible/desireable to possess)

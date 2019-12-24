@@ -1,0 +1,13 @@
+[Pure [Aynu] Game Dev]
+
+{write about the things I need to create [pure-aynu games], [pure aynu game objects/Rygel], [pure aynu game mechanics], [[aynu][aynu]/transcendental [aynu]-game-things], [aynu-aynu-aynu], [pure aynu game-things], [pure aynu game-structs], and any other kind of [pure [aynu] game dev] }
+
+Need to develop the tools I need for pure aynu game dev. This includes designing
+ - document and data structures
+ - symbols: i.e. symbols used to write the aynu-code/writing/data/stats/[any other thing]
+ - [anything else and any other kinds of systems/mechanics/technology for developing pure aynu game-thing
+ - create document format, structure, mechanics, systems, and anything else necessary for the documents for pure aynu game-dev things to make them good and useable (like cards or encapsulations of game-things that can be used in the game, like playing cards/documents) for gameplay and aesthetically pleasing 
+
+.
+.
+... [more to develop]

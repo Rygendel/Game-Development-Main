@@ -1,0 +1,27 @@
+[Rygel]:
+--------
+
+[components]:
+
+[stats]: [trainable/developable values that give the struct things]
+
+[possessions/gear/things]: [items/game-things/structs that can be given to the pet-struct which it can then make use of and use its game-things as indicated][these things can be de-equipped and traded/market/economy-mechanics interacted/action]
+
+[abilities/powers/things/[aynu-things]]
+
+[special game-dev-things]:
+
+[aynu-things]: [special aynu-things that have special aynu game-mechanics/systems/things][more to develop]
+
+[story/other/special things/misc/notes/desires/[special-struct-things]/[aynu-imagine-desire-things]/personality/relationships/[anything]/[aynu-any-aynu-thing]/.../[more to develop]/[anything else aynu-imaginable]/[aynu]/[ultimate-aynu-thing]:
+[anything else including special aynu-desires/ relationships, roleplay, game-things, [aynu-game-world-things], [aynu][aynu]-[aynu], and any other things the player wants, imagines/desires/[aynu-imagines/desires/Elysion/[aynu-thing]/.../[aynu]/.../[more to develop]]
+
+[ultimate aynu-thing]:
+
+...
+
+[aynu-free-development]:
+
+...
+
+[more to develop]

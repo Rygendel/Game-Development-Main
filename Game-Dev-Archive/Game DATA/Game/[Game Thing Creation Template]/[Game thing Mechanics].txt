@@ -1,0 +1,1 @@
+[ describe the game thing's mechanics and formulae here; describe any other data structures involved]

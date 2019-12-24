@@ -1,0 +1,187 @@
+---------
+Sirions:
+---------
+
+
+General Description:
+---------------------
+Special objects which are extremely difficult to acquire. They are among the most powerful and abstract entities in the game, and can be used for essentially anything. They can also be specialized, customized, and personalized by the owner. They also have special transcendental properties which are encoded by special scripts and the aeonar. They can also be created and customized. Players may also create and customize their own phaeron.
+
+
+
+
+
+
+Template:
+
+{Name}
+
+Descr: {}
+Stat: {}
+Esdraelon: {}
+Elegon:
+Tarelendil:
+Faelon:
+Eldramar:
+Eressea:
+Valimar:
+Edraelon:
+Menelaeon:
+Regalon:
+Effect:
+Commands:
+Usage:
+Picture:
+
+
+
+
+Description of Each Category:
+
+Descr:
+
+Stat:
+
+Esdraelon: 
+
+Elegon: Encodes information in the eternal language
+
+Tarelendil:
+
+Ilyon: Encodes the which of the transcendental aeonar the object possesses
+
+Eldramar: Encodes the set of eldarion the sirion possesses.
+
+Eressea: Encodes information in the divine glyphs.
+
+Valimar: Informs the user of how the aeonar and eldarion of the object interact and endow the object.
+
+Edraelon: Special information encoded using special aeternal code.
+
+Menelaeon: Encodes information in the immortal words.
+
+Regalon: Encodes the aspera.
+
+Astrion: Encodes structure of hadraeon and eldarion, their abstract properties affecting the sirion.
+
+Galimon: Special modifiable code that can encode anything.
+
+Aurelion: Special code that can encode anything and everything. Can encode using code, glyphs, language. Can encode aeonar, eldarion, aspera, structure, special transcendental aeonar, and anything and in any way. Can encode anything great and desirable. Encodes all things the object possesses.
+
+Marion:
+
+Magelidon:
+
+Effect:
+
+Desire:
+
+Commands:
+
+Usage:
+
+Picture:
+
+
+
+
+Catalogue:
+
+----------
+Ankalagon:
+
+Descr: It does whatever you want.
+Stat: {}
+Esdraelon: {}
+Elegon:
+Tarelendil:
+Faelon:
+Eldramar:
+Eressea:
+Valimar:
+Effect:
+Commands:
+Usage:
+Picture:
+
+----------
+
+----------
+Sethaeron of Guidance:
+
+Descr: Provides answers and guidance.
+Stat: {}
+Esdraelon: {}
+----------
+
+----------
+Xadrion the Creator:
+
+Descr: Creates.
+Stat: {}
+Esdraelon: {}
+Elegon: Ki - Tel - Ki
+----------
+
+----------
+Kalthadas the Blessed:
+
+Descr: Creates meaning and purpose.
+Stat: {}
+Esdraelon: {}
+Elegon:
+Tarelendil:
+Faelon:
+Eldramar:
+Eressea:
+Valimar:
+Effect:
+Commands:
+Usage:
+Picture:
+----------
+
+
+----------
+Draeron of Wish Granting Number 1:
+
+Descr: One of the thirteen Draeron which, when gathered to gather, grant the bearer anything.
+Stat: {}
+Esdraelon: {}
+----------
+
+
+----------
+Draeron of Wish Granting Number 2:
+
+Descr: One of the thirteen Draeron which, when gathered to gather, grant the bearer anything.
+Stat: {}
+Esdraelon: {}
+----------
+
+----------
+Gallion of Power:
+
+Descr: It does what you need it to.
+Stat: {}
+Esdraelon: {}
+----------
+
+
+----------
+Wrath of the Ancients:
+
+Descr: {}
+Stat: {}
+Esdraelon: {}
+Elegon:
+Effect: Obliterates all enemies.
+Commands:
+Usage:
+Picture:
+----------
+
+
+-----------------------
+Player Created Phaeron:
+-----------------------

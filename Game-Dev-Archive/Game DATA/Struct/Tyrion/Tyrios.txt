@@ -1,0 +1,31 @@
+<Tyrion> [Tyrios] {
+-------------------
+[Adriel][Eos][Asha][Illidan]::[Sif][Saron][Tyrael][Azshara][Efy][Arkon][Vastel][Exodar]
+[Kronos][Anarion][Elysion][Sylyn][Tyr][Dyon][Eriador][Wratheon][Elyssar][Akron][Aescalon][Asturia]
+[Sylyn][Exark][Vastel][Elyssar]::[Wrathion][Arcadion][Andalus][Pharaeos][Julian][Elysion][Saba][Evanesent]
+[Eros][Acheron][Eros][Azshara][Efy]::[Eredar][Tyr][Sylyn][Kronos][Acheron][Eros][Sedenion][Coronis][Edessia][Exodius]
+[Valeria][Tyrael][Elysion][Illion][Vor][Akaia][Escaflone][Arkon][Sirius][Redentor]
+[Varian][Wrathion][Elyssar][Varion]
+--------------------
+[Ascalon][Elysion][Asturias][Tyrael][Eredar][Arkon][Imperator][Vastel][Exodar][Magnaron]
+[Exodar][Anarion][Arkon]
+[Kronos][Evanesent][Acheron][Wrathion]
+--------------------
+[Arkadia][Illidan][Alexiad][Genesaur][sym] {
+[sym][Diabound][Magnaron][Atreus][Dionos][Eriador][Anarion]
+[sym][Acheron][Elysion][Sylyn][Exark][Exodar][Kronos][Eros][Arkon]
+[sym][Saida][Aescalon][Wratheos][Adunai][Romenos][Ary][Efy]
+[sym][Pharos][Eredar][Rygel][Marion]
+[sym][Effelion][Formenos][Feanor][Adriel][Elyssa]
+[sym][Coronis][Marion][Elyssa][Lia][Sirius][Ereinion]
+}
+--------------------
+[Tel][Saida][Atreus]::[Arcadion][Sirius][Azralon][Elysion][Valeria][Exodius][Asturias][Rygel]
+[Elessia][Coronis][Solon][Tyrael][Edessia][Elysion][Rafael][Elyssa][Alexiad]
+[Numenor][Endza][Maron][Aryel][Marion][Acherus][Sol][Diabound][Genesaur][Arcadion][Eros]
+--------------------
+
+--------------------
+
+--------------------
+}

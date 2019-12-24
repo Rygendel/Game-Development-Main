@@ -1,0 +1,142 @@
+[Aynu-Pet Struct Design Pad]::
+
+[Design, develop, and implement the [Aynu-pet-like-struct: working name] here]:
+
+1.
+Emphasize the development of Neopets-pet-like structs as the main source of gameplay, and that their development and gameplay is [game-turing-complete] (meaning that a pet or collection of pets  can simulate/be any kind of [game/universe/gameplay/game-thing/Iulion/Adrion/gamething/[aynu-game-thing]])
+
+So for any [object/thing/[aynu-thing]/[abstract-aynu-theory-thing]/Rygel/Adrion/[aynu]/[game-thing]/[aynu-game-thing]/.../[more to develop]] there exists a [pet-like-struct] and a way to develop/build its data such that it effectively is/[aynu-concept] that thing/[aynu-concept-thing]
+
+
+[aynu-code expressing things about the [pet-like-gameplay-structs]
+
+These pet like structs are the main source of gameplay interaction and have a wide range of gameplay mechanics and interactions in the game world.
+
+Players can develop their pet's stats to make them do/be any kind of thing they want and to make them better at certain aspects of gameplay and then play that gameplay with their pet struct (use their pet struct in that gameplay).
+
+Can develop many aspects of their pet such as appearance 
+
+New areas of development or stats can be added that give it access to new game-play features and mechanics
+
+Basic premise: Pets can improve their icon stats, which are resources that allow them to do things or use/have/interact with items, or do/be many other game-things.
+
+Icons are the basic resources of gameplay and can be used for any kind of game-thing.
+
+Different types of icons are used for different things
+
+- create the ultimate thing (can generate infinite icons of any type, has the ability to to anything and can also do [the ultimate aynu-thing] -> [[aynu] [aynu-ultimate] [aynu]-concept-theory-thing/Rygel/Adrion/[aynu]])
+  -> [the aynu-ultimate aynu-thing I want/desire/[Elysion] from game-dev that can only be created/game-dev-created through aynu/aynu-code]
+  -> [aynu][Megara][Orpheus][Tyrion]-[Azrafel][Florentia]...[more to develop]
+  -> can also [aynu-concept-thing]
+  -> the ultimate thing also has [ultimate aynu-concept-thing] -> [[aynu] [aynu-ultimate] [aynu]-concept-theory-thing/Rygel/Adrion/[aynu]]
+  -> [ultimate aynu-concept thing that makes the ultimate thing the best/[aynu-theory-thing] thing and also makes me achieve/[aynu-abstract-concept] Elysion/[the ultimate goal of game-development]/[aynu] by possessing/[aynu] the thing when it has this] -> [[aynu] [aynu-ultimate] [aynu]-concept-theory-thing/Rygel/Adrion/[aynu]]
+
+-------------------------
+2.
+
+- stats/data can give the pet structs access to game-play features/mechanics/systems and game-world-things, and developing/modifyingmaking these stats better can affect these and make the pet struct have special/[certain-kinds]/[aynu]/[aynu-theory-concept]/better/[have different types of game-play-thing] at these game-play features/mechanics/systems and game-world-things
+
+- can design and develop your pet struct and its stats/data to have certain kinds of game-play features/mechanics/systems, game-world-things, game-play-interactions, game-play-abilities, game-play-powers, [aynu-game-things], [aynu-game-world-things], [aynu-game-play-things/powers/properties/behaviours/interactions], [Iulion], [Adrion], [aynu-things], [aynu-game-play], [aynu-coded-things that can only be understood and expressed in aynu], [aynu-things that transcend mortal comprehension and are [aynu]], [aynu-game-systems], [aynu-game-mechanics], [aynu-theory-game-things], ..., [more to develop], [aynu], and many other things that the player desires/[Elysion]/[aynu-concept-thing]
+
+
+-------------------------- 
+
+3.
+
+[pet]-like-structs and [pet]-gameplay can simulate/create any other kind of game, [aynu], [Iulion], [Rygel], thing, [aynu-thing], [Adrion], [aynu-concept], [aynu-game], gameplay or [aynu-game/gameplay]
+
+Different types of icons can be used for different types of game-things
+
+
+-----------------------------
+
+4.
+
+Icons can be used for virtually any kind of game-thing
+
+Icons: currency of gameplay
+Auros: currency of the game-world
+
+Different kinds of auros can be used for different types of game-things in the game-world
+- also special kinds of currency can be used to acquire things in the game-world 
+
+[pet]-like-structs and [pet]-gameplay are the core game-play things and are the main source of [Elysion-gameplay]/[the [aynu-theory-ultimate] aynu-game and gameplay-thing I want out of game-development]/[the aynu-thing I want out of game-dev]
+
+-------------------------------
+
+5.
+
+[well, at least having the pets I want with the stats/data/game-dev/[aynu-code-game-dev]/[aynu-dev] I want are the main source of [Elysion-gameplay]/[the [aynu-theory-ultimate] aynu-game and gameplay-thing I want out of game-development]/[the aynu-thing I want out of game-dev] and [[aynu] [aynu-ultimate] [aynu]-concept-theory-thing/Rygel/Adrion/[aynu]] and Elysion, [aynu], [aynu-concept-thing], ..., [more to develop], [and the ultimate thing], [and the ultimate thing I want from game-creation], [the ultimate thing I've been seeking, desire, [Elysion], [aynu-theory-concept] that I still need to develop using aynu, [aynu], [aynu-code], [aynu-writing], [aynu-dev], [aynu-theory-concepts] and which is the only thing which can truly make me [Elysion]/[ultimate-aynu-happy/satisfied/[that thing I've been seeking]/[more things to develop that transcend mortal expression]] ]
+
+--------------------------------
+
+6.
+
+- Need to develop all game-play and game-dev things about the [aynu-pet structs]
+- There are many different types of pets that emphasize and specialize/[get special bonuses with] different kinds of stats/traits/properties/game-things/game-mechanics/[aynu]/[Iulion]/[adrion]/[object-types]/[Rygel-types]/[item-types]
+- Collecting and developing the types [aynu-pet-structs] with the kind of data/stat/[aynu] values the player desires/[Elysion] is a major component of gameplay
+- players will have to work and engage in special gameplay to get and game-develop the kinds [pet-structs] they desire with the kind of data/stat/[aynu] values the player desires/[Elysion] 
+  -> different types of [pet-structs] can have different kinds of values/game-dev mechanics and there can be different ways of trying to catch them -> some are rarer/more valuable than others
+  -> some are better at certain kinds of [game-things]/[game-mechanics]/[game-systems]/[aynu-game-things]/[aynu-game-mechanics]/[aynu-game-systems]/[aynu-game-world-things] than others, and are better at having their stats/data/aynu values developed in certain ways than others
+
+-> incorporate some ideas from pokemon/neopets/warcraft/mmorpgs, but go beyond them, especially in the use of icons as a resource, items/Rygel/objects, abilities/powers, gear, stat, game-world things, { professions/task/hobby/skill/[interest]/[desire-thing]/[thing from which one can derive aynu-theory-things/[aynu-desire]/[Elysion]/[many other aynu-things]/.../[more to develop]], ..., more to develop} stats/data/aynu, [special aynu stats/data], [special aynu-stats that give the struct special [aynu]/[aynu-theory-things]/[Iulion]/[Adrion]/[Rygel]/.../[many other aynu-things to develop] that transcend mortal imagination and can only be created/written in [aynu]] and much more and much more
+
+----------------------------------
+
+7.
+
+- there are many ways for the players to interact with their [pet-structs] and customize/personalize/develop them, (sandbox-level openness), and new ways are continuously being added
+
+- add and develop stats to enable the [pet-struct] to do/be/have/[aynu]/[aynu-theory-concept-thing] things/[aynu-game-things]/[pure-aynu-game-things]/[aynu]/[aynu-things]/[aynu-encoded things to be developed]/[things that go beyond mortal theory and can only be created through aynu]/[the aynu-ultimate aynu-thing I want/desire/[Elysion] from game-dev that can only be created/game-dev-created through aynu/aynu-code], develop stats for use/[aynu-theory-concept]/[to implement/create/game-dev-create] in gameplay, [game-world-things], game, [aynu-game-things], [Iulion], [aynu-game-theory-concept-things] (or aynu-versions)
+
+
+
+
+-----------------------------
+
+8.
+
+Develop extensive multiplayer gameplay and interactions, game-powers, game-features, game-mechanics, roleplay, story-line/plot, relationships, and co-operative, competitive, and group adventure gameplay components
+
+- Also include player trading, economy, market, many-player market/economy interactions
+
+- players can trade and collect certain kinds of [aynu-pet-structs] with certain kinds of data/developments/stats/skills
+
+- players can go out into the world and try to acquire things or gameplay with other players
+  -> fully immersive 3-d open world with environments reminiscent of beautiful world landscapes
+
+- players can open their own shops/auctions/trading post where they can sell or exchange [aynu-pet-structs], [Rygel], [Adrion], [objects], [aynu-game-things], [aynu], [things], items, [aynu-game-things], structs], [game-play-things], [things that have special uses/properties/Iulion/powers/things/[aynu]/[aynu-game-things]/[aynu-theory-concept-thing]/[aynu-things]/[things that transcend mortal imagination and can only be coded/created in aynu]/.../[more to develop] in the game] and any other thing
+
+[aynu][Tyrael][Rygulus][Eronos][Keraunos][Kyronos]
+[Azrafel][Tyrion][Formenos][Ereinion]
+
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+
+
+
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------
+
+IMPLEMENTATION/CREATION
+
+[aynu-code/writing implementing/creating all of the above and more]:
+
+[aynu][aynu]...[more to create]
+
+

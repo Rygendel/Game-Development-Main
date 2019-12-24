@@ -1,0 +1,16 @@
+[Phoenix Dragon Essence]:
+[aynu-stat1]:[aynu-code]
+[aynu-stat2]:[aynu-code]
+[aynu-stat3]:[aynu-code]
+[aynu-stat4]:[aynu-code]
+[aynu-stat5]::[aynu-code]
+[aynu-code]
+
+
+[aynu-stat6]:[aynu-code using various different formats]
+
+....
+.
+.
+.
+.

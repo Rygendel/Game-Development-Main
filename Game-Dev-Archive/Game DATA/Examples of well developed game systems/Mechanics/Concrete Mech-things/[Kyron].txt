@@ -1,0 +1,36 @@
+[Name]::
+[Meta-Data]::
+[Description]::
+[Game-Data]::
+[Game-Things]::
+[Adrion]::
+[Aynu-data]::
+
+----------------------
+
+[Name]::Computer
+[Meta-Data]::
+[Description]::
+[Game-Data]:: [Can add peripherals to add functionality; can write programs that the computer runs; can do things on the computer] 
+[Game-Things]::
+[Aynu-data]::
+
+
+----------------------
+
+[Name]::Web Spinner
+[Meta-Data]::
+[Description]::
+[Game-Data]::
+[Game-Things]::
+[Aynu-data]::
+
+
+----------------------
+
+[Name]:: Wood-worker's Bench
+[Meta-Data]::
+[Description]::
+[Game-Data]::
+[Game-Things]::
+[Aynu-data]::

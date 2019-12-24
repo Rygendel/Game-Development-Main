@@ -1,0 +1,16 @@
+Endos Archgame:
+
+
+- base building has some elements of simcity: you have some property and you try to develop it, acquire items, Sylyn, special objects, collectibles, currency, resources, structures, artefacts, items, objects, Elu, Sylyn, [game-structs], or other special things, and many other things
+
+- have property rights (part of Rygel mechanics)
+
+- can form social connections and interactions, and engage in special roleplay and social activity, can form social structures like Orders, guilds, organizations, empires, kingdoms, etc
+
+- includes a pokemon rpg component (possibly using the Adonis) in the same world as the base building game; all of the sub-games of Endos can interact with each other and can transfer objects/structs/items/things between them
+
+(A kind of supermassive MMORPSG)
+
+- the pokestructs/Adonis you try to catch/acquire can have many different kinds of gameplay, game-powers, Iulion, Adrion, [game-world-play], [game-abilities], [game-powers], [game-uses], [aynu], game-behaviours, game-dev, [game-properties], ..., [more to develop], ..., (and many other things, and aynu versions) in the game and can be used for many kinds of gameplay/games like [capture the flag] and [wars]
+
+- Has a Neopets like basic game-structure/dev and every thing/object/item/Adrion/Elu/Sylyn/[struct]/[Coronis]/[Adonis]/[aynu-thing]/[aynu]/[...and any other thing I develop...] involved in the Endos game is an object/item and has object/Rygel mechanics (including collectible stuff) and which also has game and gameplay value, use, power, Iulion, Adrion, [aynu-things], [abstract aynu-things that transcend mortal comprehension], [aynu-coded-thing that can only be understood through aynu-concept/theory], and [aynu-greatest-thing]

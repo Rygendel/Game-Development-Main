@@ -1,0 +1,10 @@
+Name:
+
+Turion:
+Daeron: []-[]-[]-[]-[]-[]-[]-[]-[]-[]-[]-[]-[]-[]
+Elyssion:
+Syleyn: 
+Aeron: [][][]
+Formenos: 
+Sirion:
+Notes:

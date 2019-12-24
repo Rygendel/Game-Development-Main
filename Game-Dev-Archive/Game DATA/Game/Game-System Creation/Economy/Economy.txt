@@ -1,0 +1,7 @@
+Since most game components are itemized, this creates a rich market economy where players can trade and sell items/things they want; whether they want to possess something or want it for its game-play effects/powers/uses/value/things. Players can buy/sell/trade objects that are involved in virtually any aspect of gameplay. The value of an object is determined by the available supply/rarity and the demand/desire for an object; which is determined by an objects properties/things such as game-play value/use/purpose/power/effects/[game-play-things], special data values, things, [abstract-aynu-things], data-components, struct-values, struct-things, game-system-interactions/powers/things, [and any other factor/component/thing about the object].
+
+-players can trade resources/things they need for a particular component of gameplay or for a specific sub-game
+
+
+[add more information about the economy and its mechanics, draw on Neopets, Illyriad and Path of exile]
+[need to fully design the economy, what kinds of things act as "Stores of wealth"; things that affect the values of objects, how objects/structs/items fit into the economy and how they interact with it and the mechanics behind it, and NPC vendor interactions, as well as player stores] 

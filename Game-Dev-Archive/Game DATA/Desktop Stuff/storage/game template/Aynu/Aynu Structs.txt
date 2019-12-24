@@ -1,0 +1,18 @@
+Catalogue of Aynu Structs/Things and Data:
+
+
+-----------------------------------
+1.
+
+{ [Tyrion][Tyrael][Katamon][Ascalon] }
+
+{
+
+[Abstract Data/Info/Mechanics]::
+
+
+[things]::
+
+}
+
+-------------------------------------

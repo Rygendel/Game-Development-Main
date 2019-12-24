@@ -1,0 +1,18 @@
+- get blueprints/information/base-structure
+- get tools
+- get resources and recipe requirements
+- get skills and other prereqs needed
+- get the manufacturing object used to make it
+- make item or make an automata that can automatically build it; queue it up in the manufacturing object and wait until it gets built 
+
+
+- bases can be made in a system similar to items, in fact bases are just fundamentally made up of items like roof and floor and walls/foundation, furniture, add-ons, defenses, etc.
+
+- find land with features that give you bonuses you want ex. building on a hill or promontory for defense, build near resources for easy farming, close to others for community, etc.
+
+- crafting mechanics similar to Rust, Ark: Survival Evolved, EVE Online, etc.
+
+- items are either craftable or immutable (meaning they are generated in ways other than crafting, can't be created)
+- most items have game uses and game-play-effects/power/value/fun/interaction
+- items can be interacted with by bringing up a window specific to the item and selecting/specifying the thing you want to do with the item from the command interface; there are also other ways of interacting with items that vary depending on the situation and the type of item
+	-> for example, can place item in something that grants you new things you can do with the item (ex. place item in a crafting bench in order to modify it)

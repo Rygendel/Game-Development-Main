@@ -1,0 +1,51 @@
+Base building: includes low level city-structure building (like Age of Empires but better and more) and large scale Empire development (like Civilization)
+
+- players will be able to do things on the map and have their players explore and move around in the 3D map where their base is, and can go into and do things in buildings just like real life
+
+- Develop a population of automata and assign parts of it to various economy sectors like production of certain things or services
+	- each automata is a unit with its own stats, powers, abilities, characteristics, desires, items, structs, things, Iulion, Adrion, [aynu], etc...
+
+- Buildings/structures can have levels/development and can be developed, can do things, and can be made better at things.
+
+- Can build many bases that work like cities
+
+- bases ( and therefore players) can control regions on the map which can contain things, like resources, structures, artefacts, items, objects, Elu, Sylyn, [game-structs], or other special things
+
+- Everything takes place on a global map on which the bases and things are located, which includes the 3D world the character can explore
+
+
+
+
+
+
+Some structures are expensive, some structures have limitations on your ability to build them, so only the most powerful bases/civs will have them.
+
+
+[Resource production Facility]::{
+
+}
+
+
+
+[Gymnasium]::{
+
+}
+
+
+
+[Research Facility]:: {
+
+
+}
+
+
+[Vault]::{
+
+
+}
+
+
+
+[Citadel]::{
+
+}

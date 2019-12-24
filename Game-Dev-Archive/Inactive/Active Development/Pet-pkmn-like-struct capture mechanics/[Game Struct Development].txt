@@ -1,0 +1,140 @@
+Write Notes here about the game's meta-system for developing game-structs.
+
+The arch-game is persistent and so players will try to collect structs that have the things/[aynu-data/code/symbols/writing] they desire/[aynu-theory-desire/want]/.../[ultimate aynu-desire/want thing I need to develop]/[ultimate aynu-theory-concept-thing I need to develop]/.../[more to develop] because of their game-things, game-value, game-dev, [game-power], [game-play/mechanics-goodness], [aynu-game-dev-things], [aynu][aynu], [Adrion], [Iulion], ..., [more to develop], [aynu-game-theory-reason-things], and [ things/reasons/theory/[aynu-theory-things/reasons] determined by the game, [game-world-things], [aynu-game-dev-things], [game-things], [aynu], [aynu-aynu...], ..., [more to develop], ..., and [aynu-game-things] ]
+
+- The way the game works is as follows: players control a single character who can create, acquire, and develop game-structs they can use to engage in gameplay. There are many different kinds of structs, such as 
+  * pet-structs
+  * [pure-aynu-structs]
+  * civ/empire structs
+  * Arch-structs
+  * [player-developed game-struct systems]
+  ... [more to develop]
+
+Players can develop their own classes/systems of structs and allow other players to collect and game-play with them in a struct-world they create. Player's game-things exist and game-live inside an MMORPG-style persistent world where they can go on all kinds of adventures/[aynu-game-things] and engage in MMORPG-style gameplay with elements of any kind of game they/I can imagine/create. (to develop this further as "Game Notes", need to create this game-world, plots, adventures, characters, objects, game-structs, game-systems, game-mechanics, game-things, Rygel, items, Iulion, Adrion, [aynu], ..., [more to develop], ... , and anything else) 
+
+- objects will be stored electronically as special files which are copy protected to prevent duplication, or stored physically as print-outs of these files (these things will "be" the object and have value as cards or actual copies of the objects themselves) 
+
+In general:
+
+There can be many different classes of game-structs, each with their own sets of game-mechanics/systems/things/[Iulion]/[Adrion]/.../[more to develop] and objects/characters/sprites/things/[Rygel]/items/[Adrion]/[aynu]/.../[more to develop] that can work under these systems.
+
+game-engines can be used to create and implement many of the mechanics/game-world-things
+
+Some structs can have "free form data" which do not depend on an externally created game-engine: the data contains everything needed to fully describe, implement, create, [aynu], [aynu-theory-concept], ..., [more to develop] everything it seeks to create, and can do, be, have, [aynu], [aynu-theory-concept], ..., [more to develop] anything
+
+-> free form data can be of any form/structure and do any thing or any kind of thing
+  -> contributes to gameplay and has all of its game-mechanics/systems/things/[Iulion]/[Adrion]/.../[more to develop] and objects/characters/sprites/things/[Rygel]/items/[Adrion]/[aynu]/.../[more to develop] that it has completely specified and created by the code itself
+  -> everything about that data-thing/structure in the game is encoded and created by it
+
+
+
+---------------------------
+e-mail 1:
+
+
+- each class of game-struct has its own schema/structure/type of data/aynu-code/writing/data-structures that determine and create everything about the struct in the game
+-> they determine all of the game-dev-things about the struct and determine the game-play-mechanics of the struct with respect to the struct class's gameplay mechanics/systems/things
+
+- the struct's data-components determine all of the properties of the struct with respect to the game-world and the gameplay mechanics/systems of that particular class of struct
+
+- [need to develop more about game-structs and how their data/data-components/[aynu-code/symbols/writing] affects and determines their game-dev and everything about them in the game
+
+-[more to develop about game-structs and their data/code/symbols/writing/etc... in the game]
+
+- for example, in pokemon the "game-structs" are the pokemon and their "game-data" includes their stats (ATK, DEF, HP, Speed, Sp. atk, sp.def), moves, nature, IVs, EVs, type, and any other pieces of information listed in the pokemon's data sheet
+
+- in civ, game-data includes special buildings they can build, their leader's special ability, research access, unique units, special abilities/powers, special stats, ..., buildings, wonders, developments, tiles, resources, ..., built-structures, sub-structures
+
+- for pokemon, also include held items and any other objects equipped/possessed by the pokemon as part of game-data
+  -> game-data can also include other game-structs possessed/used/[that make-up and can be game-play used/interacted-with/[game-played-with]/[thing]/[Iulion]/[aynu] by the main struct]
+-> can include developments made to the struct as part of game-play (example: acquiring skills/things on a tree by spending points, or using any other data-structure and development system to develop/improve/[game-play-improve]/[game-play-develop] your struct by expending time/effort/things-of-value/resources/etc..)
+
+[need to develop more about game-structs and their game-play-data and game-dev-data/game-world-data/.../[more to develop]]
+
+
+----
+
+
+- when using a data-structure and development system to develop/improve/[game-play-improve]/[game-play-develop] your struct by expending time/effort/things-of-value/resources/etc..), this adds special things/structures/data/code/writing/[aynu-code/symbols/writing] to your struct and its data-sheet
+
+[need to list and compile all of a game-struct's data/aynu-code/writing/data-structures into a data sheet: also design a "basic struct data outline/engine" that describes and implements all of the game-play-dev/things/mechanics/[Iulion]/[Adrion]/systems that the data/aynu-code/writing/data-structures of any game-struct will interact with and that will make the data/aynu-code/writing/data-structures meaningful and have game-play effects]
+-> basically the "basic struct data outline/engine" is what makes the data/aynu-code/writing/data-structures of any member of that particular game-struct-class have any sort of meaning/value/effect/power/[Iulion]/[Adrion]/[thing]/[game-world-thing]/[aynu-game-world-thing]/[aynu-game-dev-thing]/[abstract-aynu-theory-concept-thing]/[aynu][aynu]/.../[more to develop]/../[any other thing] in the game
+
+[more to develop about game-structs, their data/aynu-code/writing/data-structures, data-sheets, data-structures, data-game-play-engines, "basic struct data outline/engine", and anything else related to the game-struct and its aynu-data/information/code/symbols/writing/[pure-aynu-code/writing/symbols/things/script/text/.../[aynu]/.../[more to develop]] in the game and game-dev]
+
+
+
+---------------------------
+
+
+[more to develop] [about game-structs]
+
+- need to develop the actual types of game-structs and everything about them
+
+- develop the greatest arch-class of game-structs that can have data/data-structures/stats/things from any other class of game-struct, and can have any kind of data/[aynu-code]/[aynu-symbols/code/writing/.../[more to develop]]. They can also have any kind of free-form data the does/creates anything in the game [and has any kind of game-dev/aynu-game-dev]
+[more to develop about the arch-class, but this will also be the class that contains most of the [ultimate aynu-things I desire from game-dev which achieve all my desires and Elysion/[paradise/firdaws-thing], same as Regulus], and will contain all pure-aynu structs and game-things/objects/[Rygel]/[aynu]/[Adrion]/structs/.../[more to develop]]
+
+-----------------
+
+[Pure Aynu Structs]
+
+
+[aynu-symbols and pure-aynu-game-dev]
+
+
+
+--------------------
+[Pet-like structs]
+
+
+
+
+
+
+
+
+
+
+------------------------
+[Civ/Empire/Economy-like-structs]
+
+
+
+
+
+
+-------------------------
+[Arch-Structs]
+
+
+--
+[Game-Development Engine]
+--
+
+
+
+
+--
+[Template/Markup]
+--
+
+[name]::{
+
+  [data]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+Mechanics - Player Accounts
+
+[more to develop]
+
+Inventory:
+Game Mechanics/Code/Dev:
+- A place for players to store all of their game-structs, [aynu-things], Rygel, items, and any other game objects, structs or [aynu-items, objects, or game-structs], ..., [more to develop] (or aynu-versions), or anything else
+
+- these things can be easily accessed and used from the inventory
+
+-objects can be moved between the inventory, Safety Deposit box, and other locations
+-similar to Neopets implementation of an inventory
+[more to develop]
+
+
+
+Safety Deposit Box:
+Game Mechanics/Code/Dev:
+- A place for players to store all of their game-structs, [aynu-things], Rygel, items, and any other game objects, structs or [aynu-items, objects, or game-structs], ..., [more to develop] (or aynu-versions), or anything else
+
+- Objects stored in the Safety deposit box are protected from any adverse effects, and cannot be used without special access mechanics that protect them from misuse, hacking, special events, random effects, and any other bad things
+-similar to Neopets implementation of Safety Deposit Box
+
+[more to develop]
+
+[develop all mechanics and code to implement and create player game accounts here]
+
+
+
+
+

@@ -1,0 +1,134 @@
+Generic Node Struct.
+Outline:
+
+(need to design formats for nodes)
+
+[Name and meta-data]::{
+
+[stats]...
+[data]...
+.
+.
+.
+
+}
+
+
+- can have many different kinds of stats, including special custom stats and aynu-stats
+- these stats interact with various gameplay systems, which are encoded in documents labelled with the name of the system
+(the component that interacts with the system will be labelled with the name as well as any additional meta data)
+	- example format: [name]::[meta-data]::{ data }
+- players may choose to specialize in nodes with certain kinds/values of stats
+ex.	- stats that let you acquire certain special aynu or aynu things
+	- stats that give you more attractive females
+	- stats that give you or make you [abstract aynu-desire or desirable-things]
+	- stats that help you build special units/things that you want or 
+	[ryku - the ultimate good thing that you get from possessing certain things, replaces desire/fulfillment/happiness
+		its different forms and types are ultimately what any sentient wants, different types of players will want 		different types of ryku, but acquiring the type of ryku the player truly wants is the ultimate goal]
+	- stats that help you get the [things that women want]
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+List of stats:
+
+
+
+[Actual Struct/civ]: [Name]
+
+[Basic Properties]:
+
+[Power Projection]:
+[Manpower]:
+[Income]:
+[(Mana/Special Currency) Generation]:
+[Special Bonuses]:
+[property]:
+[stat]:
+[functions/mechanic]:
+[Special Mechanics]: (including unique mechanics/functions/things/[game play thing] that only your struct has)
+	-> add gameplay components for this struct only (though multiple structs can have the same special mechanic)
+	[Faction system]:
+	[]:
+...
+
+[Inventory]:
+[Special things]:
+[[aynu-thing] Creation]:
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Examples:
+
+
+	Name: Arnor
+		[Stats]:
+			[Manpower]:
+			[Goods Production]:
+			[Quality]:
+			[Income]:
+			[Output]:
+			[aynu-stat]
+			[aynu-mechanic-stat]:
+			[aynu feature]:
+			[aynu system]:
+			[special feature/system/mechanic]:
+			[anything else imaginable]:
+			[	]:
+		[Physical Properties]:
+			[Co-ordinates]: 
+			[Property]:
+			[Property]:
+		[Resources]:
+			[Resource1]:
+		[Power/Values]:
+			[Power1]:
+			[Point Gen]
+		[Development]:
+			[Factor1 level]:
+			[Factor2 Points]
+			[(Thing) level]
+		[Development Factor 1]: [aynu][aynu][sym] 8793
+			[Sub-component 1]: 
+			[sub-component 2]:
+			[sub-factor 3]:
+			[Sub-thing 4]:
+
+		[Development factor 2]: [aynu][aynu][aynu][sym] 98034
+
+		[Quality of Life/Goodness/Happiness]: [aynu][aynu] 798
+			[Games/Enjoyment]: 
+			[Beauty]: 
+		[Stability]:
+			[Overall]: Eternal
+			[Rebels]: None
+			[Actions]:
+				[Boost Stability]:
+				[Do thing 1]:
+				[Do thing 2]:
+		[Traders]:
+			[Trade Vehicles]:
+			[Trade Nodes]:
+				[Trade Influence]:
+				[Exports]:
+				[Imports]:
+			[Trade Influence]:
+		[Noldor]:
+			[thing1]:
+				[sub-thing1]:
+					[sub-sub-thing1]:
+					[sub-sub-thing2]:
+				[sub-thing2]:
+				[sub-thing3]:
+				[sub-thing4]:
+			[thing2]:
+		
+
+
+	Name: Formenos
+			
+			
+	

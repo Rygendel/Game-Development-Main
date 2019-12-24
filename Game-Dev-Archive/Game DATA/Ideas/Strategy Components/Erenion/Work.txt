@@ -1,0 +1,50 @@
+Erenion:
+
+- the main structure that players can build and develop
+- can acquire things that are good/desireable/useful/(everything and anything you could want)
+- Can be used to compete or do many different things
+- can be or have anything, players can have their structures follow any trajectory they want
+- developing these structures takes a considerable investment requires a lot of time and skill
+- requires strategy
+- developing these is very valuable, fun and meaningful
+
+(more to come)
+
+Categories/Things to develop and their values/classes/ranks/objects/etc (developed with aya)
+
+Tyraeos:
+Arkadios:
+Eldraeon:
+Ellegon:
+Rygulon:
+Gallos:
+
+
+Outline of mechanics:
+
+Players acquire a [Erenion Soul] - choose initial (class)
+- can develop (class), acquire new (categories) which can be developed as well
+
+(need to outline what they can develop, how they develop it)
+
+- can acquire Solyons (discuss this further)
+
+- Erenion can also acquire other aya-built things like Draemons and Tyrions (these are like objects and are held or "owned" by the erenion, different from the way classes or categories are built)
+
+- can use special sym, tyr, elon, ero etc constructions
+
+Initialization process:
+
+- decide name
+- decide (can take one) amongst (n) initial structs (Elon, Auros, Rea, Galo, Pharos, Vala, 
+- Build initial values using aya or solyon
+
+
+Construction/Development process:
+
+
+
+Interactions/Gameplay/Actions/Meaning/Existence:
+
+
+Everything else:

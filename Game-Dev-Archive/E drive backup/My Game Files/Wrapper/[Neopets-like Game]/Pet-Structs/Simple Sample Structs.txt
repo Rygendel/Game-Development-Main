@@ -1,0 +1,32 @@
+Species: Dracolith
+[theme: raw power; ability to OHKO the opponent]
+[Artwork]: [Dragon-type artwork]
+[Data]:
+
+Icons: 20 Fire
+       20 Leithian
+Stats: 
+
+Powers: - Stone Glare:
+		[Descr]: A chilling glare that causes your foe to turn to stone
+		[Level]:
+		[Requirements]: - [location on the power tree]
+				- [special training/development mechanics required to get this]: - must have [certain nodes] on the dev graph
+				- [level/stat/item/[any other] requirements for the struct]
+				- can only be used by the dracolith
+		[Data]:...
+		[Power]: 0
+		[Cost]: 20 Leithian
+		[Accuracy]: 100%
+		[Stat]:
+		[Effect]: Automatically defeat your targetted foe
+		[Aynu-things]:
+
+
+
+
+
+Species: Synchotron
+
+[theme: take control of your foe's structs]
+		

@@ -1,0 +1,45 @@
+Use game design pad from this computer's "endor":
+has the following line added:
+-> give it powers/[game-powers]/[abilities]/[game-things]/[game-behaviours]/[aynu-iulion-powers] so that it can do things you like/[desire]/[want]/[aynu-desire]/[aynu-game-want] in the game or be able to achieve certain kinds of [game-play-things]
+
+
+
+- focus on base building mechanic:
+	- develop the main structs used to build up and develop your base
+	- use some mechanics from Age of Empires, Illyriad, Civilization, Distant Worlds, EVE online etc.
+	- train and develop a main character 
+	- acquire other units and structs that contribute to your base; units can develop and contribute their skills to doing things for your base and form part of an economy
+
+- different categories of structs, including [abstract-aynu] categories that contribute/do/[aynu-concept/theory] [abstract-aynu]-things to the base
+
+
+
+	- develop different types of structures;
+		-> ex. "economic" structures that can be used to generate or harvest resources or produce things; bases tend to be better when they specialize in certain things and trade with other players
+		-> generally focus and specialize certain kinds of resources and products and trade with others
+		-> automata can independently and autonomously develop a "private" economy: much like citizens in a city the AI controlled automata build their own businesses and engage in their own economic activity which can benefit the base by providing it access to some of its products and revenue; develop base to encourage and protect private development
+		-> both private and player-controlled economic activity can contribute
+	
+	- develop [abstract aynu] structs/objects/Rygel that contribute [abstract-aynu-things] to your base
+
+	-develop [abstract aynu-concepts] to describe and encode other types of [abstract-aynu-gameplay/[game-things]]/[aynu-game-things]/[aynu-game-dev-thing] that certain types of [aynu-structs/objects/rygel] can participate in and
+
+	- develop [abstract aynu-concepts] to describe and encode [abstract aynu-thing] that describe [what certain types abstract-aynu-things/objects/structs/rygel contribute to base-struct-dev-gameplay, which transcends mortal description]
+
+	- [aynu][aynu][aynu][aynu] 
+
+	- develop [abstract aynu-structs/objects/[Adrion]/[things]/[Rygel]] that can do/[abstract aynu-concept] [abstract aynu-game-things] for the base struct, and develop the [abstract aynu-concepts] to describe these things.
+
+
+
+
+- can also develop pure aynu-struct-gameplay: development mechanics similar to bases, but the structs themselves are purely aynu, and the mechanics, systems, game-dev, objects, Rygel, Iulion, Adrion, etc are all encoded entirely in aynu
+
+-create game-dev documents purely in aynu-symbols and print them out to create my pure-aynu game and its game objects and my game account (though mark clearly which are the objects/Rygel I possess and which through possessing and [aynu-game-playing] with I achieve [Elysion]/[the ultimate thing I want out of gameplay]/[the ultimate thing I desire from game-dev and meadows of asphodel] (similar to Regulus; use regulus as a base)
+- can also create other players and an autonomous system (And AI) to play the game with me, and anything else I want for the game, purely in aynu-sybmols (though may specify in english what each document is)
+
+
+[]
+
+
+

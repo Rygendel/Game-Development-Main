@@ -1,0 +1,9 @@
+Notes for starting a much better series of game design documents:
+
+-Start clean and use Achaea, Neopets, pokemon, MMORPGs and open world persistent shared sandbox world games as a model
+
+-Make pet-structs the main type of game-structs/game-objects/[aynu]/[Rygel]/[aynu-game-struct-thing]/.../[more to develop] that players try to acquire, develop, …, [more to develop], and game-play with
+
+-take an object oriented approach: design classes for objects and determine their functionality and how they work
+
+-Only create clean, well-written, well-designed, coherent game design documents here
